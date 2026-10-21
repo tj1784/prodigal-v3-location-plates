@@ -9,6 +9,8 @@
 | 0, 1, 3, 4, 5 | Already generated on Grok web from an earlier version of the prompts. Sol is redrawing the rejected images. The prompts here are the rewritten ones, kept for any regeneration. |
 | 1A, 2, 4A, 6A, 6B, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 | Ready to generate. |
 
+Before you start, read `ANSWERS_BEFORE_GENERATING.md`: where to start, which earlier images to attach, and the rules.
+
 `scenes/README.md` lists every scene's folder, spots and prompt count, and which earlier scene's plates it draws on.
 
 ## How to generate all the shots
