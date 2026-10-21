@@ -1,0 +1,6706 @@
+{
+ "scene": "10",
+ "title": "The swine",
+ "subtitle": "EXT. CITIZEN'S ESTATE - DAY to EXT. PIG FIELDS - NIGHT · he hires himself to a citizen, feeds the pigs, carries the lost one home across his shoulders and comes to himself at the trough",
+ "plans": [
+  {
+   "title": "The citizen's estate",
+   "heading": "EXT. CITIZEN'S ESTATE - DAY",
+   "extent": [
+    -8,
+    24,
+    -7,
+    11
+   ],
+   "grid": "+x east · +y north · metres · origin the middle of the estate gate in its north wall · the pig fields lie about 600 m north-east",
+   "light": {
+    "kind": "sun",
+    "from_deg": 330,
+    "label": "morning, hard pale dry light; the men in the wall's strip of shade"
+   },
+   "place": [
+    {
+     "kind": "area",
+     "fill": "earth",
+     "polygon": [
+      [
+       -40,
+       0.4
+      ],
+      [
+       40,
+       0.4
+      ],
+      [
+       40,
+       40
+      ],
+      [
+       -40,
+       40
+      ]
+     ],
+     "label": "Dry plain",
+     "label_at": [
+      -3,
+      10.2
+     ]
+    },
+    {
+     "kind": "area",
+     "fill": "stone",
+     "polygon": [
+      [
+       -29.6,
+       -0.4
+      ],
+      [
+       29.6,
+       -0.4
+      ],
+      [
+       29.6,
+       -30
+      ],
+      [
+       -29.6,
+       -30
+      ]
+     ],
+     "label": "Estate court",
+     "label_at": [
+      4.5,
+      -2.0
+     ]
+    },
+    {
+     "kind": "area",
+     "fill": "dark",
+     "polygon": [
+      [
+       -30,
+       0.4
+      ],
+      [
+       30,
+       0.4
+      ],
+      [
+       30,
+       2.0
+      ],
+      [
+       -30,
+       2.0
+      ]
+     ],
+     "label": "Strip of morning shade",
+     "label_at": [
+      -3.5,
+      3.0
+     ]
+    },
+    {
+     "kind": "track",
+     "width_m": 3.0,
+     "points": [
+      [
+       -40,
+       7.2
+      ],
+      [
+       -12,
+       7.2
+      ],
+      [
+       10,
+       7.0
+      ],
+      [
+       40,
+       6.8
+      ]
+     ],
+     "label": "Road along the wall, to the city",
+     "label_at": [
+      -2.5,
+      8.9
+     ]
+    },
+    {
+     "kind": "track",
+     "width_m": 1.6,
+     "points": [
+      [
+       2.2,
+       1.6
+      ],
+      [
+       5.5,
+       7.0
+      ],
+      [
+       13,
+       15
+      ],
+      [
+       22,
+       25
+      ],
+      [
+       32,
+       36
+      ]
+     ],
+     "label": "Track to the pig fields, about 600 m north-east",
+     "label_at": [
+      15.5,
+      9.6
+     ]
+    },
+    {
+     "kind": "wall",
+     "width_m": 0.8,
+     "points": [
+      [
+       -30,
+       -30
+      ],
+      [
+       -30,
+       0
+      ],
+      [
+       -1.6,
+       0
+      ]
+     ],
+     "label": "Estate wall, mud brick, about 2.5 m",
+     "label_at": [
+      -4,
+      -1.5
+     ]
+    },
+    {
+     "kind": "wall",
+     "width_m": 0.8,
+     "points": [
+      [
+       1.6,
+       0
+      ],
+      [
+       30,
+       0
+      ],
+      [
+       30,
+       -30
+      ]
+     ]
+    },
+    {
+     "kind": "gate",
+     "a": [
+      -1.6,
+      0
+     ],
+     "b": [
+      1.6,
+      0
+     ],
+     "hinge": "a",
+     "leaf_to": [
+      -1.6,
+      -3.0
+     ],
+     "post_m": 0.9,
+     "label": "Estate gate"
+    },
+    {
+     "kind": "building",
+     "wall_m": 0.6,
+     "polygon": [
+      [
+       -14,
+       -11
+      ],
+      [
+       1,
+       -11
+      ],
+      [
+       1,
+       -4
+      ],
+      [
+       -14,
+       -4
+      ]
+     ],
+     "label": "The citizen's house",
+     "label_at": [
+      -4,
+      -5.6
+     ]
+    },
+    {
+     "kind": "building",
+     "wall_m": 0.5,
+     "polygon": [
+      [
+       7,
+       -10
+      ],
+      [
+       22,
+       -10
+      ],
+      [
+       22,
+       -4
+      ],
+      [
+       7,
+       -4
+      ]
+     ],
+     "label": "Storerooms and byres",
+     "label_at": [
+      14.5,
+      -5.6
+     ]
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      9.4,
+      0.85
+     ],
+     "facing_deg": 95,
+     "note": "rags, barefoot, the sling wound at his wrist",
+     "named": true
+    },
+    {
+     "n": 2,
+     "name": "the citizen",
+     "pos": [
+      0.6,
+      1.6
+     ],
+     "facing_deg": 10,
+     "note": "lean and sun-dark, a herding stick in his belt, keeps his own pigs",
+     "named": true
+    },
+    {
+     "n": 3,
+     "name": "man waiting",
+     "pos": [
+      -5.6,
+      0.8
+     ],
+     "facing_deg": 100,
+     "group": "a"
+    },
+    {
+     "n": 4,
+     "name": "man waiting",
+     "pos": [
+      -4.1,
+      1.7
+     ],
+     "facing_deg": 60,
+     "group": "a"
+    },
+    {
+     "n": 5,
+     "name": "man waiting",
+     "pos": [
+      2.9,
+      0.75
+     ],
+     "facing_deg": 75,
+     "group": "b"
+    },
+    {
+     "n": 6,
+     "name": "man waiting",
+     "pos": [
+      3.9,
+      1.5
+     ],
+     "facing_deg": 120,
+     "note": "squatting",
+     "group": "b"
+    },
+    {
+     "n": 7,
+     "name": "man waiting",
+     "pos": [
+      5.6,
+      0.8
+     ],
+     "facing_deg": 85,
+     "group": "b"
+    },
+    {
+     "n": 8,
+     "name": "man waiting",
+     "pos": [
+      6.9,
+      1.9
+     ],
+     "facing_deg": 160,
+     "note": "on his feet, watching the citizen come"
+    },
+    {
+     "n": 9,
+     "name": "man waiting",
+     "pos": [
+      12.4,
+      0.8
+     ],
+     "facing_deg": 80,
+     "group": "c"
+    },
+    {
+     "n": 10,
+     "name": "man waiting",
+     "pos": [
+      14.6,
+      1.6
+     ],
+     "facing_deg": 130,
+     "group": "c"
+    },
+    {
+     "n": 11,
+     "name": "man waiting",
+     "pos": [
+      19.4,
+      0.9
+     ],
+     "facing_deg": 70,
+     "group": "d"
+    },
+    {
+     "n": 12,
+     "name": "man waiting",
+     "pos": [
+      20.8,
+      1.3
+     ],
+     "facing_deg": 110,
+     "group": "d"
+    }
+   ],
+   "paths": [
+    {
+     "who": 2,
+     "points": [
+      [
+       0.6,
+       1.6
+      ],
+      [
+       2.8,
+       2.5
+      ],
+      [
+       6.0,
+       2.75
+      ],
+      [
+       8.6,
+       2.5
+      ]
+     ],
+     "note": "walks the line in the hard light, looking them over"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       9.4,
+       0.85
+      ],
+      [
+       9.45,
+       1.65
+      ]
+     ],
+     "note": "scrambles up and steps out to him"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S01",
+     "what": "The gateway, the citizen stepping into the light",
+     "pos": [
+      2.0,
+      4.4
+     ],
+     "facing_deg": 243,
+     "height": "standing",
+     "wedge_m": 6
+    },
+    {
+     "shot": "S02",
+     "what": "Over the citizen's shoulder onto Asher's face",
+     "pos": [
+      8.8,
+      3.25
+     ],
+     "facing_deg": 292,
+     "height": "standing",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S03",
+     "what": "Both faces in profile, the men along the wall",
+     "pos": [
+      9.62,
+      2.78
+     ],
+     "facing_deg": 228,
+     "height": "standing",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S04",
+     "what": "Under the held-out stick, Asher's face above",
+     "pos": [
+      9.8,
+      2.35
+     ],
+     "facing_deg": 228,
+     "height": "low",
+     "wedge_m": 2.5
+    }
+   ],
+   "windows": [
+    {
+     "id": "W01",
+     "setup": "S01",
+     "frames": 226,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ],
+     "does": "The citizen comes out of the gate into the hard light and walks the line of men waiting in the wall's strip of shade, looking them over, and stops over Asher",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        2.0,
+        4.4
+       ],
+       "facing": 243,
+       "height": "standing",
+       "note": "on the road before the gate as the citizen steps out of its shade into the hard light"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        2.4,
+        3.5
+       ],
+       "facing": 296,
+       "height": "standing",
+       "note": "falling in at his road side as he starts along the line"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        5.0,
+        3.6
+       ],
+       "facing": 313,
+       "height": "standing",
+       "note": "walking with him past the men in the strip of shade, their faces lifting to him"
+      },
+      {
+       "t": 8.8,
+       "pos": [
+        8.0,
+        3.55
+       ],
+       "facing": 300,
+       "height": "standing",
+       "note": "a stride behind his shoulder as he stops over Asher, who scrambles to his feet"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W02",
+     "setup": "S02",
+     "frames": 158,
+     "speaker": "ASHER",
+     "reached": [
+      1,
+      2,
+      9
+     ],
+     "line": "I know vines. Every spring I tied my father's.",
+     "line_at": 1.2,
+     "does": "Asher scrambles up and offers himself, the vines he tied for his father",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        8.0,
+        3.55
+       ],
+       "facing": 300,
+       "height": "standing"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        8.8,
+        3.25
+       ],
+       "facing": 292,
+       "height": "standing",
+       "note": "a stride in at the citizen's shoulder onto Asher's eager face, the men along the wall behind him"
+      },
+      {
+       "t": 6.2,
+       "pos": [
+        8.95,
+        3.1
+       ],
+       "facing": 290,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W03",
+     "setup": null,
+     "frames": 192,
+     "speaker": "CITIZEN",
+     "reached": [
+      1,
+      2,
+      7,
+      8,
+      9
+     ],
+     "line": "Look at your hands. <pause> Go to my fields, and feed the pigs.",
+     "line_at": 1.4,
+     "does": "The citizen turns Asher's hand palm up, looks at it, lets it drop and sends him to feed the pigs",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        8.95,
+        3.1
+       ],
+       "facing": 290,
+       "height": "standing"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        9.05,
+        2.85
+       ],
+       "facing": 272,
+       "height": "seated",
+       "note": "down to Asher's hand as the citizen turns it palm up by the wrist, soft and uncut"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        9.3,
+        2.95
+       ],
+       "facing": 245,
+       "height": "seated",
+       "note": "up along the citizen's arm as he lets the hand drop"
+      },
+      {
+       "t": 7.4,
+       "pos": [
+        9.62,
+        2.78
+       ],
+       "facing": 228,
+       "height": "standing",
+       "note": "round to both faces as he sends him to the pigs, the plain behind the citizen and the waiting men behind Asher"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W04",
+     "setup": "S03",
+     "frames": 141,
+     "speaker": "ASHER",
+     "reached": [
+      1,
+      2,
+      7,
+      8
+     ],
+     "line": "I am a Judean. I do not keep pigs.",
+     "line_at": 1.0,
+     "does": "Asher draws himself up, a Judean, and refuses the pigs while the citizen watches him",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        9.62,
+        2.78
+       ],
+       "facing": 228,
+       "height": "standing"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        9.85,
+        2.5
+       ],
+       "facing": 238,
+       "height": "standing",
+       "note": "a half pace in to Asher as he draws himself up"
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        9.88,
+        2.47
+       ],
+       "facing": 240,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W05",
+     "setup": null,
+     "frames": 158,
+     "speaker": "CITIZEN",
+     "reached": [
+      1,
+      2,
+      8
+     ],
+     "line": "It is the pigs, or it is the road. <pause> Decide.",
+     "line_at": 1.0,
+     "does": "The citizen gives him the pigs or the road and holds the herding stick out to him",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        9.88,
+        2.47
+       ],
+       "facing": 240,
+       "height": "standing"
+      },
+      {
+       "t": 2.0,
+       "pos": [
+        9.95,
+        2.65
+       ],
+       "facing": 205,
+       "height": "standing",
+       "note": "turning to the citizen as he tips his head at the road and pulls the herding stick from his belt"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        9.85,
+        2.42
+       ],
+       "facing": 222,
+       "height": "seated",
+       "note": "down with the stick as he holds it out across the gap between them"
+      },
+      {
+       "t": 6.3,
+       "pos": [
+        9.8,
+        2.38
+       ],
+       "facing": 225,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W06",
+     "setup": "S04",
+     "frames": 226,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      7,
+      8
+     ],
+     "does": "Asher stands there with the stick held out to him and the men watching, and then he takes it",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        9.8,
+        2.38
+       ],
+       "facing": 225,
+       "height": "seated"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        9.8,
+        2.35
+       ],
+       "facing": 228,
+       "height": "low",
+       "note": "low under the held-out stick, Asher's face above it, the waiting men watching along the wall"
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        9.76,
+        2.31
+       ],
+       "facing": 232,
+       "height": "low",
+       "note": "chosen stillness as he stands there, dust lifting in the dry wind"
+      },
+      {
+       "t": 8.0,
+       "pos": [
+        9.7,
+        2.28
+       ],
+       "facing": 238,
+       "height": "low",
+       "note": "his hand comes up into the frame and closes round the stick"
+      },
+      {
+       "t": 9.3,
+       "pos": [
+        9.95,
+        2.6
+       ],
+       "facing": 236,
+       "height": "standing",
+       "note": "rising with the stick in his hand to his face"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The stick held out",
+     "extent": [
+      6.9,
+      11.5,
+      0.3,
+      4.0
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The pig fields before dawn",
+   "heading": "EXT. PIG FIELDS - BEFORE DAWN",
+   "extent": [
+    -44,
+    104,
+    -36,
+    36
+   ],
+   "grid": "+x east · +y north · metres · origin the middle carob trough, one grid for every pig-field plan",
+   "light": {
+    "kind": "dawn",
+    "from_deg": 5,
+    "label": "before dawn, grey in the east, his breath showing, the citizen's fire down to embers"
+   },
+   "place": [
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       -29,
+       -32.4
+      ],
+      [
+       67.8,
+       -32.4
+      ]
+     ]
+    },
+    {
+     "kind": "track",
+     "width_m": 0.5,
+     "points": [
+      [
+       -14.0,
+       -0.8
+      ],
+      [
+       -11.8,
+       -2.2
+      ],
+      [
+       -7.0,
+       -1.9
+      ],
+      [
+       -4.4,
+       -1.0
+      ]
+     ]
+    },
+    {
+     "kind": "area",
+     "fill": "floor",
+     "polygon": [
+      [
+       -21.7,
+       0.3
+      ],
+      [
+       -10.3,
+       0.3
+      ],
+      [
+       -10.3,
+       9.7
+      ],
+      [
+       -21.7,
+       9.7
+      ]
+     ]
+    },
+    {
+     "kind": "gate",
+     "a": [
+      -14.8,
+      0
+     ],
+     "b": [
+      -13.2,
+      0
+     ],
+     "hinge": "a",
+     "leaf_to": [
+      -14.8,
+      -1.5
+     ],
+     "post_m": 0.35
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -2.6,
+      0.0
+     ],
+     "size": [
+      2.2,
+      0.65
+     ],
+     "shape": "rect"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      2.6,
+      0.0
+     ],
+     "size": [
+      2.2,
+      0.65
+     ],
+     "shape": "rect"
+    },
+    {
+     "kind": "area",
+     "fill": "earth",
+     "polygon": [
+      [
+       -40,
+       -32
+      ],
+      [
+       68,
+       -32
+      ],
+      [
+       71,
+       -20
+      ],
+      [
+       67,
+       -6
+      ],
+      [
+       72,
+       6
+      ],
+      [
+       68,
+       20
+      ],
+      [
+       70,
+       32
+      ],
+      [
+       -40,
+       32
+      ]
+     ],
+     "label": "Bare field of rooted dust",
+     "label_at": [
+      26,
+      -24
+     ]
+    },
+    {
+     "kind": "area",
+     "fill": "grass",
+     "polygon": [
+      [
+       68,
+       -32
+      ],
+      [
+       71,
+       -20
+      ],
+      [
+       67,
+       -6
+      ],
+      [
+       72,
+       6
+      ],
+      [
+       68,
+       20
+      ],
+      [
+       70,
+       32
+      ],
+      [
+       112,
+       32
+      ],
+      [
+       112,
+       -32
+      ]
+     ],
+     "label": "Thorn scrub, the field's east boundary",
+     "label_at": [
+      87,
+      -27
+     ]
+    },
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       69.6,
+       32.4
+      ],
+      [
+       -40.4,
+       32.4
+      ],
+      [
+       -40.4,
+       -32.4
+      ],
+      [
+       -33,
+       -32.4
+      ]
+     ],
+     "label": "Low wall of piled field stones",
+     "label_at": [
+      -2,
+      28.8
+     ]
+    },
+    {
+     "kind": "track",
+     "width_m": 1.4,
+     "points": [
+      [
+       -46,
+       -42
+      ],
+      [
+       -31,
+       -32.4
+      ],
+      [
+       -24,
+       -18
+      ],
+      [
+       -17.5,
+       -9.6
+      ],
+      [
+       -15.2,
+       -7.9
+      ]
+     ],
+     "label": "Cart track from the estate",
+     "label_at": [
+      -21,
+      -21
+     ]
+    },
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       -13.2,
+       0
+      ],
+      [
+       -10,
+       0
+      ],
+      [
+       -10,
+       10
+      ],
+      [
+       -22,
+       10
+      ],
+      [
+       -22,
+       0
+      ],
+      [
+       -14.8,
+       0
+      ]
+     ],
+     "label": "Pig pen, low stone wall",
+     "label_at": [
+      -16,
+      11.6
+     ]
+    },
+    {
+     "kind": "building",
+     "wall_m": 0.3,
+     "polygon": [
+      [
+       -15.5,
+       -7.8
+      ],
+      [
+       -12,
+       -7.8
+      ],
+      [
+       -12,
+       -5.2
+      ],
+      [
+       -15.5,
+       -5.2
+      ]
+     ],
+     "label": "The citizen's booth"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      5.6,
+      -1.3
+     ],
+     "size": [
+      1.5,
+      1.0
+     ],
+     "shape": "ellipse"
+    },
+    {
+     "kind": "canopy",
+     "pos": [
+      3.6,
+      -7.4
+     ],
+     "rx": 4.0,
+     "ry": 3.6,
+     "trunk_m": 0.45,
+     "label": "Lone carob tree"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -27,
+      25
+     ],
+     "label": "Home lies far to the west"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -24,
+      -30
+     ],
+     "label": "The citizen's estate, about 600 m south-west"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      0.0,
+      0.0
+     ],
+     "size": [
+      2.2,
+      0.65
+     ],
+     "shape": "rect",
+     "label": "Carob troughs"
+    },
+    {
+     "kind": "fire",
+     "pos": [
+      -10.4,
+      -3.6
+     ],
+     "r": 0.3,
+     "glow_m": 1.6,
+     "label": "His fire, down to embers"
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      74.0,
+      10.3
+     ],
+     "r": 1.2
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      88.0,
+      -4.41
+     ],
+     "r": 1.18
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      75.21,
+      19.43
+     ],
+     "r": 1.42
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      90.87,
+      -21.07
+     ],
+     "r": 1.12
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      79.47,
+      -15.5
+     ],
+     "r": 1.55
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.88,
+      -28.24
+     ],
+     "r": 1.46
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      89.11,
+      -7.34
+     ],
+     "r": 0.88
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      91.62,
+      -2.68
+     ],
+     "r": 1.29
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.38,
+      29.1
+     ],
+     "r": 1.21
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      100.94,
+      -12.22
+     ],
+     "r": 0.97
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      83.26,
+      -26.97
+     ],
+     "r": 1.18
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      97.54,
+      -21.3
+     ],
+     "r": 0.82
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      96.63,
+      9.79
+     ],
+     "r": 1.13
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      81.1,
+      6.28
+     ],
+     "r": 0.71
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      95.14,
+      -25.01
+     ],
+     "r": 0.77
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      96.26,
+      27.76
+     ],
+     "r": 1.03
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      83.95,
+      -20.77
+     ],
+     "r": 1.25
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      96.74,
+      17.21
+     ],
+     "r": 1.08
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      80.16,
+      -4.05
+     ],
+     "r": 0.61
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      92.94,
+      -10.44
+     ],
+     "r": 0.92
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      70.8,
+      -3.22
+     ],
+     "r": 1.18
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      81.67,
+      22.91
+     ],
+     "r": 1.27
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      76.45,
+      1.57
+     ],
+     "r": 1.51
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      86.2,
+      6.33
+     ],
+     "r": 0.66
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      85.13,
+      -2.39
+     ],
+     "r": 1.0
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      101.9,
+      -5.26
+     ],
+     "r": 0.64
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.74,
+      -0.93
+     ],
+     "r": 1.06
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      83.28,
+      0.07
+     ],
+     "r": 1.05
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      93.42,
+      24.67
+     ],
+     "r": 1.3
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      82.82,
+      9.27
+     ],
+     "r": 1.51
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      73.38,
+      -16.28
+     ],
+     "r": 1.22
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      92.05,
+      8.84
+     ],
+     "r": 1.19
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      97.03,
+      -1.31
+     ],
+     "r": 1.41
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      74.72,
+      -9.31
+     ],
+     "r": 0.68
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.99,
+      24.03
+     ],
+     "r": 1.06
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      94.03,
+      12.1
+     ],
+     "r": 1.12
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      77.31,
+      -8.41
+     ],
+     "r": 1.23
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      89.95,
+      -18.01
+     ],
+     "r": 1.21
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      98.62,
+      23.02
+     ],
+     "r": 1.25
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      77.23,
+      -3.62
+     ],
+     "r": 0.94
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      93.19,
+      18.67
+     ],
+     "r": 1.01
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      97.28,
+      -29.99
+     ],
+     "r": 0.93
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      79.27,
+      14.91
+     ],
+     "r": 1.21
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      77.88,
+      -19.45
+     ],
+     "r": 0.77
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      71.34,
+      18.02
+     ],
+     "r": 1.54
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      75.7,
+      15.18
+     ],
+     "r": 1.55
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      74.71,
+      4.46
+     ],
+     "r": 1.04
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      -3.6,
+      -0.85
+     ],
+     "facing_deg": 255,
+     "note": "asleep on the bare ground beside the troughs, curled against the cold",
+     "named": true
+    },
+    {
+     "n": 2,
+     "name": "the citizen",
+     "pos": [
+      -11.6,
+      -4.9
+     ],
+     "facing_deg": 20,
+     "note": "out of his booth past the embers of his fire",
+     "named": true
+    },
+    {
+     "n": 3,
+     "name": "pigs",
+     "pos": [
+      -17.0,
+      5.5
+     ],
+     "facing_deg": 300,
+     "note": "thirty head penned for the night",
+     "animal": true,
+     "group": "pen"
+    },
+    {
+     "n": 4,
+     "name": "pigs",
+     "pos": [
+      -13.4,
+      3.4
+     ],
+     "facing_deg": 200,
+     "animal": true,
+     "group": "pen"
+    }
+   ],
+   "paths": [
+    {
+     "who": 2,
+     "points": [
+      [
+       -11.6,
+       -4.9
+      ],
+      [
+       -8.4,
+       -3.4
+      ],
+      [
+       -5.4,
+       -2.4
+      ],
+      [
+       -3.0,
+       -1.75
+      ]
+     ],
+     "note": "from his booth to Asher in the grey"
+    },
+    {
+     "who": 2,
+     "points": [
+      [
+       -3.0,
+       -1.75
+      ],
+      [
+       -8.6,
+       -1.6
+      ],
+      [
+       -14.0,
+       -0.9
+      ]
+     ],
+     "note": "back to open the pen gate for first light"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S05",
+     "what": "On the ground at his sleeping face",
+     "pos": [
+      -4.6,
+      -1.6
+     ],
+     "facing_deg": 22,
+     "height": "low",
+     "wedge_m": 2
+    },
+    {
+     "shot": "S06",
+     "what": "Rising with him, the citizen over him",
+     "pos": [
+      -4.45,
+      -1.35
+     ],
+     "facing_deg": 350,
+     "height": "knee",
+     "wedge_m": 3
+    }
+   ],
+   "windows": [
+    {
+     "id": "W07",
+     "setup": "S05",
+     "frames": 158,
+     "speaker": null,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "Before dawn the citizen walks out past the embers of his fire and drives his foot into the ribs of Asher, asleep on the ground beside the troughs, and Asher jolts awake",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -5.0,
+        -1.75
+       ],
+       "facing": 24,
+       "height": "low",
+       "note": "on the ground a pace from his sleeping face, his breath showing in the grey"
+      },
+      {
+       "t": 3.0,
+       "pos": [
+        -4.6,
+        -1.6
+       ],
+       "facing": 22,
+       "height": "low",
+       "note": "in at his face, the trough's stone at his back, as the citizen's sandals come past the lens through the dust"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        -4.85,
+        -1.48
+       ],
+       "facing": 28,
+       "height": "low",
+       "note": "his foot drives into Asher's ribs and the lens jolts back with Asher as he wakes"
+      },
+      {
+       "t": 6.2,
+       "pos": [
+        -4.8,
+        -1.42
+       ],
+       "facing": 32,
+       "height": "low"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W08",
+     "setup": "S06",
+     "frames": 175,
+     "speaker": "CITIZEN",
+     "reached": [
+      1,
+      2
+     ],
+     "line": "Up. <pause> Thirty head. <pause> If one is lost, you pay for it.",
+     "line_at": 1.2,
+     "does": "The citizen stands over him against the grey east and gives him the count, then turns away to open the pen",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -4.8,
+        -1.42
+       ],
+       "facing": 32,
+       "height": "low"
+      },
+      {
+       "t": 1.8,
+       "pos": [
+        -4.45,
+        -1.35
+       ],
+       "facing": 350,
+       "height": "knee",
+       "note": "rising with him onto an elbow and his knees, the citizen standing over him against the grey east"
+      },
+      {
+       "t": 5.2,
+       "pos": [
+        -4.35,
+        -1.3
+       ],
+       "facing": 344,
+       "height": "knee"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        -4.3,
+        -1.3
+       ],
+       "facing": 330,
+       "height": "knee",
+       "note": "the citizen already turning away toward the pen"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The waking at the trough",
+     "extent": [
+      -6.0,
+      -1.0,
+      -2.8,
+      0.8
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The pig fields by day",
+   "heading": "EXT. PIG FIELDS - DAY",
+   "extent": [
+    -12,
+    16,
+    -11,
+    6
+   ],
+   "grid": "+x east · +y north · metres · origin the middle carob trough, one grid for every pig-field plan",
+   "light": {
+    "kind": "sun",
+    "from_deg": 270,
+    "label": "noon, high, hard and pale; the one shade under the lone carob"
+   },
+   "place": [
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       -29,
+       -32.4
+      ],
+      [
+       67.8,
+       -32.4
+      ]
+     ]
+    },
+    {
+     "kind": "track",
+     "width_m": 0.5,
+     "points": [
+      [
+       -14.0,
+       -0.8
+      ],
+      [
+       -11.8,
+       -2.2
+      ],
+      [
+       -7.0,
+       -1.9
+      ],
+      [
+       -4.4,
+       -1.0
+      ]
+     ]
+    },
+    {
+     "kind": "area",
+     "fill": "floor",
+     "polygon": [
+      [
+       -21.7,
+       0.3
+      ],
+      [
+       -10.3,
+       0.3
+      ],
+      [
+       -10.3,
+       9.7
+      ],
+      [
+       -21.7,
+       9.7
+      ]
+     ]
+    },
+    {
+     "kind": "gate",
+     "a": [
+      -14.8,
+      0
+     ],
+     "b": [
+      -13.2,
+      0
+     ],
+     "hinge": "a",
+     "leaf_to": [
+      -14.8,
+      -1.5
+     ],
+     "post_m": 0.35
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -2.6,
+      0.0
+     ],
+     "size": [
+      2.2,
+      0.65
+     ],
+     "shape": "rect"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      2.6,
+      0.0
+     ],
+     "size": [
+      2.2,
+      0.65
+     ],
+     "shape": "rect"
+    },
+    {
+     "kind": "area",
+     "fill": "earth",
+     "polygon": [
+      [
+       -40,
+       -32
+      ],
+      [
+       68,
+       -32
+      ],
+      [
+       71,
+       -20
+      ],
+      [
+       67,
+       -6
+      ],
+      [
+       72,
+       6
+      ],
+      [
+       68,
+       20
+      ],
+      [
+       70,
+       32
+      ],
+      [
+       -40,
+       32
+      ]
+     ]
+    },
+    {
+     "kind": "area",
+     "fill": "grass",
+     "polygon": [
+      [
+       68,
+       -32
+      ],
+      [
+       71,
+       -20
+      ],
+      [
+       67,
+       -6
+      ],
+      [
+       72,
+       6
+      ],
+      [
+       68,
+       20
+      ],
+      [
+       70,
+       32
+      ],
+      [
+       112,
+       32
+      ],
+      [
+       112,
+       -32
+      ]
+     ]
+    },
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       69.6,
+       32.4
+      ],
+      [
+       -40.4,
+       32.4
+      ],
+      [
+       -40.4,
+       -32.4
+      ],
+      [
+       -33,
+       -32.4
+      ]
+     ]
+    },
+    {
+     "kind": "track",
+     "width_m": 1.4,
+     "points": [
+      [
+       -46,
+       -42
+      ],
+      [
+       -31,
+       -32.4
+      ],
+      [
+       -24,
+       -18
+      ],
+      [
+       -17.5,
+       -9.6
+      ],
+      [
+       -15.2,
+       -7.9
+      ]
+     ]
+    },
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       -13.2,
+       0
+      ],
+      [
+       -10,
+       0
+      ],
+      [
+       -10,
+       10
+      ],
+      [
+       -22,
+       10
+      ],
+      [
+       -22,
+       0
+      ],
+      [
+       -14.8,
+       0
+      ]
+     ],
+     "label": "Pig pen, low stone wall",
+     "label_at": [
+      -16,
+      11.6
+     ]
+    },
+    {
+     "kind": "building",
+     "wall_m": 0.3,
+     "polygon": [
+      [
+       -15.5,
+       -7.8
+      ],
+      [
+       -12,
+       -7.8
+      ],
+      [
+       -12,
+       -5.2
+      ],
+      [
+       -15.5,
+       -5.2
+      ]
+     ],
+     "label": "The citizen's booth"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      5.6,
+      -1.3
+     ],
+     "size": [
+      1.5,
+      1.0
+     ],
+     "shape": "ellipse",
+     "label": "Carob pods, heaped"
+    },
+    {
+     "kind": "canopy",
+     "pos": [
+      3.6,
+      -7.4
+     ],
+     "rx": 4.0,
+     "ry": 3.6,
+     "trunk_m": 0.45,
+     "label": "Lone carob tree"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      0.0,
+      0.0
+     ],
+     "size": [
+      2.2,
+      0.65
+     ],
+     "shape": "rect",
+     "label": "Carob troughs"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -10.4,
+      -3.6
+     ],
+     "size": [
+      0.9,
+      0.9
+     ],
+     "shape": "ellipse",
+     "label": "Cold fire pit"
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      74.0,
+      10.3
+     ],
+     "r": 1.2
+    },
+    {
+     "kind": "area",
+     "fill": "dark",
+     "polygon": [
+      [
+       7.2,
+       -7.0
+      ],
+      [
+       6.98,
+       -5.91
+      ],
+      [
+       6.36,
+       -4.94
+      ],
+      [
+       5.4,
+       -4.23
+      ],
+      [
+       4.23,
+       -3.85
+      ],
+      [
+       2.97,
+       -3.85
+      ],
+      [
+       1.8,
+       -4.23
+      ],
+      [
+       0.84,
+       -4.94
+      ],
+      [
+       0.22,
+       -5.91
+      ],
+      [
+       0.0,
+       -7.0
+      ],
+      [
+       0.22,
+       -8.09
+      ],
+      [
+       0.84,
+       -9.06
+      ],
+      [
+       1.8,
+       -9.77
+      ],
+      [
+       2.97,
+       -10.15
+      ],
+      [
+       4.23,
+       -10.15
+      ],
+      [
+       5.4,
+       -9.77
+      ],
+      [
+       6.36,
+       -9.06
+      ],
+      [
+       6.98,
+       -8.09
+      ]
+     ],
+     "label": "Noon shade",
+     "label_at": [
+      6.4,
+      -9.6
+     ]
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      88.0,
+      -4.41
+     ],
+     "r": 1.18
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      75.21,
+      19.43
+     ],
+     "r": 1.42
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      90.87,
+      -21.07
+     ],
+     "r": 1.12
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      79.47,
+      -15.5
+     ],
+     "r": 1.55
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.88,
+      -28.24
+     ],
+     "r": 1.46
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      89.11,
+      -7.34
+     ],
+     "r": 0.88
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      91.62,
+      -2.68
+     ],
+     "r": 1.29
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.38,
+      29.1
+     ],
+     "r": 1.21
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      100.94,
+      -12.22
+     ],
+     "r": 0.97
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      83.26,
+      -26.97
+     ],
+     "r": 1.18
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      97.54,
+      -21.3
+     ],
+     "r": 0.82
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      96.63,
+      9.79
+     ],
+     "r": 1.13
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      81.1,
+      6.28
+     ],
+     "r": 0.71
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      95.14,
+      -25.01
+     ],
+     "r": 0.77
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      96.26,
+      27.76
+     ],
+     "r": 1.03
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      83.95,
+      -20.77
+     ],
+     "r": 1.25
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      96.74,
+      17.21
+     ],
+     "r": 1.08
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      80.16,
+      -4.05
+     ],
+     "r": 0.61
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      92.94,
+      -10.44
+     ],
+     "r": 0.92
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      70.8,
+      -3.22
+     ],
+     "r": 1.18
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      81.67,
+      22.91
+     ],
+     "r": 1.27
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      76.45,
+      1.57
+     ],
+     "r": 1.51
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      86.2,
+      6.33
+     ],
+     "r": 0.66
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      85.13,
+      -2.39
+     ],
+     "r": 1.0
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      101.9,
+      -5.26
+     ],
+     "r": 0.64
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.74,
+      -0.93
+     ],
+     "r": 1.06
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      83.28,
+      0.07
+     ],
+     "r": 1.05
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      93.42,
+      24.67
+     ],
+     "r": 1.3
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      82.82,
+      9.27
+     ],
+     "r": 1.51
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      73.38,
+      -16.28
+     ],
+     "r": 1.22
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      92.05,
+      8.84
+     ],
+     "r": 1.19
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      97.03,
+      -1.31
+     ],
+     "r": 1.41
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      74.72,
+      -9.31
+     ],
+     "r": 0.68
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.99,
+      24.03
+     ],
+     "r": 1.06
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      94.03,
+      12.1
+     ],
+     "r": 1.12
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      77.31,
+      -8.41
+     ],
+     "r": 1.23
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      89.95,
+      -18.01
+     ],
+     "r": 1.21
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      98.62,
+      23.02
+     ],
+     "r": 1.25
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      77.23,
+      -3.62
+     ],
+     "r": 0.94
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      93.19,
+      18.67
+     ],
+     "r": 1.01
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      97.28,
+      -29.99
+     ],
+     "r": 0.93
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      79.27,
+      14.91
+     ],
+     "r": 1.21
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      77.88,
+      -19.45
+     ],
+     "r": 0.77
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      71.34,
+      18.02
+     ],
+     "r": 1.54
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      75.7,
+      15.18
+     ],
+     "r": 1.55
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      74.71,
+      4.46
+     ],
+     "r": 1.04
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      -2.4,
+      -0.8
+     ],
+     "facing_deg": 90,
+     "note": "crouched at the west trough, gaunt, flies at his mouth",
+     "named": true
+    },
+    {
+     "n": 2,
+     "name": "herdsman",
+     "pos": [
+      2.35,
+      -6.15
+     ],
+     "facing_deg": 130,
+     "note": "eats in the carob's shade",
+     "named": true
+    },
+    {
+     "n": 3,
+     "name": "child",
+     "pos": [
+      3.45,
+      -5.5
+     ],
+     "facing_deg": 140,
+     "note": "small, a piece of bread in both hands",
+     "named": true
+    },
+    {
+     "n": 4,
+     "name": "swineherd",
+     "pos": [
+      14.0,
+      -7.0
+     ],
+     "facing_deg": 155,
+     "note": "the next man who passes, an empty basket on his shoulder"
+    },
+    {
+     "n": 5,
+     "name": "pigs",
+     "pos": [
+      -2.0,
+      0.85
+     ],
+     "facing_deg": 270,
+     "note": "snouts in the troughs, flies over them",
+     "animal": true
+    },
+    {
+     "n": 6,
+     "name": "pigs",
+     "pos": [
+      1.6,
+      0.9
+     ],
+     "facing_deg": 265,
+     "animal": true
+    },
+    {
+     "n": 7,
+     "name": "pigs",
+     "pos": [
+      -7.0,
+      3.5
+     ],
+     "facing_deg": 30,
+     "note": "rooting in the dust",
+     "animal": true
+    },
+    {
+     "n": 8,
+     "name": "pigs",
+     "pos": [
+      9.0,
+      3.0
+     ],
+     "facing_deg": 200,
+     "note": "rooting in the dust",
+     "animal": true
+    }
+   ],
+   "paths": [
+    {
+     "who": 4,
+     "points": [
+      [
+       14.0,
+       -7.0
+      ],
+      [
+       8.0,
+       -3.8
+      ],
+      [
+       2.0,
+       -2.6
+      ],
+      [
+       -1.2,
+       -1.9
+      ],
+      [
+       -6.0,
+       -2.1
+      ],
+      [
+       -9.6,
+       -3.0
+      ]
+     ],
+     "note": "passes the carob and the trough on his way to the booth"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       -2.4,
+       -0.8
+      ],
+      [
+       -2.3,
+       -1.05
+      ]
+     ],
+     "note": "turns on his knees to the passing man"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S07",
+     "what": "Over his shoulder into the trough, the husks",
+     "pos": [
+      -1.75,
+      -1.15
+     ],
+     "facing_deg": 116,
+     "height": "seated",
+     "wedge_m": 2.5
+    },
+    {
+     "shot": "S08",
+     "what": "The child's eyes on the man by the trough",
+     "pos": [
+      2.0,
+      -5.22
+     ],
+     "facing_deg": 325,
+     "height": "seated",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S09",
+     "what": "The child's back to the trough, eating",
+     "pos": [
+      4.55,
+      -6.4
+     ],
+     "facing_deg": 143,
+     "height": "seated",
+     "wedge_m": 9
+    },
+    {
+     "shot": "S10",
+     "what": "His open hand, empty, the man walking on",
+     "pos": [
+      -0.7,
+      -2.2
+     ],
+     "facing_deg": 168,
+     "height": "knee",
+     "wedge_m": 6
+    }
+   ],
+   "windows": [
+    {
+     "id": "W09",
+     "setup": "S07",
+     "frames": 294,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8
+     ],
+     "does": "Pigs root in the dust and flies hang over the troughs as a dry wind crosses the bare field, and Asher's hand drifts toward the carob husks",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        10.5,
+        3.6
+       ],
+       "facing": 199,
+       "height": "knee",
+       "note": "low in the dust among rooting pigs, the dry wind lifting grit across the bare field toward the troughs"
+      },
+      {
+       "t": 4.2,
+       "pos": [
+        5.8,
+        1.0
+       ],
+       "facing": 196,
+       "height": "knee",
+       "note": "along the troughs past bristly backs, flies hanging over the husks"
+      },
+      {
+       "t": 5.8,
+       "pos": [
+        4.6,
+        -1.05
+       ],
+       "facing": 176,
+       "height": "knee",
+       "note": "round the trough's end toward Asher crouched at the west trough"
+      },
+      {
+       "t": 9.6,
+       "pos": [
+        -1.6,
+        -1.2
+       ],
+       "facing": 112,
+       "height": "seated",
+       "note": "over his right shoulder down into the trough, carob husks among the snouts"
+      },
+      {
+       "t": 11.8,
+       "pos": [
+        -1.75,
+        -1.15
+       ],
+       "facing": 116,
+       "height": "seated",
+       "note": "his own hand drifting toward the husks"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W10",
+     "setup": "S08",
+     "frames": 243,
+     "speaker": "CHILD",
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "line": "Father. <pause> The man by the trough is looking at my bread.",
+     "line_at": 4.0,
+     "wps": 2.4,
+     "does": "The child in the carob's shade sees Asher looking at its bread and tells its father",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -1.75,
+        -1.15
+       ],
+       "facing": 116,
+       "height": "seated"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        -1.7,
+        -1.25
+       ],
+       "facing": 322,
+       "height": "seated",
+       "note": "turning with his look from the husks across the dust to the bread in a child's hands in the carob's shade"
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        1.9,
+        -5.1
+       ],
+       "facing": 327,
+       "height": "seated",
+       "note": "across the bare dust into the shade, the child's eyes on the man by the trough"
+      },
+      {
+       "t": 9.8,
+       "pos": [
+        2.0,
+        -5.22
+       ],
+       "facing": 325,
+       "height": "seated",
+       "note": "the herdsman chewing, his eyes on his own bread"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W11",
+     "setup": "S09",
+     "frames": 243,
+     "speaker": "HERDSMAN",
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "line": "Turn your back, then, and eat it. <pause> He is the master's to feed. Not ours.",
+     "line_at": 1.2,
+     "does": "The herdsman tells the child to turn its back and eat, and the child turns its back on the man by the trough",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        2.0,
+        -5.22
+       ],
+       "facing": 325,
+       "height": "seated"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        3.1,
+        -4.45
+       ],
+       "facing": 262,
+       "height": "seated",
+       "note": "round to the herdsman's face as he answers, his eyes on his bread"
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        4.6,
+        -4.95
+       ],
+       "facing": 225,
+       "height": "seated",
+       "note": "on round the child as it turns its back to the trough"
+      },
+      {
+       "t": 9.6,
+       "pos": [
+        4.55,
+        -6.4
+       ],
+       "facing": 143,
+       "height": "seated",
+       "note": "behind the child, its face bent to the bread, the man by the trough small beyond"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W12",
+     "setup": "S10",
+     "frames": 260,
+     "speaker": null,
+     "reached": [
+      1,
+      3,
+      4,
+      5,
+      6
+     ],
+     "does": "The next man who passes walks by the carob to the trough, Asher holds out his open hand to him the way the blind beggar held out his, and the man walks on past while the hand stays out, empty",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        4.55,
+        -6.4
+       ],
+       "facing": 143,
+       "height": "seated"
+      },
+      {
+       "t": 3.0,
+       "pos": [
+        4.6,
+        -5.9
+       ],
+       "facing": 140,
+       "height": "standing",
+       "note": "rising as the next man who passes comes into the frame beyond the child, an empty basket on his shoulder"
+      },
+      {
+       "t": 6.2,
+       "pos": [
+        1.6,
+        -3.6
+       ],
+       "facing": 152,
+       "height": "standing",
+       "note": "walking after him across the dust to the trough"
+      },
+      {
+       "t": 8.4,
+       "pos": [
+        -0.55,
+        -2.35
+       ],
+       "facing": 160,
+       "height": "knee",
+       "note": "Asher turns on his knees and holds out his open hand to him, palm up, the way the blind beggar held out his"
+      },
+      {
+       "t": 10.6,
+       "pos": [
+        -0.7,
+        -2.2
+       ],
+       "facing": 168,
+       "height": "knee",
+       "note": "close on the open hand, empty, as the man walks on toward the booth, the pigs at the trough beyond"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "Over his shoulder into the trough",
+     "extent": [
+      -4.2,
+      0.4,
+      -2.8,
+      1.6
+     ]
+    },
+    {
+     "key": "B",
+     "title": "The carob's shade",
+     "extent": [
+      0.8,
+      6.2,
+      -7.4,
+      -3.8
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The pig fields at dusk",
+   "heading": "EXT. PIG FIELDS - DUSK",
+   "extent": [
+    -28,
+    100,
+    -34,
+    34
+   ],
+   "grid": "+x east · +y north · metres · origin the middle carob trough, one grid for every pig-field plan",
+   "light": {
+    "kind": "dusk",
+    "from_deg": 195,
+    "label": "low sun at the field's west end, long shadows east to the scrub"
+   },
+   "place": [
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       -29,
+       -32.4
+      ],
+      [
+       67.8,
+       -32.4
+      ]
+     ]
+    },
+    {
+     "kind": "track",
+     "width_m": 0.5,
+     "points": [
+      [
+       -14.0,
+       -0.8
+      ],
+      [
+       -11.8,
+       -2.2
+      ],
+      [
+       -7.0,
+       -1.9
+      ],
+      [
+       -4.4,
+       -1.0
+      ]
+     ]
+    },
+    {
+     "kind": "area",
+     "fill": "floor",
+     "polygon": [
+      [
+       -21.7,
+       0.3
+      ],
+      [
+       -10.3,
+       0.3
+      ],
+      [
+       -10.3,
+       9.7
+      ],
+      [
+       -21.7,
+       9.7
+      ]
+     ]
+    },
+    {
+     "kind": "gate",
+     "a": [
+      -14.8,
+      0
+     ],
+     "b": [
+      -13.2,
+      0
+     ],
+     "hinge": "a",
+     "leaf_to": [
+      -14.8,
+      -1.5
+     ],
+     "post_m": 0.35
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -2.6,
+      0.0
+     ],
+     "size": [
+      2.2,
+      0.65
+     ],
+     "shape": "rect"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      2.6,
+      0.0
+     ],
+     "size": [
+      2.2,
+      0.65
+     ],
+     "shape": "rect"
+    },
+    {
+     "kind": "area",
+     "fill": "earth",
+     "polygon": [
+      [
+       -40,
+       -32
+      ],
+      [
+       68,
+       -32
+      ],
+      [
+       71,
+       -20
+      ],
+      [
+       67,
+       -6
+      ],
+      [
+       72,
+       6
+      ],
+      [
+       68,
+       20
+      ],
+      [
+       70,
+       32
+      ],
+      [
+       -40,
+       32
+      ]
+     ],
+     "label": "Bare field of rooted dust",
+     "label_at": [
+      26,
+      -24
+     ]
+    },
+    {
+     "kind": "area",
+     "fill": "grass",
+     "polygon": [
+      [
+       68,
+       -32
+      ],
+      [
+       71,
+       -20
+      ],
+      [
+       67,
+       -6
+      ],
+      [
+       72,
+       6
+      ],
+      [
+       68,
+       20
+      ],
+      [
+       70,
+       32
+      ],
+      [
+       112,
+       32
+      ],
+      [
+       112,
+       -32
+      ]
+     ],
+     "label": "Thorn scrub, the field's east boundary",
+     "label_at": [
+      87,
+      -27
+     ]
+    },
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       69.6,
+       32.4
+      ],
+      [
+       -40.4,
+       32.4
+      ],
+      [
+       -40.4,
+       -32.4
+      ],
+      [
+       -33,
+       -32.4
+      ]
+     ],
+     "label": "Low wall of piled field stones",
+     "label_at": [
+      -2,
+      28.8
+     ]
+    },
+    {
+     "kind": "track",
+     "width_m": 1.4,
+     "points": [
+      [
+       -46,
+       -42
+      ],
+      [
+       -31,
+       -32.4
+      ],
+      [
+       -24,
+       -18
+      ],
+      [
+       -17.5,
+       -9.6
+      ],
+      [
+       -15.2,
+       -7.9
+      ]
+     ]
+    },
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       -13.2,
+       0
+      ],
+      [
+       -10,
+       0
+      ],
+      [
+       -10,
+       10
+      ],
+      [
+       -22,
+       10
+      ],
+      [
+       -22,
+       0
+      ],
+      [
+       -14.8,
+       0
+      ]
+     ],
+     "label": "Pig pen, low stone wall",
+     "label_at": [
+      -16,
+      11.6
+     ]
+    },
+    {
+     "kind": "building",
+     "wall_m": 0.3,
+     "polygon": [
+      [
+       -15.5,
+       -7.8
+      ],
+      [
+       -12,
+       -7.8
+      ],
+      [
+       -12,
+       -5.2
+      ],
+      [
+       -15.5,
+       -5.2
+      ]
+     ]
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      5.6,
+      -1.3
+     ],
+     "size": [
+      1.5,
+      1.0
+     ],
+     "shape": "ellipse"
+    },
+    {
+     "kind": "canopy",
+     "pos": [
+      3.6,
+      -7.4
+     ],
+     "rx": 4.0,
+     "ry": 3.6,
+     "trunk_m": 0.45
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -17,
+      26
+     ],
+     "label": "Home lies far to the west"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      0.0,
+      0.0
+     ],
+     "size": [
+      2.2,
+      0.65
+     ],
+     "shape": "rect",
+     "label": "Carob troughs"
+    },
+    {
+     "kind": "fire",
+     "pos": [
+      -10.4,
+      -3.6
+     ],
+     "r": 0.35,
+     "glow_m": 3.0,
+     "label": "The citizen's new fire"
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      74.0,
+      10.3
+     ],
+     "r": 1.2
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      88.0,
+      -4.41
+     ],
+     "r": 1.18
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      75.21,
+      19.43
+     ],
+     "r": 1.42
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      90.87,
+      -21.07
+     ],
+     "r": 1.12
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      79.47,
+      -15.5
+     ],
+     "r": 1.55
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.88,
+      -28.24
+     ],
+     "r": 1.46
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      89.11,
+      -7.34
+     ],
+     "r": 0.88
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      91.62,
+      -2.68
+     ],
+     "r": 1.29
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.38,
+      29.1
+     ],
+     "r": 1.21
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      100.94,
+      -12.22
+     ],
+     "r": 0.97
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      83.26,
+      -26.97
+     ],
+     "r": 1.18
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      97.54,
+      -21.3
+     ],
+     "r": 0.82
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      96.63,
+      9.79
+     ],
+     "r": 1.13
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      81.1,
+      6.28
+     ],
+     "r": 0.71
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      95.14,
+      -25.01
+     ],
+     "r": 0.77
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      96.26,
+      27.76
+     ],
+     "r": 1.03
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      83.95,
+      -20.77
+     ],
+     "r": 1.25
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      96.74,
+      17.21
+     ],
+     "r": 1.08
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      80.16,
+      -4.05
+     ],
+     "r": 0.61
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      92.94,
+      -10.44
+     ],
+     "r": 0.92
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      70.8,
+      -3.22
+     ],
+     "r": 1.18
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      81.67,
+      22.91
+     ],
+     "r": 1.27
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      76.45,
+      1.57
+     ],
+     "r": 1.51
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      86.2,
+      6.33
+     ],
+     "r": 0.66
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      85.13,
+      -2.39
+     ],
+     "r": 1.0
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      101.9,
+      -5.26
+     ],
+     "r": 0.64
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.74,
+      -0.93
+     ],
+     "r": 1.06
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      83.28,
+      0.07
+     ],
+     "r": 1.05
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      93.42,
+      24.67
+     ],
+     "r": 1.3
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      82.82,
+      9.27
+     ],
+     "r": 1.51
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      73.38,
+      -16.28
+     ],
+     "r": 1.22
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      92.05,
+      8.84
+     ],
+     "r": 1.19
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      97.03,
+      -1.31
+     ],
+     "r": 1.41
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      74.72,
+      -9.31
+     ],
+     "r": 0.68
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.99,
+      24.03
+     ],
+     "r": 1.06
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      94.03,
+      12.1
+     ],
+     "r": 1.12
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      77.31,
+      -8.41
+     ],
+     "r": 1.23
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      89.95,
+      -18.01
+     ],
+     "r": 1.21
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      98.62,
+      23.02
+     ],
+     "r": 1.25
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      77.23,
+      -3.62
+     ],
+     "r": 0.94
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      93.19,
+      18.67
+     ],
+     "r": 1.01
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      97.28,
+      -29.99
+     ],
+     "r": 0.93
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      79.27,
+      14.91
+     ],
+     "r": 1.21
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      77.88,
+      -19.45
+     ],
+     "r": 0.77
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      71.34,
+      18.02
+     ],
+     "r": 1.54
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      75.7,
+      15.18
+     ],
+     "r": 1.55
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      74.71,
+      4.46
+     ],
+     "r": 1.04
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      -2.6,
+      -0.9
+     ],
+     "facing_deg": 0,
+     "note": "sits in the dust by the trough, the stick across his knees",
+     "named": true
+    },
+    {
+     "n": 2,
+     "name": "the citizen",
+     "pos": [
+      -10.6,
+      -4.9
+     ],
+     "facing_deg": 80,
+     "note": "on a stone by his new fire",
+     "named": true
+    },
+    {
+     "n": 3,
+     "name": "swineherd",
+     "pos": [
+      24.0,
+      10.0
+     ],
+     "facing_deg": 200,
+     "note": "drives a knot of pigs in toward the pen"
+    },
+    {
+     "n": 4,
+     "name": "pigs",
+     "pos": [
+      8.0,
+      4.0
+     ],
+     "facing_deg": 40,
+     "animal": true
+    },
+    {
+     "n": 5,
+     "name": "pigs",
+     "pos": [
+      16.0,
+      -3.0
+     ],
+     "facing_deg": 120,
+     "animal": true
+    },
+    {
+     "n": 6,
+     "name": "pigs",
+     "pos": [
+      26.5,
+      8.0
+     ],
+     "facing_deg": 200,
+     "animal": true
+    },
+    {
+     "n": 7,
+     "name": "pigs",
+     "pos": [
+      34.0,
+      -2.0
+     ],
+     "facing_deg": 60,
+     "animal": true
+    },
+    {
+     "n": 8,
+     "name": "pigs",
+     "pos": [
+      44.0,
+      4.5
+     ],
+     "facing_deg": 10,
+     "note": "the herd's far edge",
+     "animal": true
+    },
+    {
+     "n": 9,
+     "name": "the stray pig",
+     "pos": [
+      48.0,
+      6.0
+     ],
+     "facing_deg": 5,
+     "note": "drifts off from the herd's far edge into the scrub",
+     "animal": true
+    }
+   ],
+   "paths": [
+    {
+     "who": 9,
+     "points": [
+      [
+       48.0,
+       6.0
+      ],
+      [
+       60.0,
+       7.6
+      ],
+      [
+       68.5,
+       8.6
+      ],
+      [
+       73.2,
+       9.6
+      ]
+     ],
+     "note": "wanders off into the thorn scrub"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       -2.6,
+       -0.9
+      ],
+      [
+       -2.5,
+       -0.7
+      ],
+      [
+       2.0,
+       -0.3
+      ],
+      [
+       14.0,
+       1.6
+      ],
+      [
+       40.0,
+       5.0
+      ],
+      [
+       66.5,
+       6.3
+      ]
+     ],
+     "note": "half rises, then gets up and goes after it into the dark"
+    },
+    {
+     "who": 3,
+     "points": [
+      [
+       24.0,
+       10.0
+      ],
+      [
+       6.0,
+       4.5
+      ],
+      [
+       -6.0,
+       3.0
+      ],
+      [
+       -9.2,
+       -0.9
+      ],
+      [
+       -14.0,
+       -0.8
+      ]
+     ],
+     "note": "drives the pigs in to the pen gate"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S11",
+     "what": "Behind him, long shadows east to the scrub",
+     "pos": [
+      -6.0,
+      0.2
+     ],
+     "facing_deg": 6,
+     "height": "knee",
+     "wedge_m": 12
+    },
+    {
+     "shot": "S12",
+     "what": "His face, the citizen small against the sun",
+     "pos": [
+      -0.1,
+      -2.3
+     ],
+     "facing_deg": 170,
+     "height": "seated",
+     "wedge_m": 12
+    },
+    {
+     "shot": "S13",
+     "what": "Stopped at the trough as he goes",
+     "pos": [
+      -0.7,
+      -1.5
+     ],
+     "facing_deg": 10,
+     "height": "standing",
+     "wedge_m": 30
+    }
+   ],
+   "windows": [
+    {
+     "id": "W13",
+     "setup": "S11",
+     "frames": 226,
+     "speaker": null,
+     "reached": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     "does": "At dusk the long shadows of the troughs, the pigs and Asher stretch east across the bare field, one pig drifts off into the thorn scrub, and Asher half rises",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -6.0,
+        0.2
+       ],
+       "facing": 6,
+       "height": "knee",
+       "note": "low behind him by the troughs, the long dusk shadows of troughs, pigs and man stretching east across the bare field to the thorn scrub"
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        -4.8,
+        -0.15
+       ],
+       "facing": 5,
+       "height": "knee",
+       "note": "a slow push toward his shoulder as one pig drifts off from the herd's far edge toward the scrub"
+      },
+      {
+       "t": 7.2,
+       "pos": [
+        -3.75,
+        -0.45
+       ],
+       "facing": 4,
+       "height": "knee",
+       "note": "the pig goes into the dark scrub and Asher half rises"
+      },
+      {
+       "t": 9.2,
+       "pos": [
+        -3.4,
+        -0.55
+       ],
+       "facing": 3,
+       "height": "seated",
+       "note": "rising a little with him"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W14",
+     "setup": "S12",
+     "frames": 141,
+     "speaker": "CITIZEN",
+     "reached": [
+      1,
+      2
+     ],
+     "line": "Let it go. <pause> It comes out of your wage.",
+     "line_at": 1.2,
+     "does": "From his fire by the booth the citizen calls to him to let the pig go at the cost of his wage",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -3.4,
+        -0.55
+       ],
+       "facing": 3,
+       "height": "seated"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        -3.35,
+        -1.75
+       ],
+       "facing": 60,
+       "height": "seated",
+       "note": "round his right side as his head turns to the voice from the fire"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        -1.5,
+        -2.55
+       ],
+       "facing": 140,
+       "height": "seated"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        -0.1,
+        -2.3
+       ],
+       "facing": 170,
+       "height": "seated",
+       "note": "his face turned to the voice, the citizen small at his new fire against the low sun"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W15",
+     "setup": "S13",
+     "frames": 345,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      4,
+      5
+     ],
+     "does": "Asher looks at the dark where the pig went, gets up and goes after it, and the camera stops at the trough while he walks away into the falling dark",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.1,
+        -2.3
+       ],
+       "facing": 170,
+       "height": "seated"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        -0.8,
+        -1.6
+       ],
+       "facing": 152,
+       "height": "seated",
+       "note": "in to his face as he looks at the dark where the pig went, the last light on the rim of his cheek"
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        -0.82,
+        -1.58
+       ],
+       "facing": 151,
+       "height": "seated",
+       "note": "chosen stillness on his face, his eyes on the dark"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        -0.78,
+        -1.55
+       ],
+       "facing": 100,
+       "height": "standing",
+       "note": "rising as he gets up past the lens"
+      },
+      {
+       "t": 8.6,
+       "pos": [
+        -0.72,
+        -1.52
+       ],
+       "facing": 22,
+       "height": "standing",
+       "note": "turning with him as he walks out into the bare field"
+      },
+      {
+       "t": 14.2,
+       "pos": [
+        -0.7,
+        -1.5
+       ],
+       "facing": 10,
+       "height": "standing",
+       "note": "the camera stops at the trough as he goes away across the bare field toward the black scrub, smaller in the falling dark"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "At the trough and the fire",
+     "extent": [
+      -12.5,
+      1.5,
+      -6.5,
+      1.5
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The scrub and the pen at night",
+   "heading": "EXT. SCRUB BEYOND THE PIG FIELDS - NIGHT · EXT. PIG FIELDS - NIGHT",
+   "extent": [
+    -28,
+    100,
+    -34,
+    34
+   ],
+   "grid": "+x east · +y north · metres · origin the middle carob trough, one grid for every pig-field plan",
+   "light": {
+    "kind": "fire",
+    "label": "starlight; the citizen's fire the one warm light"
+   },
+   "place": [
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       -29,
+       -32.4
+      ],
+      [
+       67.8,
+       -32.4
+      ]
+     ]
+    },
+    {
+     "kind": "track",
+     "width_m": 0.5,
+     "points": [
+      [
+       -14.0,
+       -0.8
+      ],
+      [
+       -11.8,
+       -2.2
+      ],
+      [
+       -7.0,
+       -1.9
+      ],
+      [
+       -4.4,
+       -1.0
+      ]
+     ]
+    },
+    {
+     "kind": "area",
+     "fill": "floor",
+     "polygon": [
+      [
+       -21.7,
+       0.3
+      ],
+      [
+       -10.3,
+       0.3
+      ],
+      [
+       -10.3,
+       9.7
+      ],
+      [
+       -21.7,
+       9.7
+      ]
+     ]
+    },
+    {
+     "kind": "gate",
+     "a": [
+      -14.8,
+      0
+     ],
+     "b": [
+      -13.2,
+      0
+     ],
+     "hinge": "a",
+     "leaf_to": [
+      -14.8,
+      -1.5
+     ],
+     "post_m": 0.35
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -2.6,
+      0.0
+     ],
+     "size": [
+      2.2,
+      0.65
+     ],
+     "shape": "rect"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      2.6,
+      0.0
+     ],
+     "size": [
+      2.2,
+      0.65
+     ],
+     "shape": "rect"
+    },
+    {
+     "kind": "area",
+     "fill": "earth",
+     "polygon": [
+      [
+       -40,
+       -32
+      ],
+      [
+       68,
+       -32
+      ],
+      [
+       71,
+       -20
+      ],
+      [
+       67,
+       -6
+      ],
+      [
+       72,
+       6
+      ],
+      [
+       68,
+       20
+      ],
+      [
+       70,
+       32
+      ],
+      [
+       -40,
+       32
+      ]
+     ],
+     "label": "Bare field of rooted dust",
+     "label_at": [
+      26,
+      -24
+     ]
+    },
+    {
+     "kind": "area",
+     "fill": "grass",
+     "polygon": [
+      [
+       68,
+       -32
+      ],
+      [
+       71,
+       -20
+      ],
+      [
+       67,
+       -6
+      ],
+      [
+       72,
+       6
+      ],
+      [
+       68,
+       20
+      ],
+      [
+       70,
+       32
+      ],
+      [
+       112,
+       32
+      ],
+      [
+       112,
+       -32
+      ]
+     ],
+     "label": "Thorn scrub, the field's east boundary",
+     "label_at": [
+      87,
+      -27
+     ]
+    },
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       69.6,
+       32.4
+      ],
+      [
+       -40.4,
+       32.4
+      ],
+      [
+       -40.4,
+       -32.4
+      ],
+      [
+       -33,
+       -32.4
+      ]
+     ],
+     "label": "Low wall of piled field stones",
+     "label_at": [
+      -2,
+      28.8
+     ]
+    },
+    {
+     "kind": "track",
+     "width_m": 1.4,
+     "points": [
+      [
+       -46,
+       -42
+      ],
+      [
+       -31,
+       -32.4
+      ],
+      [
+       -24,
+       -18
+      ],
+      [
+       -17.5,
+       -9.6
+      ],
+      [
+       -15.2,
+       -7.9
+      ]
+     ]
+    },
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       -13.2,
+       0
+      ],
+      [
+       -10,
+       0
+      ],
+      [
+       -10,
+       10
+      ],
+      [
+       -22,
+       10
+      ],
+      [
+       -22,
+       0
+      ],
+      [
+       -14.8,
+       0
+      ]
+     ],
+     "label": "Pig pen, low stone wall",
+     "label_at": [
+      -16,
+      11.6
+     ]
+    },
+    {
+     "kind": "building",
+     "wall_m": 0.3,
+     "polygon": [
+      [
+       -15.5,
+       -7.8
+      ],
+      [
+       -12,
+       -7.8
+      ],
+      [
+       -12,
+       -5.2
+      ],
+      [
+       -15.5,
+       -5.2
+      ]
+     ]
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      5.6,
+      -1.3
+     ],
+     "size": [
+      1.5,
+      1.0
+     ],
+     "shape": "ellipse"
+    },
+    {
+     "kind": "canopy",
+     "pos": [
+      3.6,
+      -7.4
+     ],
+     "rx": 4.0,
+     "ry": 3.6,
+     "trunk_m": 0.45
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -17,
+      26
+     ],
+     "label": "Home lies far to the west"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      0.0,
+      0.0
+     ],
+     "size": [
+      2.2,
+      0.65
+     ],
+     "shape": "rect",
+     "label": "Carob troughs"
+    },
+    {
+     "kind": "fire",
+     "pos": [
+      -10.4,
+      -3.6
+     ],
+     "r": 0.4,
+     "glow_m": 4.0,
+     "label": "The citizen's fire"
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      74.0,
+      10.3
+     ],
+     "r": 1.2,
+     "label": "Thorns where the pig is caught"
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      88.0,
+      -4.41
+     ],
+     "r": 1.18
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      75.21,
+      19.43
+     ],
+     "r": 1.42
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      90.87,
+      -21.07
+     ],
+     "r": 1.12
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      79.47,
+      -15.5
+     ],
+     "r": 1.55
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.88,
+      -28.24
+     ],
+     "r": 1.46
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      89.11,
+      -7.34
+     ],
+     "r": 0.88
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      91.62,
+      -2.68
+     ],
+     "r": 1.29
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.38,
+      29.1
+     ],
+     "r": 1.21
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      100.94,
+      -12.22
+     ],
+     "r": 0.97
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      83.26,
+      -26.97
+     ],
+     "r": 1.18
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      97.54,
+      -21.3
+     ],
+     "r": 0.82
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      96.63,
+      9.79
+     ],
+     "r": 1.13
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      81.1,
+      6.28
+     ],
+     "r": 0.71
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      95.14,
+      -25.01
+     ],
+     "r": 0.77
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      96.26,
+      27.76
+     ],
+     "r": 1.03
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      83.95,
+      -20.77
+     ],
+     "r": 1.25
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      96.74,
+      17.21
+     ],
+     "r": 1.08
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      80.16,
+      -4.05
+     ],
+     "r": 0.61
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      92.94,
+      -10.44
+     ],
+     "r": 0.92
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      70.8,
+      -3.22
+     ],
+     "r": 1.18
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      81.67,
+      22.91
+     ],
+     "r": 1.27
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      76.45,
+      1.57
+     ],
+     "r": 1.51
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      86.2,
+      6.33
+     ],
+     "r": 0.66
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      85.13,
+      -2.39
+     ],
+     "r": 1.0
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      101.9,
+      -5.26
+     ],
+     "r": 0.64
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.74,
+      -0.93
+     ],
+     "r": 1.06
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      83.28,
+      0.07
+     ],
+     "r": 1.05
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      93.42,
+      24.67
+     ],
+     "r": 1.3
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      82.82,
+      9.27
+     ],
+     "r": 1.51
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      73.38,
+      -16.28
+     ],
+     "r": 1.22
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      92.05,
+      8.84
+     ],
+     "r": 1.19
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      97.03,
+      -1.31
+     ],
+     "r": 1.41
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      74.72,
+      -9.31
+     ],
+     "r": 0.68
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.99,
+      24.03
+     ],
+     "r": 1.06
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      94.03,
+      12.1
+     ],
+     "r": 1.12
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      77.31,
+      -8.41
+     ],
+     "r": 1.23
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      89.95,
+      -18.01
+     ],
+     "r": 1.21
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      98.62,
+      23.02
+     ],
+     "r": 1.25
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      77.23,
+      -3.62
+     ],
+     "r": 0.94
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      93.19,
+      18.67
+     ],
+     "r": 1.01
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      97.28,
+      -29.99
+     ],
+     "r": 0.93
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      79.27,
+      14.91
+     ],
+     "r": 1.21
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      77.88,
+      -19.45
+     ],
+     "r": 0.77
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      71.34,
+      18.02
+     ],
+     "r": 1.54
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      75.7,
+      15.18
+     ],
+     "r": 1.55
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      74.71,
+      4.46
+     ],
+     "r": 1.04
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      66.5,
+      6.3
+     ],
+     "facing_deg": 25,
+     "note": "at the scrub's edge in the dark, following the squeals",
+     "named": true
+    },
+    {
+     "n": 2,
+     "name": "the stray pig",
+     "pos": [
+      73.2,
+      9.6
+     ],
+     "facing_deg": 200,
+     "note": "caught fast in the thorns, squealing",
+     "animal": true
+    },
+    {
+     "n": 3,
+     "name": "the citizen",
+     "pos": [
+      -10.6,
+      -4.9
+     ],
+     "facing_deg": 80,
+     "note": "eats at his fire, his eyes on the flames",
+     "named": true
+    },
+    {
+     "n": 4,
+     "name": "pigs",
+     "pos": [
+      -16.0,
+      5.0
+     ],
+     "facing_deg": 300,
+     "note": "thirty head penned for the night, grunting in the muck",
+     "animal": true
+    }
+   ],
+   "paths": [
+    {
+     "who": 1,
+     "points": [
+      [
+       66.5,
+       6.3
+      ],
+      [
+       69.6,
+       7.8
+      ],
+      [
+       72.3,
+       9.0
+      ]
+     ],
+     "note": "into the thorns toward the squealing"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       72.3,
+       9.0
+      ],
+      [
+       68.0,
+       7.2
+      ],
+      [
+       60.0,
+       4.6
+      ],
+      [
+       40.0,
+       2.6
+      ],
+      [
+       20.0,
+       1.8
+      ],
+      [
+       4.5,
+       1.6
+      ],
+      [
+       -6.0,
+       1.0
+      ],
+      [
+       -9.6,
+       -0.4
+      ],
+      [
+       -11.0,
+       -0.75
+      ]
+     ],
+     "note": "carries it back across the black field to the pen, the pig across his shoulders"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       -11.0,
+       -0.75
+      ],
+      [
+       -8.5,
+       -1.4
+      ],
+      [
+       -5.6,
+       -1.3
+      ],
+      [
+       -4.2,
+       -0.5
+      ]
+     ],
+     "note": "to the trough, where he sits down"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S14",
+     "what": "Low in the thorns by the squealing pig",
+     "pos": [
+      74.6,
+      8.4
+     ],
+     "facing_deg": 160,
+     "height": "low",
+     "wedge_m": 4
+    },
+    {
+     "shot": "S15",
+     "what": "Ahead of him, the pig across his shoulders",
+     "pos": [
+      66.8,
+      5.6
+     ],
+     "facing_deg": 30,
+     "height": "standing",
+     "wedge_m": 5
+    },
+    {
+     "shot": "S16",
+     "what": "Over the citizen's shoulder to the pen",
+     "pos": [
+      -10.28,
+      -5.67
+     ],
+     "facing_deg": 98,
+     "height": "seated",
+     "wedge_m": 6
+    },
+    {
+     "shot": "S17",
+     "what": "The citizen's face over his fire",
+     "pos": [
+      -9.65,
+      -4.35
+     ],
+     "facing_deg": 210,
+     "height": "seated",
+     "wedge_m": 2.5
+    },
+    {
+     "shot": "S18",
+     "what": "Asher in the dark, the muck on him",
+     "pos": [
+      -11.45,
+      -1.78
+     ],
+     "facing_deg": 66,
+     "height": "standing",
+     "wedge_m": 2.5
+    },
+    {
+     "shot": "S19",
+     "what": "Up past his head to the stars",
+     "pos": [
+      -3.61,
+      -0.66
+     ],
+     "facing_deg": 198,
+     "height": "low",
+     "wedge_m": 10
+    }
+   ],
+   "windows": [
+    {
+     "id": "W16",
+     "setup": "S14",
+     "frames": 294,
+     "speaker": null,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "In the dark thorns Asher finds the pig caught and squealing, tears it loose with bleeding arms and hauls it up across his shoulders, its legs in his fists, the way his father carried the ewe",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        74.6,
+        8.4
+       ],
+       "facing": 160,
+       "height": "low",
+       "note": "low among the thorn branches by the squealing pig, Asher pushing in through the dark scrub toward the sound"
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        74.3,
+        8.5
+       ],
+       "facing": 158,
+       "height": "low",
+       "note": "his hands tearing at the thorns around it, his arms bleeding"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        74.0,
+        8.25
+       ],
+       "facing": 168,
+       "height": "knee",
+       "note": "he drags it loose by the legs"
+      },
+      {
+       "t": 10.2,
+       "pos": [
+        73.6,
+        8.15
+       ],
+       "facing": 160,
+       "height": "standing",
+       "note": "rising with him as he hauls it up across his shoulders, its legs in his fists"
+      },
+      {
+       "t": 12.0,
+       "pos": [
+        73.2,
+        8.35
+       ],
+       "facing": 150,
+       "height": "standing",
+       "note": "the pig's dark bristly flank swings into the lens as he turns for home"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the dark bristly flank of the pig across his shoulders",
+      "slides": "left"
+     }
+    },
+    {
+     "id": "W17",
+     "setup": "S15",
+     "frames": 311,
+     "speaker": null,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "He carries the pig back out of the thorns and across the black field, a Judean with a pig on his back and its filth running down his neck, toward the citizen's small fire",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        70.6,
+        7.6
+       ],
+       "facing": 38,
+       "height": "standing",
+       "note": "the flank slides left and he comes on out of the thorns toward the lens, the pig across his shoulders, its legs in his fists"
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        66.8,
+        5.6
+       ],
+       "facing": 30,
+       "height": "standing",
+       "note": "walking backward ahead of him out onto the bare field, the scrub black behind him and the stars over it"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        63.4,
+        4.3
+       ],
+       "facing": 70,
+       "height": "standing",
+       "note": "easing aside as he comes on, his breath loud, the filth running down his neck"
+      },
+      {
+       "t": 12.6,
+       "pos": [
+        62.4,
+        3.6
+       ],
+       "facing": 186,
+       "height": "standing",
+       "note": "turning as he passes to watch him go on toward the citizen's fire, small and far across the black field"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    },
+    {
+     "id": "W18",
+     "setup": "S16",
+     "frames": 226,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "does": "Asher comes out of the dark with the pig and drops it over the wall into the pen while the citizen eats at his fire, his eyes on the flames",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -9.5,
+        -6.7
+       ],
+       "facing": 104,
+       "height": "seated",
+       "note": "low across the fire from the pen, the citizen eating at his fire, the dark beyond the flames"
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        -9.95,
+        -6.1
+       ],
+       "facing": 100,
+       "height": "seated",
+       "note": "Asher comes out of the dark into the edge of the firelight with the pig across his shoulders"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        -10.28,
+        -5.67
+       ],
+       "facing": 98,
+       "height": "seated",
+       "note": "over the citizen's shoulder he heaves it off over the low wall into the pen, and the penned pigs grunt up out of the muck"
+      },
+      {
+       "t": 9.2,
+       "pos": [
+        -10.3,
+        -5.62
+       ],
+       "facing": 100,
+       "height": "seated",
+       "note": "the citizen eats, his eyes on his fire"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W19",
+     "setup": "S17",
+     "frames": 124,
+     "speaker": "CITIZEN",
+     "reached": [
+      3
+     ],
+     "line": "I told you to let it go.",
+     "line_at": 1.2,
+     "does": "The citizen says it to his fire, his eyes on the flames",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -10.3,
+        -5.62
+       ],
+       "facing": 100,
+       "height": "seated"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        -9.65,
+        -4.35
+       ],
+       "facing": 210,
+       "height": "seated",
+       "note": "round to his face in the firelight, his eyes on the flames as he says it"
+      },
+      {
+       "t": 4.8,
+       "pos": [
+        -9.68,
+        -4.32
+       ],
+       "facing": 212,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W20",
+     "setup": "S18",
+     "frames": 243,
+     "speaker": null,
+     "reached": [
+      1,
+      3
+     ],
+     "does": "Asher stands in the dark at the edge of the firelight with the muck of the pig on his shoulders while the citizen eats, and at 4.4 s the Scene 2 flash cuts in, a lamp coming up a black hill, the ewe across his father's shoulders, a man singing under his breath",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -9.68,
+        -4.32
+       ],
+       "facing": 212,
+       "height": "seated"
+      },
+      {
+       "t": 1.8,
+       "pos": [
+        -9.25,
+        -2.75
+       ],
+       "facing": 110,
+       "height": "standing",
+       "note": "rising and turning from the citizen past the fire to Asher at the edge of the light"
+      },
+      {
+       "t": 3.8,
+       "pos": [
+        -11.45,
+        -1.78
+       ],
+       "facing": 66,
+       "height": "standing",
+       "note": "in to his face, the muck of the pig on his shoulders and neck"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        -11.43,
+        -1.8
+       ],
+       "facing": 65,
+       "height": "standing",
+       "note": "chosen stillness on his face in the dark"
+      },
+      {
+       "t": 9.8,
+       "pos": [
+        -11.4,
+        -1.82
+       ],
+       "facing": 64,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W21",
+     "setup": "S19",
+     "frames": 294,
+     "speaker": null,
+     "reached": [
+      1,
+      4
+     ],
+     "does": "He sits down with his back against the trough in the wind among the grunting pigs and looks up at the stars",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -11.4,
+        -1.82
+       ],
+       "facing": 64,
+       "height": "standing"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        -9.4,
+        -2.15
+       ],
+       "facing": 35,
+       "height": "standing",
+       "note": "walking beside him toward the trough, the wind pulling at his rags"
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        -6.4,
+        -2.05
+       ],
+       "facing": 25,
+       "height": "standing"
+      },
+      {
+       "t": 7.8,
+       "pos": [
+        -5.2,
+        -1.75
+       ],
+       "facing": 70,
+       "height": "seated",
+       "note": "going down with him as he sits with his back against the trough"
+      },
+      {
+       "t": 10.0,
+       "pos": [
+        -3.6,
+        -1.2
+       ],
+       "facing": 150,
+       "height": "low",
+       "note": "low at his shoulder, the penned pigs grunting and the wind moving the dust"
+      },
+      {
+       "t": 12.0,
+       "pos": [
+        -3.61,
+        -0.66
+       ],
+       "facing": 198,
+       "height": "low",
+       "note": "up past his head to the stars over the dark west as he looks up at them"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "In the thorns",
+     "extent": [
+      64.5,
+      76.5,
+      2.5,
+      11.5
+     ]
+    },
+    {
+     "key": "B",
+     "title": "The pen, the fire and the trough",
+     "extent": [
+      -13.5,
+      -2.5,
+      -7.5,
+      1.0
+     ]
+    }
+   ],
+   "join_bows": [
+    {
+     "from": "W17",
+     "to": "W18",
+     "bow": 0.12
+    }
+   ]
+  },
+  {
+   "title": "Eliab's gate at night",
+   "heading": "EXT. ELIAB'S FARM - GATE - NIGHT",
+   "place_ref": [
+    "eliab_farm"
+   ],
+   "extent": [
+    -8,
+    24,
+    -12,
+    8
+   ],
+   "light": {
+    "kind": "lamp",
+    "label": "the gate lamp just lit; starlight over the dark road east"
+   },
+   "place": [
+    {
+     "kind": "lamp",
+     "pos": [
+      0,
+      0
+     ],
+     "glow_m": 2.6,
+     "label": "The flame just caught",
+     "label_at": [
+      0.6,
+      0.45
+     ]
+    },
+    {
+     "kind": "label",
+     "pos": [
+      15.5,
+      -10.6
+     ],
+     "label": "The dark road east, down into the valley"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      15,
+      5.5
+     ],
+     "label": "Stars low over the eastern hills"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Eliab",
+     "pos": [
+      0.3,
+      -0.95
+     ],
+     "facing_deg": 345,
+     "note": "rust-red mantle, the new flame at his shoulder, his eyes on the east",
+     "named": true
+    },
+    {
+     "n": 2,
+     "name": "Asher's dog",
+     "pos": [
+      0.9,
+      -1.6
+     ],
+     "facing_deg": 345,
+     "note": "lies in the gateway facing the road",
+     "animal": true
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S20",
+     "what": "The stars over the east, the new flame",
+     "pos": [
+      -1.5,
+      -1.35
+     ],
+     "facing_deg": 18,
+     "height": "standing",
+     "wedge_m": 10
+    }
+   ],
+   "windows": [
+    {
+     "id": "W22",
+     "setup": "S20",
+     "frames": 209,
+     "speaker": null,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "Far away Eliab stands at the gate lamp with the flame just caught, looking east down the dark road at the same stars, the dog at his feet",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -1.5,
+        -1.35
+       ],
+       "facing": 18,
+       "height": "standing",
+       "note": "up on the stars low over the dark eastern hills"
+      },
+      {
+       "t": 2.8,
+       "pos": [
+        -1.45,
+        -1.45
+       ],
+       "facing": 20,
+       "height": "standing",
+       "note": "down to the new flame in the niche at the frame's left and the old man beside it in the gateway, his eyes on the east down the dark road"
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        0.2,
+        -2.25
+       ],
+       "facing": 60,
+       "height": "standing",
+       "note": "a slow quarter arc out through the gateway round his right side"
+      },
+      {
+       "t": 8.4,
+       "pos": [
+        1.35,
+        -2.25
+       ],
+       "facing": 118,
+       "height": "standing",
+       "note": "his old face beside the small flame, his eyes on the east, the dog at his feet facing the road"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The gateway",
+     "extent": [
+      -2.4,
+      2.6,
+      -3.4,
+      0.9
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Alone at the trough",
+   "heading": "EXT. PIG FIELDS - NIGHT",
+   "extent": [
+    -15,
+    5,
+    -8,
+    5
+   ],
+   "grid": "+x east · +y north · metres · origin the middle carob trough, one grid for every pig-field plan",
+   "light": {
+    "kind": "fire",
+    "label": "starlight; the citizen's low fire warm on one side of Asher's face"
+   },
+   "place": [
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       -29,
+       -32.4
+      ],
+      [
+       67.8,
+       -32.4
+      ]
+     ]
+    },
+    {
+     "kind": "track",
+     "width_m": 0.5,
+     "points": [
+      [
+       -14.0,
+       -0.8
+      ],
+      [
+       -11.8,
+       -2.2
+      ],
+      [
+       -7.0,
+       -1.9
+      ],
+      [
+       -4.4,
+       -1.0
+      ]
+     ]
+    },
+    {
+     "kind": "area",
+     "fill": "floor",
+     "polygon": [
+      [
+       -21.7,
+       0.3
+      ],
+      [
+       -10.3,
+       0.3
+      ],
+      [
+       -10.3,
+       9.7
+      ],
+      [
+       -21.7,
+       9.7
+      ]
+     ]
+    },
+    {
+     "kind": "gate",
+     "a": [
+      -14.8,
+      0
+     ],
+     "b": [
+      -13.2,
+      0
+     ],
+     "hinge": "a",
+     "leaf_to": [
+      -14.8,
+      -1.5
+     ],
+     "post_m": 0.35
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -2.6,
+      0.0
+     ],
+     "size": [
+      2.2,
+      0.65
+     ],
+     "shape": "rect"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      2.6,
+      0.0
+     ],
+     "size": [
+      2.2,
+      0.65
+     ],
+     "shape": "rect"
+    },
+    {
+     "kind": "area",
+     "fill": "earth",
+     "polygon": [
+      [
+       -40,
+       -32
+      ],
+      [
+       68,
+       -32
+      ],
+      [
+       71,
+       -20
+      ],
+      [
+       67,
+       -6
+      ],
+      [
+       72,
+       6
+      ],
+      [
+       68,
+       20
+      ],
+      [
+       70,
+       32
+      ],
+      [
+       -40,
+       32
+      ]
+     ]
+    },
+    {
+     "kind": "area",
+     "fill": "grass",
+     "polygon": [
+      [
+       68,
+       -32
+      ],
+      [
+       71,
+       -20
+      ],
+      [
+       67,
+       -6
+      ],
+      [
+       72,
+       6
+      ],
+      [
+       68,
+       20
+      ],
+      [
+       70,
+       32
+      ],
+      [
+       112,
+       32
+      ],
+      [
+       112,
+       -32
+      ]
+     ]
+    },
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       69.6,
+       32.4
+      ],
+      [
+       -40.4,
+       32.4
+      ],
+      [
+       -40.4,
+       -32.4
+      ],
+      [
+       -33,
+       -32.4
+      ]
+     ]
+    },
+    {
+     "kind": "track",
+     "width_m": 1.4,
+     "points": [
+      [
+       -46,
+       -42
+      ],
+      [
+       -31,
+       -32.4
+      ],
+      [
+       -24,
+       -18
+      ],
+      [
+       -17.5,
+       -9.6
+      ],
+      [
+       -15.2,
+       -7.9
+      ]
+     ]
+    },
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       -13.2,
+       0
+      ],
+      [
+       -10,
+       0
+      ],
+      [
+       -10,
+       10
+      ],
+      [
+       -22,
+       10
+      ],
+      [
+       -22,
+       0
+      ],
+      [
+       -14.8,
+       0
+      ]
+     ],
+     "label": "Pig pen, low stone wall",
+     "label_at": [
+      -16,
+      11.6
+     ]
+    },
+    {
+     "kind": "building",
+     "wall_m": 0.3,
+     "polygon": [
+      [
+       -15.5,
+       -7.8
+      ],
+      [
+       -12,
+       -7.8
+      ],
+      [
+       -12,
+       -5.2
+      ],
+      [
+       -15.5,
+       -5.2
+      ]
+     ],
+     "label": "The citizen's booth"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      5.6,
+      -1.3
+     ],
+     "size": [
+      1.5,
+      1.0
+     ],
+     "shape": "ellipse"
+    },
+    {
+     "kind": "canopy",
+     "pos": [
+      3.6,
+      -7.4
+     ],
+     "rx": 4.0,
+     "ry": 3.6,
+     "trunk_m": 0.45,
+     "label": "Lone carob tree"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      0.0,
+      0.0
+     ],
+     "size": [
+      2.2,
+      0.65
+     ],
+     "shape": "rect",
+     "label": "Carob troughs"
+    },
+    {
+     "kind": "fire",
+     "pos": [
+      -10.4,
+      -3.6
+     ],
+     "r": 0.3,
+     "glow_m": 2.4,
+     "label": "His low fire"
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      74.0,
+      10.3
+     ],
+     "r": 1.2
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      88.0,
+      -4.41
+     ],
+     "r": 1.18
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      75.21,
+      19.43
+     ],
+     "r": 1.42
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      90.87,
+      -21.07
+     ],
+     "r": 1.12
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      79.47,
+      -15.5
+     ],
+     "r": 1.55
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.88,
+      -28.24
+     ],
+     "r": 1.46
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      89.11,
+      -7.34
+     ],
+     "r": 0.88
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      91.62,
+      -2.68
+     ],
+     "r": 1.29
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.38,
+      29.1
+     ],
+     "r": 1.21
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      100.94,
+      -12.22
+     ],
+     "r": 0.97
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      83.26,
+      -26.97
+     ],
+     "r": 1.18
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      97.54,
+      -21.3
+     ],
+     "r": 0.82
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      96.63,
+      9.79
+     ],
+     "r": 1.13
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      81.1,
+      6.28
+     ],
+     "r": 0.71
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      95.14,
+      -25.01
+     ],
+     "r": 0.77
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      96.26,
+      27.76
+     ],
+     "r": 1.03
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      83.95,
+      -20.77
+     ],
+     "r": 1.25
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      96.74,
+      17.21
+     ],
+     "r": 1.08
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      80.16,
+      -4.05
+     ],
+     "r": 0.61
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      92.94,
+      -10.44
+     ],
+     "r": 0.92
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      70.8,
+      -3.22
+     ],
+     "r": 1.18
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      81.67,
+      22.91
+     ],
+     "r": 1.27
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      76.45,
+      1.57
+     ],
+     "r": 1.51
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      86.2,
+      6.33
+     ],
+     "r": 0.66
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      85.13,
+      -2.39
+     ],
+     "r": 1.0
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      101.9,
+      -5.26
+     ],
+     "r": 0.64
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.74,
+      -0.93
+     ],
+     "r": 1.06
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      83.28,
+      0.07
+     ],
+     "r": 1.05
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      93.42,
+      24.67
+     ],
+     "r": 1.3
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      82.82,
+      9.27
+     ],
+     "r": 1.51
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      73.38,
+      -16.28
+     ],
+     "r": 1.22
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      92.05,
+      8.84
+     ],
+     "r": 1.19
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      97.03,
+      -1.31
+     ],
+     "r": 1.41
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      74.72,
+      -9.31
+     ],
+     "r": 0.68
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      102.99,
+      24.03
+     ],
+     "r": 1.06
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      94.03,
+      12.1
+     ],
+     "r": 1.12
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      77.31,
+      -8.41
+     ],
+     "r": 1.23
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      89.95,
+      -18.01
+     ],
+     "r": 1.21
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      98.62,
+      23.02
+     ],
+     "r": 1.25
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      77.23,
+      -3.62
+     ],
+     "r": 0.94
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      93.19,
+      18.67
+     ],
+     "r": 1.01
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      97.28,
+      -29.99
+     ],
+     "r": 0.93
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      79.27,
+      14.91
+     ],
+     "r": 1.21
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      77.88,
+      -19.45
+     ],
+     "r": 0.77
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      71.34,
+      18.02
+     ],
+     "r": 1.54
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      75.7,
+      15.18
+     ],
+     "r": 1.55
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      74.71,
+      4.46
+     ],
+     "r": 1.04
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      -4.2,
+      -0.5
+     ],
+     "facing_deg": 200,
+     "note": "sits against the trough with the muck on his shoulders",
+     "named": true
+    },
+    {
+     "n": 2,
+     "name": "the citizen",
+     "pos": [
+      -11.0,
+      -5.0
+     ],
+     "facing_deg": 80,
+     "note": "asleep by his low fire",
+     "named": true
+    },
+    {
+     "n": 3,
+     "name": "pigs",
+     "pos": [
+      -12.6,
+      2.4
+     ],
+     "facing_deg": 300,
+     "note": "penned, grunting in the muck",
+     "animal": true
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S21",
+     "what": "Close on his exhausted face, the faint fire",
+     "pos": [
+      -5.23,
+      -0.32
+     ],
+     "facing_deg": 350,
+     "height": "seated",
+     "wedge_m": 2.5
+    },
+    {
+     "shot": "S22",
+     "what": "Alone at the trough under the stars",
+     "pos": [
+      -7.2,
+      1.3
+     ],
+     "facing_deg": 329,
+     "height": "standing",
+     "wedge_m": 8
+    }
+   ],
+   "windows": [
+    {
+     "id": "W23",
+     "setup": "S21",
+     "frames": 311,
+     "speaker": "ASHER",
+     "reached": [
+      1
+     ],
+     "line": "How many of my father's hired men have bread enough and to spare, <pause> and here I perish with hunger!",
+     "line_at": 2.4,
+     "wps": 2.2,
+     "does": "Alone at the trough Asher speaks to the dark of his father's hired men and their bread to spare",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -5.23,
+        -0.32
+       ],
+       "facing": 350,
+       "height": "seated",
+       "note": "close on his exhausted face in the faint light of the citizen's low fire, the trough and the black field behind him"
+      },
+      {
+       "t": 6.4,
+       "pos": [
+        -5.16,
+        -0.36
+       ],
+       "facing": 350,
+       "height": "seated",
+       "note": "chosen stillness on his face, the wind moving dust past it"
+      },
+      {
+       "t": 12.6,
+       "pos": [
+        -5.05,
+        -0.4
+       ],
+       "facing": 349,
+       "height": "seated",
+       "note": "a slow half pace in as he says it"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W24",
+     "setup": null,
+     "frames": 328,
+     "speaker": "ASHER",
+     "reached": [
+      1
+     ],
+     "line": "I will arise and go to my father, <pause> and I will say to him, <inhale> Father, I have sinned against heaven, and before you,",
+     "line_at": 1.2,
+     "wps": 2.2,
+     "does": "He resolves to arise and go to his father and confess his sin",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -5.05,
+        -0.4
+       ],
+       "facing": 349,
+       "height": "seated"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        -4.92,
+        -0.45
+       ],
+       "facing": 350,
+       "height": "seated",
+       "note": "in a little as he finds the words"
+      },
+      {
+       "t": 13.4,
+       "pos": [
+        -4.8,
+        -0.48
+       ],
+       "facing": 351,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W25",
+     "setup": "S22",
+     "frames": 345,
+     "speaker": "ASHER",
+     "reached": [
+      1
+     ],
+     "line": "and I am no longer worthy to be called your son. <pause> Make me as one of your hired men.",
+     "line_at": 1.0,
+     "wps": 2.2,
+     "does": "He asks to be made one of the hired men, and the camera eases back to him alone at the trough under the stars",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -4.8,
+        -0.48
+       ],
+       "facing": 351,
+       "height": "seated"
+      },
+      {
+       "t": 10.4,
+       "pos": [
+        -4.86,
+        -0.46
+       ],
+       "facing": 350,
+       "height": "seated",
+       "note": "his face as he says the last of it"
+      },
+      {
+       "t": 14.2,
+       "pos": [
+        -7.2,
+        1.3
+       ],
+       "facing": 329,
+       "height": "standing",
+       "note": "easing back and up until he sits small and alone against the trough under the stars, the black field and the far scrub beyond"
+      }
+     ],
+     "out": {
+      "kind": "end"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "His face at the trough",
+     "extent": [
+      -6.0,
+      -3.2,
+      -1.6,
+      0.6
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "The pig fields are one bare field of rooted dust, about 110 by 64 m inside a low wall of piled field stones, with the three carob troughs in a straight row, the pen, the citizen's booth and fire and one lone carob; its east side ends in thorn scrub 67 to 72 m from the troughs, the owner's distant thorn scrub boundary.",
+  "The men at the estate wall wait in loose knots in the strip of morning shade, and the citizen walks the line beside them in the hard light.",
+  "Scene 1A's flash of the pigs at the trough and his own hand drifting toward the husks is the end of W09, over Asher's shoulder into the west trough.",
+  "The Scene 2 flash of the lamp coming up the black hill with the ewe across his father's shoulders cuts into W20 at 4.4 s; its source is Scene 2's W27 and W28.",
+  "He carries the pig the way his father carried the ewe, across his shoulders with its legs in his fists, and the camera walks ahead of him as Scene 2's W28 walks beside Eliab; the pig's flank is the W16 to W17 stitch, as the ewe's fleece is Scene 2's.",
+  "W15 rhymes Scene 2's signature move, the camera stopping at the trough while Asher goes after the lost one into the dark, as it stopped in the gateway while his father's lamp went down into the black valley.",
+  "W17 cuts to W18 on purpose, folding about 70 m of the carry across the black field into one break.",
+  "The soliloquy, W23 to W25, is the design note's chosen stillness on the exhausted face, at 2.2 words a second in the faint light of the citizen's low fire; its last 4 s ease back to him alone at the trough under the stars.",
+  "Asher sits facing home in the west-south-west and his father looks east down the road; the gate insert opens on the same stars that W21 ends on, and the dog lies at the gate as the design note keeps it there each dark."
+ ]
+}

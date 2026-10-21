@@ -20,6 +20,7 @@
 | 7 | SC07_PLATES/ | 6 | 36 | none |
 | 8 | SC08_PLATES/ | 7 | 42 | sc02, sc03, sc05 |
 | 9 | SC09_PLATES/ | 3 | 18 | sc07 |
+| 10 | SC10_PLATES/ | 6 | 36 | none |
 | 11 | SC11_PLATES/ | 1 | 6 | sc04a |
 | 12 | SC12_PLATES/ | 7 | 42 | sc00, sc01a, sc06b |
 | 13 | SC13_PLATES/ | 4 | 24 | sc02, sc06a, sc06b, sc08 |

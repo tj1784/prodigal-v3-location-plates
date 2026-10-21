@@ -1,0 +1,539 @@
+[
+ {
+  "scene": "10",
+  "plan": 0,
+  "plan_title": "The citizen's estate",
+  "heading": "EXT. CITIZEN'S ESTATE - DAY",
+  "place": "sc10:The citizen's estate",
+  "hour": "day",
+  "light": {
+   "kind": "sun",
+   "from_deg": 330,
+   "label": "morning, hard pale dry light; the men in the wall's strip of shade"
+  },
+  "pos": [
+   8.8,
+   3.25
+  ],
+  "facing": 292,
+  "setup": "S02",
+  "keys": 23,
+  "used_by": [
+   "10"
+  ],
+  "id": "sc10_A_the_citizens_estate",
+  "dir": "orbits/sc10/A_the_citizens_estate",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 292,
+    "sees": [
+     "Strip of morning shade (area), 1 m, right",
+     "Dry plain (area), 3 m, right",
+     "Estate court (area), 4 m, right",
+     "Storerooms and byres (building), 7 m, right",
+     "The citizen's house (building), 16 m, right"
+    ],
+    "sun": "ahead on the left"
+   },
+   "right": {
+    "heading_deg": 202,
+    "sees": [
+     "Strip of morning shade (area), 1 m, left",
+     "Dry plain (area), 3 m, left",
+     "Estate court (area), 4 m, left",
+     "Track to the pig fields, about 600 m north-east (track), 5 m, right",
+     "Road along the wall, to the city (track), 8 m, right",
+     "Estate gate (gate), 8 m, centre",
+     "The citizen's house (building), 11 m, left",
+     "Estate wall, mud brick, about 2.5 m (wall), 11 m, centre"
+    ],
+    "sun": "behind on the left"
+   },
+   "behind": {
+    "heading_deg": 112,
+    "sees": [
+     "Road along the wall, to the city (track), 4 m, right",
+     "Track to the pig fields, about 600 m north-east (track), 5 m, left",
+     "Dry plain (area), 37 m, right"
+    ],
+    "sun": "behind on the right"
+   },
+   "left": {
+    "heading_deg": 22,
+    "sees": [
+     "Strip of morning shade (area), 3 m, right",
+     "Road along the wall, to the city (track), 4 m, left",
+     "Dry plain (area), 6 m, right",
+     "Estate court (area), 8 m, right",
+     "Track to the pig fields, about 600 m north-east (track), 11 m, left",
+     "Storerooms and byres (building), 15 m, right"
+    ],
+    "sun": "ahead on the right"
+   }
+  }
+ },
+ {
+  "scene": "10",
+  "plan": 1,
+  "plan_title": "The pig fields before dawn",
+  "heading": "EXT. PIG FIELDS - BEFORE DAWN",
+  "place": "sc10:The pig fields before dawn",
+  "hour": "before dawn",
+  "light": {
+   "kind": "dawn",
+   "from_deg": 5,
+   "label": "before dawn, grey in the east, his breath showing, the citizen's fire down to embers"
+  },
+  "pos": [
+   -4.6,
+   -1.6
+  ],
+  "facing": 22,
+  "setup": "S05",
+  "keys": 8,
+  "used_by": [
+   "10"
+  ],
+  "id": "sc10_B_the_pig_fields_before_dawn",
+  "dir": "orbits/sc10/B_the_pig_fields_before_dawn",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 22,
+    "sees": [
+     "Carob troughs (prop), 5 m, centre",
+     "Bare field of rooted dust (area), 35 m, left",
+     "Low wall of piled field stones (wall), 35 m, left",
+     "Thorn scrub, the field's east boundary (area), 72 m, right",
+     "tree (tree), 75 m, right",
+     "tree (tree), 78 m, centre",
+     "tree (tree), 79 m, right",
+     "tree (tree), 79 m, right",
+     "tree (tree), 80 m, right",
+     "tree (tree), 80 m, right",
+     "tree (tree), 81 m, right",
+     "tree (tree), 82 m, right",
+     "tree (tree), 82 m, centre",
+     "tree (tree), 82 m, right"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "His fire, down to embers: behind the camera, the view lit from the front, 6 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 292,
+    "sees": [
+     "Lone carob tree (canopy), 10 m, left",
+     "Bare field of rooted dust (area), 30 m, right",
+     "Thorn scrub, the field's east boundary (area), 78 m, left",
+     "tree (tree), 91 m, left"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "His fire, down to embers: to the right, 6 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 202,
+    "sees": [
+     "Pig pen, low stone wall (wall), 6 m, right",
+     "His fire, down to embers (fire), 6 m, centre",
+     "The citizen's booth (building), 8 m, centre",
+     "gate (gate), 9 m, right",
+     "Cart track from the estate (track), 12 m, centre",
+     "Bare field of rooted dust (area), 32 m, left",
+     "Low wall of piled field stones (wall), 36 m, right"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "His fire, down to embers: ahead, the view backlit, 6 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 112,
+    "sees": [
+     "Pig pen, low stone wall (wall), 6 m, left",
+     "Bare field of rooted dust (area), 34 m, right",
+     "Low wall of piled field stones (wall), 34 m, right"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "His fire, down to embers: to the left, 6 m"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "10",
+  "plan": 2,
+  "plan_title": "The pig fields by day",
+  "heading": "EXT. PIG FIELDS - DAY",
+  "place": "sc10:The pig fields before dawn",
+  "hour": "day",
+  "light": {
+   "kind": "sun",
+   "from_deg": 270,
+   "label": "noon, high, hard and pale; the one shade under the lone carob"
+  },
+  "pos": [
+   2.0,
+   -5.22
+  ],
+  "facing": 325,
+  "setup": "S08",
+  "keys": 18,
+  "used_by": [
+   "10"
+  ],
+  "id": "sc10_C_the_pig_fields_by_day",
+  "dir": "orbits/sc10/C_the_pig_fields_by_day",
+  "from": "sc10_B_the_pig_fields_before_dawn",
+  "digest": {
+   "front": {
+    "heading_deg": 325,
+    "sees": [
+     "Lone carob tree (canopy), 3 m, right",
+     "Noon shade (area), 4 m, left",
+     "tree (tree), 69 m, left",
+     "tree (tree), 72 m, left",
+     "tree (tree), 73 m, left",
+     "tree (tree), 73 m, left",
+     "tree (tree), 74 m, left",
+     "tree (tree), 75 m, left",
+     "tree (tree), 75 m, left",
+     "tree (tree), 75 m, left",
+     "tree (tree), 76 m, left",
+     "tree (tree), 77 m, left",
+     "tree (tree), 78 m, left",
+     "tree (tree), 78 m, left"
+    ],
+    "sun": "ahead on the right"
+   },
+   "right": {
+    "heading_deg": 235,
+    "sees": [
+     "Noon shade (area), 2 m, right",
+     "The citizen's booth (building), 14 m, right"
+    ],
+    "sun": "ahead on the left"
+   },
+   "behind": {
+    "heading_deg": 145,
+    "sees": [
+     "Noon shade (area), 1 m, right",
+     "Carob troughs (prop), 6 m, right",
+     "Cold fire pit (prop), 13 m, left",
+     "Pig pen, low stone wall (wall), 13 m, centre",
+     "The citizen's booth (building), 14 m, left",
+     "gate (gate), 16 m, left"
+    ],
+    "sun": "behind on the left"
+   },
+   "left": {
+    "heading_deg": 55,
+    "sees": [
+     "Noon shade (area), 1 m, left",
+     "Carob pods, heaped (prop), 5 m, centre",
+     "tree (tree), 73 m, right",
+     "tree (tree), 73 m, right",
+     "tree (tree), 74 m, right",
+     "tree (tree), 75 m, right",
+     "tree (tree), 76 m, right",
+     "tree (tree), 77 m, right",
+     "tree (tree), 80 m, right",
+     "tree (tree), 80 m, right",
+     "tree (tree), 81 m, right",
+     "tree (tree), 82 m, right",
+     "tree (tree), 84 m, right",
+     "tree (tree), 85 m, right"
+    ],
+    "sun": "behind on the right"
+   }
+  }
+ },
+ {
+  "scene": "10",
+  "plan": 3,
+  "plan_title": "The pig fields at dusk",
+  "heading": "EXT. PIG FIELDS - DUSK",
+  "place": "sc10:The pig fields before dawn",
+  "hour": "dusk",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 195,
+   "label": "low sun at the field's west end, long shadows east to the scrub"
+  },
+  "pos": [
+   -0.7,
+   -1.5
+  ],
+  "facing": 10,
+  "setup": "S13",
+  "keys": 14,
+  "used_by": [
+   "10"
+  ],
+  "id": "sc10_D_the_pig_fields_at_dusk",
+  "dir": "orbits/sc10/D_the_pig_fields_at_dusk",
+  "from": "sc10_B_the_pig_fields_before_dawn",
+  "digest": {
+   "front": {
+    "heading_deg": 10,
+    "sees": [
+     "Bare field of rooted dust (area), 38 m, left",
+     "Low wall of piled field stones (wall), 39 m, left",
+     "Thorn scrub, the field's east boundary (area), 68 m, right",
+     "tree (tree), 72 m, centre",
+     "tree (tree), 75 m, centre",
+     "tree (tree), 76 m, right",
+     "tree (tree), 76 m, centre",
+     "tree (tree), 76 m, centre",
+     "tree (tree), 76 m, right",
+     "tree (tree), 77 m, centre",
+     "tree (tree), 78 m, centre",
+     "tree (tree), 78 m, centre",
+     "tree (tree), 78 m, right",
+     "tree (tree), 79 m, centre"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "The citizen's new fire: behind the camera, the view lit from the front, 10 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 280,
+    "sees": [
+     "canopy (canopy), 7 m, left",
+     "Bare field of rooted dust (area), 31 m, centre"
+    ],
+    "sun": "to the right",
+    "flame": [
+     "The citizen's new fire: to the right, 10 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 190,
+    "sees": [
+     "Pig pen, low stone wall (wall), 9 m, right",
+     "The citizen's new fire (fire), 10 m, centre",
+     "building (building), 12 m, centre",
+     "gate (gate), 13 m, right",
+     "Bare field of rooted dust (area), 35 m, left",
+     "Low wall of piled field stones (wall), 40 m, centre"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "The citizen's new fire: ahead, the view backlit, 10 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 100,
+    "sees": [
+     "Carob troughs (prop), 2 m, right",
+     "Pig pen, low stone wall (wall), 11 m, left",
+     "Bare field of rooted dust (area), 34 m, centre",
+     "Low wall of piled field stones (wall), 34 m, centre"
+    ],
+    "sun": "to the left",
+    "flame": [
+     "The citizen's new fire: to the left, 10 m"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "10",
+  "plan": 4,
+  "plan_title": "The scrub and the pen at night",
+  "heading": "EXT. SCRUB BEYOND THE PIG FIELDS - NIGHT · EXT. PIG FIELDS - NIGHT",
+  "place": "sc10:The pig fields before dawn",
+  "hour": "night",
+  "light": {
+   "kind": "fire",
+   "label": "starlight; the citizen's fire the one warm light"
+  },
+  "pos": [
+   66.8,
+   5.6
+  ],
+  "facing": 30,
+  "setup": "S15",
+  "keys": 9,
+  "used_by": [
+   "10"
+  ],
+  "id": "sc10_E_the_scrub_and_the_pen_at_night",
+  "dir": "orbits/sc10/E_the_scrub_and_the_pen_at_night",
+  "from": "sc10_C_the_pig_fields_by_day",
+  "digest": {
+   "front": {
+    "heading_deg": 30,
+    "sees": [
+     "Bare field of rooted dust (area), 5 m, right",
+     "Thorn scrub, the field's east boundary (area), 5 m, right",
+     "tree (tree), 8 m, right",
+     "Thorns where the pig is caught (tree), 9 m, centre",
+     "tree (tree), 13 m, left",
+     "tree (tree), 13 m, left",
+     "tree (tree), 14 m, right",
+     "tree (tree), 16 m, centre",
+     "tree (tree), 16 m, left",
+     "tree (tree), 16 m, right",
+     "tree (tree), 17 m, right",
+     "tree (tree), 19 m, right",
+     "tree (tree), 23 m, left",
+     "tree (tree), 25 m, right"
+    ],
+    "flame": [
+     "The citizen's fire: behind the camera, the view lit from the front, 78 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 300,
+    "sees": [
+     "Bare field of rooted dust (area), 5 m, left",
+     "Thorn scrub, the field's east boundary (area), 5 m, left",
+     "tree (tree), 8 m, left",
+     "tree (tree), 10 m, centre",
+     "tree (tree), 10 m, left",
+     "tree (tree), 14 m, left",
+     "tree (tree), 16 m, left",
+     "tree (tree), 17 m, centre",
+     "tree (tree), 17 m, left",
+     "tree (tree), 18 m, centre",
+     "tree (tree), 20 m, left",
+     "tree (tree), 23 m, right",
+     "tree (tree), 23 m, left",
+     "tree (tree), 25 m, centre"
+    ],
+    "flame": [
+     "The citizen's fire: behind on the right, 78 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 210,
+    "sees": [
+     "Bare field of rooted dust (area), 38 m, left",
+     "canopy (canopy), 65 m, right",
+     "Carob troughs (prop), 67 m, right",
+     "Low wall of piled field stones (wall), 72 m, right",
+     "Pig pen, low stone wall (wall), 77 m, right",
+     "The citizen's fire (fire), 78 m, right",
+     "building (building), 80 m, right",
+     "gate (gate), 80 m, right"
+    ],
+    "flame": [
+     "The citizen's fire: ahead, the view backlit, 78 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 120,
+    "sees": [
+     "Bare field of rooted dust (area), 9 m, right",
+     "Thorn scrub, the field's east boundary (area), 9 m, right",
+     "tree (tree), 13 m, right",
+     "Low wall of piled field stones (wall), 27 m, right"
+    ],
+    "flame": [
+     "The citizen's fire: ahead on the left, 78 m"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "10",
+  "plan": 4,
+  "plan_title": "The scrub and the pen at night",
+  "heading": "EXT. SCRUB BEYOND THE PIG FIELDS - NIGHT · EXT. PIG FIELDS - NIGHT",
+  "place": "sc10:The pig fields before dawn",
+  "hour": "night",
+  "light": {
+   "kind": "fire",
+   "label": "starlight; the citizen's fire the one warm light"
+  },
+  "pos": [
+   -9.65,
+   -4.35
+  ],
+  "facing": 210,
+  "setup": "S17",
+  "keys": 18,
+  "used_by": [
+   "10"
+  ],
+  "id": "sc10_F_the_scrub_and_the_pen_at_night",
+  "dir": "orbits/sc10/F_the_scrub_and_the_pen_at_night",
+  "from": "sc10_B_the_pig_fields_before_dawn",
+  "digest": {
+   "front": {
+    "heading_deg": 210,
+    "sees": [
+     "building (building), 2 m, centre",
+     "Pig pen, low stone wall (wall), 12 m, right",
+     "Bare field of rooted dust (area), 28 m, left",
+     "Low wall of piled field stones (wall), 31 m, right"
+    ],
+    "flame": [
+     "The citizen's fire: ahead on the right, 1 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 120,
+    "sees": [
+     "The citizen's fire (fire), 1 m, left",
+     "Pig pen, low stone wall (wall), 4 m, right",
+     "gate (gate), 6 m, centre",
+     "Bare field of rooted dust (area), 31 m, left",
+     "Low wall of piled field stones (wall), 31 m, left"
+    ],
+    "flame": [
+     "The citizen's fire: ahead, the view backlit, 1 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 30,
+    "sees": [
+     "Carob troughs (prop), 11 m, centre",
+     "canopy (canopy), 14 m, right",
+     "Bare field of rooted dust (area), 37 m, left",
+     "Low wall of piled field stones (wall), 37 m, left",
+     "Thorn scrub, the field's east boundary (area), 77 m, right",
+     "tree (tree), 80 m, right",
+     "tree (tree), 84 m, right",
+     "tree (tree), 84 m, right",
+     "tree (tree), 85 m, right",
+     "tree (tree), 85 m, right",
+     "Thorns where the pig is caught (tree), 85 m, right",
+     "tree (tree), 86 m, right",
+     "tree (tree), 87 m, right",
+     "tree (tree), 87 m, right"
+    ],
+    "flame": [
+     "The citizen's fire: to the left, 1 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 300,
+    "sees": [
+     "canopy (canopy), 14 m, left",
+     "Bare field of rooted dust (area), 28 m, right",
+     "Thorn scrub, the field's east boundary (area), 80 m, left",
+     "tree (tree), 84 m, left",
+     "tree (tree), 89 m, left",
+     "tree (tree), 95 m, left",
+     "tree (tree), 96 m, left",
+     "tree (tree), 102 m, left",
+     "tree (tree), 107 m, left",
+     "tree (tree), 109 m, left",
+     "tree (tree), 110 m, left",
+     "tree (tree), 115 m, left"
+    ],
+    "flame": [
+     "The citizen's fire: behind the camera, the view lit from the front, 1 m"
+    ]
+   }
+  }
+ }
+]
