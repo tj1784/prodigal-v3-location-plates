@@ -1,0 +1,2113 @@
+{
+ "scene": "6B",
+ "title": "The departure and the bend",
+ "subtitle": "EXT. ELIAB'S FARM - GATE - DAWN · EXT. THE ROAD - THE BEND - MORNING · EXT. ELIAB'S FARM - GATE - DUSK · the blessing at the gate, Amos's cloak at the bend, the lamp lit alone",
+ "plans": [
+  {
+   "title": "The gate at dawn",
+   "heading": "EXT. ELIAB'S FARM - GATE - DAWN",
+   "place_ref": [
+    "eliab_farm"
+   ],
+   "extent": [
+    -38,
+    26,
+    -14,
+    8
+   ],
+   "grid": "+x east · +y north · metres · origin the lamp niche in the north gatepost (0, 0) · one frame for eliab_farm and eliab_valley",
+   "light": {
+    "kind": "dawn",
+    "from_deg": 5,
+    "label": "first light low from the east straight down the road, mist lying in the valley"
+   },
+   "place": [
+    {
+     "kind": "area",
+     "fill": "straw",
+     "polygon": [
+      [
+       0.45,
+       -0.45
+      ],
+      [
+       -7.0,
+       -1.1
+      ],
+      [
+       -7.0,
+       -3.8
+      ],
+      [
+       0.45,
+       -3.15
+      ]
+     ],
+     "label": "First light through the gateway",
+     "label_at": [
+      -5.2,
+      -4.6
+     ]
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -0.45,
+      0.0
+     ],
+     "label": "Cold lamp in the niche"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      6.4,
+      -2.65
+     ],
+     "label": "Asher turns to the dog"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      17.5,
+      -11.5
+     ],
+     "label": "Mist lying in the valley below"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -35.8,
+      -2.6
+     ],
+     "label": "Millstones grinding in the house"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -29.6,
+      -11.2
+     ],
+     "label": "Oven smoke rising straight up"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "named": true,
+     "pos": [
+      0.45,
+      -1.75
+     ],
+     "facing_deg": 280,
+     "note": "purple hem, sling on his wrist, at the bags"
+    },
+    {
+     "n": 2,
+     "name": "Eliab",
+     "named": true,
+     "pos": [
+      -1.05,
+      -0.2
+     ],
+     "facing_deg": 340,
+     "note": "rust-red mantle, by the niche post"
+    },
+    {
+     "n": 3,
+     "name": "Miriam",
+     "named": true,
+     "pos": [
+      -11.5,
+      -2.4
+     ],
+     "facing_deg": 5,
+     "note": "a round of bread from the ovens"
+    },
+    {
+     "n": 4,
+     "name": "the jenny",
+     "animal": true,
+     "pos": [
+      0.5,
+      -2.6
+     ],
+     "facing_deg": 352,
+     "note": "two leather bags, the silver sewn in"
+    },
+    {
+     "n": 5,
+     "name": "Asher's dog",
+     "animal": true,
+     "pos": [
+      0.85,
+      -0.95
+     ],
+     "facing_deg": 200,
+     "note": "lying at the gate"
+    }
+   ],
+   "paths": [
+    {
+     "who": 3,
+     "points": [
+      [
+       -11.5,
+       -2.4
+      ],
+      [
+       -6.0,
+       -2.15
+      ],
+      [
+       -2.4,
+       -1.75
+      ],
+      [
+       -0.95,
+       -1.3
+      ]
+     ],
+     "note": "up the lane from the ovens with the round of bread"
+    },
+    {
+     "who": 3,
+     "points": [
+      [
+       -0.95,
+       -1.3
+      ],
+      [
+       -1.6,
+       -1.95
+      ],
+      [
+       -2.0,
+       -2.2
+      ]
+     ],
+     "note": "steps back to watch the blessing"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       0.45,
+       -1.75
+      ],
+      [
+       0.15,
+       -1.35
+      ],
+      [
+       -0.25,
+       -1.1
+      ]
+     ],
+     "note": "from the bags to Miriam and his father"
+    },
+    {
+     "who": 2,
+     "points": [
+      [
+       -1.05,
+       -0.2
+      ],
+      [
+       -0.85,
+       -0.75
+      ]
+     ],
+     "note": "out of the post's shadow into the first light to lay his hands on his son's head"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       -0.25,
+       -1.1
+      ],
+      [
+       0.6,
+       -1.7
+      ],
+      [
+       1.3,
+       -2.05
+      ],
+      [
+       4.0,
+       -2.4
+      ],
+      [
+       6.4,
+       -2.7
+      ]
+     ],
+     "note": "takes the halter at the jenny's head and leads her out of the gate, then turns to the dog"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       6.4,
+       -2.7
+      ],
+      [
+       12.0,
+       -4.25
+      ],
+      [
+       18.0,
+       -6.3
+      ],
+      [
+       30.0,
+       -11.8
+      ],
+      [
+       44.0,
+       -19.8
+      ]
+     ],
+     "note": "on down the road east into the sunrise"
+    },
+    {
+     "who": 4,
+     "points": [
+      [
+       0.5,
+       -2.6
+      ],
+      [
+       4.6,
+       -2.95
+      ],
+      [
+       7.0,
+       -3.3
+      ],
+      [
+       12.5,
+       -4.95
+      ],
+      [
+       18.5,
+       -7.0
+      ],
+      [
+       30.0,
+       -12.4
+      ],
+      [
+       44.0,
+       -20.4
+      ]
+     ],
+     "note": "led out of the gate and down the road east"
+    },
+    {
+     "who": 5,
+     "points": [
+      [
+       0.85,
+       -0.95
+      ],
+      [
+       2.6,
+       -1.75
+      ],
+      [
+       4.4,
+       -2.15
+      ]
+     ],
+     "note": "starts after Asher down the road"
+    },
+    {
+     "who": 5,
+     "points": [
+      [
+       4.4,
+       -2.15
+      ],
+      [
+       3.0,
+       -1.25
+      ],
+      [
+       1.2,
+       -0.95
+      ],
+      [
+       -0.55,
+       -1.15
+      ]
+     ],
+     "note": "told to stay, comes back and sits at Eliab's feet"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S01",
+     "what": "Low on the stitched bags of the loaded jenny",
+     "pos": [
+      -0.15,
+      -1.95
+     ],
+     "facing_deg": 343,
+     "height": "knee",
+     "wedge_m": 2.2
+    },
+    {
+     "shot": "S02",
+     "what": "Miriam's bread into Asher's hands",
+     "pos": [
+      -0.3,
+      -1.8
+     ],
+     "facing_deg": 142,
+     "height": "standing",
+     "wedge_m": 1.6
+    },
+    {
+     "shot": "S03",
+     "what": "The father's hands on his son's head",
+     "pos": [
+      -0.45,
+      -1.85
+     ],
+     "facing_deg": 96,
+     "height": "standing",
+     "wedge_m": 1.8
+    },
+    {
+     "shot": "S04",
+     "what": "Over Asher's shoulder onto the father's lit face",
+     "pos": [
+      0.2,
+      -1.45
+     ],
+     "facing_deg": 146,
+     "height": "standing",
+     "wedge_m": 1.8
+    },
+    {
+     "shot": "S05",
+     "what": "Past Eliab's head to the cold lamp in the niche",
+     "pos": [
+      -1.15,
+      -1.75
+     ],
+     "facing_deg": 68,
+     "height": "standing",
+     "wedge_m": 2.0
+    },
+    {
+     "shot": "S06",
+     "what": "The still face, the hand gripping the gatepost",
+     "pos": [
+      0.05,
+      -1.8
+     ],
+     "facing_deg": 120,
+     "height": "standing",
+     "wedge_m": 1.6
+    },
+    {
+     "shot": "S07",
+     "what": "Past the father's shoulder down the road east",
+     "pos": [
+      -1.4,
+      -1.0
+     ],
+     "facing_deg": 345,
+     "height": "standing",
+     "wedge_m": 16
+    }
+   ],
+   "windows": [
+    {
+     "id": "W01",
+     "setup": "S01",
+     "frames": 226,
+     "speaker": null,
+     "reached": [
+      1,
+      3,
+      4,
+      5
+     ],
+     "does": "First light on the loaded grey jenny in the gateway as Asher tests the stitched leather bags with the silver sewn into them, mist lying in the valley below and the millstones grinding in the house, and the FLASH from Scene 9 of a purse tipped over an open palm and its single coin cuts in on the bags",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.15,
+        -1.95
+       ],
+       "facing": 343,
+       "height": "knee",
+       "note": "low and close on the stitched leather bag at the jenny's flank, the open gateway and the mist in the valley beyond"
+      },
+      {
+       "t": 3.8,
+       "pos": [
+        0.1,
+        -1.98
+       ],
+       "facing": 341,
+       "height": "knee",
+       "note": "in along the seam where the silver is sewn into the leather"
+      },
+      {
+       "t": 6.2,
+       "pos": [
+        0.0,
+        -1.95
+       ],
+       "facing": 24,
+       "height": "standing",
+       "note": "rising with Asher's hands from the strap to his face as he straightens"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        0.05,
+        -1.95
+       ],
+       "facing": 182,
+       "height": "standing",
+       "note": "turning with his eyes to Miriam coming up the lane with a round of bread, the house and the oven smoke beyond"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W02",
+     "setup": "S02",
+     "frames": 209,
+     "speaker": "MIRIAM",
+     "line": "Eat it slowly. <pause> There is no oven on that road.",
+     "line_at": 2.8,
+     "wps": 2.6,
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "does": "Miriam comes up the lane from the ovens and presses a round of bread into Asher's hands, speaks to him over it, and steps back",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.05,
+        -1.95
+       ],
+       "facing": 182,
+       "height": "standing"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        -0.2,
+        -1.75
+       ],
+       "facing": 126,
+       "height": "seated",
+       "note": "down to the round of bread as Miriam presses it into his hands"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        -0.3,
+        -1.8
+       ],
+       "facing": 142,
+       "height": "standing",
+       "note": "up to Miriam's floured face over the bread"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        -0.35,
+        -1.75
+       ],
+       "facing": 81,
+       "height": "standing",
+       "note": "Asher's face over the bread as Miriam steps back"
+      },
+      {
+       "t": 8.2,
+       "pos": [
+        -0.3,
+        -1.5
+       ],
+       "facing": 108,
+       "height": "seated",
+       "note": "down into the round of bread at his chest until the crust fills the frame"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the warm floury crust of the round of bread in Asher's hands",
+      "slides": "back"
+     }
+    },
+    {
+     "id": "W03",
+     "setup": "S03",
+     "frames": 192,
+     "speaker": "ELIAB",
+     "line": "The LORD bless you, and keep you.",
+     "line_at": 2.6,
+     "wps": 2.1,
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "does": "Asher lowers the bread, Eliab steps out of the gatepost's shadow into the light and lays his hands on his son's head, Asher's eyes close, and the blessing begins",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.35,
+        -1.55
+       ],
+       "facing": 98,
+       "height": "seated",
+       "note": "the crust dropping away below the lens"
+      },
+      {
+       "t": 2.0,
+       "pos": [
+        -0.45,
+        -1.85
+       ],
+       "facing": 96,
+       "height": "standing",
+       "note": "rising as the father steps out of the post's shadow into the light and lays his hands on his son's head"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        -0.5,
+        -1.9
+       ],
+       "facing": 93,
+       "height": "standing",
+       "note": "Asher's eyes closed under the old hands, the two of them in the light of the gateway"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W04",
+     "setup": "S04",
+     "frames": 226,
+     "speaker": "ELIAB",
+     "line": "The LORD make his face to shine upon you, and be gracious to you.",
+     "line_at": 1.2,
+     "wps": 2.1,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "The camera comes round behind Asher's shoulder onto his father's face in the first sun through the gateway as the blessing goes on",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.5,
+        -1.9
+       ],
+       "facing": 93,
+       "height": "standing"
+      },
+      {
+       "t": 3.4,
+       "pos": [
+        -0.05,
+        -1.75
+       ],
+       "facing": 129,
+       "height": "standing",
+       "note": "round Asher's side between him and the jenny"
+      },
+      {
+       "t": 6.4,
+       "pos": [
+        0.2,
+        -1.45
+       ],
+       "facing": 146,
+       "height": "standing",
+       "note": "behind Asher's right shoulder onto his father's face in the low sun"
+      },
+      {
+       "t": 8.8,
+       "pos": [
+        0.15,
+        -1.4
+       ],
+       "facing": 147,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W05",
+     "setup": null,
+     "frames": 209,
+     "speaker": "ELIAB",
+     "line": "The LORD lift up his countenance upon you, and give you peace.",
+     "line_at": 1.2,
+     "wps": 2.1,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "Over his son's shoulder the camera eases in on the old face as Eliab finishes the blessing of Aaron",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.15,
+        -1.4
+       ],
+       "facing": 147,
+       "height": "standing"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        0.0,
+        -1.3
+       ],
+       "facing": 147,
+       "height": "standing",
+       "note": "a slow half pace in over the son's shoulder onto the old face and the hands on the bowed head"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W06",
+     "setup": "S03",
+     "frames": 243,
+     "speaker": "ELIAB",
+     "line": "Be strong and of good courage. <pause> The LORD your God is with you wherever you go.",
+     "line_at": 1.0,
+     "wps": 2.2,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "Eliab charges his son to be strong and of good courage while the camera drifts back round to the two of them, the son's eyes still closed under his hands",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.0,
+        -1.3
+       ],
+       "facing": 147,
+       "height": "standing"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        0.05,
+        -1.7
+       ],
+       "facing": 128,
+       "height": "standing",
+       "note": "drifting back round the son's side"
+      },
+      {
+       "t": 9.4,
+       "pos": [
+        -0.45,
+        -1.85
+       ],
+       "facing": 96,
+       "height": "standing",
+       "note": "the two of them side on again, the old hands on the head and the son's eyes closed"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W07",
+     "setup": "S05",
+     "frames": 158,
+     "speaker": "ELIAB",
+     "line": "The lamp is lit at every dark.",
+     "line_at": 1.6,
+     "wps": 2.2,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "Eliab's eyes go to the cold lamp in the niche of the north gatepost as he speaks, and the camera follows them past his head to the lamp",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.45,
+        -1.85
+       ],
+       "facing": 96,
+       "height": "standing"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        -0.75,
+        -1.85
+       ],
+       "facing": 95,
+       "height": "standing",
+       "note": "onto the father's face as his eyes go to the niche"
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        -1.15,
+        -1.75
+       ],
+       "facing": 68,
+       "height": "standing",
+       "note": "past his turning head to the cold lamp in the niche of the north gatepost"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W08",
+     "setup": "S06",
+     "frames": 175,
+     "speaker": "ASHER",
+     "line": "Save your oil.",
+     "line_at": 1.8,
+     "wps": 2.4,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "Asher opens his eyes and gives his answer, Eliab's face goes still, and his hand grips the gatepost",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -1.15,
+        -1.75
+       ],
+       "facing": 68,
+       "height": "standing"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        -1.15,
+        -1.75
+       ],
+       "facing": 36,
+       "height": "standing",
+       "note": "a turn to Asher's face as his eyes open"
+      },
+      {
+       "t": 3.4,
+       "pos": [
+        -1.1,
+        -1.8
+       ],
+       "facing": 39,
+       "height": "standing"
+      },
+      {
+       "t": 6.8,
+       "pos": [
+        0.05,
+        -1.8
+       ],
+       "facing": 120,
+       "height": "standing",
+       "note": "across behind the son to the father's face gone still and his hand gripping the gatepost"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W09",
+     "setup": null,
+     "frames": 158,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      4,
+      5
+     ],
+     "does": "Asher takes the halter and leads the loaded jenny out of the gate onto the road east, and his dog gets up and starts after him",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.05,
+        -1.8
+       ],
+       "facing": 120,
+       "height": "standing"
+      },
+      {
+       "t": 1.8,
+       "pos": [
+        0.0,
+        -1.75
+       ],
+       "facing": 327,
+       "height": "standing",
+       "note": "turning with Asher as he passes the lens and takes the halter at the jenny's head"
+      },
+      {
+       "t": 6.2,
+       "pos": [
+        -1.5,
+        -1.05
+       ],
+       "facing": 348,
+       "height": "standing",
+       "note": "round behind the father's shoulder as his son leads the jenny out through the gateway and the dog gets up and follows"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W10",
+     "setup": "S07",
+     "frames": 311,
+     "speaker": "ASHER",
+     "line": "Stay. <pause> Keep the flock. <pause> You always did.",
+     "line_at": 2.6,
+     "wps": 2.4,
+     "reached": [
+      1,
+      2,
+      4,
+      5
+     ],
+     "does": "On the road Asher turns and tells the dog to stay, the dog comes back and sits at Eliab's feet, and Asher goes on down the road into the sunrise while his father watches from the gateway",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -1.5,
+        -1.05
+       ],
+       "facing": 348,
+       "height": "standing"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        -1.45,
+        -1.0
+       ],
+       "facing": 347,
+       "height": "standing",
+       "note": "past the father's shoulder as Asher turns on the road and speaks to the dog"
+      },
+      {
+       "t": 7.4,
+       "pos": [
+        -1.25,
+        -1.2
+       ],
+       "facing": 4,
+       "height": "knee",
+       "note": "down with the dog as it comes back through the gateway and sits at Eliab's feet"
+      },
+      {
+       "t": 12.4,
+       "pos": [
+        -1.4,
+        -1.0
+       ],
+       "facing": 345,
+       "height": "standing",
+       "note": "rising to the father's shoulder, his son and the jenny going small down the road into the sunrise"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The bread and the blessing",
+     "extent": [
+      -2.9,
+      2.1,
+      -2.8,
+      0.3
+     ]
+    },
+    {
+     "key": "B",
+     "title": "Out of the gate, the dog sent back",
+     "extent": [
+      -2.2,
+      8.2,
+      -4.0,
+      0.9
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The road at the bend",
+   "heading": "EXT. THE ROAD - THE BEND - MORNING",
+   "place_ref": [
+    "eliab_valley"
+   ],
+   "extent": [
+    880,
+    1470,
+    -700,
+    -470
+   ],
+   "grid": "+x east · +y north · metres · the farm frame, origin the lamp niche at Eliab's gate 1.2 km back up the road · the bend at (1040, −580)",
+   "light": {
+    "kind": "sun",
+    "from_deg": 350,
+    "label": "low morning sun in the east, a little south of where it rose, haze over the valley"
+   },
+   "place": [
+    {
+     "kind": "area",
+     "fill": "scree",
+     "label": "The last spur of the hill",
+     "label_at": [
+      1018.08,
+      -549.94
+     ],
+     "polygon": [
+      [
+       983.89,
+       -558.47
+      ],
+      [
+       1017.03,
+       -569.75
+      ],
+      [
+       1035.9,
+       -576.39
+      ],
+      [
+       1044.29,
+       -578.17
+      ],
+      [
+       1054.69,
+       -575.98
+      ],
+      [
+       1053.34,
+       -556.61
+      ],
+      [
+       1033.07,
+       -535.82
+      ],
+      [
+       996.69,
+       -534.74
+      ]
+     ]
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      1037.36,
+      -576.75
+     ],
+     "size": [
+      1.6,
+      1.0
+     ],
+     "angle": -10,
+     "shape": "ellipse",
+     "label": "Boulders at the spur's foot"
+    },
+    {
+     "kind": "contour",
+     "points": [
+      [
+       919.5,
+       -555.33
+      ],
+      [
+       998.55,
+       -578.35
+      ],
+      [
+       1036.97,
+       -589.53
+      ],
+      [
+       1097.78,
+       -600.14
+      ],
+      [
+       1216.09,
+       -620.61
+      ],
+      [
+       1453.76,
+       -656.59
+      ]
+     ],
+     "label": "Slope down to the valley floor (−y)"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      1041.44,
+      -580.5
+     ],
+     "label": "Asher stops and turns"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      1040.63,
+      -580.19
+     ],
+     "label": "Amos with the cloak"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      920.75,
+      -531.2
+     ],
+     "label": "Up the road to the village and the farm gate, 1.2 km"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      1239.34,
+      -598.6
+     ],
+     "label": "The road runs straight and open east"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      1437.12,
+      -627.4
+     ],
+     "label": "A speck in the glare, then the empty road"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      1200,
+      -672
+     ],
+     "label": "Morning haze over the valley"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "named": true,
+     "pos": [
+      1032.29,
+      -577.86
+     ],
+     "facing_deg": 342,
+     "note": "walking east, the jenny led on his left"
+    },
+    {
+     "n": 2,
+     "name": "Amos",
+     "named": true,
+     "pos": [
+      1008.61,
+      -569.8
+     ],
+     "facing_deg": 342,
+     "note": "running, his own cloak over his arm"
+    },
+    {
+     "n": 3,
+     "name": "the jenny",
+     "animal": true,
+     "pos": [
+      1032.26,
+      -576.96
+     ],
+     "facing_deg": 342,
+     "note": "loaded, on Asher's north side"
+    }
+   ],
+   "paths": [
+    {
+     "who": 1,
+     "points": [
+      [
+       1032.29,
+       -577.86
+      ],
+      [
+       1037.05,
+       -579.38
+      ],
+      [
+       1041.44,
+       -580.5
+      ]
+     ],
+     "note": "down to the bend, where he hears his brother and turns"
+    },
+    {
+     "who": 3,
+     "points": [
+      [
+       1032.26,
+       -576.96
+      ],
+      [
+       1037.32,
+       -578.52
+      ],
+      [
+       1041.96,
+       -579.67
+      ]
+     ],
+     "note": "led down to the bend"
+    },
+    {
+     "who": 2,
+     "points": [
+      [
+       1008.61,
+       -569.8
+      ],
+      [
+       1025.74,
+       -575.36
+      ],
+      [
+       1037.14,
+       -579.09
+      ],
+      [
+       1040.63,
+       -580.19
+      ]
+     ],
+     "note": "runs the last of the road and catches him at the bend"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       1041.44,
+       -580.5
+      ],
+      [
+       1042.58,
+       -580.36
+      ],
+      [
+       1069.69,
+       -584.33
+      ],
+      [
+       1158.83,
+       -596.71
+      ],
+      [
+       1297.5,
+       -615.97
+      ],
+      [
+       1436.26,
+       -634.55
+      ]
+     ],
+     "note": "takes the halter and goes on east down the straight road until he is a speck in the glare"
+    },
+    {
+     "who": 3,
+     "points": [
+      [
+       1041.96,
+       -579.67
+      ],
+      [
+       1069.8,
+       -583.53
+      ],
+      [
+       1158.94,
+       -595.91
+      ],
+      [
+       1297.61,
+       -615.17
+      ],
+      [
+       1436.36,
+       -633.76
+      ]
+     ],
+     "note": "led on east"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S08",
+     "what": "Ahead of Asher and the jenny on the road",
+     "pos": [
+      1034.41,
+      -578.43
+     ],
+     "facing_deg": 165,
+     "height": "standing",
+     "wedge_m": 8
+    },
+    {
+     "shot": "S09",
+     "what": "Amos holds out his own cloak at the bend",
+     "pos": [
+      1042.13,
+      -581.05
+     ],
+     "facing_deg": 150,
+     "height": "standing",
+     "wedge_m": 2.2
+    },
+    {
+     "shot": "S10",
+     "what": "Over Asher's shoulder onto Amos and the sling",
+     "pos": [
+      1041.86,
+      -580.81
+     ],
+     "facing_deg": 167,
+     "height": "standing",
+     "wedge_m": 2
+    },
+    {
+     "shot": "S11",
+     "what": "Asher's joke, Amos beyond",
+     "pos": [
+      1040.99,
+      -581.2
+     ],
+     "facing_deg": 57,
+     "height": "standing",
+     "wedge_m": 2
+    },
+    {
+     "shot": "S12",
+     "what": "Behind Amos, Asher going down the road",
+     "pos": [
+      1039.75,
+      -580.45
+     ],
+     "facing_deg": 354,
+     "height": "standing",
+     "wedge_m": 30
+    },
+    {
+     "shot": "S13",
+     "what": "Up on the spur's boulders, the speck on the road",
+     "pos": [
+      1037.24,
+      -577.13
+     ],
+     "facing_deg": 352,
+     "height": "high",
+     "wedge_m": 380
+    }
+   ],
+   "windows": [
+    {
+     "id": "W11",
+     "setup": "S08",
+     "frames": 243,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "does": "Asher walks the jenny down the road toward the bend while far behind him Amos comes running down the road with his own cloak over his arm, and Asher hears him and turns",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1034.41,
+        -578.43
+       ],
+       "facing": 165,
+       "height": "standing",
+       "note": "walking backward ahead of Asher and the jenny as they come down to the bend, the road climbing back up the valley behind them"
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        1040.16,
+        -580.32
+       ],
+       "facing": 163,
+       "height": "standing",
+       "note": "far behind him Amos coming down the road at a run"
+      },
+      {
+       "t": 7.2,
+       "pos": [
+        1042.3,
+        -581.63
+       ],
+       "facing": 138,
+       "height": "standing",
+       "note": "a step aside to the road's south edge as Asher slows and turns"
+      },
+      {
+       "t": 9.6,
+       "pos": [
+        1042.27,
+        -581.48
+       ],
+       "facing": 153,
+       "height": "standing",
+       "note": "past Asher's shoulder as Amos comes up the last of the road with his cloak over his arm"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W12",
+     "setup": "S09",
+     "frames": 226,
+     "speaker": "AMOS",
+     "line": "You will be cold in the hills beyond the Jordan.",
+     "line_at": 2.0,
+     "wps": 2.4,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "Amos catches his breath and speaks, then holds out his own cloak at the bend of the road, the moment Scene 1A's FLASH takes, and Asher takes it",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1042.27,
+        -581.48
+       ],
+       "facing": 153,
+       "height": "standing"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        1042.16,
+        -581.16
+       ],
+       "facing": 148,
+       "height": "standing",
+       "note": "past Asher's shoulder onto Amos catching his breath, the cloak over his arm"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        1042.13,
+        -581.05
+       ],
+       "facing": 150,
+       "height": "standing",
+       "note": "Amos holding out his own cloak, the road bending away behind him round the spur"
+      },
+      {
+       "t": 8.8,
+       "pos": [
+        1041.85,
+        -580.86
+       ],
+       "facing": 142,
+       "height": "seated",
+       "note": "down with the cloak as Asher takes it, until the dark wool fills the frame"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the coarse dark-brown goat-hair wool of Amos's cloak",
+      "slides": "right"
+     }
+    },
+    {
+     "id": "W13",
+     "setup": null,
+     "frames": 192,
+     "speaker": "AMOS",
+     "line": "Father would want you warm.",
+     "line_at": 1.6,
+     "wps": 2.4,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "The cloak slides away to Amos's face as he speaks, and he pulls his brother into a short rough embrace and holds him stiffly",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1041.85,
+        -580.86
+       ],
+       "facing": 142,
+       "height": "seated"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        1041.75,
+        -581.2
+       ],
+       "facing": 138,
+       "height": "standing",
+       "note": "rising as the cloak slides away to Amos's face beside Asher's shoulder"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        1042.17,
+        -581.06
+       ],
+       "facing": 151,
+       "height": "standing",
+       "note": "a quarter arc round behind Asher as Amos pulls him into a short rough embrace"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        1042.01,
+        -580.78
+       ],
+       "facing": 159,
+       "height": "standing",
+       "note": "close behind Asher's shoulder as Amos holds him stiffly"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W14",
+     "setup": "S10",
+     "frames": 209,
+     "speaker": "AMOS",
+     "line": "I plaited that for you when you could barely lift a stone.",
+     "line_at": 2.4,
+     "wps": 2.4,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "Over his brother's shoulder Amos sees the sling wound round Asher's wrist and speaks low at his ear, and the embrace breaks",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1042.01,
+        -580.78
+       ],
+       "facing": 159,
+       "height": "standing"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        1041.86,
+        -580.81
+       ],
+       "facing": 167,
+       "height": "standing",
+       "note": "close over Asher's shoulder on Amos's face as his eyes find the sling wound round his brother's wrist"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        1041.76,
+        -580.75
+       ],
+       "facing": 156,
+       "height": "standing",
+       "note": "a half pace in on his low words at his brother's ear"
+      },
+      {
+       "t": 8.2,
+       "pos": [
+        1042.01,
+        -581.14
+       ],
+       "facing": 146,
+       "height": "standing",
+       "note": "easing back as the embrace breaks"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W15",
+     "setup": "S11",
+     "frames": 209,
+     "speaker": "ASHER",
+     "line": "Keep my ewe fat. <pause> I will want her for my wedding.",
+     "line_at": 1.4,
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "does": "Asher steps back and tries for a joke, and it dies in the morning air while Amos stands silent",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1042.01,
+        -581.14
+       ],
+       "facing": 146,
+       "height": "standing"
+      },
+      {
+       "t": 1.2,
+       "pos": [
+        1040.99,
+        -581.2
+       ],
+       "facing": 57,
+       "height": "standing",
+       "note": "round to Asher's face as he steps back and tries for a joke"
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        1040.79,
+        -581.22
+       ],
+       "facing": 99,
+       "height": "standing",
+       "note": "across to Amos's face as the joke dies and he stays silent"
+      },
+      {
+       "t": 8.2,
+       "pos": [
+        1040.73,
+        -581.26
+       ],
+       "facing": 95,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W16",
+     "setup": "S12",
+     "frames": 243,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "does": "Asher takes the halter and goes on down the straight road east with the jenny, his eyes on the road ahead, while Amos stands at the bend and watches him go",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1040.73,
+        -581.26
+       ],
+       "facing": 95,
+       "height": "standing"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        1040.14,
+        -580.78
+       ],
+       "facing": 354,
+       "height": "standing",
+       "note": "turning with Asher as he takes the halter and goes, round behind Amos's shoulder"
+      },
+      {
+       "t": 9.6,
+       "pos": [
+        1039.75,
+        -580.45
+       ],
+       "facing": 354,
+       "height": "standing",
+       "note": "behind Amos's shoulder, Asher and the jenny going away down the straight road into the low sun"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    },
+    {
+     "id": "W17",
+     "setup": "S13",
+     "frames": 345,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "does": "Long afterward Amos still stands at the bend while far out on the straight road his brother and the jenny are a speck in the low sun and haze, and then the road lies empty",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1037.24,
+        -577.13
+       ],
+       "facing": 352,
+       "height": "high",
+       "note": "up on the boulders at the spur's foot behind Amos, the long straight road east and a speck far out on it"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        1037.32,
+        -577.21
+       ],
+       "facing": 352,
+       "height": "high",
+       "note": "the speck going into the glare and haze over the road"
+      },
+      {
+       "t": 13.8,
+       "pos": [
+        1037.4,
+        -577.28
+       ],
+       "facing": 352,
+       "height": "high",
+       "note": "the empty road in the haze and Amos still at the bend"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "Amos catches him at the bend",
+     "extent": [
+      1031,
+      1045,
+      -583.5,
+      -575.5
+     ]
+    },
+    {
+     "key": "B",
+     "title": "The cloak and the embrace",
+     "extent": [
+      1039.4,
+      1044.4,
+      -582.2,
+      -578.8
+     ]
+    }
+   ],
+   "join_bows": [
+    {
+     "from": "W16",
+     "to": "W17",
+     "bow": 0.5
+    }
+   ]
+  },
+  {
+   "title": "The gate at dusk",
+   "heading": "EXT. ELIAB'S FARM - GATE - DUSK",
+   "place_ref": [
+    "eliab_farm"
+   ],
+   "extent": [
+    -17,
+    7,
+    -8.5,
+    7
+   ],
+   "grid": "+x east · +y north · metres · origin the lamp niche in the north gatepost (0, 0) · one frame for eliab_farm and eliab_valley",
+   "light": {
+    "kind": "dusk",
+    "from_deg": 195,
+    "label": "the last light low over the house roof, the yard going dark, then the new flame"
+   },
+   "place": [
+    {
+     "kind": "lamp",
+     "pos": [
+      -0.4,
+      0.0
+     ],
+     "glow_m": 1.8,
+     "label": "The new flame in the niche"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -5.75,
+      11.3
+     ],
+     "label": "Oxen in the byre, unwatered",
+     "label_at": [
+      -6.2,
+      6.2
+     ]
+    },
+    {
+     "kind": "label",
+     "pos": [
+      5.0,
+      -6.0
+     ],
+     "label": "The empty road east"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Eliab",
+     "named": true,
+     "pos": [
+      -0.95,
+      0.05
+     ],
+     "facing_deg": 0,
+     "note": "flint and striker, at the niche"
+    },
+    {
+     "n": 2,
+     "name": "Asher's dog",
+     "animal": true,
+     "pos": [
+      -0.9,
+      -0.6
+     ],
+     "facing_deg": 340,
+     "note": "lying at his feet, toward the road"
+    },
+    {
+     "n": 3,
+     "name": "Shallum",
+     "named": true,
+     "pos": [
+      -11.0,
+      -6.6
+     ],
+     "facing_deg": 175,
+     "note": "the foreman, crossing the yard"
+    }
+   ],
+   "paths": [
+    {
+     "who": 3,
+     "points": [
+      [
+       -11.0,
+       -6.6
+      ],
+      [
+       -13.0,
+       -6.35
+      ],
+      [
+       -15.0,
+       -6.0
+      ]
+     ],
+     "note": "crossing toward the house, he turns at the call"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S14",
+     "what": "Low behind the dog, the empty road",
+     "pos": [
+      -1.58,
+      -0.42
+     ],
+     "facing_deg": 345,
+     "height": "low",
+     "wedge_m": 10
+    },
+    {
+     "shot": "S15",
+     "what": "The weeping face beside the new flame",
+     "pos": [
+      -0.2,
+      -0.75
+     ],
+     "facing_deg": 120,
+     "height": "standing",
+     "wedge_m": 1.4
+    },
+    {
+     "shot": "S16",
+     "what": "The call across the dusk yard to Shallum",
+     "pos": [
+      -1.75,
+      -0.75
+     ],
+     "facing_deg": 202,
+     "height": "standing",
+     "wedge_m": 16
+    }
+   ],
+   "windows": [
+    {
+     "id": "W18",
+     "setup": "S14",
+     "frames": 243,
+     "speaker": null,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "At dusk Eliab, alone at the gate with the dog lying at his feet, strikes a light with his flint and lights the lamp in the niche",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -1.58,
+        -0.42
+       ],
+       "facing": 345,
+       "height": "low",
+       "note": "low behind the dog lying in the dust, its chin on its paws toward the empty road through the gateway"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        -1.45,
+        -0.5
+       ],
+       "facing": 27,
+       "height": "knee",
+       "note": "rising toward the sparks as the flint strikes the steel above the dog"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        -1.3,
+        -0.65
+       ],
+       "facing": 37,
+       "height": "standing",
+       "note": "up to his old hands at the niche, the tinder catching and the wick taking the flame"
+      },
+      {
+       "t": 9.8,
+       "pos": [
+        -1.05,
+        -0.85
+       ],
+       "facing": 68,
+       "height": "standing",
+       "note": "round to his side, the new flame lighting his face"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W19",
+     "setup": "S15",
+     "frames": 294,
+     "speaker": null,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "Eliab puts his hand flat on the stone beside the new flame and weeps in silence while the camera comes slowly round to his face",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -1.05,
+        -0.85
+       ],
+       "facing": 68,
+       "height": "standing"
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        -0.2,
+        -0.75
+       ],
+       "facing": 120,
+       "height": "standing",
+       "note": "a slow half circle round to the front of his face, his hand flat on the stone beside the flame"
+      },
+      {
+       "t": 11.6,
+       "pos": [
+        -0.25,
+        -0.7
+       ],
+       "facing": 121,
+       "height": "standing",
+       "note": "close on the old face in the lamplight as he weeps in silence"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W20",
+     "setup": "S16",
+     "frames": 192,
+     "speaker": "ELIAB",
+     "line": "Shallum! <pause> The oxen have not been watered.",
+     "line_at": 3.4,
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "does": "Eliab wipes his face on his sleeve, turns to the yard and calls the evening order across it to Shallum, who lifts his head far off",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.25,
+        -0.7
+       ],
+       "facing": 121,
+       "height": "standing"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        -1.1,
+        -0.95
+       ],
+       "facing": 81,
+       "height": "standing",
+       "note": "drifting back across the gateway's mouth as he wipes his face on his sleeve and turns to the yard"
+      },
+      {
+       "t": 3.4,
+       "pos": [
+        -1.6,
+        -0.7
+       ],
+       "facing": 49,
+       "height": "standing",
+       "note": "in front of him as he calls across the yard, his eyes past the lens to Shallum"
+      },
+      {
+       "t": 5.8,
+       "pos": [
+        -1.75,
+        -0.75
+       ],
+       "facing": 202,
+       "height": "standing",
+       "note": "a turn with his call across the dusk yard to Shallum far off"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        -1.85,
+        -0.8
+       ],
+       "facing": 202,
+       "height": "standing",
+       "note": "Shallum lifting his head and turning toward the byre"
+      }
+     ],
+     "out": {
+      "kind": "end"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The flame in the niche",
+     "extent": [
+      -2.6,
+      1.2,
+      -1.5,
+      0.8
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "The farm and the valley share one frame, +x east and +y north in metres from the lamp niche in the north gatepost; the bend is 1.2 km out along the road east at (1040, −580).",
+  "Dawn comes straight down the road from the east, so the farewell stands in the bar of first light through the gateway, the father's face lit and the son's back to the sun, and Asher leaves east into the sunrise.",
+  "The jenny stands loaded in the gateway's south half; Miriam brings the bread up the lane from the ovens; Eliab steps out of the north post's shadow, the cold lamp in its niche at his shoulder, to bless his son.",
+  "W01 to W10 are one take circling father and son, from the jenny's bags past Miriam's bread and behind the son's shoulder to the niche, ending behind the father's shoulder on the road; one stitch on the bread, the rest continues.",
+  "The Scene 9 FLASH of the purse and its one coin is a Resolve insert cut into W01 on the stitched bags; Scene 1A's FLASH of a man holding out his own cloak at the bend of a road is taken from W12 at setup S09.",
+  "Amos is absent from the gate; he comes down the road after his brother and catches him where the road rounds the last spur of the hill and runs out straight and open to the east, about twenty minutes after dawn.",
+  "The sun at the bend is still low in the east (350°), so Asher walks on straight into it; W12 stitches to W13 on the cloak's dark goat-hair wool, and W16 cuts to W17 to fold the minutes until he is a speck about 400 m out.",
+  "At dusk Eliab lights the lamp from the yard side of the niche with flint and striker, as at every dark, weeps facing the road through the niche, and turns his back on it to give the order.",
+  "Shallum is crossing the yard toward the house, about 15 m off, so the evening order reaches someone; the oxen are in the byre by the north wall.",
+  "The blessing is spoken at about 2.1 words a second, so the scene runs about 3.1 minutes against the design note's 2.5."
+ ]
+}

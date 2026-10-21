@@ -1,0 +1,1242 @@
+{
+ "scene": "16",
+ "title": "Did the brother go in?",
+ "subtitle": "EXT. HILLSIDE ABOVE THE LAKE — NIGHT · the fire burning low, Jotham walks in through the gate, Eleazar keeps his hand on the stone · the film's last scene",
+ "plans": [
+  {
+   "title": "The hillside at night",
+   "heading": "EXT. HILLSIDE ABOVE THE LAKE - NIGHT",
+   "place_ref": [
+    "hillside"
+   ],
+   "light": {
+    "kind": "fire",
+    "label": "the fire burning low and six clay lamps in hands; the gate, the grove and the lake lie dark"
+   },
+   "place": [
+    {
+     "kind": "fire",
+     "pos": [
+      3.2,
+      -0.4
+     ],
+     "r": 0.3,
+     "glow_m": 2.6,
+     "label": "Low fire"
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      5.72,
+      -2.38
+     ],
+     "glow_m": 1.2
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      2.62,
+      3.56
+     ],
+     "glow_m": 1.2
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      12.14,
+      -6.65
+     ],
+     "glow_m": 1.2
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      18.81,
+      4.23
+     ],
+     "glow_m": 1.2
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      20.14,
+      -11.35
+     ],
+     "glow_m": 1.2
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      11.84,
+      -18.65
+     ],
+     "glow_m": 1.2
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      27,
+      2.6
+     ],
+     "size": [
+      0.4,
+      0.3
+     ],
+     "shape": "ellipse",
+     "label": "Loose stone"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      27,
+      2.15
+     ],
+     "size": [
+      0.22,
+      0.3
+     ],
+     "label": "Tablet"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      0.57,
+      -0.21
+     ],
+     "size": [
+      0.14,
+      0.14
+     ],
+     "shape": "ellipse",
+     "label": "Seal"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "the teacher",
+     "pos": [
+      0,
+      0
+     ],
+     "facing_deg": 345,
+     "group": "ledge",
+     "named": true,
+     "note": "on the ledge"
+    },
+    {
+     "n": 2,
+     "name": "Hezron",
+     "pos": [
+      0.95,
+      -0.35
+     ],
+     "facing_deg": 160,
+     "group": "ledge",
+     "named": true,
+     "note": "lead seal at his chest"
+    },
+    {
+     "n": 3,
+     "name": "Tirzah",
+     "pos": [
+      1.15,
+      -0.62
+     ],
+     "facing_deg": 150,
+     "group": "ledge",
+     "named": true,
+     "note": "8, holds his hand"
+    },
+    {
+     "n": 4,
+     "name": "shepherd boy",
+     "pos": [
+      1.8,
+      1
+     ],
+     "facing_deg": 209,
+     "group": "ledge",
+     "named": true,
+     "note": "17, shifts along"
+    },
+    {
+     "n": 5,
+     "name": "fisherman",
+     "pos": [
+      4,
+      -3.2
+     ],
+     "facing_deg": 141,
+     "group": "A"
+    },
+    {
+     "n": 6,
+     "name": "veiled woman",
+     "pos": [
+      5.2,
+      -3.7
+     ],
+     "facing_deg": 145,
+     "group": "A"
+    },
+    {
+     "n": 7,
+     "name": "family adult",
+     "pos": [
+      6,
+      -2.5
+     ],
+     "facing_deg": 157,
+     "group": "A",
+     "note": "a clay lamp in both hands"
+    },
+    {
+     "n": 8,
+     "name": "tax-gatherer",
+     "pos": [
+      4.6,
+      -5
+     ],
+     "facing_deg": 133,
+     "group": "A"
+    },
+    {
+     "n": 9,
+     "name": "family youth",
+     "pos": [
+      6.4,
+      -4.6
+     ],
+     "facing_deg": 144,
+     "group": "A"
+    },
+    {
+     "n": 10,
+     "name": "fisherman",
+     "pos": [
+      4.5,
+      2.2
+     ],
+     "facing_deg": 206,
+     "group": "B"
+    },
+    {
+     "n": 11,
+     "name": "veiled woman",
+     "pos": [
+      2.8,
+      3.8
+     ],
+     "facing_deg": 234,
+     "group": "B",
+     "note": "a clay lamp in her hands"
+    },
+    {
+     "n": 12,
+     "name": "family adult",
+     "pos": [
+      5.8,
+      3
+     ],
+     "facing_deg": 207,
+     "group": "B"
+    },
+    {
+     "n": 13,
+     "name": "tax-gatherer",
+     "pos": [
+      5.4,
+      0.9
+     ],
+     "facing_deg": 189,
+     "group": "B"
+    },
+    {
+     "n": 14,
+     "name": "veiled woman",
+     "pos": [
+      4,
+      4.9
+     ],
+     "facing_deg": 231,
+     "group": "B"
+    },
+    {
+     "n": 15,
+     "name": "fisherman",
+     "pos": [
+      11,
+      -7.4
+     ],
+     "facing_deg": 146,
+     "group": "C"
+    },
+    {
+     "n": 16,
+     "name": "veiled woman",
+     "pos": [
+      12.4,
+      -6.8
+     ],
+     "facing_deg": 151,
+     "group": "C",
+     "note": "a clay lamp in her hands"
+    },
+    {
+     "n": 17,
+     "name": "family adult",
+     "pos": [
+      14,
+      -7.8
+     ],
+     "facing_deg": 151,
+     "group": "C"
+    },
+    {
+     "n": 18,
+     "name": "tax-gatherer",
+     "pos": [
+      12,
+      -9
+     ],
+     "facing_deg": 143,
+     "group": "C"
+    },
+    {
+     "n": 19,
+     "name": "family youth",
+     "pos": [
+      14.5,
+      -9.2
+     ],
+     "facing_deg": 148,
+     "group": "C"
+    },
+    {
+     "n": 20,
+     "name": "fisherman",
+     "pos": [
+      15.5,
+      -6.5
+     ],
+     "facing_deg": 157,
+     "group": "C"
+    },
+    {
+     "n": 21,
+     "name": "fisherman",
+     "pos": [
+      17.6,
+      5
+     ],
+     "facing_deg": 196,
+     "group": "D"
+    },
+    {
+     "n": 22,
+     "name": "veiled woman",
+     "pos": [
+      19.1,
+      4.3
+     ],
+     "facing_deg": 193,
+     "group": "D",
+     "note": "a clay lamp in her hands"
+    },
+    {
+     "n": 23,
+     "name": "family adult",
+     "pos": [
+      20.5,
+      5.5
+     ],
+     "facing_deg": 195,
+     "group": "D"
+    },
+    {
+     "n": 24,
+     "name": "tax-gatherer",
+     "pos": [
+      18.8,
+      2.9
+     ],
+     "facing_deg": 189,
+     "group": "D"
+    },
+    {
+     "n": 25,
+     "name": "family youth",
+     "pos": [
+      21,
+      3.7
+     ],
+     "facing_deg": 190,
+     "group": "D"
+    },
+    {
+     "n": 26,
+     "name": "fisherman",
+     "pos": [
+      19,
+      -12.4
+     ],
+     "facing_deg": 147,
+     "group": "E"
+    },
+    {
+     "n": 27,
+     "name": "veiled woman",
+     "pos": [
+      20.4,
+      -11.5
+     ],
+     "facing_deg": 151,
+     "group": "E",
+     "note": "a clay lamp in her hands"
+    },
+    {
+     "n": 28,
+     "name": "family adult",
+     "pos": [
+      22,
+      -12
+     ],
+     "facing_deg": 151,
+     "group": "E"
+    },
+    {
+     "n": 29,
+     "name": "tax-gatherer",
+     "pos": [
+      10,
+      -18.9
+     ],
+     "facing_deg": 118,
+     "group": "F"
+    },
+    {
+     "n": 30,
+     "name": "family youth",
+     "pos": [
+      12,
+      -18.9
+     ],
+     "facing_deg": 122,
+     "group": "F",
+     "note": "a clay lamp in both hands"
+    },
+    {
+     "n": 31,
+     "name": "child",
+     "pos": [
+      17,
+      -4.2
+     ],
+     "facing_deg": 166,
+     "group": "E",
+     "named": true,
+     "note": "sits where the lizard chase of Scene 1 ended"
+    },
+    {
+     "n": 32,
+     "name": "Jotham",
+     "pos": [
+      28.25,
+      1.95
+     ],
+     "facing_deg": 185,
+     "group": "watchers",
+     "named": true,
+     "note": "tablet in his hands",
+     "shade": true
+    },
+    {
+     "n": 33,
+     "name": "Eleazar",
+     "pos": [
+      27.7,
+      2.8
+     ],
+     "facing_deg": 186,
+     "group": "watchers",
+     "named": true,
+     "note": "hand on the stone",
+     "shade": true
+    },
+    {
+     "n": 34,
+     "name": "donkey",
+     "animal": true,
+     "pos": [
+      25,
+      -2.8
+     ],
+     "facing_deg": 285,
+     "note": "tethered at the wall"
+    }
+   ],
+   "paths": [
+    {
+     "who": 32,
+     "points": [
+      [
+       28.25,
+       1.95
+      ],
+      [
+       27.75,
+       2.0
+      ],
+      [
+       27.8,
+       1.0
+      ],
+      [
+       27.35,
+       0.5
+      ],
+      [
+       26.3,
+       0.45
+      ],
+      [
+       21,
+       0.3
+      ],
+      [
+       15,
+       0
+      ],
+      [
+       9,
+       -0.5
+      ],
+      [
+       6.4,
+       -0.7
+      ],
+      [
+       4.6,
+       -0.05
+      ],
+      [
+       3.1,
+       0.75
+      ],
+      [
+       2.0,
+       0.85
+      ]
+     ],
+     "note": "Jotham sets his tablet on the wall top, goes round the north pier through the gate and walks 27 m across the slope to sit beside the shepherd boy"
+    },
+    {
+     "who": 4,
+     "points": [
+      [
+       1.8,
+       1.0
+      ],
+      [
+       1.35,
+       1.3
+      ]
+     ],
+     "note": "the shepherd boy shifts along to make room"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S01",
+     "what": "Low fire and lamps, the lake dark below",
+     "pos": [
+      4.3,
+      -4.1
+     ],
+     "facing_deg": 118,
+     "height": "seated",
+     "wedge_m": 12
+    },
+    {
+     "shot": "S02",
+     "what": "The teacher's silence in profile",
+     "pos": [
+      0.0,
+      -1.15
+     ],
+     "facing_deg": 88,
+     "height": "seated",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S03",
+     "what": "Teacher, Hezron, the fire, the gate",
+     "pos": [
+      -0.8,
+      -2.0
+     ],
+     "facing_deg": 35,
+     "height": "seated",
+     "wedge_m": 28
+    },
+    {
+     "shot": "S04",
+     "what": "Both Pharisees, hand on the stone",
+     "pos": [
+      26.3,
+      3.8
+     ],
+     "facing_deg": 325,
+     "height": "standing",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S05",
+     "what": "Jotham through the gate, Eleazar left",
+     "pos": [
+      25.1,
+      1.1
+     ],
+     "facing_deg": 355,
+     "height": "standing",
+     "wedge_m": 4
+    },
+    {
+     "shot": "S06",
+     "what": "Hezron looks at Jotham, gate far left",
+     "pos": [
+      0.4,
+      1.5
+     ],
+     "facing_deg": 322,
+     "height": "seated",
+     "wedge_m": 4
+    },
+    {
+     "shot": "S07",
+     "what": "Half loaf held out past the fire",
+     "pos": [
+      -0.6,
+      0.45
+     ],
+     "facing_deg": 0,
+     "height": "seated",
+     "wedge_m": 28
+    },
+    {
+     "shot": "S08",
+     "what": "Hand on the stone, the fire far across",
+     "pos": [
+      28.35,
+      2.55
+     ],
+     "facing_deg": 180,
+     "height": "seated",
+     "wedge_m": 28
+    }
+   ],
+   "windows": [
+    {
+     "id": "W01",
+     "setup": "S01",
+     "frames": 260,
+     "speaker": "TIRZAH",
+     "line": "Did the brother go in?",
+     "line_at": 7.6,
+     "wps": 2.2,
+     "does": "The fire burns low among the seated people and their lamps above the dark lake, and Tirzah asks the teacher her question",
+     "reached": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        4.3,
+        -4.1
+       ],
+       "facing": 118,
+       "height": "seated",
+       "note": "between the dark shoulders of seated listeners, the low fire ahead and the lake dark below"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        3.05,
+        -2.5
+       ],
+       "facing": 130,
+       "height": "seated",
+       "note": "in through the open ground toward the fire and the ledge"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        1.85,
+        -2.0
+       ],
+       "facing": 128,
+       "height": "seated",
+       "note": "past Tirzah's back"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        0.75,
+        -1.6
+       ],
+       "facing": 62,
+       "height": "seated",
+       "note": "round her left side"
+      },
+      {
+       "t": 7.4,
+       "pos": [
+        0.15,
+        -0.95
+       ],
+       "facing": 32,
+       "height": "seated",
+       "note": "onto her face lifted to the teacher, her eyes past the lens"
+      },
+      {
+       "t": 10.4,
+       "pos": [
+        0.12,
+        -0.98
+       ],
+       "facing": 38,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W02",
+     "setup": "S02",
+     "frames": 158,
+     "speaker": null,
+     "does": "The teacher keeps his silence and looks past the fire to the gate, where the two Pharisees stand at the edge of the light",
+     "reached": [
+      1,
+      2,
+      3,
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.12,
+        -0.98
+       ],
+       "facing": 38,
+       "height": "seated"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        0.0,
+        -1.15
+       ],
+       "facing": 88,
+       "height": "seated",
+       "note": "onto the teacher's face in the firelight"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        -0.45,
+        -1.65
+       ],
+       "facing": 60,
+       "height": "seated",
+       "note": "easing back as his eyes lift past the fire"
+      },
+      {
+       "t": 6.2,
+       "pos": [
+        -0.8,
+        -2.0
+       ],
+       "facing": 35,
+       "height": "seated",
+       "note": "his profile, Hezron and Tirzah, the fire and the far gate in one line"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W03",
+     "setup": "S03",
+     "frames": 226,
+     "speaker": null,
+     "does": "Hezron lifts the cord over his head and lays the lead tax seal on the ground in front of him, and Tirzah looks at it and then at him",
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.8,
+        -2.0
+       ],
+       "facing": 35,
+       "height": "seated"
+      },
+      {
+       "t": 2.8,
+       "pos": [
+        -0.45,
+        -1.7
+       ],
+       "facing": 45,
+       "height": "seated",
+       "note": "in toward Hezron's hands lifting the cord over his head"
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        0.05,
+        -1.25
+       ],
+       "facing": 58,
+       "height": "low",
+       "note": "down with the lead seal to the ground at his knees"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        0.1,
+        -1.2
+       ],
+       "facing": 40,
+       "height": "seated",
+       "note": "up to Tirzah's eyes on the seal"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        0.15,
+        -1.15
+       ],
+       "facing": 32,
+       "height": "seated",
+       "note": "her eyes go to her father"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    },
+    {
+     "id": "W04",
+     "setup": "S04",
+     "frames": 192,
+     "speaker": null,
+     "does": "Jotham looks across the slope at the seal on the ground and the child holding her father's hand, sets his tablet down on top of the wall and turns into the gateway",
+     "reached": [
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        26.3,
+        3.8
+       ],
+       "facing": 325,
+       "height": "standing",
+       "note": "inside the wall, both faces at the edge of the light, Eleazar's hand on the stone"
+      },
+      {
+       "t": 2.8,
+       "pos": [
+        26.35,
+        3.5
+       ],
+       "facing": 318,
+       "height": "standing"
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        26.35,
+        3.25
+       ],
+       "facing": 310,
+       "height": "seated",
+       "note": "down to the wall top as the tablet comes to rest beside the stone"
+      },
+      {
+       "t": 7.4,
+       "pos": [
+        26.35,
+        1.6
+       ],
+       "facing": 2,
+       "height": "seated",
+       "note": "along the wall into the face of the north pier"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the dark rough face of the north gate pier",
+      "slides": "left"
+     }
+    },
+    {
+     "id": "W05",
+     "setup": "S05",
+     "frames": 362,
+     "speaker": null,
+     "does": "Jotham steps through the gate and walks across the slope between the seated groups toward the fire as heads turn to him",
+     "reached": [
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        26.35,
+        1.5
+       ],
+       "facing": 2,
+       "height": "seated",
+       "note": "the pier face fills the lens"
+      },
+      {
+       "t": 1.0,
+       "pos": [
+        25.1,
+        1.1
+       ],
+       "facing": 355,
+       "height": "standing",
+       "note": "back from the pier as Jotham steps through the gate"
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        20.6,
+        1.1
+       ],
+       "facing": 350,
+       "height": "standing",
+       "note": "walking backward ahead of his face, the open gate and Eleazar behind him"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        15.2,
+        1.3
+       ],
+       "facing": 345,
+       "height": "standing",
+       "note": "past the lamp of a seated family as heads turn to him"
+      },
+      {
+       "t": 9.6,
+       "pos": [
+        14.2,
+        1.25
+       ],
+       "facing": 280,
+       "height": "standing",
+       "note": "slowing as he draws level"
+      },
+      {
+       "t": 11.6,
+       "pos": [
+        13.8,
+        1.15
+       ],
+       "facing": 225,
+       "height": "standing",
+       "note": "turning with him as he passes"
+      },
+      {
+       "t": 15.0,
+       "pos": [
+        7.05,
+        -0.69
+       ],
+       "facing": 160,
+       "height": "standing",
+       "note": "hurrying to his back as he reaches the firelight"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the dark wool of Jotham's mantle across his back",
+      "slides": "back"
+     }
+    },
+    {
+     "id": "W06",
+     "setup": "S06",
+     "frames": 277,
+     "speaker": null,
+     "does": "Jotham reaches the fire, the shepherd boy shifts along to make room, Jotham sits among them and Hezron looks at him, while Eleazar remains in the dark at the wall",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        7.05,
+        -0.69
+       ],
+       "facing": 160,
+       "height": "standing",
+       "note": "his dark back in the lens"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        5.75,
+        -0.95
+       ],
+       "facing": 150,
+       "height": "standing",
+       "note": "his back drawing ahead into the firelight"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        4.15,
+        0.45
+       ],
+       "facing": 170,
+       "height": "standing",
+       "note": "as the shepherd boy shifts along to make room"
+      },
+      {
+       "t": 6.8,
+       "pos": [
+        1.55,
+        2.25
+       ],
+       "facing": 250,
+       "height": "seated",
+       "note": "round behind the boy as Jotham sits"
+      },
+      {
+       "t": 8.4,
+       "pos": [
+        0.4,
+        1.5
+       ],
+       "facing": 322,
+       "height": "seated",
+       "note": "Hezron turns his head to Jotham"
+      },
+      {
+       "t": 11.2,
+       "pos": [
+        0.3,
+        1.35
+       ],
+       "facing": 355,
+       "height": "standing",
+       "note": "up over the boy's head to the gate, Eleazar alone in the dark"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W07",
+     "setup": "S07",
+     "frames": 243,
+     "speaker": null,
+     "does": "The teacher takes the last barley round, tears it in two and holds one half out past the fire toward the dark beyond the gate, toward Eleazar",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.3,
+        1.35
+       ],
+       "facing": 355,
+       "height": "standing"
+      },
+      {
+       "t": 1.8,
+       "pos": [
+        0.2,
+        1.2
+       ],
+       "facing": 262,
+       "height": "seated",
+       "note": "turning down to the teacher's hands on the last barley round"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        -0.35,
+        0.95
+       ],
+       "facing": 300,
+       "height": "seated",
+       "note": "round his left side as he tears it in two"
+      },
+      {
+       "t": 7.2,
+       "pos": [
+        -0.6,
+        0.45
+       ],
+       "facing": 0,
+       "height": "seated",
+       "note": "behind his left shoulder along his arm, the half loaf held out past the fire toward the far gate"
+      },
+      {
+       "t": 9.6,
+       "pos": [
+        -0.45,
+        0.4
+       ],
+       "facing": 2,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    },
+    {
+     "id": "W08",
+     "setup": "S08",
+     "frames": 345,
+     "speaker": null,
+     "does": "On the wall Eleazar's hand rests on the stone while the teacher holds the half loaf out to him across the slope, both hands still, and the picture fades out",
+     "reached": [
+      1,
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        28.35,
+        2.55
+       ],
+       "facing": 180,
+       "height": "seated",
+       "note": "at Eleazar's shoulder, his hand on the stone and the tablet on the wall top, the fire far across the slope"
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        28.25,
+        2.62
+       ],
+       "facing": 182,
+       "height": "seated"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        28.2,
+        2.62
+       ],
+       "facing": 184,
+       "height": "standing",
+       "note": "rising behind his shoulder until the whole firelit gathering lies beyond the wall"
+      },
+      {
+       "t": 13.6,
+       "pos": [
+        28.17,
+        2.64
+       ],
+       "facing": 185,
+       "height": "standing",
+       "note": "a chosen stillness for the fade"
+      }
+     ],
+     "out": {
+      "kind": "end"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "By the fire",
+     "extent": [
+      -3.0,
+      7.1,
+      -2.95,
+      2.6
+     ]
+    },
+    {
+     "key": "B",
+     "title": "At the gate",
+     "extent": [
+      24.5,
+      31.3,
+      -0.4,
+      4.3
+     ]
+    }
+   ],
+   "join_bows": [
+    {
+     "from": "W03",
+     "to": "W04",
+     "bow": 0.42
+    },
+    {
+     "from": "W07",
+     "to": "W08",
+     "bow": 0.62
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "Scene 11's end state is the start, Scene 1's seats for all 33 and the donkey with Eleazar at the loose stone (27.7, 2.8), Jotham at the north gatepost (28.25, 1.95) and Tirzah pressed close to Hezron (1.15, −0.62); Tirzah now faces up to the teacher.",
+  "The light is the fire burning low at fire_sc11_sc16 (3.2, −0.4) and Scene 11's six clay lamps in the hands of people 7, 11, 16, 22, 27 and 30; the gate and the grove lie at the dark edge of it, Scene 15's warm inside and cool outside.",
+  "Scene 16 moves two people, Jotham from the gatepost through the gate to a seat beside the shepherd boy, and the boy, who shifts along half a metre toward the olive.",
+  "Jotham sets his tablet on the wall top between the north pier and the loose stone, half a metre from Eleazar's hand, then walks round the pier into the open gateway; the gate leaf stands open on the uphill side.",
+  "Hezron lays the lead seal on the ground at his knees, between himself and the teacher, in the firelight.",
+  "From the ledge Hezron, Tirzah, the fire and the gate lie on one line, so the look past the fire is framed from the teacher's right and the offered bread from behind his left shoulder, where the line to the gate is clear.",
+  "Both hard cuts cross the 27 m between the ledge and the gate, on Jotham's look at the seal (W03→W04) and on the offered bread (W07→W08); W04→W05 is stitched on the north pier and W05→W06 on Jotham's back.",
+  "The camera walks the whole crossing with Jotham in real time, backward ahead of his face past the D family's lamp, then turning as he passes and hurrying after him into the firelight.",
+  "W08 ends the film at Eleazar's shoulder in a chosen stillness, his hand on the stone in front and the offered half loaf small in the firelight 28 m away, then FADE OUT.",
+  "Tirzah's one line is set at 2.2 words a second, a child's careful question; the other seven windows are silent and timed by the action."
+ ]
+}

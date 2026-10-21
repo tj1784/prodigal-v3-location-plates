@@ -1,0 +1,983 @@
+{
+ "scene": "4A",
+ "title": "The law",
+ "subtitle": "EXT. HILLSIDE ABOVE THE LAKE - SUNSET · Eleazar gives the law of the rebellious son from the wall, his hand finds the loose stone, and the teacher answers with bread",
+ "plans": [
+  {
+   "title": "The hillside at sunset",
+   "heading": "EXT. HILLSIDE ABOVE THE LAKE - SUNSET",
+   "place_ref": [
+    "hillside"
+   ],
+   "light": {
+    "kind": "sun",
+    "from_deg": 140,
+    "label": "sunset, low and red over the far hills"
+   },
+   "place": [
+    {
+     "kind": "area",
+     "fill": "dark",
+     "polygon": [
+      [
+       -0.2,
+       3.32
+      ],
+      [
+       2.54,
+       1.3
+      ],
+      [
+       5.49,
+       -1.41
+      ],
+      [
+       8.79,
+       -3.69
+      ],
+      [
+       11.68,
+       -6.47
+      ],
+      [
+       14.95,
+       -8.8
+      ],
+      [
+       17.97,
+       -11.43
+      ],
+      [
+       20.33,
+       -13.27
+      ],
+      [
+       20.87,
+       -14.34
+      ],
+      [
+       20.67,
+       -15.84
+      ],
+      [
+       19.77,
+       -17.37
+      ],
+      [
+       18.42,
+       -18.52
+      ],
+      [
+       16.98,
+       -18.98
+      ],
+      [
+       15.83,
+       -18.64
+      ],
+      [
+       13.54,
+       -16.7
+      ],
+      [
+       10.62,
+       -13.96
+      ],
+      [
+       7.44,
+       -11.52
+      ],
+      [
+       4.65,
+       -8.63
+      ],
+      [
+       1.44,
+       -6.23
+      ],
+      [
+       -1.42,
+       -3.41
+      ],
+      [
+       -4.08,
+       -1.29
+      ]
+     ],
+     "label": "Olive's long shadow",
+     "label_at": [
+      14.3,
+      -12.9
+     ]
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      27,
+      2.6
+     ],
+     "size": [
+      0.32,
+      0.26
+     ],
+     "shape": "ellipse",
+     "label": "Loose stone, Sc 4A and 16"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      0.85,
+      -1.08
+     ],
+     "size": [
+      0.22,
+      0.17
+     ],
+     "shape": "ellipse",
+     "label": "Stones in the dust"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      0.55,
+      -1.72
+     ],
+     "size": [
+      0.24,
+      0.18
+     ],
+     "shape": "ellipse"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      1.6,
+      -1.5
+     ],
+     "size": [
+      0.28,
+      0.2
+     ],
+     "shape": "ellipse"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      2.3,
+      -0.8
+     ],
+     "size": [
+      0.2,
+      0.16
+     ],
+     "shape": "ellipse"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      2.9,
+      -1.65
+     ],
+     "size": [
+      0.3,
+      0.22
+     ],
+     "shape": "ellipse"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      3.45,
+      -0.55
+     ],
+     "size": [
+      0.22,
+      0.18
+     ],
+     "shape": "ellipse"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "the teacher",
+     "pos": [
+      0,
+      0
+     ],
+     "facing_deg": 325,
+     "group": "ledge",
+     "named": true,
+     "note": "on the limestone ledge"
+    },
+    {
+     "n": 2,
+     "name": "Hezron",
+     "pos": [
+      0.95,
+      -0.35
+     ],
+     "facing_deg": 160,
+     "group": "ledge",
+     "named": true,
+     "note": "publican, lead seal at his chest"
+    },
+    {
+     "n": 3,
+     "name": "Tirzah",
+     "pos": [
+      1.35,
+      -0.95
+     ],
+     "facing_deg": 145,
+     "group": "ledge",
+     "named": true,
+     "note": "8, holds his sleeve"
+    },
+    {
+     "n": 4,
+     "name": "shepherd boy",
+     "pos": [
+      1.8,
+      1
+     ],
+     "facing_deg": 209,
+     "group": "ledge",
+     "named": true,
+     "note": "17, staff across his knees"
+    },
+    {
+     "n": 5,
+     "name": "fisherman",
+     "pos": [
+      4,
+      -3.2
+     ],
+     "facing_deg": 141,
+     "group": "A"
+    },
+    {
+     "n": 6,
+     "name": "veiled woman",
+     "pos": [
+      5.2,
+      -3.7
+     ],
+     "facing_deg": 145,
+     "group": "A"
+    },
+    {
+     "n": 7,
+     "name": "family adult",
+     "pos": [
+      6,
+      -2.5
+     ],
+     "facing_deg": 157,
+     "group": "A"
+    },
+    {
+     "n": 8,
+     "name": "tax-gatherer",
+     "pos": [
+      4.6,
+      -5
+     ],
+     "facing_deg": 133,
+     "group": "A"
+    },
+    {
+     "n": 9,
+     "name": "family youth",
+     "pos": [
+      6.4,
+      -4.6
+     ],
+     "facing_deg": 144,
+     "group": "A"
+    },
+    {
+     "n": 10,
+     "name": "fisherman",
+     "pos": [
+      4.5,
+      2.2
+     ],
+     "facing_deg": 206,
+     "group": "B"
+    },
+    {
+     "n": 11,
+     "name": "veiled woman",
+     "pos": [
+      2.8,
+      3.8
+     ],
+     "facing_deg": 234,
+     "group": "B"
+    },
+    {
+     "n": 12,
+     "name": "family adult",
+     "pos": [
+      5.8,
+      3
+     ],
+     "facing_deg": 207,
+     "group": "B"
+    },
+    {
+     "n": 13,
+     "name": "tax-gatherer",
+     "pos": [
+      5.4,
+      0.9
+     ],
+     "facing_deg": 189,
+     "group": "B"
+    },
+    {
+     "n": 14,
+     "name": "veiled woman",
+     "pos": [
+      4,
+      4.9
+     ],
+     "facing_deg": 231,
+     "group": "B"
+    },
+    {
+     "n": 15,
+     "name": "fisherman",
+     "pos": [
+      11,
+      -7.4
+     ],
+     "facing_deg": 146,
+     "group": "C"
+    },
+    {
+     "n": 16,
+     "name": "veiled woman",
+     "pos": [
+      12.4,
+      -6.8
+     ],
+     "facing_deg": 151,
+     "group": "C"
+    },
+    {
+     "n": 17,
+     "name": "family adult",
+     "pos": [
+      14,
+      -7.8
+     ],
+     "facing_deg": 151,
+     "group": "C"
+    },
+    {
+     "n": 18,
+     "name": "tax-gatherer",
+     "pos": [
+      12,
+      -9
+     ],
+     "facing_deg": 143,
+     "group": "C"
+    },
+    {
+     "n": 19,
+     "name": "family youth",
+     "pos": [
+      14.5,
+      -9.2
+     ],
+     "facing_deg": 148,
+     "group": "C"
+    },
+    {
+     "n": 20,
+     "name": "fisherman",
+     "pos": [
+      15.5,
+      -6.5
+     ],
+     "facing_deg": 157,
+     "group": "C"
+    },
+    {
+     "n": 21,
+     "name": "fisherman",
+     "pos": [
+      17.6,
+      5
+     ],
+     "facing_deg": 196,
+     "group": "D"
+    },
+    {
+     "n": 22,
+     "name": "veiled woman",
+     "pos": [
+      19.1,
+      4.3
+     ],
+     "facing_deg": 193,
+     "group": "D"
+    },
+    {
+     "n": 23,
+     "name": "family adult",
+     "pos": [
+      20.5,
+      5.5
+     ],
+     "facing_deg": 195,
+     "group": "D"
+    },
+    {
+     "n": 24,
+     "name": "tax-gatherer",
+     "pos": [
+      18.8,
+      2.9
+     ],
+     "facing_deg": 189,
+     "group": "D"
+    },
+    {
+     "n": 25,
+     "name": "family youth",
+     "pos": [
+      21,
+      3.7
+     ],
+     "facing_deg": 190,
+     "group": "D"
+    },
+    {
+     "n": 26,
+     "name": "fisherman",
+     "pos": [
+      19,
+      -12.4
+     ],
+     "facing_deg": 147,
+     "group": "E"
+    },
+    {
+     "n": 27,
+     "name": "veiled woman",
+     "pos": [
+      20.4,
+      -11.5
+     ],
+     "facing_deg": 151,
+     "group": "E"
+    },
+    {
+     "n": 28,
+     "name": "family adult",
+     "pos": [
+      22,
+      -12
+     ],
+     "facing_deg": 151,
+     "group": "E"
+    },
+    {
+     "n": 29,
+     "name": "tax-gatherer",
+     "pos": [
+      10,
+      -18.9
+     ],
+     "facing_deg": 118,
+     "group": "F"
+    },
+    {
+     "n": 30,
+     "name": "family youth",
+     "pos": [
+      12,
+      -18.9
+     ],
+     "facing_deg": 122,
+     "group": "F"
+    },
+    {
+     "n": 31,
+     "name": "child",
+     "pos": [
+      17,
+      -4.2
+     ],
+     "facing_deg": 20,
+     "group": "E",
+     "named": true,
+     "note": "with group E"
+    },
+    {
+     "n": 32,
+     "name": "Jotham",
+     "pos": [
+      30,
+      -0.6
+     ],
+     "facing_deg": 179,
+     "group": "watchers",
+     "named": true,
+     "note": "black headcloth, wax tablet",
+     "shade": true
+    },
+    {
+     "n": 33,
+     "name": "Eleazar",
+     "pos": [
+      30.8,
+      1
+     ],
+     "facing_deg": 182,
+     "group": "watchers",
+     "named": true,
+     "note": "striped mantle, arms folded",
+     "shade": true
+    },
+    {
+     "n": 34,
+     "name": "donkey",
+     "animal": true,
+     "pos": [
+      25,
+      -2.8
+     ],
+     "facing_deg": 285,
+     "note": "tethered at the wall"
+    }
+   ],
+   "paths": [
+    {
+     "who": 33,
+     "points": [
+      [
+       30.8,
+       1
+      ],
+      [
+       29.5,
+       1.85
+      ],
+      [
+       27.7,
+       2.8
+      ]
+     ],
+     "note": "Eleazar steps out of the grove shade to the wall, his hand on the loose stone"
+    },
+    {
+     "who": 32,
+     "points": [
+      [
+       30,
+       -0.6
+      ],
+      [
+       29.45,
+       0.75
+      ],
+      [
+       28.25,
+       1.95
+      ]
+     ],
+     "note": "Jotham follows at his side to the north gatepost"
+    },
+    {
+     "who": 3,
+     "points": [
+      [
+       1.35,
+       -0.95
+      ],
+      [
+       1.15,
+       -0.62
+      ]
+     ],
+     "note": "Tirzah moves closer to her father"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S01",
+     "what": "Sunset slope past the two men",
+     "pos": [
+      32.6,
+      1.3
+     ],
+     "facing_deg": 184,
+     "height": "standing",
+     "wedge_m": 22
+    },
+    {
+     "shot": "S02",
+     "what": "Eleazar over the wall top, red sun",
+     "pos": [
+      26.4,
+      2.4
+     ],
+     "facing_deg": 18,
+     "height": "seated",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S03",
+     "what": "Hand on the stone, stylus beside",
+     "pos": [
+      26.15,
+      2.95
+     ],
+     "facing_deg": 350,
+     "height": "seated",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S04",
+     "what": "Hezron, Tirzah, stones, far wall",
+     "pos": [
+      0.3,
+      -0.95
+     ],
+     "facing_deg": 10,
+     "height": "knee",
+     "wedge_m": 26
+    }
+   ],
+   "windows": [
+    {
+     "id": "W01",
+     "setup": "S01",
+     "frames": 226,
+     "speaker": "ELEAZAR",
+     "line": "There is a law for such a son.",
+     "line_at": 4.6,
+     "wps": 2.4,
+     "does": "Eleazar steps out of the grove shade to the wall and lifts his voice over the sunset slope",
+     "reached": [
+      1,
+      31,
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        32.6,
+        1.3
+       ],
+       "facing": 184,
+       "height": "standing",
+       "note": "in the grove shade behind the two men, the sunset slope beyond the open gate"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        32.1,
+        1.55
+       ],
+       "facing": 186,
+       "height": "standing"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        28.95,
+        2.7
+       ],
+       "facing": 192,
+       "height": "standing",
+       "note": "two strides behind him to the wall"
+      },
+      {
+       "t": 8.0,
+       "pos": [
+        28.6,
+        2.75
+       ],
+       "facing": 195,
+       "height": "standing",
+       "note": "past his left shoulder down the long shadows to the ledge"
+      },
+      {
+       "t": 9.2,
+       "pos": [
+        28.0,
+        2.65
+       ],
+       "facing": 180,
+       "height": "standing",
+       "note": "in onto the striped wool at his shoulder"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the striped wool of Eleazar's mantle",
+      "slides": "back"
+     }
+    },
+    {
+     "id": "W02",
+     "setup": "S02",
+     "frames": 328,
+     "speaker": "ELEAZAR",
+     "line": "His father shall bring him to the elders at the gate, <inhale> and all the men of his city shall stone him with stones, <pause> that he die.",
+     "line_at": 0.8,
+     "wps": 2.4,
+     "does": "Eleazar gives the law of the rebellious son while the camera walks through the open gate and turns back to his face",
+     "reached": [
+      1,
+      31,
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        28.0,
+        2.65
+       ],
+       "facing": 180,
+       "height": "standing",
+       "note": "the striped wool clearing off his shoulder"
+      },
+      {
+       "t": 1.8,
+       "pos": [
+        28.8,
+        2.3
+       ],
+       "facing": 170,
+       "height": "standing",
+       "note": "back off his shoulder, both men against the sunset slope"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        28.95,
+        1.3
+       ],
+       "facing": 160,
+       "height": "standing",
+       "note": "over Jotham's shoulder onto the wax tablet in his hands"
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        27.35,
+        0.35
+       ],
+       "facing": 185,
+       "height": "standing",
+       "note": "through the open gate, the seated people looking past the lens to the voice at the wall"
+      },
+      {
+       "t": 8.4,
+       "pos": [
+        26.1,
+        0.95
+       ],
+       "facing": 50,
+       "height": "standing",
+       "note": "turning back past the low sun to the wall"
+      },
+      {
+       "t": 12.6,
+       "pos": [
+        26.4,
+        2.4
+       ],
+       "facing": 18,
+       "height": "seated",
+       "note": "down at the inside of the wall, the loose stone near and his face above it in the red sun"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W03",
+     "setup": "S03",
+     "frames": 158,
+     "speaker": null,
+     "does": "his hand finds the loose stone on the wall top and rests on it, and beside him Jotham's stylus touches the wax and stops",
+     "reached": [
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        26.4,
+        2.4
+       ],
+       "facing": 18,
+       "height": "seated"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        26.5,
+        2.55
+       ],
+       "facing": 12,
+       "height": "seated",
+       "note": "in on his hand closing over the loose stone"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        26.25,
+        2.85
+       ],
+       "facing": 352,
+       "height": "seated",
+       "note": "along the wall top to Jotham's stylus on the wax"
+      },
+      {
+       "t": 6.4,
+       "pos": [
+        26.15,
+        2.95
+       ],
+       "facing": 350,
+       "height": "seated",
+       "note": "settling on the hand on the stone and the stopped stylus"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    },
+    {
+     "id": "W04",
+     "setup": "S04",
+     "frames": 226,
+     "speaker": null,
+     "does": "Hezron keeps his eyes down, Tirzah looks over the stones and presses to his side, and the teacher puts half a barley round into his hand",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.3,
+        -0.95
+       ],
+       "facing": 10,
+       "height": "knee",
+       "note": "low beside the teacher's knee in the olive's long shadow, Hezron's eyes down, the stones in the dust near and the far wall small in the last sun"
+      },
+      {
+       "t": 1.8,
+       "pos": [
+        0.55,
+        -1.12
+       ],
+       "facing": 12,
+       "height": "low",
+       "note": "down over the stones as Tirzah's eyes move across them"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        0.66,
+        -0.98
+       ],
+       "facing": 38,
+       "height": "knee",
+       "note": "rising with her as she presses to her father's side"
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        0.52,
+        -0.78
+       ],
+       "facing": 75,
+       "height": "seated",
+       "note": "round to the barley round tearing in the teacher's hands"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        0.5,
+        -0.78
+       ],
+       "facing": 60,
+       "height": "seated",
+       "note": "with the half loaf into Hezron's open hand"
+      },
+      {
+       "t": 9.2,
+       "pos": [
+        0.46,
+        -0.84
+       ],
+       "facing": 45,
+       "height": "seated",
+       "note": "settling on the bread in his hand, his eyes down and Tirzah pressed to his side"
+      }
+     ],
+     "out": {
+      "kind": "end"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "At the wall",
+     "extent": [
+      25.4,
+      33.4,
+      -1.0,
+      3.7
+     ]
+    },
+    {
+     "key": "B",
+     "title": "Under the olive",
+     "extent": [
+      -1.2,
+      3.8,
+      -2.1,
+      1.4
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "Scene 1's 33 people keep their numbers, groups and seats; 4A moves Eleazar and Jotham to the wall and Tirzah closer to Hezron, and the teacher turns where he sits to put bread into Hezron's hand.",
+  "Eleazar ends outside the wall at (27.7, 2.8) facing the ledge, his hand on the loose stone at the shared anchor (27, 2.6), the pose Scene 16 keeps; Jotham stands beside him at the north gatepost, nearer the gate he steps through in Scene 16.",
+  "Sun from 140 degrees, low and red over the far hills; the old olive's long shadow lies across the ledge, group A and most of group C, while the wall, the gate and the two men stand in the last sun.",
+  "Eleazar leaves the grove's shade for the wall, so the low sun over the wall top lights him from the chest up while he gives the law.",
+  "W01 to W03 are one take at the gate; the stitch on his striped mantle hides the seam between his two blocks with the operator in place.",
+  "W02 walks behind Jotham and through the open gate on 'the elders at the gate', then turns past the low sun to face Eleazar across the wall top from the gathering's side.",
+  "W03 to W04 is a hard cut along the same eastward axis, from the stone under his hand to the stones in the dust by Tirzah; 26 m is beyond a hidden stitch (the 27 m constraint).",
+  "Both of Eleazar's blocks run at 2.4 words a second, a lifted voice carried 27 m across the slope.",
+  "W03 ends on a chosen near-stillness, the hand on the stone and the stopped stylus, before the cut.",
+  "In opening C the law of stoning is what the cold open showed, so the scene ends on bread in Hezron's hand against the stone in Eleazar's."
+ ]
+}

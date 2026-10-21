@@ -1,0 +1,92 @@
+[
+ {
+  "scene": "3",
+  "plan": 0,
+  "plan_title": "The threshing floor at evening",
+  "heading": "EXT. ELIAB'S FARM - THRESHING FLOOR - EVENING",
+  "place": "eliab_farm:ext",
+  "hour": "evening",
+  "light": {
+   "kind": "sun",
+   "from_deg": 195,
+   "label": "evening, the low sun from the west-south-west, the wind from the west"
+  },
+  "pos": [
+   -13.77,
+   -25.37
+  ],
+  "facing": 263,
+  "setup": "S13",
+  "keys": 86,
+  "used_by": [
+   "3"
+  ],
+  "id": "sc03_A_the_threshing_floor_at_evening",
+  "dir": "orbits/sc03/A_the_threshing_floor_at_evening",
+  "from": "sc02_B_the_threshing_floor_before_dawn",
+  "digest": {
+   "front": {
+    "heading_deg": 263,
+    "sees": [
+     "Barley heap (area), 1 m, left",
+     "Threshing floor (slab), 1 m, centre",
+     "Chaff drift, east and downhill (area), 3 m, left",
+     "Terrace edge (wall), 8 m, centre",
+     "Path down to the far field (SW) (track), 10 m, right"
+    ],
+    "sun": "ahead on the right"
+   },
+   "right": {
+    "heading_deg": 173,
+    "sees": [
+     "Terrace edge (wall), 12 m, left",
+     "Yard (area), 12 m, right",
+     "Path down to the far field (SW) (track), 16 m, left",
+     "Ovens (prop), 24 m, right",
+     "Eaves (area), 28 m, right",
+     "Eliab's house (eliab_house) (building), 29 m, right",
+     "door (door), 31 m, right",
+     "Yard wall, about 1.7 m (wall), 34 m, right",
+     "tree (tree), 40 m, centre",
+     "tree (tree), 51 m, right"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "behind": {
+    "heading_deg": 83,
+    "sees": [
+     "Sheaves still to thresh (slab), 5 m, right",
+     "Yard (area), 10 m, centre",
+     "Cistern (prop), 17 m, right",
+     "Floor track (track), 19 m, right",
+     "Trough (prop), 25 m, right",
+     "The one gate (gate), 26 m, right",
+     "Road east, down to the village gate (track), 28 m, right",
+     "Eaves (area), 28 m, left",
+     "The fold (area), 29 m, centre",
+     "Eliab's house (eliab_house) (building), 29 m, left",
+     "Fold gate, barred (gate), 29 m, centre",
+     "Yard wall, about 1.7 m (wall), 29 m, right",
+     "door (door), 31 m, left",
+     "Stone bench (slab), 31 m, right"
+    ],
+    "sun": "behind on the left"
+   },
+   "left": {
+    "heading_deg": 353,
+    "sees": [
+     "Barley heap (area), 1 m, centre",
+     "Chaff drift, east and downhill (area), 2 m, centre",
+     "Second fork (prop), 4 m, left",
+     "Floor track (track), 4 m, left",
+     "Footpath from the village (track), 8 m, right",
+     "Terrace edge (wall), 9 m, right",
+     "Yard (area), 14 m, left",
+     "Road east, down to the village gate (track), 32 m, left",
+     "Hill track to the pasture (track), 32 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   }
+  }
+ }
+]

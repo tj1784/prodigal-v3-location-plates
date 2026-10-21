@@ -1,0 +1,1464 @@
+{
+ "id": "foreign_farm",
+ "title": "The foreign farm on the road west",
+ "scenes": [
+  "0",
+  "1A",
+  "12"
+ ],
+ "grid": "+x east · +y north · origin the tamarisk trunk at the ditch by the field wall · metres",
+ "extent": [
+  -60,
+  50,
+  -96,
+  64
+ ],
+ "anchors": {
+  "tamarisk": [
+   0,
+   0
+  ],
+  "wall_view_sc12": [
+   1.0,
+   0.1
+  ],
+  "field_gap": [
+   12.75,
+   1.0
+  ],
+  "table": [
+   -6,
+   35.2
+  ],
+  "house_door": [
+   -6,
+   40
+  ],
+  "clay_god_niche": [
+   -4.85,
+   40.15
+  ],
+  "pantry_door": [
+   6.75,
+   40
+  ],
+  "bread_oven": [
+   12,
+   37
+  ],
+  "well": [
+   -18,
+   33
+  ],
+  "spring": [
+   -24,
+   52.2
+  ],
+  "yard_hens": [
+   2,
+   31
+  ],
+  "barley_catch_sc12": [
+   8.0,
+   4.5
+  ],
+  "beating_sc1a": [
+   8.5,
+   -1.0
+  ],
+  "run_start_sc1a": [
+   7.6,
+   -1.55
+  ],
+  "throw_sc1a": [
+   4.6,
+   -0.15
+  ],
+  "hit_sc1a": [
+   -11.45,
+   -4.1
+  ],
+  "over_edge_sc1a": [
+   -12.3,
+   -4.55
+  ],
+  "roll_sc1a": [
+   -13.3,
+   -24.0
+  ],
+  "top_of_slope_sc1a": [
+   -12.1,
+   -3.95
+  ],
+  "scrub_rest_sc1a_sc12": [
+   -12.9,
+   -49.4
+  ],
+  "wadi": [
+   -15,
+   -86.5
+  ]
+ },
+ "light": "Scene 1A white noon, sun high in the south (from 270); Scene 12 morning sun from about 330, then its night and first grey light in the scrub.",
+ "source": "drawn for Scenes 0 and 1A (21 Oct 2026); Scene 12 reads it. The road runs east-west along the field wall; the farm lies uphill to the north in its green fold; the scree slope falls south from the road's lip.",
+ "place": [
+  {
+   "kind": "area",
+   "fill": "straw",
+   "polygon": [
+    [
+     -55,
+     1.45
+    ],
+    [
+     45,
+     1.45
+    ],
+    [
+     45,
+     22
+    ],
+    [
+     -55,
+     22
+    ]
+   ],
+   "label": "Stubble",
+   "label_at": [
+    4,
+    8.4
+   ]
+  },
+  {
+   "kind": "area",
+   "fill": "grass",
+   "polygon": [
+    [
+     -30,
+     1.45
+    ],
+    [
+     10.55,
+     1.45
+    ],
+    [
+     10.55,
+     7.5
+    ],
+    [
+     -30,
+     7.5
+    ]
+   ],
+   "label": "Last standing barley",
+   "label_at": [
+    -1.5,
+    4.6
+   ]
+  },
+  {
+   "kind": "area",
+   "fill": "grass",
+   "polygon": [
+    [
+     -42,
+     22
+    ],
+    [
+     34,
+     22
+    ],
+    [
+     40,
+     34
+    ],
+    [
+     32,
+     54
+    ],
+    [
+     12,
+     62
+    ],
+    [
+     -20,
+     62
+    ],
+    [
+     -38,
+     54
+    ],
+    [
+     -46,
+     36
+    ]
+   ],
+   "label": "Green fold on its own spring",
+   "label_at": [
+    25,
+    52
+   ]
+  },
+  {
+   "kind": "area",
+   "fill": "earth",
+   "polygon": [
+    [
+     -22,
+     26
+    ],
+    [
+     17,
+     26
+    ],
+    [
+     17,
+     39.8
+    ],
+    [
+     -22,
+     39.8
+    ]
+   ],
+   "label": "Yard with hens",
+   "label_at": [
+    3,
+    29.5
+   ]
+  },
+  {
+   "kind": "area",
+   "fill": "dark",
+   "polygon": [
+    [
+     -70,
+     0.55
+    ],
+    [
+     60,
+     0.55
+    ],
+    [
+     60,
+     -0.6
+    ],
+    [
+     -70,
+     -0.6
+    ]
+   ],
+   "label": "Ditch",
+   "label_at": [
+    16,
+    0
+   ]
+  },
+  {
+   "kind": "area",
+   "fill": "scree",
+   "polygon": [
+    [
+     -70,
+     -4.4
+    ],
+    [
+     60,
+     -4.4
+    ],
+    [
+     60,
+     -46
+    ],
+    [
+     -70,
+     -46
+    ]
+   ],
+   "label": "Scree-and-thorn slope falling south",
+   "label_at": [
+    16,
+    -7
+   ]
+  },
+  {
+   "kind": "area",
+   "fill": "dark",
+   "polygon": [
+    [
+     -70,
+     -46
+    ],
+    [
+     60,
+     -46
+    ],
+    [
+     60,
+     -80
+    ],
+    [
+     -70,
+     -80
+    ]
+   ],
+   "label": "Thorn scrub",
+   "label_at": [
+    -17.5,
+    -46.8
+   ]
+  },
+  {
+   "kind": "area",
+   "fill": "stone",
+   "polygon": [
+    [
+     -70,
+     -84
+    ],
+    [
+     -40,
+     -86.5
+    ],
+    [
+     -15,
+     -84
+    ],
+    [
+     10,
+     -86
+    ],
+    [
+     35,
+     -84.5
+    ],
+    [
+     60,
+     -86
+    ],
+    [
+     60,
+     -90.5
+    ],
+    [
+     35,
+     -89
+    ],
+    [
+     10,
+     -90.5
+    ],
+    [
+     -15,
+     -88.5
+    ],
+    [
+     -40,
+     -91
+    ],
+    [
+     -70,
+     -88.5
+    ]
+   ],
+   "label": "Dry wadi far below",
+   "label_at": [
+    -15,
+    -86.3
+   ]
+  },
+  {
+   "kind": "label",
+   "pos": [
+    -52,
+    50
+   ],
+   "label": "Burnt brown land"
+  },
+  {
+   "kind": "water",
+   "polygon": [
+    [
+     -26,
+     51
+    ],
+    [
+     -22.5,
+     50.8
+    ],
+    [
+     -21.8,
+     52.6
+    ],
+    [
+     -24.5,
+     53.6
+    ],
+    [
+     -26.4,
+     52.6
+    ]
+   ],
+   "label": "Spring"
+  },
+  {
+   "kind": "track",
+   "points": [
+    [
+     -70,
+     -2.55
+    ],
+    [
+     -35,
+     -2.55
+    ],
+    [
+     0,
+     -2.5
+    ],
+    [
+     35,
+     -2.5
+    ],
+    [
+     60,
+     -2.6
+    ]
+   ],
+   "width_m": 3.8,
+   "label": "The road west",
+   "label_at": [
+    16,
+    -2.5
+   ]
+  },
+  {
+   "kind": "track",
+   "points": [
+    [
+     12.75,
+     -0.6
+    ],
+    [
+     12.75,
+     10
+    ],
+    [
+     11.5,
+     20
+    ],
+    [
+     9,
+     26
+    ]
+   ],
+   "width_m": 2.5,
+   "label": "Farm track",
+   "label_at": [
+    12.75,
+    6
+   ]
+  },
+  {
+   "kind": "contour",
+   "points": [
+    [
+     -70,
+     -4.4
+    ],
+    [
+     -5,
+     -4.4
+    ],
+    [
+     60,
+     -4.4
+    ]
+   ],
+   "label": "Road's edge, the lip",
+   "label_at": [
+    16,
+    -4.4
+   ]
+  },
+  {
+   "kind": "contour",
+   "points": [
+    [
+     -70,
+     -13.5
+    ],
+    [
+     -40,
+     -13
+    ],
+    [
+     -20,
+     -12.6
+    ],
+    [
+     0,
+     -13.2
+    ],
+    [
+     25,
+     -12.8
+    ],
+    [
+     60,
+     -13.4
+    ]
+   ]
+  },
+  {
+   "kind": "contour",
+   "points": [
+    [
+     -70,
+     -22.5
+    ],
+    [
+     -40,
+     -21.8
+    ],
+    [
+     -20,
+     -22.2
+    ],
+    [
+     0,
+     -21.6
+    ],
+    [
+     25,
+     -22.3
+    ],
+    [
+     60,
+     -21.9
+    ]
+   ]
+  },
+  {
+   "kind": "contour",
+   "points": [
+    [
+     -70,
+     -31.5
+    ],
+    [
+     -40,
+     -31
+    ],
+    [
+     -20,
+     -30.6
+    ],
+    [
+     0,
+     -31.4
+    ],
+    [
+     25,
+     -30.9
+    ],
+    [
+     60,
+     -31.3
+    ]
+   ]
+  },
+  {
+   "kind": "contour",
+   "points": [
+    [
+     -70,
+     -40
+    ],
+    [
+     -40,
+     -39.6
+    ],
+    [
+     -20,
+     -40.3
+    ],
+    [
+     0,
+     -39.8
+    ],
+    [
+     25,
+     -40.4
+    ],
+    [
+     60,
+     -39.9
+    ]
+   ]
+  },
+  {
+   "kind": "contour",
+   "points": [
+    [
+     -70,
+     -46
+    ],
+    [
+     -35,
+     -46.3
+    ],
+    [
+     0,
+     -45.8
+    ],
+    [
+     60,
+     -46.2
+    ]
+   ]
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    0,
+    0
+   ],
+   "rx": 3.8,
+   "ry": 3.2,
+   "trunk_m": 0.35,
+   "label": "Single tamarisk"
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -6,
+    35.2
+   ],
+   "rx": 5.4,
+   "ry": 3.0,
+   "trunk_m": 0.2
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -30,
+    -9
+   ],
+   "rx": 1.0,
+   "ry": 0.85,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -21,
+    -16
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -7.5,
+    -11
+   ],
+   "rx": 0.9,
+   "ry": 0.765,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -16.5,
+    -21.5
+   ],
+   "rx": 1.1,
+   "ry": 0.935,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -12.0,
+    -24.8
+   ],
+   "rx": 0.9,
+   "ry": 0.765,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -14.8,
+    -32.8
+   ],
+   "rx": 1.0,
+   "ry": 0.85,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -4.5,
+    -24.5
+   ],
+   "rx": 1.0,
+   "ry": 0.85,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    5,
+    -15
+   ],
+   "rx": 1.1,
+   "ry": 0.935,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    14,
+    -21
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -26,
+    -30
+   ],
+   "rx": 1.0,
+   "ry": 0.85,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -7,
+    -37.5
+   ],
+   "rx": 1.1,
+   "ry": 0.935,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -19.5,
+    -41.5
+   ],
+   "rx": 1.0,
+   "ry": 0.85,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    20,
+    -35
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -38,
+    -22
+   ],
+   "rx": 1.1,
+   "ry": 0.935,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    32,
+    -12
+   ],
+   "rx": 1.0,
+   "ry": 0.85,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -45,
+    -38
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    40,
+    -28
+   ],
+   "rx": 1.1,
+   "ry": 0.935,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -50,
+    -10
+   ],
+   "rx": 1.0,
+   "ry": 0.85,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    24,
+    -8
+   ],
+   "rx": 0.9,
+   "ry": 0.765,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -2,
+    -32
+   ],
+   "rx": 1.0,
+   "ry": 0.85,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -15.0,
+    -48.0
+   ],
+   "rx": 1.5,
+   "ry": 1.275,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -12.1,
+    -48.5
+   ],
+   "rx": 1.3,
+   "ry": 1.105,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -10.9,
+    -50.9
+   ],
+   "rx": 1.3,
+   "ry": 1.105,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -14.6,
+    -52.2
+   ],
+   "rx": 1.1,
+   "ry": 0.935,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -10.7,
+    -47.4
+   ],
+   "rx": 1.1,
+   "ry": 0.935,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -16.6,
+    -50.7
+   ],
+   "rx": 1.3,
+   "ry": 1.105,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -11.0,
+    -54.4
+   ],
+   "rx": 1.3,
+   "ry": 1.105,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -8.6,
+    -49.6
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -16.2,
+    -53.8
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -9.4,
+    -53.2
+   ],
+   "rx": 1.3,
+   "ry": 1.105,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -18.0,
+    -47.4
+   ],
+   "rx": 1.1,
+   "ry": 0.935,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -7.5,
+    -46.8
+   ],
+   "rx": 1.0,
+   "ry": 0.85,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -14.0,
+    -55.6
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -17.8,
+    -55.2
+   ],
+   "rx": 1.0,
+   "ry": 0.85,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -7.0,
+    -55.0
+   ],
+   "rx": 1.1,
+   "ry": 0.935,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -56,
+    -50
+   ],
+   "rx": 1.3,
+   "ry": 1.105,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -48,
+    -56
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -40,
+    -49
+   ],
+   "rx": 1.4,
+   "ry": 1.19,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -33,
+    -58
+   ],
+   "rx": 1.3,
+   "ry": 1.105,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -27,
+    -50
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -24,
+    -64
+   ],
+   "rx": 1.4,
+   "ry": 1.19,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -44,
+    -66
+   ],
+   "rx": 1.3,
+   "ry": 1.105,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -52,
+    -72
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -36,
+    -74
+   ],
+   "rx": 1.4,
+   "ry": 1.19,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -14,
+    -66
+   ],
+   "rx": 1.3,
+   "ry": 1.105,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -4,
+    -62
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    2,
+    -50
+   ],
+   "rx": 1.3,
+   "ry": 1.105,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    8,
+    -57
+   ],
+   "rx": 1.4,
+   "ry": 1.19,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    14,
+    -49
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    20,
+    -63
+   ],
+   "rx": 1.3,
+   "ry": 1.105,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    27,
+    -53
+   ],
+   "rx": 1.4,
+   "ry": 1.19,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    33,
+    -68
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    40,
+    -50
+   ],
+   "rx": 1.3,
+   "ry": 1.105,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    46,
+    -60
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    10,
+    -73
+   ],
+   "rx": 1.4,
+   "ry": 1.19,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -2,
+    -76
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    24,
+    -77
+   ],
+   "rx": 1.3,
+   "ry": 1.105,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -22,
+    -76
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    44,
+    -74
+   ],
+   "rx": 1.3,
+   "ry": 1.105,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "canopy",
+   "pos": [
+    -8,
+    -70
+   ],
+   "rx": 1.2,
+   "ry": 1.02,
+   "trunk_m": 0.06
+  },
+  {
+   "kind": "building",
+   "polygon": [
+    [
+     -14,
+     40
+    ],
+    [
+     9.5,
+     40
+    ],
+    [
+     9.5,
+     47
+    ],
+    [
+     -14,
+     47
+    ]
+   ],
+   "wall_m": 0.6,
+   "label": "House",
+   "label_at": [
+    -9,
+    44.5
+   ]
+  },
+  {
+   "kind": "room",
+   "polygon": [
+    [
+     4,
+     40
+    ],
+    [
+     9.5,
+     40
+    ],
+    [
+     9.5,
+     47
+    ],
+    [
+     4,
+     47
+    ]
+   ],
+   "wall_m": 0.45,
+   "label": "Pantry",
+   "label_at": [
+    6.75,
+    44.5
+   ]
+  },
+  {
+   "kind": "wall",
+   "points": [
+    [
+     -55,
+     22
+    ],
+    [
+     -55,
+     1.0
+    ],
+    [
+     11,
+     1.0
+    ]
+   ],
+   "width_m": 0.9,
+   "label": "Field wall of piled stones",
+   "label_at": [
+    16,
+    1.0
+   ]
+  },
+  {
+   "kind": "wall",
+   "points": [
+    [
+     14.5,
+     1.0
+    ],
+    [
+     45,
+     1.0
+    ],
+    [
+     45,
+     22
+    ]
+   ],
+   "width_m": 0.9
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -6,
+    35.2
+   ],
+   "size": [
+    4.8,
+    0.8
+   ],
+   "label": "Long table under the vine"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -6,
+    34.45
+   ],
+   "size": [
+    4.8,
+    0.35
+   ]
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -6,
+    35.95
+   ],
+   "size": [
+    4.8,
+    0.35
+   ]
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    12,
+    37
+   ],
+   "size": [
+    1.4,
+    1.4
+   ],
+   "shape": "ellipse",
+   "label": "Bread oven"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -18,
+    33
+   ],
+   "size": [
+    1.3,
+    1.3
+   ],
+   "shape": "ellipse",
+   "label": "Well"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -4.85,
+    40.15
+   ],
+   "size": [
+    0.5,
+    0.28
+   ],
+   "label": "Clay god's niche"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    8.15,
+    39.78
+   ],
+   "size": [
+    1.3,
+    0.14
+   ]
+  },
+  {
+   "kind": "door",
+   "a": [
+    -6.45,
+    40
+   ],
+   "b": [
+    -5.55,
+    40
+   ]
+  },
+  {
+   "kind": "door",
+   "a": [
+    6.3,
+    40
+   ],
+   "b": [
+    7.2,
+    40
+   ],
+   "label": "Pantry door and its bar"
+  },
+  {
+   "kind": "gate",
+   "a": [
+    11,
+    1.0
+   ],
+   "b": [
+    14.5,
+    1.0
+   ],
+   "post_m": 0.6,
+   "label": "Field gap"
+  },
+  {
+   "kind": "lamp",
+   "pos": [
+    -4.85,
+    39.9
+   ],
+   "glow_m": 0.8
+  }
+ ]
+}

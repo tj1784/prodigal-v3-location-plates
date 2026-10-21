@@ -1,0 +1,3100 @@
+{
+ "scene": "9",
+ "title": "When he had spent all",
+ "subtitle": "EXT. KALLIAS'S COURT - NIGHT · INT. RENTED ROOM - DAY · EXT. CITY MARKET - DAY · EXT. KALLIAS'S COURT - GATE - NIGHT · the last coin, the rent, the famine, and the company passing him in the dark",
+ "plans": [
+  {
+   "title": "The last feast",
+   "heading": "EXT. KALLIAS'S COURT - NIGHT",
+   "place_ref": [
+    "kallias_court"
+   ],
+   "extent": [
+    -16.4,
+    15.6,
+    -11.2,
+    11.6
+   ],
+   "light": {
+    "kind": "moon",
+    "from_deg": 185,
+    "label": "a thin new moon low in the west over the gate, the brazier and the colonnade lamps"
+   },
+   "place": [
+    {
+     "kind": "label",
+     "pos": [
+      5.45,
+      0.35
+     ],
+     "label": "Her empty place"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      4.8,
+      -0.05
+     ],
+     "facing_deg": 10,
+     "named": true,
+     "note": "hem stained and fraying"
+    },
+    {
+     "n": 2,
+     "name": "Kallias",
+     "pos": [
+      -6.4,
+      -3.7
+     ],
+     "facing_deg": 18,
+     "named": true,
+     "note": "tablet and stylus, across the room",
+     "group": "west"
+    },
+    {
+     "n": 3,
+     "name": "Philon",
+     "pos": [
+      -8.5,
+      3.35
+     ],
+     "facing_deg": 60,
+     "named": true,
+     "note": "laughing at another man's elbow",
+     "group": "nw"
+    },
+    {
+     "n": 4,
+     "name": "Jes",
+     "pos": [
+      -13.6,
+      0.55
+     ],
+     "facing_deg": 180,
+     "named": true,
+     "note": "taking her husband's arm",
+     "group": "gate"
+    },
+    {
+     "n": 5,
+     "name": "Jes's husband",
+     "pos": [
+      -14.25,
+      0.15
+     ],
+     "facing_deg": 10,
+     "named": true,
+     "note": "road dust on his cloak",
+     "group": "gate"
+    },
+    {
+     "n": 6,
+     "name": "wine-seller",
+     "pos": [
+      4.85,
+      -1.95
+     ],
+     "facing_deg": 90,
+     "named": true,
+     "note": "his palm held out"
+    },
+    {
+     "n": 7,
+     "name": "Philon's new friend",
+     "pos": [
+      -8.6,
+      4.6
+     ],
+     "facing_deg": 340,
+     "note": "rich, reclining, laughing",
+     "group": "nw"
+    },
+    {
+     "n": 8,
+     "name": "Greek diner",
+     "pos": [
+      -6.9,
+      3.6
+     ],
+     "facing_deg": 165,
+     "note": "standing, laughing with Philon",
+     "group": "nw"
+    },
+    {
+     "n": 9,
+     "name": "Syrian diner",
+     "pos": [
+      -9.7,
+      4.9
+     ],
+     "facing_deg": 330,
+     "note": "standing behind the couch, laughing",
+     "group": "nw"
+    },
+    {
+     "n": 10,
+     "name": "woman of the company",
+     "pos": [
+      -8.0,
+      5.9
+     ],
+     "facing_deg": 270,
+     "group": "nw"
+    },
+    {
+     "n": 11,
+     "name": "drummer",
+     "pos": [
+      -2.2,
+      2.6
+     ],
+     "facing_deg": 330,
+     "group": "music"
+    },
+    {
+     "n": 12,
+     "name": "flute player",
+     "pos": [
+      -1.3,
+      3.3
+     ],
+     "facing_deg": 320,
+     "group": "music"
+    },
+    {
+     "n": 13,
+     "name": "flute player",
+     "pos": [
+      -0.5,
+      2.5
+     ],
+     "facing_deg": 330,
+     "group": "music"
+    },
+    {
+     "n": 14,
+     "name": "Syrian diner",
+     "pos": [
+      -7.6,
+      -3.7
+     ],
+     "facing_deg": 80,
+     "group": "west"
+    },
+    {
+     "n": 15,
+     "name": "Nabataean trader",
+     "pos": [
+      -7.0,
+      -2.0
+     ],
+     "facing_deg": 270,
+     "note": "on a stool at Kallias's table",
+     "group": "west"
+    },
+    {
+     "n": 16,
+     "name": "Greek diner",
+     "pos": [
+      -8.2,
+      9.6
+     ],
+     "facing_deg": 285,
+     "group": "n"
+    },
+    {
+     "n": 17,
+     "name": "Egyptian diner",
+     "pos": [
+      -6.8,
+      9.6
+     ],
+     "facing_deg": 260,
+     "group": "n"
+    },
+    {
+     "n": 18,
+     "name": "woman of the company",
+     "pos": [
+      -4.6,
+      9.6
+     ],
+     "facing_deg": 280,
+     "group": "n"
+    },
+    {
+     "n": 19,
+     "name": "Greek diner",
+     "pos": [
+      3.8,
+      9.6
+     ],
+     "facing_deg": 280,
+     "group": "ne"
+    },
+    {
+     "n": 20,
+     "name": "Syrian diner",
+     "pos": [
+      5.0,
+      9.6
+     ],
+     "facing_deg": 255,
+     "group": "ne"
+    },
+    {
+     "n": 21,
+     "name": "Phoenician trader",
+     "pos": [
+      -7.0,
+      -9.6
+     ],
+     "facing_deg": 75,
+     "group": "s"
+    },
+    {
+     "n": 22,
+     "name": "Greek diner",
+     "pos": [
+      -4.2,
+      -9.6
+     ],
+     "facing_deg": 100,
+     "group": "s"
+    },
+    {
+     "n": 23,
+     "name": "Egyptian diner",
+     "pos": [
+      3.8,
+      -9.6
+     ],
+     "facing_deg": 80,
+     "group": "se"
+    },
+    {
+     "n": 24,
+     "name": "Greek youth",
+     "pos": [
+      5.0,
+      -9.6
+     ],
+     "facing_deg": 105,
+     "group": "se"
+    },
+    {
+     "n": 25,
+     "name": "Phoenician trader",
+     "pos": [
+      6.3,
+      -3.1
+     ],
+     "facing_deg": 90,
+     "note": "asleep on the south couch",
+     "group": "high"
+    },
+    {
+     "n": 26,
+     "name": "woman of the company",
+     "pos": [
+      7.5,
+      -2.7
+     ],
+     "facing_deg": 125,
+     "group": "high"
+    }
+   ],
+   "paths": [
+    {
+     "who": 6,
+     "points": [
+      [
+       4.85,
+       -1.95
+      ],
+      [
+       2.5,
+       -2.4
+      ],
+      [
+       -2.0,
+       -2.3
+      ],
+      [
+       -4.8,
+       -1.6
+      ],
+      [
+       -9.0,
+       -1.2
+      ],
+      [
+       -10.9,
+       -4.0
+      ],
+      [
+       -11.9,
+       -9.7
+      ]
+     ],
+     "note": "the wine-seller with the coin, past Kallias's table to the service door (W02)"
+    },
+    {
+     "who": 4,
+     "points": [
+      [
+       -13.6,
+       0.55
+      ],
+      [
+       -15.0,
+       0.3
+      ],
+      [
+       -16.3,
+       0.2
+      ]
+     ],
+     "note": "Jes out at the gate on her husband's arm (W03)"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       4.8,
+       -0.05
+      ],
+      [
+       4.0,
+       0.1
+      ],
+      [
+       1.0,
+       0.9
+      ],
+      [
+       -3.6,
+       1.4
+      ],
+      [
+       -6.6,
+       2.2
+      ],
+      [
+       -7.7,
+       2.6
+      ]
+     ],
+     "note": "Asher from his couch down the court to Philon (W04)"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S01",
+     "what": "The purse tipped over the wine-seller's open palm, one coin",
+     "pos": [
+      5.75,
+      -1.75
+     ],
+     "facing_deg": 155,
+     "height": "knee",
+     "wedge_m": 2.2
+    },
+    {
+     "shot": "S02",
+     "what": "Kallias's tablet, the stroke under the column",
+     "pos": [
+      -5.65,
+      -2.7
+     ],
+     "facing_deg": 228,
+     "height": "seated",
+     "wedge_m": 2
+    },
+    {
+     "shot": "S03",
+     "what": "Jes goes out at the gate on her husband's arm",
+     "pos": [
+      -8.6,
+      -1.2
+     ],
+     "facing_deg": 172,
+     "height": "standing",
+     "wedge_m": 8
+    },
+    {
+     "shot": "S04",
+     "what": "Over Philon's shoulder onto Asher",
+     "pos": [
+      -9.4,
+      3.7
+     ],
+     "facing_deg": 328,
+     "height": "seated",
+     "wedge_m": 2.6
+    },
+    {
+     "shot": "S05",
+     "what": "Behind Asher's shoulder onto Philon",
+     "pos": [
+      -7.25,
+      2.2
+     ],
+     "facing_deg": 140,
+     "height": "standing",
+     "wedge_m": 2.6
+    }
+   ],
+   "windows": [
+    {
+     "id": "W01",
+     "setup": "S01",
+     "frames": 345,
+     "speaker": null,
+     "reached": [
+      1,
+      6,
+      2,
+      3,
+      4,
+      11,
+      12,
+      13
+     ],
+     "does": "under a thin new moon and the lamps he paid for, the camera comes down the court to Asher alone at the head couch, past Jes's empty place to his stained, fraying hem, and the wine-seller holds out his palm as Asher tips his purse over it and a single coin falls out",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        9.6,
+        1.5
+       ],
+       "facing": 172,
+       "height": "standing",
+       "note": "beside the goddess's blazing brazier, the long court with its lamps along the colonnade and a thin new moon low over the far west wall"
+      },
+      {
+       "t": 3.4,
+       "pos": [
+        7.5,
+        1.4
+       ],
+       "facing": 200,
+       "height": "standing",
+       "note": "walking west to the head couch, Asher alone on it"
+      },
+      {
+       "t": 6.2,
+       "pos": [
+        5.7,
+        1.5
+       ],
+       "facing": 245,
+       "height": "seated",
+       "note": "down to couch height at the head of the gap, his face, the empty place beside him and her cup left on the table"
+      },
+      {
+       "t": 8.8,
+       "pos": [
+        5.6,
+        0.0
+       ],
+       "facing": 210,
+       "height": "seated",
+       "note": "along the gap past her empty cushion to the stained, fraying purple hem"
+      },
+      {
+       "t": 11.2,
+       "pos": [
+        5.65,
+        -1.25
+       ],
+       "facing": 168,
+       "height": "knee",
+       "note": "down the gap to the purse in his hand over the wine-seller's open palm"
+      },
+      {
+       "t": 13.6,
+       "pos": [
+        5.75,
+        -1.75
+       ],
+       "facing": 155,
+       "height": "knee",
+       "note": "the purse tips over the open palm and a single coin falls out"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W02",
+     "setup": "S02",
+     "frames": 294,
+     "speaker": null,
+     "reached": [
+      6,
+      2,
+      14,
+      15,
+      4,
+      5
+     ],
+     "does": "the wine-seller closes his hand on the coin and turns away, across the room Kallias has seen it, and the camera follows the coin across the floor to his table as he writes one more line on his tablet and draws a stroke under the column",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        5.75,
+        -1.75
+       ],
+       "facing": 155,
+       "height": "knee"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        5.7,
+        -1.8
+       ],
+       "facing": 190,
+       "height": "standing",
+       "note": "rising as the wine-seller closes his hand on the coin and turns away, Kallias watching from across the room beyond him"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        2.6,
+        -2.3
+       ],
+       "facing": 190,
+       "height": "standing",
+       "note": "following the wine-seller across the floor toward Kallias"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        -1.6,
+        -2.3
+       ],
+       "facing": 188,
+       "height": "standing",
+       "note": "between the diners and the musicians, Kallias growing ahead"
+      },
+      {
+       "t": 10.0,
+       "pos": [
+        -4.6,
+        -2.15
+       ],
+       "facing": 205,
+       "height": "seated",
+       "note": "down to the table as the wine-seller passes on, Kallias writing one more line"
+      },
+      {
+       "t": 11.8,
+       "pos": [
+        -5.65,
+        -2.7
+       ],
+       "facing": 228,
+       "height": "seated",
+       "note": "down into the wax as the stylus draws a stroke under the column"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W03",
+     "setup": "S03",
+     "frames": 175,
+     "speaker": null,
+     "reached": [
+      2,
+      4,
+      5
+     ],
+     "does": "Kallias looks up to the gate, where Jes takes the arm of a man with the road's dust on his cloak and goes out, her back to the court",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -5.65,
+        -2.7
+       ],
+       "facing": 228,
+       "height": "seated"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        -5.6,
+        -2.3
+       ],
+       "facing": 168,
+       "height": "standing",
+       "note": "rising with Kallias's glance to the gate"
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        -8.6,
+        -1.2
+       ],
+       "facing": 172,
+       "height": "standing",
+       "note": "toward the gate as Jes takes the dusty man's arm and goes out, her back to the court"
+      },
+      {
+       "t": 6.4,
+       "pos": [
+        -9.2,
+        -1.0
+       ],
+       "facing": 175,
+       "height": "standing",
+       "note": "the open gate and the dark street beyond it"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        -9.2,
+        -1.0
+       ],
+       "facing": 15,
+       "height": "standing",
+       "note": "a whip back down the court",
+       "whip": "right"
+      }
+     ],
+     "out": {
+      "kind": "whip",
+      "dir": "right"
+     }
+    },
+    {
+     "id": "W04",
+     "setup": null,
+     "frames": 260,
+     "speaker": null,
+     "reached": [
+      1,
+      3,
+      7,
+      8,
+      9
+     ],
+     "does": "far down the court Asher rises from his couch and looks about for Philon, Philon laughs at another man's elbow near at hand, and Asher comes down the court to him",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -9.2,
+        -1.0
+       ],
+       "facing": 15,
+       "height": "standing",
+       "note": "the whip lands far down the court on Asher rising from his couch, looking about"
+      },
+      {
+       "t": 3.4,
+       "pos": [
+        -9.5,
+        0.4
+       ],
+       "facing": 40,
+       "height": "standing",
+       "note": "turning to Philon laughing at another man's elbow on the near couch, Asher coming beyond"
+      },
+      {
+       "t": 6.8,
+       "pos": [
+        -9.5,
+        1.6
+       ],
+       "facing": 35,
+       "height": "standing",
+       "note": "Philon laughing in the near frame, Asher coming down the court toward him"
+      },
+      {
+       "t": 9.4,
+       "pos": [
+        -9.45,
+        3.0
+       ],
+       "facing": 347,
+       "height": "seated",
+       "note": "round behind the couch's end to Philon's back as Asher arrives"
+      },
+      {
+       "t": 10.6,
+       "pos": [
+        -9.4,
+        3.7
+       ],
+       "facing": 328,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W05",
+     "setup": "S04",
+     "frames": 124,
+     "speaker": "ASHER",
+     "line": "Philon. <pause> A coin, for the room.",
+     "line_at": 1.2,
+     "reached": [
+      1,
+      3,
+      7
+     ],
+     "does": "Asher asks Philon for a coin for the room",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -9.4,
+        3.7
+       ],
+       "facing": 328,
+       "height": "seated"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        -9.3,
+        3.55
+       ],
+       "facing": 326,
+       "height": "seated",
+       "note": "in over Philon's shoulder to Asher's face as he asks"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W06",
+     "setup": "S05",
+     "frames": 260,
+     "speaker": "PHILON",
+     "line": "Ask your father. <pause> He gives to any man who asks.",
+     "line_at": 3.6,
+     "reached": [
+      1,
+      3,
+      7,
+      8,
+      9
+     ],
+     "does": "Philon gives Asher his own words back, the men round him laugh, and Philon turns back to his new friend, leaving Asher standing",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -9.3,
+        3.55
+       ],
+       "facing": 326,
+       "height": "seated"
+      },
+      {
+       "t": 1.2,
+       "pos": [
+        -9.35,
+        2.6
+       ],
+       "facing": 10,
+       "height": "seated",
+       "note": "round the end of the couch as Philon turns to Asher"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        -8.1,
+        1.85
+       ],
+       "facing": 100,
+       "height": "standing",
+       "note": "rising past Asher's back"
+      },
+      {
+       "t": 3.4,
+       "pos": [
+        -7.25,
+        2.2
+       ],
+       "facing": 140,
+       "height": "standing",
+       "note": "behind Asher's shoulder onto Philon's face"
+      },
+      {
+       "t": 7.8,
+       "pos": [
+        -7.3,
+        2.35
+       ],
+       "facing": 138,
+       "height": "standing",
+       "note": "the men round him laughing"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        -7.15,
+        2.85
+       ],
+       "facing": 200,
+       "height": "standing",
+       "note": "Philon turns back to his new friend and the camera comes round to Asher's face"
+      },
+      {
+       "t": 10.4,
+       "pos": [
+        -7.1,
+        2.95
+       ],
+       "facing": 205,
+       "height": "standing",
+       "note": "Asher left standing among the laughter"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The last coin at the head couch",
+     "extent": [
+      3.6,
+      10.2,
+      -2.6,
+      2.2
+     ]
+    },
+    {
+     "key": "B",
+     "title": "Philon's couch",
+     "extent": [
+      -10.4,
+      -6.4,
+      1.2,
+      5.2
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The rented room",
+   "heading": "INT. RENTED ROOM - DAY",
+   "extent": [
+    -1.0,
+    7.0,
+    -4.0,
+    3.9
+   ],
+   "grid": "+x east · +y north · origin the room's south-west inner corner · metres",
+   "light": {
+    "kind": "sun",
+    "from_deg": 270,
+    "label": "noon, high and hard, through the shutter's slats and the open door"
+   },
+   "place": [
+    {
+     "kind": "area",
+     "fill": "earth",
+     "polygon": [
+      [
+       -0.9,
+       -3.6
+      ],
+      [
+       6.9,
+       -3.6
+      ],
+      [
+       6.9,
+       -0.25
+      ],
+      [
+       -0.9,
+       -0.25
+      ]
+     ],
+     "label": "Lodging-house yard in the white noon",
+     "label_at": [
+      1.4,
+      -3.0
+     ]
+    },
+    {
+     "kind": "wall",
+     "points": [
+      [
+       -0.9,
+       -3.6
+      ],
+      [
+       6.9,
+       -3.6
+      ]
+     ],
+     "width_m": 0.5
+    },
+    {
+     "kind": "room",
+     "polygon": [
+      [
+       0,
+       0
+      ],
+      [
+       4.2,
+       0
+      ],
+      [
+       4.2,
+       3.4
+      ],
+      [
+       0,
+       3.4
+      ]
+     ],
+     "wall_m": 0.4,
+     "label": "Rented room",
+     "label_at": [
+      3.0,
+      2.9
+     ]
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      1.25,
+      0.6
+     ],
+     "size": [
+      2.0,
+      0.95
+     ],
+     "shape": "rect",
+     "label": "Stripped bed",
+     "label_at": [
+      1.75,
+      0.3
+     ]
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      0.95,
+      0.8
+     ],
+     "size": [
+      0.8,
+      0.5
+     ],
+     "shape": "rect",
+     "label": "Noon bars across his face"
+    },
+    {
+     "kind": "door",
+     "a": [
+      0.55,
+      0.0
+     ],
+     "b": [
+      1.35,
+      0.0
+     ],
+     "label": "Shutter, noon through its slats"
+    },
+    {
+     "kind": "door",
+     "a": [
+      3.0,
+      0.0
+     ],
+     "b": [
+      3.9,
+      0.0
+     ],
+     "hinge": "b",
+     "leaf_to": [
+      3.9,
+      0.9
+     ],
+     "label": "Door to the yard"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      3.7,
+      1.3
+     ],
+     "size": [
+      0.7,
+      0.45
+     ],
+     "label": "His bags"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      2.4,
+      3.3
+     ],
+     "size": [
+      0.4,
+      0.2
+     ],
+     "label": "Cold lamp in the niche"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      3.85,
+      2.95
+     ],
+     "size": [
+      0.45,
+      0.45
+     ],
+     "shape": "ellipse",
+     "label": "Water jar"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      4.6,
+      -2.6
+     ],
+     "size": [
+      0.5,
+      1.1
+     ],
+     "label": "Manger"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      0.7,
+      0.62
+     ],
+     "facing_deg": 340,
+     "named": true,
+     "note": "asleep in the bars of noon light under Amos's cloak"
+    },
+    {
+     "n": 2,
+     "name": "landlord",
+     "pos": [
+      3.45,
+      0.15
+     ],
+     "facing_deg": 170,
+     "named": true,
+     "note": "in the door, a key on a cord, the white yard behind him"
+    },
+    {
+     "n": 3,
+     "name": "the jenny",
+     "pos": [
+      3.8,
+      -2.4
+     ],
+     "facing_deg": 200,
+     "animal": true,
+     "note": "tethered at the manger, held for the debt"
+    }
+   ],
+   "paths": [
+    {
+     "who": 1,
+     "points": [
+      [
+       0.7,
+       0.62
+      ],
+      [
+       0.95,
+       1.0
+      ]
+     ],
+     "note": "Asher sits up on the bed's edge (W08)"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S06",
+     "what": "His waking face in the bars of noon light",
+     "pos": [
+      0.95,
+      1.45
+     ],
+     "facing_deg": 250,
+     "height": "low",
+     "wedge_m": 1.6
+    },
+    {
+     "shot": "S07",
+     "what": "The landlord in the door, Asher on the bed",
+     "pos": [
+      2.2,
+      2.25
+     ],
+     "facing_deg": 265,
+     "height": "seated",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S08",
+     "what": "Past the landlord to the jenny in the yard",
+     "pos": [
+      2.95,
+      1.0
+     ],
+     "facing_deg": 290,
+     "height": "standing",
+     "wedge_m": 4
+    }
+   ],
+   "windows": [
+    {
+     "id": "W07",
+     "setup": "S06",
+     "frames": 192,
+     "speaker": null,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "noon light through the shutter falls across Asher asleep alone on a stripped bed, he wakes, and he finds the landlord standing in the door",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.95,
+        1.45
+       ],
+       "facing": 250,
+       "height": "low",
+       "note": "low beside the bed, his sleeping face in the hard bars of noon light from the shutter"
+      },
+      {
+       "t": 3.2,
+       "pos": [
+        1.0,
+        1.4
+       ],
+       "facing": 250,
+       "height": "low",
+       "note": "his eyes open in the light, the empty bed beside him"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        1.35,
+        1.7
+       ],
+       "facing": 300,
+       "height": "seated",
+       "note": "rising with his look along the stripped bed to the door"
+      },
+      {
+       "t": 7.4,
+       "pos": [
+        1.5,
+        1.75
+       ],
+       "facing": 318,
+       "height": "seated",
+       "note": "the landlord in the door, dark against the white yard, a key on a cord"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W08",
+     "setup": "S07",
+     "frames": 192,
+     "speaker": "LANDLORD",
+     "line": "It is the new moon. <pause> No silver, no room. <pause> It is let from tonight.",
+     "line_at": 1.0,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "the landlord tells Asher the room is let from tonight as Asher sits up on the bed",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1.5,
+        1.75
+       ],
+       "facing": 318,
+       "height": "seated"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        2.2,
+        2.25
+       ],
+       "facing": 265,
+       "height": "seated",
+       "note": "a quarter-arc out into the room, Asher sitting up on the bed and the landlord in the door in one frame"
+      },
+      {
+       "t": 7.4,
+       "pos": [
+        2.3,
+        2.15
+       ],
+       "facing": 268,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W09",
+     "setup": null,
+     "frames": 141,
+     "speaker": "ASHER",
+     "line": "One more moon. <pause> I will have it.",
+     "line_at": 1.0,
+     "wps": 2.4,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "Asher, hoarse from sleep, asks for one more moon",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        2.3,
+        2.15
+       ],
+       "facing": 268,
+       "height": "seated"
+      },
+      {
+       "t": 2.0,
+       "pos": [
+        1.7,
+        1.55
+       ],
+       "facing": 220,
+       "height": "seated",
+       "note": "in toward Asher on the bed's edge as he answers"
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        1.55,
+        1.45
+       ],
+       "facing": 215,
+       "height": "seated",
+       "note": "close on his face in the bars of light"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W10",
+     "setup": "S08",
+     "frames": 175,
+     "speaker": "LANDLORD",
+     "line": "The bags stay, <pause> and the jenny, for what you owe.",
+     "line_at": 1.2,
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "does": "the landlord keeps the bags and the jenny for what Asher owes",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1.55,
+        1.45
+       ],
+       "facing": 215,
+       "height": "seated"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        1.75,
+        1.4
+       ],
+       "facing": 330,
+       "height": "seated",
+       "note": "turning to the landlord as he speaks"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        2.4,
+        1.3
+       ],
+       "facing": 335,
+       "height": "standing",
+       "note": "rising with his nod to the bags beside the door"
+      },
+      {
+       "t": 6.4,
+       "pos": [
+        2.95,
+        1.0
+       ],
+       "facing": 290,
+       "height": "standing",
+       "note": "past his shoulder through the door to the jenny tethered in the white yard"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ]
+  },
+  {
+   "title": "The famine market",
+   "heading": "EXT. CITY MARKET - DAY",
+   "extent": [
+    -23.0,
+    10.0,
+    -8.6,
+    4.0
+   ],
+   "grid": "+x east · +y north · origin the merchant's board · metres",
+   "light": {
+    "kind": "sun",
+    "from_deg": 215,
+    "label": "hard pale afternoon sun through the grit haze, the hot dry east wind"
+   },
+   "place": [
+    {
+     "kind": "area",
+     "fill": "stone",
+     "polygon": [
+      [
+       -23,
+       -5.0
+      ],
+      [
+       10,
+       -5.0
+      ],
+      [
+       10,
+       0.4
+      ],
+      [
+       -23,
+       0.4
+      ]
+     ],
+     "label": "Market street, grit driving west",
+     "label_at": [
+      -16.5,
+      -1.1
+     ]
+    },
+    {
+     "kind": "building",
+     "polygon": [
+      [
+       -23,
+       0.4
+      ],
+      [
+       10,
+       0.4
+      ],
+      [
+       10,
+       3.6
+      ],
+      [
+       -23,
+       3.6
+      ]
+     ],
+     "wall_m": 0.3,
+     "label": "Stalls, shuttered",
+     "label_at": [
+      -17.0,
+      2.1
+     ]
+    },
+    {
+     "kind": "building",
+     "polygon": [
+      [
+       -23,
+       -8.2
+      ],
+      [
+       10,
+       -8.2
+      ],
+      [
+       10,
+       -5.0
+      ],
+      [
+       -23,
+       -5.0
+      ]
+     ],
+     "wall_m": 0.3,
+     "label": "Stalls, shuttered",
+     "label_at": [
+      -17.0,
+      -6.7
+     ]
+    },
+    {
+     "kind": "door",
+     "a": [
+      -20.4,
+      0.4
+     ],
+     "b": [
+      -19.0,
+      0.4
+     ]
+    },
+    {
+     "kind": "door",
+     "a": [
+      -16.8,
+      0.4
+     ],
+     "b": [
+      -15.4,
+      0.4
+     ]
+    },
+    {
+     "kind": "door",
+     "a": [
+      -13.2,
+      0.4
+     ],
+     "b": [
+      -11.8,
+      0.4
+     ],
+     "hinge": "a",
+     "leaf_to": [
+      -12.2,
+      -0.55
+     ],
+     "label": "Loose shutter banging and banging",
+     "label_at": [
+      -12.5,
+      -1.5
+     ]
+    },
+    {
+     "kind": "door",
+     "a": [
+      -9.2,
+      0.4
+     ],
+     "b": [
+      -7.799999999999999,
+      0.4
+     ]
+    },
+    {
+     "kind": "door",
+     "a": [
+      -5.6,
+      0.4
+     ],
+     "b": [
+      -4.199999999999999,
+      0.4
+     ]
+    },
+    {
+     "kind": "door",
+     "a": [
+      3.4,
+      0.4
+     ],
+     "b": [
+      4.8,
+      0.4
+     ]
+    },
+    {
+     "kind": "door",
+     "a": [
+      6.9,
+      0.4
+     ],
+     "b": [
+      8.3,
+      0.4
+     ]
+    },
+    {
+     "kind": "door",
+     "a": [
+      -20.0,
+      -5.0
+     ],
+     "b": [
+      -18.6,
+      -5.0
+     ]
+    },
+    {
+     "kind": "door",
+     "a": [
+      -16.4,
+      -5.0
+     ],
+     "b": [
+      -14.999999999999998,
+      -5.0
+     ]
+    },
+    {
+     "kind": "door",
+     "a": [
+      -13.0,
+      -5.0
+     ],
+     "b": [
+      -11.6,
+      -5.0
+     ]
+    },
+    {
+     "kind": "door",
+     "a": [
+      -5.4,
+      -5.0
+     ],
+     "b": [
+      -4.0,
+      -5.0
+     ]
+    },
+    {
+     "kind": "door",
+     "a": [
+      -2.0,
+      -5.0
+     ],
+     "b": [
+      -0.6000000000000001,
+      -5.0
+     ]
+    },
+    {
+     "kind": "door",
+     "a": [
+      1.6,
+      -5.0
+     ],
+     "b": [
+      3.0,
+      -5.0
+     ]
+    },
+    {
+     "kind": "door",
+     "a": [
+      5.2,
+      -5.0
+     ],
+     "b": [
+      6.6,
+      -5.0
+     ]
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -9.5,
+      -4.75
+     ],
+     "size": [
+      2.6,
+      0.5
+     ],
+     "label": "Empty grain stall, bare bins",
+     "label_at": [
+      -9.5,
+      -6.0
+     ]
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      0.0,
+      0.1
+     ],
+     "size": [
+      1.9,
+      0.6
+     ],
+     "label": "Merchant's board"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      0.7,
+      0.75
+     ],
+     "size": [
+      0.4,
+      0.3
+     ],
+     "shape": "ellipse"
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      -20.5,
+      -4.3
+     ],
+     "size": [
+      1.4,
+      0.7
+     ],
+     "shape": "rect",
+     "label": "Stone step",
+     "label_at": [
+      -20.6,
+      -3.4
+     ]
+    },
+    {
+     "kind": "label",
+     "pos": [
+      6.0,
+      -2.4
+     ],
+     "label": "Hot dry east wind"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      0.0,
+      -0.65
+     ],
+     "label": "Asher at the board"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -9.6,
+      -7.4
+     ],
+     "label": "Flies over the bins"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      -18.0,
+      -2.4
+     ],
+     "facing_deg": 0,
+     "named": true,
+     "note": "in his tunic, Amos's cloak over his arm, the sling round his fist"
+    },
+    {
+     "n": 2,
+     "name": "merchant",
+     "pos": [
+      0.0,
+      0.9
+     ],
+     "facing_deg": 270,
+     "named": true,
+     "note": "behind his board, his scales beside him"
+    },
+    {
+     "n": 3,
+     "name": "mother",
+     "pos": [
+      -11.2,
+      -3.4
+     ],
+     "facing_deg": 300,
+     "note": "a baby at her breast",
+     "group": "grain"
+    },
+    {
+     "n": 4,
+     "name": "mother",
+     "pos": [
+      -10.0,
+      -4.0
+     ],
+     "facing_deg": 280,
+     "group": "grain"
+    },
+    {
+     "n": 5,
+     "name": "mother",
+     "pos": [
+      -8.6,
+      -3.7
+     ],
+     "facing_deg": 260,
+     "group": "grain"
+    },
+    {
+     "n": 6,
+     "name": "mother",
+     "pos": [
+      -7.5,
+      -3.0
+     ],
+     "facing_deg": 250,
+     "group": "grain"
+    },
+    {
+     "n": 7,
+     "name": "mother",
+     "pos": [
+      -12.5,
+      -3.3
+     ],
+     "facing_deg": 315,
+     "group": "grain"
+    },
+    {
+     "n": 8,
+     "name": "child",
+     "pos": [
+      -10.6,
+      -3.0
+     ],
+     "facing_deg": 290,
+     "note": "coughing",
+     "group": "grain"
+    },
+    {
+     "n": 9,
+     "name": "child",
+     "pos": [
+      -9.3,
+      -3.2
+     ],
+     "facing_deg": 270,
+     "group": "grain"
+    },
+    {
+     "n": 10,
+     "name": "child",
+     "pos": [
+      -8.0,
+      -4.1
+     ],
+     "facing_deg": 250,
+     "group": "grain"
+    },
+    {
+     "n": 11,
+     "name": "child",
+     "pos": [
+      -11.8,
+      -3.9
+     ],
+     "facing_deg": 320,
+     "note": "at her mother's hip",
+     "group": "grain"
+    },
+    {
+     "n": 12,
+     "name": "child",
+     "pos": [
+      -8.7,
+      -2.6
+     ],
+     "facing_deg": 300,
+     "note": "squatting in the grit",
+     "group": "grain"
+    },
+    {
+     "n": 13,
+     "name": "old man",
+     "pos": [
+      -6.8,
+      -3.9
+     ],
+     "facing_deg": 220,
+     "note": "leaning on a stick",
+     "group": "grain"
+    },
+    {
+     "n": 14,
+     "name": "man",
+     "pos": [
+      -15.4,
+      -4.4
+     ],
+     "facing_deg": 90,
+     "note": "asleep against a shuttered stall",
+     "shade": true
+    }
+   ],
+   "paths": [
+    {
+     "who": 1,
+     "points": [
+      [
+       -18.0,
+       -2.4
+      ],
+      [
+       -12.5,
+       -2.0
+      ],
+      [
+       -9.5,
+       -1.9
+      ],
+      [
+       -4.0,
+       -1.4
+      ],
+      [
+       -0.6,
+       -0.9
+      ],
+      [
+       0.0,
+       -0.65
+      ]
+     ],
+     "note": "up the street into the wind to the merchant's board (W11, W12)"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       0.0,
+       -0.65
+      ],
+      [
+       -1.5,
+       -1.6
+      ],
+      [
+       -6.0,
+       -2.0
+      ]
+     ],
+     "note": "barefoot back down the street, the wind at his back (W16)"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S09",
+     "what": "The famine market in the hot east wind",
+     "pos": [
+      -20.5,
+      -4.3
+     ],
+     "facing_deg": 12,
+     "height": "high",
+     "wedge_m": 14
+    },
+    {
+     "shot": "S10",
+     "what": "Amos's cloak on the merchant's board",
+     "pos": [
+      -1.3,
+      -0.9
+     ],
+     "facing_deg": 35,
+     "height": "seated",
+     "wedge_m": 2.2
+    },
+    {
+     "shot": "S11",
+     "what": "The sandals off, his bare feet in the grit",
+     "pos": [
+      -0.6,
+      -1.15
+     ],
+     "facing_deg": 35,
+     "height": "low",
+     "wedge_m": 1.4
+    },
+    {
+     "shot": "S12",
+     "what": "The belt and the empty purse, then the sling",
+     "pos": [
+      -0.5,
+      -0.4
+     ],
+     "facing_deg": 40,
+     "height": "knee",
+     "wedge_m": 1.4
+    }
+   ],
+   "windows": [
+    {
+     "id": "W11",
+     "setup": "S09",
+     "frames": 345,
+     "speaker": null,
+     "reached": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ],
+     "does": "a hot dry east wind drives grit down the famine market, past shuttered stalls and one shutter banging and banging, mothers with children waiting at an empty grain stall among the flies, and Asher walks up the street into the wind with Amos's cloak over his arm",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -20.5,
+        -4.3
+       ],
+       "facing": 12,
+       "height": "high",
+       "note": "up on a stall's stone step at the west end, the whole market street ahead, grit driving toward the lens on the hot east wind"
+      },
+      {
+       "t": 2.8,
+       "pos": [
+        -19.4,
+        -3.4
+       ],
+       "facing": 8,
+       "height": "standing",
+       "note": "down off the step behind Asher as he walks up the street"
+      },
+      {
+       "t": 7.2,
+       "pos": [
+        -14.2,
+        -2.8
+       ],
+       "facing": 4,
+       "height": "standing",
+       "note": "behind him into the wind past the banging shutter"
+      },
+      {
+       "t": 9.6,
+       "pos": [
+        -12.0,
+        -2.5
+       ],
+       "facing": 330,
+       "height": "standing",
+       "note": "the mothers and children waiting at the empty grain stall"
+      },
+      {
+       "t": 12.0,
+       "pos": [
+        -9.6,
+        -2.3
+       ],
+       "facing": 300,
+       "height": "standing",
+       "note": "close past a mother with a coughing child, flies over the bare bins"
+      },
+      {
+       "t": 14.0,
+       "pos": [
+        -7.8,
+        -2.1
+       ],
+       "facing": 15,
+       "height": "standing",
+       "note": "on after Asher toward the one open board"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W12",
+     "setup": "S10",
+     "frames": 192,
+     "speaker": "MERCHANT",
+     "line": "One.",
+     "line_at": 6.0,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "Asher lays Amos's cloak on the merchant's board, and the merchant fingers the wool and names one copper",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -7.8,
+        -2.1
+       ],
+       "facing": 15,
+       "height": "standing"
+      },
+      {
+       "t": 3.4,
+       "pos": [
+        -2.6,
+        -1.5
+       ],
+       "facing": 25,
+       "height": "standing",
+       "note": "up behind him to the open board as he lays Amos's cloak on it"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        -1.3,
+        -0.9
+       ],
+       "facing": 35,
+       "height": "seated",
+       "note": "down to the cloak on the board, the merchant's fingers in the wool"
+      },
+      {
+       "t": 7.4,
+       "pos": [
+        -1.2,
+        -0.85
+       ],
+       "facing": 50,
+       "height": "seated",
+       "note": "up to the merchant's face as he names his price"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W13",
+     "setup": "S11",
+     "frames": 243,
+     "speaker": "MERCHANT",
+     "line": "You will want bread before you want shoes. <pause> One.",
+     "line_at": 5.4,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "Asher takes the copper and takes off his sandals, and the merchant prices them",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -1.2,
+        -0.85
+       ],
+       "facing": 50,
+       "height": "seated"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        -0.75,
+        -1.05
+       ],
+       "facing": 40,
+       "height": "knee",
+       "note": "Asher takes the copper and bends to his sandals"
+      },
+      {
+       "t": 3.8,
+       "pos": [
+        -0.6,
+        -1.15
+       ],
+       "facing": 35,
+       "height": "low",
+       "note": "low beside his hands at the sandal straps, his feet bare in the blown grit"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        -0.75,
+        -1.0
+       ],
+       "facing": 45,
+       "height": "knee",
+       "note": "rising with the sandals onto the board"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        -0.9,
+        -0.85
+       ],
+       "facing": 60,
+       "height": "seated",
+       "note": "the merchant's face over the board as he speaks"
+      },
+      {
+       "t": 9.8,
+       "pos": [
+        -0.95,
+        -0.8
+       ],
+       "facing": 55,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W14",
+     "setup": "S12",
+     "frames": 192,
+     "speaker": "MERCHANT",
+     "line": "That too.",
+     "line_at": 6.2,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "Asher unbuckles his belt with the empty purse still on it and lays it on the board, and the merchant's eyes go to the sling wrapped round his fist",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.95,
+        -0.8
+       ],
+       "facing": 55,
+       "height": "seated"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        -0.55,
+        -0.6
+       ],
+       "facing": 20,
+       "height": "seated",
+       "note": "Asher unbuckles his belt with the empty purse on it and lays it on the board"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        -0.5,
+        -0.4
+       ],
+       "facing": 40,
+       "height": "knee",
+       "note": "down into the empty purse on the board"
+      },
+      {
+       "t": 5.8,
+       "pos": [
+        -0.55,
+        -0.45
+       ],
+       "facing": 340,
+       "height": "knee",
+       "note": "following the merchant's eyes down to the sling wrapped round Asher's fist"
+      },
+      {
+       "t": 7.2,
+       "pos": [
+        -0.6,
+        -0.5
+       ],
+       "facing": 335,
+       "height": "knee"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W15",
+     "setup": null,
+     "frames": 107,
+     "speaker": "ASHER",
+     "line": "No.",
+     "line_at": 2.0,
+     "reached": [
+      1,
+      2
+     ],
+     "does": "Asher closes his fist on the sling and refuses",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.6,
+        -0.5
+       ],
+       "facing": 335,
+       "height": "knee"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        -0.75,
+        -0.6
+       ],
+       "facing": 5,
+       "height": "seated",
+       "note": "up from the fist to his face as he answers"
+      },
+      {
+       "t": 3.8,
+       "pos": [
+        -0.8,
+        -0.55
+       ],
+       "facing": 5,
+       "height": "seated",
+       "note": "close on his face"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W16",
+     "setup": null,
+     "frames": 192,
+     "speaker": "MERCHANT",
+     "line": "Keep it, then. <pause> You cannot eat it.",
+     "line_at": 1.8,
+     "reached": [
+      1,
+      2,
+      3,
+      8
+     ],
+     "does": "the merchant tells him to keep the sling, and Asher turns away barefoot down the street with the wind at his back",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.8,
+        -0.55
+       ],
+       "facing": 5,
+       "height": "seated"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        -1.05,
+        -0.35
+       ],
+       "facing": 50,
+       "height": "seated",
+       "note": "to the merchant as he answers"
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        -1.2,
+        -0.9
+       ],
+       "facing": 200,
+       "height": "standing",
+       "note": "Asher turns away barefoot into the street and the camera turns with him"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        -1.6,
+        -1.3
+       ],
+       "facing": 195,
+       "height": "standing",
+       "note": "he goes off down the street with the wind at his back, past the mothers at the empty grain stall"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The merchant's board",
+     "extent": [
+      -2.9,
+      1.7,
+      -2.0,
+      1.4
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The beggar's corner",
+   "heading": "EXT. KALLIAS'S COURT - GATE - NIGHT",
+   "place_ref": [
+    "kallias_court"
+   ],
+   "extent": [
+    -21.6,
+    -9.0,
+    -3.0,
+    16.0
+   ],
+   "light": {
+    "kind": "lamp",
+    "label": "the open gate's light and the court's lamps above the wall, the corner in the post's shadow, then the company's lamps"
+   },
+   "place": [
+    {
+     "kind": "area",
+     "fill": "stone",
+     "polygon": [
+      [
+       -20.5,
+       12.5
+      ],
+      [
+       -15.35,
+       12.5
+      ],
+      [
+       -15.35,
+       16.0
+      ],
+      [
+       -20.5,
+       16.0
+      ]
+     ]
+    },
+    {
+     "kind": "wall",
+     "points": [
+      [
+       -15.0,
+       10.5
+      ],
+      [
+       -15.0,
+       16.0
+      ]
+     ],
+     "width_m": 0.7,
+     "label": "House fronts",
+     "label_at": [
+      -13.6,
+      14.6
+     ]
+    },
+    {
+     "kind": "wall",
+     "points": [
+      [
+       -20.85,
+       12.5
+      ],
+      [
+       -20.85,
+       16.0
+      ]
+     ],
+     "width_m": 0.7
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -18.2,
+      9.4
+     ],
+     "label": "The company comes down the street"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -18.0,
+      -1.2
+     ],
+     "label": "Light from the open gate"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      -15.85,
+      2.15
+     ],
+     "facing_deg": 205,
+     "named": true,
+     "note": "barefoot, sling round his fist",
+     "shade": true
+    },
+    {
+     "n": 2,
+     "name": "new boy",
+     "pos": [
+      -17.2,
+      14.6
+     ],
+     "facing_deg": 270,
+     "named": true,
+     "note": "a garland, rich and laughing, a cup in his hand",
+     "group": "company"
+    },
+    {
+     "n": 3,
+     "name": "Jes",
+     "pos": [
+      -16.6,
+      14.5
+     ],
+     "facing_deg": 270,
+     "named": true,
+     "note": "her hand on the boy's arm, the wall side",
+     "group": "company"
+    },
+    {
+     "n": 4,
+     "name": "Kallias",
+     "pos": [
+      -17.75,
+      14.95
+     ],
+     "facing_deg": 330,
+     "named": true,
+     "note": "leaning in at the boy's ear",
+     "group": "company"
+    },
+    {
+     "n": 5,
+     "name": "Philon",
+     "pos": [
+      -17.3,
+      13.7
+     ],
+     "facing_deg": 95,
+     "named": true,
+     "note": "walking backward before the boy, raising a cup to him",
+     "group": "company"
+    },
+    {
+     "n": 6,
+     "name": "lamp bearer",
+     "pos": [
+      -16.9,
+      12.9
+     ],
+     "facing_deg": 270,
+     "note": "a lamp on a pole, leading",
+     "group": "company"
+    },
+    {
+     "n": 7,
+     "name": "reveller",
+     "pos": [
+      -18.5,
+      15.6
+     ],
+     "facing_deg": 280,
+     "note": "a lamp held high",
+     "group": "company"
+    },
+    {
+     "n": 8,
+     "name": "flute player",
+     "pos": [
+      -16.4,
+      15.6
+     ],
+     "facing_deg": 270,
+     "group": "company"
+    },
+    {
+     "n": 9,
+     "name": "drummer",
+     "pos": [
+      -17.6,
+      15.8
+     ],
+     "facing_deg": 275,
+     "group": "company"
+    },
+    {
+     "n": 10,
+     "name": "woman of the company",
+     "pos": [
+      -18.9,
+      14.4
+     ],
+     "facing_deg": 290,
+     "note": "a lamp",
+     "group": "company"
+    },
+    {
+     "n": 11,
+     "name": "sleeper",
+     "pos": [
+      -20.15,
+      6.5
+     ],
+     "facing_deg": 0,
+     "note": "rolled in a mat in a doorway across the street",
+     "shade": true
+    },
+    {
+     "n": 12,
+     "name": "house servant",
+     "pos": [
+      -13.7,
+      1.3
+     ],
+     "facing_deg": 200,
+     "note": "inside the open gate, shuts it behind the company"
+    }
+   ],
+   "paths": [
+    {
+     "who": 2,
+     "points": [
+      [
+       -17.2,
+       14.6
+      ],
+      [
+       -17.0,
+       6.0
+      ],
+      [
+       -16.9,
+       2.4
+      ],
+      [
+       -16.2,
+       0.4
+      ],
+      [
+       -15.0,
+       0.15
+      ],
+      [
+       -13.0,
+       0.2
+      ]
+     ],
+     "note": "the new boy down the street and in at the gate (W19 to W21)"
+    },
+    {
+     "who": 3,
+     "points": [
+      [
+       -16.6,
+       14.5
+      ],
+      [
+       -16.45,
+       6.0
+      ],
+      [
+       -16.5,
+       2.3
+      ],
+      [
+       -15.9,
+       0.45
+      ],
+      [
+       -14.8,
+       0.4
+      ],
+      [
+       -13.2,
+       0.6
+      ]
+     ],
+     "note": "Jes on his arm on the wall side, within arm's reach of Asher"
+    },
+    {
+     "who": 4,
+     "points": [
+      [
+       -17.75,
+       14.95
+      ],
+      [
+       -17.55,
+       6.0
+      ],
+      [
+       -17.35,
+       2.4
+      ],
+      [
+       -16.4,
+       0.0
+      ],
+      [
+       -15.0,
+       -0.1
+      ],
+      [
+       -13.2,
+       -0.2
+      ]
+     ],
+     "note": "Kallias at the boy's ear on the street side"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       -15.85,
+       2.15
+      ],
+      [
+       -15.68,
+       2.28
+      ]
+     ],
+     "note": "Asher pulls back into the corner (W20)"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S13",
+     "what": "The dark street, the open gate, a figure in the corner",
+     "pos": [
+      -19.8,
+      3.9
+     ],
+     "facing_deg": 335,
+     "height": "standing",
+     "wedge_m": 5
+    },
+    {
+     "shot": "S14",
+     "what": "Up the street to the company and their lamps",
+     "pos": [
+      -15.85,
+      3.2
+     ],
+     "facing_deg": 100,
+     "height": "knee",
+     "wedge_m": 7
+    },
+    {
+     "shot": "S15",
+     "what": "Low beside Asher as the lamps pass his hidden face",
+     "pos": [
+      -15.7,
+      2.9
+     ],
+     "facing_deg": 262,
+     "height": "low",
+     "wedge_m": 2.2
+    }
+   ],
+   "windows": [
+    {
+     "id": "W17",
+     "setup": "S13",
+     "frames": 277,
+     "speaker": null,
+     "reached": [
+      1,
+      12
+     ],
+     "does": "night, Asher sits barefoot in the beggar's corner beside Kallias's gate, his tunic gone grey, the purple hem frayed to threads, the sling wrapped round his fist, the court's lamps burning above the wall, and lamps come down the street far off with music and laughter",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -19.8,
+        3.9
+       ],
+       "facing": 335,
+       "height": "standing",
+       "note": "across the dark street, the court's lamps glowing above the wall, the open gate spilling light, a figure in the shadow of the corner beside it"
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        -17.9,
+        3.75
+       ],
+       "facing": 330,
+       "height": "standing",
+       "note": "slowly across the street toward the corner"
+      },
+      {
+       "t": 7.4,
+       "pos": [
+        -16.5,
+        3.5
+       ],
+       "facing": 300,
+       "height": "knee",
+       "note": "down to knee height before him, the purple hem frayed to threads, the sling wound round his fist, his bare feet"
+      },
+      {
+       "t": 9.8,
+       "pos": [
+        -16.0,
+        3.2
+       ],
+       "facing": 275,
+       "height": "low",
+       "note": "down low at his side"
+      },
+      {
+       "t": 11.4,
+       "pos": [
+        -15.75,
+        3.0
+       ],
+       "facing": 258,
+       "height": "low",
+       "note": "low against the wall beside him, his bowed head close, a glow of lamps growing on the wall from up the street, music and laughter far off"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W18",
+     "setup": null,
+     "frames": 141,
+     "speaker": "PHILON",
+     "line": "Eutychos!",
+     "line_at": 1.0,
+     "reached": [
+      1
+     ],
+     "does": "Philon's voice calls the name up the street, Asher's head comes up, and for a heartbeat he turns toward the voice",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -15.75,
+        3.0
+       ],
+       "facing": 258,
+       "height": "low"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        -15.8,
+        3.05
+       ],
+       "facing": 262,
+       "height": "knee",
+       "note": "rising with his head as it comes up and turns to the voice, his face lifting toward the lens, the eyes past it up the street"
+      },
+      {
+       "t": 4.8,
+       "pos": [
+        -15.85,
+        3.1
+       ],
+       "facing": 105,
+       "height": "knee",
+       "note": "turning with his look up the street to the lamps"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W19",
+     "setup": "S14",
+     "frames": 209,
+     "speaker": "KALLIAS",
+     "line": "Your father must hold half the hills, to send forth such a son.",
+     "line_at": 2.2,
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     "does": "the company comes down the street with their lamps, a new boy in a garland, rich and laughing, Philon raising a cup to him, and Kallias leaning in at his ear",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -15.85,
+        3.1
+       ],
+       "facing": 105,
+       "height": "knee"
+      },
+      {
+       "t": 3.2,
+       "pos": [
+        -15.85,
+        3.2
+       ],
+       "facing": 100,
+       "height": "knee",
+       "note": "the company coming down the street with lamps, music and laughter, a new boy in a garland, Philon raising a cup to him, Kallias leaning in at his ear"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        -15.8,
+        3.15
+       ],
+       "facing": 118,
+       "height": "knee",
+       "note": "Kallias at the boy's ear, the company a few paces off"
+      },
+      {
+       "t": 8.2,
+       "pos": [
+        -15.75,
+        3.0
+       ],
+       "facing": 250,
+       "height": "low",
+       "note": "across the passing lamps back down to Asher as they come close"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W20",
+     "setup": "S15",
+     "frames": 260,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     "does": "Jes walks with her hand on the boy's arm, Asher pulls back into the corner and covers his face with his sleeve, the company passes within arm's reach and in through the gate, their lamps sliding across his hidden face and away, and only Jes sees him and looks away",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -15.75,
+        3.0
+       ],
+       "facing": 250,
+       "height": "low"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        -15.72,
+        2.95
+       ],
+       "facing": 256,
+       "height": "low",
+       "note": "Asher pulls back into the corner and lifts his sleeve over his face as Jes comes past with her hand on the boy's arm"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        -15.7,
+        2.9
+       ],
+       "facing": 262,
+       "height": "low",
+       "note": "the garland, the cup and the lamps pass at arm's length and their light slides across the sleeve over his face"
+      },
+      {
+       "t": 8.0,
+       "pos": [
+        -15.68,
+        2.85
+       ],
+       "facing": 266,
+       "height": "low",
+       "note": "Jes's eyes find him at arm's length and turn away"
+      },
+      {
+       "t": 10.4,
+       "pos": [
+        -15.66,
+        2.8
+       ],
+       "facing": 272,
+       "height": "low",
+       "note": "the light slides off his sleeve and away in through the gate, his hidden face in the dark again"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W21",
+     "setup": null,
+     "frames": 243,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      12
+     ],
+     "does": "he watches them for a few moments, the garland, the cup and Jes's hand going in at the lit gate, the gate shuts, laughter carries over the wall, and the dark comes back",
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -15.66,
+        2.8
+       ],
+       "facing": 272,
+       "height": "low"
+      },
+      {
+       "t": 3.0,
+       "pos": [
+        -15.55,
+        2.75
+       ],
+       "facing": 281,
+       "height": "knee",
+       "note": "rising over his shoulder as he lowers his sleeve and watches the garland, the cup and Jes's hand go in at the lit gate"
+      },
+      {
+       "t": 6.2,
+       "pos": [
+        -15.52,
+        2.72
+       ],
+       "facing": 284,
+       "height": "knee",
+       "note": "the gate swings shut, the street goes dark, laughter behind the wall"
+      },
+      {
+       "t": 9.6,
+       "pos": [
+        -15.7,
+        2.85
+       ],
+       "facing": 268,
+       "height": "low",
+       "note": "back down beside him in the dark, the glow of the lamps above the wall"
+      }
+     ],
+     "out": {
+      "kind": "end"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "Beside Asher, the camera's turns",
+     "extent": [
+      -16.45,
+      -15.25,
+      2.0,
+      3.4
+     ]
+    },
+    {
+     "key": "B",
+     "title": "The corner and the gate",
+     "extent": [
+      -18.0,
+      -13.6,
+      -0.6,
+      3.6
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "The court, its gate and the beggar's corner are Scene 7's shared place; the rented room and the famine market are drawn here, each on its own grid.",
+  "The last feast is one stitched take, W01 to W06, a baton pass that follows the coin from Asher's purse to the wine-seller, past Kallias's stroke to Jes leaving at the gate, then whips back to find Asher.",
+  "Scenes 1A and 6B flash the purse tipped over the wine-seller's open palm and the single coin falling, from W01 at about 11.5 to 13.5 s, close at knee height.",
+  "Kallias now sits at the west table and Philon on the north-west couch, so the life of the feast has moved to the gate end and Asher drinks alone at the head couch under the lamps he paid for.",
+  "Philon's new friend in the court is an unnamed guest; the new boy first appears at the gate, where the screenplay introduces him.",
+  "The rented room opens south onto a lodging-house yard, so the noon light through the shutter falls across his face and the landlord stands dark in the door against the white yard, the jenny tethered beyond him.",
+  "The famine market runs east to west, so the hot east wind drives the grit down its length toward the opening wide; Asher walks up the street into it and leaves barefoot with it at his back.",
+  "The market is one take, W11 to W16; the camera goes down to knee height with each thing he gives up, the cloak, the sandals, the belt with the empty purse, and follows the merchant's eyes to the sling.",
+  "At the gate the camera stays low against the wall beside Asher for one take, W17 to W21, turning once up the street with his look and back; in W20, the scene's one chosen stillness, the company's lamps slide across the sleeve over his face and away through the gate, the design note's signature move.",
+  "The shared place draws the gate leaf open; it stands open with the beggar's corner in the post's shadow until the company is in, then the house servant shuts it and the dark comes back."
+ ]
+}

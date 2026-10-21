@@ -1,0 +1,118 @@
+[
+ {
+  "scene": "14",
+  "plan": 0,
+  "plan_title": "The feast",
+  "heading": "INT. ELIAB'S HOUSE - NIGHT",
+  "place": "eliab_house:int",
+  "hour": "night",
+  "light": {
+   "kind": "fire",
+   "label": "night; the hearth roaring, the yard fire and the calf's fire beyond the door, a clay lamp in the niche"
+  },
+  "pos": [
+   -35.8,
+   -1.8
+  ],
+  "facing": 90,
+  "setup": "S02",
+  "keys": 37,
+  "used_by": [
+   "14"
+  ],
+  "id": "sc14_A_the_feast",
+  "dir": "orbits/sc14/A_the_feast",
+  "from": "sc02_A_the_house_before_dawn",
+  "digest": {
+   "front": {
+    "heading_deg": 90,
+    "sees": [
+     "Asher's bread, untouched (prop), 0 m, left",
+     "Water jar (prop), 2 m, right",
+     "Oil jars (prop), 2 m, left",
+     "Hearth (FRONT) (slab), 2 m, centre",
+     "Eliab's house (eliab_house) (building), 3 m, right",
+     "Storage jars (LEFT) (prop), 3 m, left",
+     "Lamp niche (prop), 3 m, left",
+     "Eaves (area), 3 m, right",
+     "Yard (area), 3 m, right",
+     "Yard wall, about 1.7 m (wall), 4 m, right",
+     "The fold (area), 14 m, right"
+    ],
+    "flame": [
+     "Yard fire, the dance ring: to the right, 6 m",
+     "The calf on the spit: behind on the right, 10 m",
+     "Torch at the eaves: ahead on the right, 3 m",
+     "2 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 0,
+    "sees": [
+     "Water jar (prop), 2 m, left",
+     "Doorway (RIGHT) (door), 2 m, centre",
+     "door (door), 2 m, centre",
+     "Eliab's house (eliab_house) (building), 2 m, right",
+     "Eaves (area), 2 m, centre",
+     "Yard (area), 2 m, centre",
+     "Torch at the eaves (lamp), 3 m, left",
+     "Yard fire, the dance ring (fire), 6 m, centre",
+     "The calf on the spit (fire), 10 m, right",
+     "The fold (area), 12 m, left",
+     "Fold gate, barred (gate), 19 m, left",
+     "Yard wall, about 1.7 m (wall), 20 m, left",
+     "Calf pen (wall), 28 m, left",
+     "Ox byre (building), 29 m, left"
+    ],
+    "flame": [
+     "Yard fire, the dance ring: ahead, the view backlit, 6 m",
+     "The calf on the spit: ahead on the right, 10 m",
+     "Torch at the eaves: ahead, the view backlit, 3 m",
+     "2 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 270,
+    "sees": [
+     "Amos's place, set (prop), 0 m, right",
+     "Stools (prop), 1 m, centre",
+     "Hand mill (prop), 2 m, right",
+     "Asher's mat (prop), 2 m, left",
+     "Sleeping bench (BEHIND) (slab), 2 m, right",
+     "Eliab's house (eliab_house) (building), 3 m, left",
+     "Yard (area), 3 m, left",
+     "Peg, sling (prop), 3 m, left",
+     "Eaves (area), 3 m, left",
+     "Ovens (prop), 9 m, left",
+     "tree (tree), 25 m, right",
+     "Terrace edge (wall), 31 m, centre",
+     "Threshing floor (slab), 33 m, left",
+     "Floor track (track), 34 m, left"
+    ],
+    "flame": [
+     "Yard fire, the dance ring: to the left, 6 m",
+     "The calf on the spit: ahead on the left, 10 m",
+     "Torch at the eaves: behind on the left, 3 m",
+     "2 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 180,
+    "sees": [
+     "Oil jars (prop), 2 m, right",
+     "Hand mill (prop), 2 m, left",
+     "Eliab's house (eliab_house) (building), 2 m, left",
+     "tree (tree), 19 m, right",
+     "tree (tree), 25 m, left",
+     "Terrace edge (wall), 36 m, left"
+    ],
+    "flame": [
+     "Yard fire, the dance ring: behind the camera, the view lit from the front, 6 m",
+     "The calf on the spit: behind on the left, 10 m",
+     "Torch at the eaves: behind the camera, the view lit from the front, 3 m",
+     "2 more small lamps or fires around the place"
+    ]
+   }
+  }
+ }
+]

@@ -1,0 +1,5474 @@
+[
+ {
+  "scene": "0",
+  "plan": 0,
+  "plan_title": "The road under the field wall",
+  "heading": "EXT. EDGE OF A FIELD ON THE ROAD WEST - NOON",
+  "place": "foreign_farm:ext",
+  "hour": "noon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 270,
+   "label": "white noon, sun high in the south"
+  },
+  "pos": [
+   8.75,
+   -0.25
+  ],
+  "facing": 265,
+  "setup": "S01",
+  "keys": 5,
+  "used_by": [
+   "0"
+  ],
+  "id": "sc00_A_the_road_under_the_field_wall",
+  "dir": "orbits/sc00/A_the_road_under_the_field_wall",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 265,
+    "sees": [
+     "Ditch (area), 0 m, left",
+     "The road west (track), 2 m, centre",
+     "Scree-and-thorn slope falling south (area), 4 m, centre",
+     "canopy (canopy), 15 m, centre",
+     "canopy (canopy), 19 m, right",
+     "canopy (canopy), 21 m, left",
+     "canopy (canopy), 28 m, right",
+     "canopy (canopy), 32 m, right",
+     "canopy (canopy), 33 m, right",
+     "canopy (canopy), 34 m, right",
+     "canopy (canopy), 37 m, left",
+     "canopy (canopy), 40 m, right",
+     "canopy (canopy), 40 m, right",
+     "canopy (canopy), 46 m, right"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 175,
+    "sees": [
+     "Ditch (area), 1 m, left",
+     "Last standing barley (area), 2 m, right",
+     "Field wall of piled stones (wall), 2 m, right",
+     "Stubble (area), 2 m, right",
+     "The road west (track), 4 m, left",
+     "Scree-and-thorn slope falling south (area), 6 m, left",
+     "Single tamarisk (canopy), 9 m, centre",
+     "canopy (canopy), 19 m, left",
+     "Green fold on its own spring (area), 27 m, right",
+     "Yard with hens (area), 32 m, right",
+     "canopy (canopy), 33 m, left",
+     "canopy (canopy), 34 m, left",
+     "canopy (canopy), 40 m, left",
+     "Well (prop), 43 m, right"
+    ],
+    "sun": "to the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 85,
+    "sees": [
+     "Ditch (area), 1 m, right",
+     "Field wall of piled stones (wall), 1 m, centre",
+     "Last standing barley (area), 2 m, left",
+     "Stubble (area), 2 m, centre",
+     "Farm track (track), 5 m, right",
+     "Green fold on its own spring (area), 22 m, centre",
+     "Yard with hens (area), 26 m, centre",
+     "Bread oven (prop), 37 m, centre",
+     "Long table under the vine (prop), 38 m, left",
+     "canopy (canopy), 38 m, left",
+     "House (building), 40 m, centre",
+     "Pantry (room), 40 m, centre",
+     "Pantry door and its bar (door), 40 m, centre",
+     "Clay god's niche (prop), 43 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 355,
+    "sees": [
+     "Ditch (area), 0 m, right",
+     "Field wall of piled stones (wall), 2 m, left",
+     "Last standing barley (area), 2 m, left",
+     "Field gap (gate), 3 m, left",
+     "Stubble (area), 3 m, left",
+     "The road west (track), 3 m, right",
+     "Farm track (track), 4 m, centre",
+     "Scree-and-thorn slope falling south (area), 5 m, right",
+     "canopy (canopy), 17 m, right",
+     "canopy (canopy), 26 m, right",
+     "Green fold on its own spring (area), 31 m, left",
+     "canopy (canopy), 42 m, right",
+     "Thorn scrub (area), 55 m, right"
+    ],
+    "sun": "to the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "1",
+  "plan": 0,
+  "plan_title": "The hillside above the lake",
+  "heading": "EXT. HILLSIDE ABOVE THE LAKE - LATE AFTERNOON",
+  "place": "hillside:ext",
+  "hour": "late afternoon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 135,
+   "label": "late afternoon, low through haze"
+  },
+  "pos": [
+   29,
+   -2.8
+  ],
+  "facing": 87,
+  "setup": "S13",
+  "keys": 11,
+  "used_by": [
+   "1"
+  ],
+  "id": "sc01_A_the_hillside_above_the_lake",
+  "dir": "orbits/sc01/A_the_hillside_above_the_lake",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 87,
+    "sees": [
+     "Open gate (gate), 3 m, left",
+     "Low dry-stone fieldstone wall (wall), 5 m, left",
+     "tree (tree), 8 m, right",
+     "tree (tree), 11 m, centre",
+     "tree (tree), 13 m, right",
+     "tree (tree), 13 m, right",
+     "tree (tree), 18 m, right",
+     "Lake · downhill (+y) (water), 34 m, centre"
+    ],
+    "sun": "ahead on the left"
+   },
+   "right": {
+    "heading_deg": 357,
+    "sees": [
+     "tree (tree), 6 m, centre",
+     "tree (tree), 10 m, right",
+     "tree (tree), 13 m, left"
+    ],
+    "sun": "behind on the left"
+   },
+   "behind": {
+    "heading_deg": 267,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 3 m, right",
+     "tree (tree), 4 m, left",
+     "tree (tree), 9 m, left"
+    ],
+    "sun": "behind on the right"
+   },
+   "left": {
+    "heading_deg": 177,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 2 m, centre",
+     "Open gate (gate), 2 m, right",
+     "Limestone ledge (slab), 29 m, centre",
+     "The old olive (canopy), 32 m, centre",
+     "Lake · downhill (+y) (water), 41 m, right"
+    ],
+    "sun": "ahead on the right"
+   }
+  }
+ },
+ {
+  "scene": "1",
+  "plan": 0,
+  "plan_title": "The hillside above the lake",
+  "heading": "EXT. HILLSIDE ABOVE THE LAKE - LATE AFTERNOON",
+  "place": "hillside:ext",
+  "hour": "late afternoon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 135,
+   "label": "late afternoon, low through haze"
+  },
+  "pos": [
+   1,
+   -1.6
+  ],
+  "facing": 122,
+  "setup": "S02",
+  "keys": 34,
+  "used_by": [
+   "1"
+  ],
+  "id": "sc01_B_the_hillside_above_the_lake",
+  "dir": "orbits/sc01/B_the_hillside_above_the_lake",
+  "from": "sc01_A_the_hillside_above_the_lake",
+  "digest": {
+   "front": {
+    "heading_deg": 122,
+    "sees": [
+     "Limestone ledge (slab), 2 m, centre",
+     "The old olive (canopy), 5 m, left",
+     "Low dry-stone fieldstone wall (wall), 7 m, left",
+     "Lake · downhill (+y) (water), 32 m, right"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "right": {
+    "heading_deg": 32,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 16 m, left",
+     "Open gate (gate), 26 m, right",
+     "tree (tree), 30 m, right",
+     "tree (tree), 31 m, right",
+     "Lake · downhill (+y) (water), 32 m, left",
+     "tree (tree), 33 m, right",
+     "tree (tree), 34 m, right",
+     "tree (tree), 34 m, right",
+     "tree (tree), 36 m, right",
+     "tree (tree), 38 m, right",
+     "tree (tree), 39 m, right",
+     "tree (tree), 41 m, right"
+    ],
+    "sun": "to the left"
+   },
+   "behind": {
+    "heading_deg": 302,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 13 m, right",
+     "tree (tree), 30 m, left",
+     "tree (tree), 34 m, left",
+     "tree (tree), 38 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   },
+   "left": {
+    "heading_deg": 212,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 7 m, right"
+    ],
+    "sun": "to the right"
+   }
+  }
+ },
+ {
+  "scene": "1A",
+  "plan": 0,
+  "plan_title": "The road under the field wall",
+  "heading": "EXT. EDGE OF A FIELD ON THE ROAD WEST - NOON",
+  "place": "foreign_farm:ext",
+  "hour": "noon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 270,
+   "label": "white noon, sun high in the south"
+  },
+  "pos": [
+   -0.6,
+   -1.9
+  ],
+  "facing": 19,
+  "setup": "S06",
+  "keys": 32,
+  "used_by": [
+   "1A"
+  ],
+  "id": "sc01a_A_the_road_under_the_field_wall",
+  "dir": "orbits/sc01a/A_the_road_under_the_field_wall",
+  "from": "sc00_A_the_road_under_the_field_wall",
+  "digest": {
+   "front": {
+    "heading_deg": 19,
+    "sees": [
+     "Ditch (area), 1 m, left",
+     "The road west (track), 2 m, right",
+     "Field wall of piled stones (wall), 3 m, left",
+     "Stubble (area), 4 m, left",
+     "Last standing barley (area), 4 m, left",
+     "Scree-and-thorn slope falling south (area), 5 m, right",
+     "Field gap (gate), 12 m, centre",
+     "Farm track (track), 13 m, right",
+     "canopy (canopy), 25 m, right",
+     "Green fold on its own spring (area), 25 m, left",
+     "Yard with hens (area), 30 m, left",
+     "canopy (canopy), 34 m, right",
+     "canopy (canopy), 48 m, right"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 289,
+    "sees": [
+     "The road west (track), 1 m, left",
+     "Scree-and-thorn slope falling south (area), 3 m, right",
+     "canopy (canopy), 14 m, centre",
+     "canopy (canopy), 23 m, right",
+     "canopy (canopy), 24 m, left",
+     "canopy (canopy), 26 m, right",
+     "canopy (canopy), 30 m, right",
+     "canopy (canopy), 34 m, right",
+     "canopy (canopy), 36 m, right",
+     "canopy (canopy), 39 m, left",
+     "canopy (canopy), 44 m, right",
+     "Thorn scrub (area), 44 m, right",
+     "canopy (canopy), 45 m, right",
+     "canopy (canopy), 47 m, right"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 199,
+    "sees": [
+     "The road west (track), 1 m, left",
+     "Ditch (area), 3 m, right",
+     "Scree-and-thorn slope falling south (area), 3 m, left",
+     "Field wall of piled stones (wall), 6 m, right",
+     "Stubble (area), 6 m, right",
+     "Last standing barley (area), 7 m, right",
+     "canopy (canopy), 11 m, left",
+     "canopy (canopy), 25 m, left",
+     "canopy (canopy), 25 m, left",
+     "canopy (canopy), 26 m, left",
+     "canopy (canopy), 30 m, centre",
+     "canopy (canopy), 34 m, left",
+     "canopy (canopy), 38 m, left",
+     "canopy (canopy), 42 m, centre"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 109,
+    "sees": [
+     "Ditch (area), 1 m, centre",
+     "Single tamarisk (canopy), 2 m, right",
+     "Field wall of piled stones (wall), 3 m, centre",
+     "Last standing barley (area), 3 m, right",
+     "Stubble (area), 3 m, right",
+     "Farm track (track), 23 m, right",
+     "Green fold on its own spring (area), 24 m, right",
+     "Yard with hens (area), 28 m, right",
+     "Long table under the vine (prop), 37 m, centre",
+     "canopy (canopy), 37 m, centre",
+     "Well (prop), 39 m, centre",
+     "Bread oven (prop), 41 m, right",
+     "House (building), 42 m, right",
+     "Pantry (room), 42 m, right"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "1A",
+  "plan": 0,
+  "plan_title": "The road under the field wall",
+  "heading": "EXT. EDGE OF A FIELD ON THE ROAD WEST - NOON",
+  "place": "foreign_farm:ext",
+  "hour": "noon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 270,
+   "label": "white noon, sun high in the south"
+  },
+  "pos": [
+   -12.6,
+   -5.3
+  ],
+  "facing": 270,
+  "setup": "S08",
+  "keys": 3,
+  "used_by": [
+   "1A"
+  ],
+  "id": "sc01a_B_the_road_under_the_field_wall",
+  "dir": "orbits/sc01a/B_the_road_under_the_field_wall",
+  "from": "sc01a_A_the_road_under_the_field_wall",
+  "digest": {
+   "front": {
+    "heading_deg": 270,
+    "sees": [
+     "canopy (canopy), 8 m, left",
+     "canopy (canopy), 14 m, right",
+     "canopy (canopy), 17 m, right",
+     "canopy (canopy), 20 m, centre",
+     "canopy (canopy), 21 m, left",
+     "canopy (canopy), 28 m, centre",
+     "canopy (canopy), 28 m, right",
+     "canopy (canopy), 29 m, left",
+     "canopy (canopy), 33 m, centre",
+     "canopy (canopy), 37 m, centre",
+     "Scree-and-thorn slope falling south (area), 41 m, centre",
+     "Thorn scrub (area), 41 m, centre",
+     "canopy (canopy), 42 m, centre",
+     "canopy (canopy), 42 m, centre"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 180,
+    "sees": [
+     "Scree-and-thorn slope falling south (area), 2 m, right",
+     "The road west (track), 4 m, right",
+     "Ditch (area), 6 m, right",
+     "Field wall of piled stones (wall), 8 m, right",
+     "Stubble (area), 9 m, right",
+     "Last standing barley (area), 9 m, right",
+     "canopy (canopy), 14 m, left",
+     "canopy (canopy), 18 m, left",
+     "canopy (canopy), 30 m, left",
+     "Green fold on its own spring (area), 35 m, right",
+     "canopy (canopy), 38 m, centre",
+     "canopy (canopy), 46 m, left",
+     "Thorn scrub (area), 52 m, left",
+     "canopy (canopy), 62 m, left"
+    ],
+    "sun": "to the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 90,
+    "sees": [
+     "Scree-and-thorn slope falling south (area), 1 m, left",
+     "The road west (track), 3 m, centre",
+     "Ditch (area), 5 m, centre",
+     "Field wall of piled stones (wall), 6 m, centre",
+     "Last standing barley (area), 7 m, centre",
+     "Stubble (area), 7 m, centre",
+     "Green fold on its own spring (area), 27 m, centre",
+     "Yard with hens (area), 31 m, centre",
+     "Farm track (track), 32 m, right",
+     "Well (prop), 39 m, centre",
+     "Long table under the vine (prop), 41 m, centre",
+     "canopy (canopy), 41 m, centre",
+     "House (building), 45 m, centre",
+     "door (door), 46 m, centre"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 0,
+    "sees": [
+     "Scree-and-thorn slope falling south (area), 2 m, left",
+     "The road west (track), 4 m, left",
+     "Ditch (area), 7 m, left",
+     "canopy (canopy), 8 m, right",
+     "Field wall of piled stones (wall), 8 m, left",
+     "Stubble (area), 9 m, left",
+     "Last standing barley (area), 9 m, left",
+     "Single tamarisk (canopy), 14 m, left",
+     "canopy (canopy), 20 m, right",
+     "Field gap (gate), 24 m, left",
+     "Farm track (track), 26 m, centre",
+     "canopy (canopy), 31 m, right",
+     "Green fold on its own spring (area), 35 m, left",
+     "canopy (canopy), 37 m, centre"
+    ],
+    "sun": "to the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "1A",
+  "plan": 1,
+  "plan_title": "The top of the slope",
+  "heading": "EXT. TOP OF THE SLOPE - CONTINUOUS",
+  "place": "foreign_farm:ext",
+  "hour": "white noon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 270,
+   "label": "white noon, sun high in the south"
+  },
+  "pos": [
+   -12.75,
+   -4.25
+  ],
+  "facing": 175,
+  "setup": "S10",
+  "keys": 15,
+  "used_by": [
+   "1A"
+  ],
+  "id": "sc01a_C_the_top_of_the_slope",
+  "dir": "orbits/sc01a/C_the_top_of_the_slope",
+  "from": "sc01a_B_the_road_under_the_field_wall",
+  "digest": {
+   "front": {
+    "heading_deg": 175,
+    "sees": [
+     "Scree-and-thorn slope falling south (area), 1 m, centre",
+     "The road west (track), 2 m, right",
+     "Ditch (area), 5 m, right",
+     "Field wall of piled stones (wall), 7 m, right",
+     "Last standing barley (area), 7 m, right",
+     "Stubble (area), 7 m, right",
+     "canopy (canopy), 18 m, left",
+     "canopy (canopy), 31 m, left",
+     "Green fold on its own spring (area), 31 m, right",
+     "canopy (canopy), 38 m, left",
+     "canopy (canopy), 47 m, left",
+     "Thorn scrub (area), 57 m, left",
+     "canopy (canopy), 63 m, left"
+    ],
+    "sun": "to the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 85,
+    "sees": [
+     "The road west (track), 2 m, left",
+     "Ditch (area), 4 m, centre",
+     "Field wall of piled stones (wall), 5 m, centre",
+     "Last standing barley (area), 6 m, centre",
+     "Stubble (area), 6 m, centre",
+     "Green fold on its own spring (area), 26 m, centre",
+     "Yard with hens (area), 30 m, centre",
+     "Farm track (track), 30 m, right",
+     "Well (prop), 38 m, left",
+     "Long table under the vine (prop), 40 m, centre",
+     "canopy (canopy), 40 m, centre",
+     "House (building), 44 m, centre",
+     "door (door), 45 m, centre",
+     "Clay god's niche (prop), 45 m, centre"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 355,
+    "sees": [
+     "Scree-and-thorn slope falling south (area), 1 m, centre",
+     "The road west (track), 2 m, left",
+     "Ditch (area), 5 m, left",
+     "Field wall of piled stones (wall), 8 m, left",
+     "Stubble (area), 8 m, left",
+     "Last standing barley (area), 8 m, left",
+     "canopy (canopy), 9 m, right",
+     "Single tamarisk (canopy), 13 m, left",
+     "canopy (canopy), 21 m, right",
+     "Field gap (gate), 24 m, left",
+     "Farm track (track), 26 m, left",
+     "canopy (canopy), 32 m, right",
+     "Green fold on its own spring (area), 36 m, left",
+     "canopy (canopy), 37 m, centre"
+    ],
+    "sun": "to the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 265,
+    "sees": [
+     "canopy (canopy), 9 m, left",
+     "canopy (canopy), 14 m, right",
+     "canopy (canopy), 18 m, centre",
+     "canopy (canopy), 21 m, centre",
+     "canopy (canopy), 22 m, left",
+     "canopy (canopy), 29 m, centre",
+     "canopy (canopy), 29 m, right",
+     "canopy (canopy), 30 m, left",
+     "canopy (canopy), 31 m, right",
+     "canopy (canopy), 34 m, left",
+     "canopy (canopy), 38 m, centre",
+     "Scree-and-thorn slope falling south (area), 42 m, centre",
+     "Thorn scrub (area), 42 m, centre",
+     "canopy (canopy), 43 m, left"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "1A",
+  "plan": 2,
+  "plan_title": "The thorn scrub at the foot of the slope",
+  "heading": "EXT. FOOT OF THE SLOPE - THORN SCRUB - CONTINUOUS",
+  "place": "foreign_farm:ext",
+  "hour": "white noon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 270,
+   "label": "white noon, sun high in the south"
+  },
+  "pos": [
+   -12.9,
+   -49.35
+  ],
+  "facing": 275,
+  "setup": "S14",
+  "keys": 11,
+  "used_by": [
+   "1A"
+  ],
+  "id": "sc01a_D_the_thorn_scrub_at_the_foot_of_the_slope",
+  "dir": "orbits/sc01a/D_the_thorn_scrub_at_the_foot_of_the_slope",
+  "from": "sc01a_B_the_road_under_the_field_wall",
+  "digest": {
+   "front": {
+    "heading_deg": 275,
+    "sees": [
+     "canopy (canopy), 3 m, left",
+     "canopy (canopy), 3 m, right",
+     "canopy (canopy), 5 m, left",
+     "canopy (canopy), 5 m, left",
+     "canopy (canopy), 6 m, right",
+     "canopy (canopy), 6 m, right",
+     "canopy (canopy), 8 m, right",
+     "canopy (canopy), 8 m, left",
+     "canopy (canopy), 15 m, left",
+     "canopy (canopy), 17 m, centre",
+     "canopy (canopy), 18 m, right",
+     "canopy (canopy), 21 m, centre",
+     "canopy (canopy), 28 m, right",
+     "canopy (canopy), 29 m, left"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 185,
+    "sees": [
+     "canopy (canopy), 2 m, right",
+     "canopy (canopy), 4 m, left",
+     "Scree-and-thorn slope falling south (area), 5 m, right",
+     "Thorn scrub (area), 5 m, right",
+     "canopy (canopy), 5 m, right",
+     "canopy (canopy), 6 m, left",
+     "canopy (canopy), 8 m, left",
+     "canopy (canopy), 14 m, centre",
+     "canopy (canopy), 18 m, left",
+     "canopy (canopy), 22 m, left",
+     "canopy (canopy), 27 m, centre",
+     "canopy (canopy), 34 m, left",
+     "canopy (canopy), 34 m, right",
+     "canopy (canopy), 35 m, left"
+    ],
+    "sun": "to the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 95,
+    "sees": [
+     "canopy (canopy), 1 m, right",
+     "Scree-and-thorn slope falling south (area), 3 m, centre",
+     "Thorn scrub (area), 3 m, centre",
+     "canopy (canopy), 10 m, left",
+     "canopy (canopy), 13 m, right",
+     "canopy (canopy), 17 m, centre",
+     "canopy (canopy), 20 m, right",
+     "canopy (canopy), 23 m, left",
+     "canopy (canopy), 25 m, centre",
+     "canopy (canopy), 26 m, right",
+     "canopy (canopy), 28 m, centre",
+     "canopy (canopy), 34 m, centre",
+     "canopy (canopy), 37 m, left",
+     "canopy (canopy), 39 m, right"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 5,
+    "sees": [
+     "canopy (canopy), 1 m, left",
+     "canopy (canopy), 3 m, right",
+     "canopy (canopy), 3 m, left",
+     "canopy (canopy), 4 m, centre",
+     "Scree-and-thorn slope falling south (area), 4 m, left",
+     "Thorn scrub (area), 4 m, left",
+     "canopy (canopy), 6 m, left",
+     "canopy (canopy), 8 m, right",
+     "canopy (canopy), 15 m, centre",
+     "canopy (canopy), 22 m, right",
+     "canopy (canopy), 27 m, centre",
+     "canopy (canopy), 33 m, right",
+     "canopy (canopy), 36 m, right",
+     "canopy (canopy), 36 m, left"
+    ],
+    "sun": "to the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "2",
+  "plan": 0,
+  "plan_title": "The house before dawn",
+  "heading": "INT. ELIAB'S HOUSE - BEFORE DAWN",
+  "place": "eliab_house:int",
+  "hour": "before dawn",
+  "light": {
+   "kind": "lamp",
+   "label": "dark; Eliab's clay lamp in the doorway, the dark yard behind"
+  },
+  "pos": [
+   -35.8,
+   -1.8
+  ],
+  "facing": 90,
+  "setup": "S01",
+  "keys": 9,
+  "used_by": [
+   "2"
+  ],
+  "id": "sc02_A_the_house_before_dawn",
+  "dir": "orbits/sc02/A_the_house_before_dawn",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 90,
+    "sees": [
+     "Water jar (prop), 2 m, right",
+     "Oil jars (prop), 2 m, left",
+     "Hearth (FRONT) (slab), 2 m, centre",
+     "Storage jars (LEFT) (prop), 3 m, left",
+     "Lamp niche (prop), 3 m, left"
+    ],
+    "flame": [
+     "Eliab's clay lamp: to the right, 2 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 0,
+    "sees": [
+     "Water jar (prop), 2 m, left",
+     "Doorway (RIGHT) (door), 2 m, centre",
+     "Eliab's clay lamp (lamp), 2 m, centre"
+    ],
+    "flame": [
+     "Eliab's clay lamp: ahead, the view backlit, 2 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 270,
+    "sees": [
+     "Stools (prop), 1 m, centre",
+     "Hand mill (prop), 2 m, right",
+     "Asher's mat (prop), 2 m, left",
+     "Sleeping bench (BEHIND) (slab), 2 m, right",
+     "Peg, sling (prop), 3 m, left"
+    ],
+    "flame": [
+     "Eliab's clay lamp: to the left, 2 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 180,
+    "sees": [
+     "Oil jars (prop), 2 m, right",
+     "Hand mill (prop), 2 m, left"
+    ],
+    "flame": [
+     "Eliab's clay lamp: behind the camera, the view lit from the front, 2 m"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "2",
+  "plan": 1,
+  "plan_title": "The threshing floor before dawn",
+  "heading": "EXT. ELIAB'S FARM - THRESHING FLOOR - BEFORE DAWN",
+  "place": "eliab_farm:ext",
+  "hour": "before dawn",
+  "light": {
+   "kind": "dawn",
+   "from_deg": 5,
+   "label": "before dawn, grey over the eastern hills, still air, mist in the valley"
+  },
+  "pos": [
+   -4.6,
+   -30.4
+  ],
+  "facing": 150,
+  "setup": "S04",
+  "keys": 14,
+  "used_by": [
+   "2"
+  ],
+  "id": "sc02_B_the_threshing_floor_before_dawn",
+  "dir": "orbits/sc02/B_the_threshing_floor_before_dawn",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 150,
+    "sees": [
+     "Footpath from the village (track), 1 m, centre",
+     "Bread basket (prop), 3 m, centre",
+     "Terrace edge (wall), 8 m, left",
+     "Floor track (track), 8 m, right",
+     "Barley sheaves (prop), 9 m, centre",
+     "Threshing floor (slab), 10 m, centre",
+     "Yard (area), 15 m, right",
+     "Path down to the far field (SW) (track), 16 m, left",
+     "Ovens (prop), 34 m, centre",
+     "The fold (area), 34 m, right",
+     "Fold gate, barred (gate), 36 m, right",
+     "Eaves (area), 38 m, right",
+     "Eliab's house (eliab_house) (building), 39 m, centre",
+     "door (door), 41 m, right"
+    ],
+    "sun": "behind on the right"
+   },
+   "right": {
+    "heading_deg": 60,
+    "sees": [
+     "Footpath from the village (track), 0 m, right",
+     "Floor track (track), 8 m, left",
+     "Yard (area), 15 m, left",
+     "Cistern (prop), 21 m, left",
+     "Trough (prop), 25 m, left",
+     "The one gate (gate), 27 m, left",
+     "Road east, down to the village gate (track), 29 m, left",
+     "Hill track to the pasture (track), 30 m, centre",
+     "Yard wall, about 1.7 m (wall), 31 m, left",
+     "Stone bench (slab), 33 m, left",
+     "The fold (area), 34 m, left",
+     "Fold gate, barred (gate), 36 m, left",
+     "Calf pen (wall), 36 m, left",
+     "Ox byre (building), 39 m, left"
+    ],
+    "sun": "ahead on the right"
+   },
+   "behind": {
+    "heading_deg": 330,
+    "sees": [
+     "Footpath from the village (track), 1 m, left",
+     "Terrace edge (wall), 3 m, right",
+     "Road east, down to the village gate (track), 43 m, left"
+    ],
+    "sun": "ahead on the left"
+   },
+   "left": {
+    "heading_deg": 240,
+    "sees": [
+     "Terrace edge (wall), 3 m, left",
+     "Path down to the far field (SW) (track), 16 m, right"
+    ],
+    "sun": "behind on the left"
+   }
+  }
+ },
+ {
+  "scene": "2",
+  "plan": 2,
+  "plan_title": "The house at dawn",
+  "heading": "INT. ELIAB'S HOUSE - DAWN",
+  "place": "eliab_house:int",
+  "hour": "dawn",
+  "light": {
+   "kind": "dawn",
+   "from_deg": 5,
+   "label": "grey dawn through the open doorway"
+  },
+  "pos": [
+   -35.8,
+   -1.8
+  ],
+  "facing": 90,
+  "setup": "S06",
+  "keys": 6,
+  "used_by": [
+   "2"
+  ],
+  "id": "sc02_C_the_house_at_dawn",
+  "dir": "orbits/sc02/C_the_house_at_dawn",
+  "from": "sc02_A_the_house_before_dawn",
+  "digest": {
+   "front": {
+    "heading_deg": 90,
+    "sees": [
+     "Water jar (prop), 2 m, right",
+     "Oil jars (prop), 2 m, left",
+     "Hearth (FRONT) (slab), 2 m, centre",
+     "Storage jars (LEFT) (prop), 3 m, left",
+     "Lamp niche (prop), 3 m, left"
+    ],
+    "sun": "to the right"
+   },
+   "right": {
+    "heading_deg": 0,
+    "sees": [
+     "Water jar (prop), 2 m, left",
+     "Doorway (RIGHT) (door), 2 m, centre"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "behind": {
+    "heading_deg": 270,
+    "sees": [
+     "Stools (prop), 1 m, centre",
+     "Hand mill (prop), 2 m, right",
+     "Asher's mat (prop), 2 m, left",
+     "Sleeping bench (BEHIND) (slab), 2 m, right",
+     "Peg, sling (prop), 3 m, left"
+    ],
+    "sun": "to the left"
+   },
+   "left": {
+    "heading_deg": 180,
+    "sees": [
+     "Oil jars (prop), 2 m, right",
+     "Hand mill (prop), 2 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   }
+  }
+ },
+ {
+  "scene": "2",
+  "plan": 3,
+  "plan_title": "The fold",
+  "heading": "EXT. ELIAB'S FARM - FOLD - CONTINUOUS",
+  "place": "eliab_farm:ext",
+  "hour": "the sun just up over the eastern hills",
+  "light": {
+   "kind": "dawn",
+   "from_deg": 8,
+   "label": "the sun just up over the eastern hills, Asher squints into it"
+  },
+  "pos": [
+   -24.0,
+   0.2
+  ],
+  "facing": 25,
+  "setup": "S07",
+  "keys": 20,
+  "used_by": [
+   "2"
+  ],
+  "id": "sc02_D_the_fold",
+  "dir": "orbits/sc02/D_the_fold",
+  "from": "sc02_B_the_threshing_floor_before_dawn",
+  "digest": {
+   "front": {
+    "heading_deg": 25,
+    "sees": [
+     "The fold (area), 3 m, left",
+     "Fold gate, barred (gate), 7 m, centre",
+     "Yard (area), 14 m, left",
+     "Yard wall, about 1.7 m (wall), 14 m, left",
+     "Calf pen (wall), 16 m, centre",
+     "Ox byre (building), 17 m, centre",
+     "The one gate (gate), 24 m, right",
+     "Road east, down to the village gate (track), 25 m, right",
+     "Stone bench (slab), 25 m, right",
+     "Trough (prop), 26 m, right",
+     "Floor track (track), 31 m, right",
+     "Old fig (tree), 31 m, centre",
+     "Hill track to the pasture (track), 33 m, right",
+     "Footpath from the village (track), 75 m, right"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "right": {
+    "heading_deg": 295,
+    "sees": [
+     "Yard (area), 16 m, right",
+     "Cistern (prop), 20 m, left",
+     "Trough (prop), 26 m, left",
+     "Floor track (track), 28 m, centre",
+     "Threshing floor (slab), 29 m, centre",
+     "Path down to the far field (SW) (track), 33 m, right",
+     "Terrace edge (wall), 34 m, right",
+     "Footpath from the village (track), 34 m, centre",
+     "Road east, down to the village gate (track), 56 m, left"
+    ],
+    "sun": "ahead on the left"
+   },
+   "behind": {
+    "heading_deg": 205,
+    "sees": [
+     "Eaves (area), 9 m, right",
+     "Yard (area), 10 m, right",
+     "Eliab's house (eliab_house) (building), 10 m, right",
+     "Yard wall, about 1.7 m (wall), 10 m, right",
+     "door (door), 10 m, right",
+     "Ovens (prop), 11 m, left",
+     "Asher's mat (inside) (prop), 11 m, centre",
+     "tree (tree), 29 m, right",
+     "Terrace edge (wall), 34 m, left",
+     "tree (tree), 35 m, centre",
+     "Path down to the far field (SW) (track), 43 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   },
+   "left": {
+    "heading_deg": 115,
+    "sees": [
+     "The fold (area), 3 m, right",
+     "Yard (area), 10 m, left",
+     "Yard wall, about 1.7 m (wall), 11 m, left",
+     "tree (tree), 29 m, left"
+    ],
+    "sun": "behind on the right"
+   }
+  }
+ },
+ {
+  "scene": "2",
+  "plan": 4,
+  "plan_title": "The gate at dusk",
+  "heading": "EXT. ELIAB'S FARM - GATE - DUSK",
+  "place": "eliab_farm:ext",
+  "hour": "dusk",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 195,
+   "label": "low sun over the house roof, gold dust in the gateway, then the falling dark"
+  },
+  "pos": [
+   -0.5,
+   -2.1
+  ],
+  "facing": 347,
+  "setup": "S14",
+  "keys": 40,
+  "used_by": [
+   "2",
+   "6B",
+   "8",
+   "13"
+  ],
+  "id": "sc02_E_the_gate_at_dusk",
+  "dir": "orbits/sc02/E_the_gate_at_dusk",
+  "from": "sc02_D_the_fold",
+  "digest": {
+   "front": {
+    "heading_deg": 347,
+    "sees": [
+     "The one gate (gate), 1 m, left",
+     "Road east, down to the village gate (track), 1 m, left",
+     "Floor track (track), 8 m, centre",
+     "Hill track to the pasture (track), 10 m, centre",
+     "Footpath from the village (track), 35 m, right"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "Gate lamp, lit and carried out: to the left, 2 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 257,
+    "sees": [
+     "Yard (area), 0 m, left",
+     "The one gate (gate), 2 m, left",
+     "Trough (prop), 4 m, left",
+     "Cistern (prop), 10 m, right",
+     "Floor track (track), 10 m, left",
+     "Threshing floor (slab), 28 m, right",
+     "Footpath from the village (track), 28 m, centre",
+     "Terrace edge (wall), 31 m, left",
+     "Path down to the far field (SW) (track), 37 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "Gate lamp, lit and carried out: behind the camera, the view lit from the front, 2 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 167,
+    "sees": [
+     "Calf pen (wall), 8 m, right",
+     "The fold (area), 12 m, right",
+     "Ox byre (building), 12 m, right",
+     "Fold gate, barred (gate), 16 m, centre",
+     "Yard (area), 18 m, right",
+     "Yard wall, about 1.7 m (wall), 18 m, right",
+     "Ovens (prop), 31 m, left",
+     "Eaves (area), 32 m, left",
+     "door (door), 34 m, left",
+     "Eliab's house (eliab_house) (building), 34 m, left",
+     "Terrace edge (wall), 49 m, left",
+     "tree (tree), 53 m, centre",
+     "tree (tree), 55 m, left"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "Gate lamp, lit and carried out: to the right, 2 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 77,
+    "sees": [
+     "The one gate (gate), 1 m, right",
+     "Yard (area), 1 m, centre",
+     "Gate lamp, lit and carried out (lamp), 2 m, centre",
+     "Yard wall, about 1.7 m (wall), 3 m, centre",
+     "Stone bench (slab), 4 m, centre",
+     "Calf pen (wall), 8 m, left",
+     "Ox byre (building), 11 m, left",
+     "Old fig (tree), 12 m, right",
+     "Hill track to the pasture (track), 17 m, right",
+     "The fold (area), 17 m, left"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "Gate lamp, lit and carried out: ahead, the view backlit, 2 m"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "2",
+  "plan": 5,
+  "plan_title": "The valley at night",
+  "heading": "EXT. THE VALLEY - NIGHT",
+  "place": "eliab_valley:ext",
+  "hour": "night",
+  "light": {
+   "kind": "lamp",
+   "label": "black night, starlight; one lamp crossing the valley"
+  },
+  "pos": [
+   -40,
+   80
+  ],
+  "facing": 318,
+  "setup": "S17",
+  "keys": 3,
+  "used_by": [
+   "2"
+  ],
+  "id": "sc02_F_the_valley_at_night",
+  "dir": "orbits/sc02/F_the_valley_at_night",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 318,
+    "sees": [
+     "Hill pasture (the flock) (area), 68 m, left",
+     "building (building), 79 m, right",
+     "Hill track (track), 89 m, centre",
+     "Road east to Jericho (track), 91 m, right",
+     "Path to the far field (track), 115 m, right",
+     "building (building), 358 m, left",
+     "Village (area), 552 m, centre",
+     "Village gate (elders' bench) (gate), 558 m, centre",
+     "Village fire (fire), 699 m, centre",
+     "Well (prop), 699 m, centre",
+     "Eliab's lantern (lamp), 777 m, centre",
+     "Thorn gully (the ewe, Sc 2) (area), 791 m, left",
+     "building (building), 829 m, left",
+     "building (building), 1181 m, right"
+    ],
+    "flame": [
+     "Eliab's lantern: ahead, the view backlit, 777 m",
+     "Village fire: ahead, the view backlit, 699 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 228,
+    "sees": [
+     "building (building), 79 m, left",
+     "Path to the far field (track), 115 m, left",
+     "Far field (Sc 15) (area), 149 m, left",
+     "Other farms on the next terraces (building), 370 m, right"
+    ],
+    "flame": [
+     "Eliab's lantern: to the left, 777 m",
+     "Village fire: to the left, 699 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 138,
+    "sees": [
+     "Other farms on the next terraces (building), 370 m, left"
+    ],
+    "flame": [
+     "Eliab's lantern: behind the camera, the view lit from the front, 777 m",
+     "Village fire: behind the camera, the view lit from the front, 699 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 48,
+    "sees": [
+     "Hill pasture (the flock) (area), 68 m, right",
+     "Hill track (track), 123 m, right",
+     "building (building), 358 m, right"
+    ],
+    "flame": [
+     "Eliab's lantern: to the right, 777 m",
+     "Village fire: to the right, 699 m"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "2",
+  "plan": 6,
+  "plan_title": "The fire by the well",
+  "heading": "EXT. VILLAGE - FIRE BY THE WELL - NIGHT",
+  "place": "sc02:The fire by the well",
+  "hour": "night",
+  "light": {
+   "kind": "fire",
+   "label": "the brushwood fire by the well; the black slope above"
+  },
+  "pos": [
+   1.45,
+   0.05
+  ],
+  "facing": 28,
+  "setup": "S20",
+  "keys": 12,
+  "used_by": [
+   "2"
+  ],
+  "id": "sc02_G_the_fire_by_the_well",
+  "dir": "orbits/sc02/G_the_fire_by_the_well",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 28,
+    "sees": [
+     "Fire by the well (fire), 1 m, centre",
+     "Open ground by the well (area), 8 m, left",
+     "Low wall, the village edge (wall), 10 m, left",
+     "Eliab's lamp far up the slope, about 330 m at 28° (lamp), 22 m, left"
+    ],
+    "flame": [
+     "Fire by the well: ahead, the view backlit, 1 m",
+     "Eliab's lamp far up the slope, about 330 m at 28°: ahead, the view backlit, 22 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 298,
+    "sees": [
+     "Open ground by the well (area), 7 m, right",
+     "building (building), 8 m, right",
+     "building (building), 8 m, centre",
+     "Low wall, the village edge (wall), 12 m, left"
+    ],
+    "flame": [
+     "Fire by the well: to the left, 1 m",
+     "Eliab's lamp far up the slope, about 330 m at 28°: behind on the left, 22 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 208,
+    "sees": [
+     "Village well (slab), 1 m, right",
+     "Open ground by the well (area), 7 m, left",
+     "building (building), 8 m, left",
+     "Houses (building), 10 m, right",
+     "building (building), 14 m, right"
+    ],
+    "flame": [
+     "Fire by the well: behind the camera, the view lit from the front, 1 m",
+     "Eliab's lamp far up the slope, about 330 m at 28°: behind the camera, the view lit from the front, 22 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 118,
+    "sees": [
+     "Open ground by the well (area), 8 m, right",
+     "Low wall, the village edge (wall), 9 m, right",
+     "Houses (building), 10 m, left",
+     "building (building), 10 m, left"
+    ],
+    "flame": [
+     "Fire by the well: to the right, 1 m",
+     "Eliab's lamp far up the slope, about 330 m at 28°: ahead on the right, 22 m"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "2",
+  "plan": 7,
+  "plan_title": "The gate late at night",
+  "heading": "EXT. ELIAB'S FARM - GATE - LATE NIGHT",
+  "place": "eliab_farm:ext",
+  "hour": "late night",
+  "light": {
+   "kind": "lamp",
+   "label": "moonless; the gate lamp back in its niche, the lamplit doorway"
+  },
+  "pos": [
+   -14.0,
+   1.6
+  ],
+  "facing": 150,
+  "setup": "S24",
+  "keys": 51,
+  "used_by": [
+   "2"
+  ],
+  "id": "sc02_H_the_gate_late_at_night",
+  "dir": "orbits/sc02/H_the_gate_late_at_night",
+  "from": "sc02_D_the_fold",
+  "digest": {
+   "front": {
+    "heading_deg": 150,
+    "sees": [
+     "The fold (area), 2 m, right",
+     "Fold gate, barred (gate), 2 m, right",
+     "Yard (area), 12 m, right",
+     "Yard wall, about 1.7 m (wall), 13 m, right",
+     "Lamplight (area), 15 m, left",
+     "Eaves (area), 19 m, left",
+     "Eaves mat (prop), 19 m, left",
+     "Eliab's house (eliab_house) (building), 20 m, left",
+     "Doorway (RIGHT) (door), 20 m, left",
+     "door (door), 20 m, left",
+     "Water jar (prop), 21 m, left",
+     "Asher's mat (prop), 21 m, left",
+     "Peg, sling (prop), 22 m, left",
+     "Hearth (FRONT) (slab), 22 m, left"
+    ],
+    "flame": [
+     "Gate lamp, lit again: behind the camera, the view lit from the front, 14 m",
+     "Eliab's lantern: behind the camera, the view lit from the front, 58 m",
+     "3 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 60,
+    "sees": [
+     "The fold (area), 2 m, left",
+     "Calf pen (wall), 6 m, right",
+     "Ox byre (building), 9 m, centre",
+     "Yard (area), 12 m, left",
+     "Yard wall, about 1.7 m (wall), 12 m, left",
+     "Old fig (tree), 21 m, right",
+     "Hill track to the pasture (track), 30 m, right"
+    ],
+    "flame": [
+     "Gate lamp, lit again: ahead on the right, 14 m",
+     "Eliab's lantern: to the right, 58 m",
+     "3 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 330,
+    "sees": [
+     "Calf pen (wall), 10 m, left",
+     "Cistern (prop), 13 m, right",
+     "Yard (area), 14 m, left",
+     "Yard wall, about 1.7 m (wall), 14 m, left",
+     "Gate lamp, lit again (lamp), 14 m, left",
+     "The one gate (gate), 14 m, left",
+     "Stone bench (slab), 15 m, left",
+     "Road east, down to the village gate (track), 15 m, left",
+     "Trough (prop), 17 m, centre",
+     "Old fig (tree), 21 m, left",
+     "Floor track (track), 22 m, centre",
+     "Hill track to the pasture (track), 23 m, left",
+     "Footpath from the village (track), 32 m, right",
+     "Terrace edge (wall), 35 m, right"
+    ],
+    "flame": [
+     "Gate lamp, lit again: ahead, the view backlit, 14 m",
+     "Eliab's lantern: ahead, the view backlit, 58 m",
+     "3 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 240,
+    "sees": [
+     "Lamplight (area), 15 m, right",
+     "Yard (area), 17 m, left",
+     "Eaves (area), 19 m, right",
+     "Ovens (prop), 19 m, right",
+     "Eliab's house (eliab_house) (building), 20 m, right",
+     "Doorway (RIGHT) (door), 20 m, right",
+     "door (door), 20 m, right",
+     "Asher's mat (prop), 21 m, right",
+     "Peg, sling (prop), 22 m, right",
+     "Table · orbit centre (prop), 22 m, right",
+     "Stools (prop), 22 m, right",
+     "Sleeping bench (BEHIND) (slab), 23 m, right",
+     "Hand mill (prop), 23 m, right",
+     "Floor track (track), 24 m, left"
+    ],
+    "flame": [
+     "Gate lamp, lit again: behind on the left, 14 m",
+     "Eliab's lantern: to the left, 58 m",
+     "3 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "3",
+  "plan": 0,
+  "plan_title": "The threshing floor at evening",
+  "heading": "EXT. ELIAB'S FARM - THRESHING FLOOR - EVENING",
+  "place": "eliab_farm:ext",
+  "hour": "evening",
+  "light": {
+   "kind": "sun",
+   "from_deg": 195,
+   "label": "evening, the low sun from the west-south-west, the wind from the west"
+  },
+  "pos": [
+   -13.77,
+   -25.37
+  ],
+  "facing": 263,
+  "setup": "S13",
+  "keys": 86,
+  "used_by": [
+   "3"
+  ],
+  "id": "sc03_A_the_threshing_floor_at_evening",
+  "dir": "orbits/sc03/A_the_threshing_floor_at_evening",
+  "from": "sc02_B_the_threshing_floor_before_dawn",
+  "digest": {
+   "front": {
+    "heading_deg": 263,
+    "sees": [
+     "Barley heap (area), 1 m, left",
+     "Threshing floor (slab), 1 m, centre",
+     "Chaff drift, east and downhill (area), 3 m, left",
+     "Terrace edge (wall), 8 m, centre",
+     "Path down to the far field (SW) (track), 10 m, right"
+    ],
+    "sun": "ahead on the right"
+   },
+   "right": {
+    "heading_deg": 173,
+    "sees": [
+     "Terrace edge (wall), 12 m, left",
+     "Yard (area), 12 m, right",
+     "Path down to the far field (SW) (track), 16 m, left",
+     "Ovens (prop), 24 m, right",
+     "Eaves (area), 28 m, right",
+     "Eliab's house (eliab_house) (building), 29 m, right",
+     "door (door), 31 m, right",
+     "Yard wall, about 1.7 m (wall), 34 m, right",
+     "tree (tree), 40 m, centre",
+     "tree (tree), 51 m, right"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "behind": {
+    "heading_deg": 83,
+    "sees": [
+     "Sheaves still to thresh (slab), 5 m, right",
+     "Yard (area), 10 m, centre",
+     "Cistern (prop), 17 m, right",
+     "Floor track (track), 19 m, right",
+     "Trough (prop), 25 m, right",
+     "The one gate (gate), 26 m, right",
+     "Road east, down to the village gate (track), 28 m, right",
+     "Eaves (area), 28 m, left",
+     "The fold (area), 29 m, centre",
+     "Eliab's house (eliab_house) (building), 29 m, left",
+     "Fold gate, barred (gate), 29 m, centre",
+     "Yard wall, about 1.7 m (wall), 29 m, right",
+     "door (door), 31 m, left",
+     "Stone bench (slab), 31 m, right"
+    ],
+    "sun": "behind on the left"
+   },
+   "left": {
+    "heading_deg": 353,
+    "sees": [
+     "Barley heap (area), 1 m, centre",
+     "Chaff drift, east and downhill (area), 2 m, centre",
+     "Second fork (prop), 4 m, left",
+     "Floor track (track), 4 m, left",
+     "Footpath from the village (track), 8 m, right",
+     "Terrace edge (wall), 9 m, right",
+     "Yard (area), 14 m, left",
+     "Road east, down to the village gate (track), 32 m, left",
+     "Hill track to the pasture (track), 32 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   }
+  }
+ },
+ {
+  "scene": "4",
+  "plan": 0,
+  "plan_title": "Eliab's house at supper",
+  "heading": "INT. ELIAB'S HOUSE - DUSK",
+  "place": "eliab_house:int",
+  "hour": "dusk",
+  "light": {
+   "kind": "lamp",
+   "label": "one clay lamp on the table and the last grey light in through the open east door"
+  },
+  "pos": [
+   -35.8,
+   -1.8
+  ],
+  "facing": 90,
+  "setup": "S03",
+  "keys": 80,
+  "used_by": [
+   "4"
+  ],
+  "id": "sc04_A_eliabs_house_at_supper",
+  "dir": "orbits/sc04/A_eliabs_house_at_supper",
+  "from": "sc02_A_the_house_before_dawn",
+  "digest": {
+   "front": {
+    "heading_deg": 90,
+    "sees": [
+     "Water jar (prop), 2 m, right",
+     "Oil jars (prop), 2 m, left",
+     "Hearth (FRONT) (slab), 2 m, centre",
+     "Eliab's house (eliab_house) (building), 3 m, right",
+     "Storage jars (LEFT) (prop), 3 m, left",
+     "Lamp niche (prop), 3 m, left",
+     "Eaves (area), 3 m, right",
+     "Yard (area), 3 m, right",
+     "Yard wall, about 1.7 m (wall), 4 m, right",
+     "The fold (area), 14 m, right"
+    ]
+   },
+   "right": {
+    "heading_deg": 0,
+    "sees": [
+     "Gate lamp, 34 m east (track), 1 m, right",
+     "Water jar (prop), 2 m, left",
+     "Doorway (RIGHT) (door), 2 m, centre",
+     "door (door), 2 m, centre",
+     "Eliab's house (eliab_house) (building), 2 m, right",
+     "Eaves (area), 2 m, centre",
+     "Yard (area), 2 m, centre",
+     "The fold (area), 12 m, left",
+     "Fold gate, barred (gate), 19 m, left",
+     "Yard wall, about 1.7 m (wall), 20 m, left",
+     "Calf pen (wall), 28 m, left",
+     "Ox byre (building), 29 m, left",
+     "Cistern (prop), 30 m, right",
+     "Threshing floor (slab), 33 m, right"
+    ]
+   },
+   "behind": {
+    "heading_deg": 270,
+    "sees": [
+     "Stools (prop), 1 m, centre",
+     "Hand mill (prop), 2 m, right",
+     "Asher's mat (prop), 2 m, left",
+     "Sleeping bench (BEHIND) (slab), 2 m, right",
+     "Eliab's house (eliab_house) (building), 3 m, left",
+     "Yard (area), 3 m, left",
+     "Peg, sling (prop), 3 m, left",
+     "Eaves (area), 3 m, left",
+     "Ovens (prop), 9 m, left",
+     "tree (tree), 25 m, right",
+     "Terrace edge (wall), 31 m, centre",
+     "Threshing floor (slab), 33 m, left",
+     "Floor track (track), 34 m, left",
+     "Path down to the far field (SW) (track), 35 m, left"
+    ]
+   },
+   "left": {
+    "heading_deg": 180,
+    "sees": [
+     "Gate lamp, 34 m east (track), 1 m, left",
+     "Oil jars (prop), 2 m, right",
+     "Hand mill (prop), 2 m, left",
+     "Eliab's house (eliab_house) (building), 2 m, left",
+     "tree (tree), 19 m, right",
+     "tree (tree), 25 m, left",
+     "Terrace edge (wall), 36 m, left"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "4A",
+  "plan": 0,
+  "plan_title": "The hillside at sunset",
+  "heading": "EXT. HILLSIDE ABOVE THE LAKE - SUNSET",
+  "place": "hillside:ext",
+  "hour": "sunset",
+  "light": {
+   "kind": "sun",
+   "from_deg": 140,
+   "label": "sunset, low and red over the far hills"
+  },
+  "pos": [
+   26.4,
+   2.4
+  ],
+  "facing": 18,
+  "setup": "S02",
+  "keys": 15,
+  "used_by": [
+   "4A"
+  ],
+  "id": "sc04a_A_the_hillside_at_sunset",
+  "dir": "orbits/sc04a/A_the_hillside_at_sunset",
+  "from": "sc01_A_the_hillside_above_the_lake",
+  "digest": {
+   "front": {
+    "heading_deg": 18,
+    "sees": [
+     "Loose stone, Sc 4A and 16 (prop), 1 m, centre",
+     "Low dry-stone fieldstone wall (wall), 1 m, centre",
+     "tree (tree), 7 m, left",
+     "tree (tree), 8 m, right",
+     "tree (tree), 10 m, right",
+     "tree (tree), 11 m, left",
+     "tree (tree), 13 m, centre",
+     "tree (tree), 15 m, right",
+     "tree (tree), 17 m, left",
+     "Lake · downhill (+y) (water), 30 m, left"
+    ],
+    "sun": "behind on the left"
+   },
+   "right": {
+    "heading_deg": 288,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 1 m, left",
+     "Open gate (gate), 1 m, left",
+     "tree (tree), 10 m, centre",
+     "tree (tree), 10 m, left",
+     "tree (tree), 15 m, left",
+     "tree (tree), 15 m, left",
+     "Olive's long shadow (area), 16 m, right"
+    ],
+    "sun": "behind on the right"
+   },
+   "behind": {
+    "heading_deg": 198,
+    "sees": [
+     "Olive's long shadow (area), 16 m, left",
+     "Low dry-stone fieldstone wall (wall), 23 m, right",
+     "Stones in the dust (prop), 26 m, centre",
+     "Limestone ledge (slab), 27 m, right",
+     "The old olive (canopy), 29 m, right"
+    ],
+    "sun": "ahead on the right"
+   },
+   "left": {
+    "heading_deg": 108,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 1 m, right",
+     "Lake · downhill (+y) (water), 29 m, right"
+    ],
+    "sun": "ahead on the left"
+   }
+  }
+ },
+ {
+  "scene": "4A",
+  "plan": 0,
+  "plan_title": "The hillside at sunset",
+  "heading": "EXT. HILLSIDE ABOVE THE LAKE - SUNSET",
+  "place": "hillside:ext",
+  "hour": "sunset",
+  "light": {
+   "kind": "sun",
+   "from_deg": 140,
+   "label": "sunset, low and red over the far hills"
+  },
+  "pos": [
+   0.3,
+   -0.95
+  ],
+  "facing": 10,
+  "setup": "S04",
+  "keys": 6,
+  "used_by": [
+   "4A"
+  ],
+  "id": "sc04a_B_the_hillside_at_sunset",
+  "dir": "orbits/sc04a/B_the_hillside_at_sunset",
+  "from": "sc01_B_the_hillside_above_the_lake",
+  "digest": {
+   "front": {
+    "heading_deg": 10,
+    "sees": [
+     "Stones in the dust (prop), 1 m, right",
+     "Olive's long shadow (area), 3 m, left",
+     "Low dry-stone fieldstone wall (wall), 19 m, left",
+     "Open gate (gate), 27 m, centre",
+     "Loose stone, Sc 4A and 16 (prop), 27 m, centre",
+     "tree (tree), 31 m, right",
+     "tree (tree), 32 m, centre",
+     "tree (tree), 34 m, centre",
+     "tree (tree), 35 m, centre",
+     "tree (tree), 35 m, right",
+     "tree (tree), 36 m, centre",
+     "Lake · downhill (+y) (water), 37 m, left",
+     "tree (tree), 39 m, right",
+     "tree (tree), 39 m, centre"
+    ],
+    "sun": "behind on the left"
+   },
+   "right": {
+    "heading_deg": 280,
+    "sees": [
+     "Olive's long shadow (area), 3 m, right",
+     "Low dry-stone fieldstone wall (wall), 9 m, right"
+    ],
+    "sun": "behind on the right"
+   },
+   "behind": {
+    "heading_deg": 190,
+    "sees": [
+     "Olive's long shadow (area), 3 m, left",
+     "The old olive (canopy), 4 m, right",
+     "Low dry-stone fieldstone wall (wall), 6 m, centre"
+    ],
+    "sun": "ahead on the right"
+   },
+   "left": {
+    "heading_deg": 100,
+    "sees": [
+     "Limestone ledge (slab), 1 m, centre",
+     "Olive's long shadow (area), 3 m, left",
+     "The old olive (canopy), 4 m, left",
+     "Low dry-stone fieldstone wall (wall), 7 m, left",
+     "Lake · downhill (+y) (water), 32 m, right"
+    ],
+    "sun": "ahead on the left"
+   }
+  }
+ },
+ {
+  "scene": "5",
+  "plan": 0,
+  "plan_title": "The gate at night",
+  "heading": "EXT. ELIAB'S FARM - GATE - NIGHT",
+  "place": "eliab_farm:ext",
+  "hour": "night",
+  "light": {
+   "kind": "lamp",
+   "label": "moonless night; the gate lamp in its niche, the lit house door far across the yard"
+  },
+  "pos": [
+   0.75,
+   -0.95
+  ],
+  "facing": 204,
+  "setup": "S03",
+  "keys": 25,
+  "used_by": [
+   "5",
+   "10"
+  ],
+  "id": "sc05_A_the_gate_at_night",
+  "dir": "orbits/sc05/A_the_gate_at_night",
+  "from": "sc02_E_the_gate_at_dusk",
+  "digest": {
+   "front": {
+    "heading_deg": 204,
+    "sees": [
+     "Road east, down to the village gate (track), 1 m, left",
+     "The one gate (gate), 1 m, left",
+     "Yard (area), 1 m, right",
+     "Cistern (prop), 11 m, left",
+     "The fold (area), 13 m, right",
+     "Fold gate, barred (gate), 17 m, right",
+     "Floor track (track), 21 m, left",
+     "Footpath from the village (track), 29 m, left",
+     "Threshing floor (slab), 30 m, left",
+     "Ovens (prop), 32 m, centre",
+     "Yard wall, about 1.7 m (wall), 32 m, right",
+     "Eaves (area), 33 m, right",
+     "Terrace edge (wall), 33 m, left",
+     "Eliab's house (eliab_house) (building), 35 m, right"
+    ],
+    "flame": [
+     "Gate lamp, filled and trimmed: to the right, 1 m",
+     "House lamp, the door open and lit: ahead, the view backlit, 37 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 114,
+    "sees": [
+     "Yard (area), 1 m, left",
+     "Gate lamp, filled and trimmed (lamp), 1 m, left",
+     "The one gate (gate), 1 m, left",
+     "Yard wall, about 1.7 m (wall), 2 m, centre",
+     "Stone bench (slab), 3 m, right",
+     "Calf pen (wall), 7 m, centre",
+     "Ox byre (building), 10 m, centre",
+     "The fold (area), 13 m, left",
+     "Fold gate, barred (gate), 17 m, left"
+    ],
+    "flame": [
+     "Gate lamp, filled and trimmed: ahead, the view backlit, 1 m",
+     "House lamp, the door open and lit: ahead on the left, 37 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 24,
+    "sees": [
+     "Road east, down to the village gate (track), 3 m, right",
+     "Floor track (track), 7 m, right",
+     "Hill track to the pasture (track), 9 m, right",
+     "Old fig (tree), 11 m, left",
+     "Footpath from the village (track), 64 m, right"
+    ],
+    "flame": [
+     "Gate lamp, filled and trimmed: to the left, 1 m",
+     "House lamp, the door open and lit: behind the camera, the view lit from the front, 37 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 294,
+    "sees": [
+     "Road east, down to the village gate (track), 1 m, right",
+     "The one gate (gate), 3 m, right",
+     "Yard (area), 3 m, right",
+     "Trough (prop), 5 m, right",
+     "Floor track (track), 7 m, left",
+     "Hill track to the pasture (track), 9 m, left",
+     "Footpath from the village (track), 29 m, right",
+     "Terrace edge (wall), 32 m, right"
+    ],
+    "flame": [
+     "Gate lamp, filled and trimmed: behind the camera, the view lit from the front, 1 m",
+     "House lamp, the door open and lit: behind on the right, 37 m"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "5",
+  "plan": 1,
+  "plan_title": "The gate at first light",
+  "heading": "EXT. ELIAB'S FARM - GATE - FIRST LIGHT",
+  "place": "eliab_farm:ext",
+  "hour": "first light",
+  "light": {
+   "kind": "dawn",
+   "from_deg": 8,
+   "label": "first light, grey over the eastern hills; the gate lamp burning its last"
+  },
+  "pos": [
+   1.35,
+   0.8
+  ],
+  "facing": 165,
+  "setup": "S09",
+  "keys": 23,
+  "used_by": [
+   "5"
+  ],
+  "id": "sc05_B_the_gate_at_first_light",
+  "dir": "orbits/sc05/B_the_gate_at_first_light",
+  "from": "sc05_A_the_gate_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 165,
+    "sees": [
+     "Stone bench (slab), 1 m, right",
+     "Yard wall, about 1.7 m (wall), 1 m, left",
+     "Gate lamp, its last (lamp), 2 m, left",
+     "The one gate (gate), 2 m, left",
+     "Yard (area), 2 m, left",
+     "Calf pen (wall), 6 m, right",
+     "Ox byre (building), 9 m, right",
+     "The fold (area), 13 m, centre",
+     "Fold gate, barred (gate), 17 m, centre",
+     "Ovens (prop), 33 m, left",
+     "Eaves (area), 34 m, left",
+     "Eliab's house (eliab_house) (building), 35 m, left",
+     "door (door), 35 m, left",
+     "tree (tree), 54 m, centre"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "Gate lamp, its last: ahead on the left, 2 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 75,
+    "sees": [
+     "Stone bench (slab), 1 m, left",
+     "Yard wall, about 1.7 m (wall), 3 m, left",
+     "Yard (area), 3 m, left",
+     "Calf pen (wall), 8 m, left",
+     "Old fig (tree), 9 m, right",
+     "Ox byre (building), 9 m, left",
+     "Hill track to the pasture (track), 17 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "Gate lamp, its last: behind on the left, 2 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 345,
+    "sees": [
+     "Road east, down to the village gate (track), 3 m, right",
+     "Floor track (track), 8 m, right",
+     "Hill track to the pasture (track), 9 m, right",
+     "Footpath from the village (track), 37 m, right"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "Gate lamp, its last: behind on the right, 2 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 255,
+    "sees": [
+     "Gate lamp, its last (lamp), 2 m, right",
+     "The one gate (gate), 2 m, right",
+     "Yard (area), 2 m, right",
+     "Road east, down to the village gate (track), 3 m, centre",
+     "Trough (prop), 6 m, centre",
+     "Floor track (track), 9 m, left",
+     "Cistern (prop), 13 m, right",
+     "Footpath from the village (track), 31 m, centre",
+     "Threshing floor (slab), 31 m, right",
+     "Terrace edge (wall), 33 m, left",
+     "Path down to the far field (SW) (track), 40 m, right"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "Gate lamp, its last: ahead on the right, 2 m"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "6A",
+  "plan": 0,
+  "plan_title": "The village gate",
+  "heading": "EXT. VILLAGE GATE - MORNING, SOME DAYS LATER",
+  "place": "village_gate:ext",
+  "hour": "morning",
+  "light": {
+   "kind": "sun",
+   "from_deg": 330,
+   "label": "low morning sun through dust, about 18° up; the wall and arch shade the square"
+  },
+  "pos": [
+   -0.11,
+   0.39
+  ],
+  "facing": 289,
+  "setup": "S02",
+  "keys": 68,
+  "used_by": [
+   "6A"
+  ],
+  "id": "sc06a_A_the_village_gate",
+  "dir": "orbits/sc06a/A_the_village_gate",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 289,
+    "sees": [
+     "Stone arch (gate), 0 m, centre",
+     "Morning shade of wall and arch (area), 1 m, right",
+     "Nahum's cloth (prop), 1 m, right",
+     "building (building), 3 m, left",
+     "building (building), 4 m, centre",
+     "Door to the street (door), 4 m, left",
+     "Elders' bench (slab), 4 m, centre",
+     "Village wall, children on top (wall), 4 m, right",
+     "building (building), 4 m, right",
+     "building (building), 8 m, left",
+     "building (building), 9 m, left",
+     "building (building), 11 m, right",
+     "Village houses (building), 17 m, right"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 199,
+    "sees": [
+     "Morning shade of wall and arch (area), 2 m, left",
+     "building (building), 3 m, left",
+     "Stone arch (gate), 4 m, left",
+     "Village wall, children on top (wall), 4 m, left",
+     "building (building), 4 m, left",
+     "building (building), 10 m, left",
+     "Hill path up to Eliab's farm (track), 11 m, right",
+     "Old olive (tree), 12 m, centre",
+     "Long slope rising north-west (area), 14 m, right",
+     "Village houses (building), 17 m, left",
+     "tree (tree), 29 m, right",
+     "tree (tree), 51 m, right",
+     "tree (tree), 69 m, right"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 109,
+    "sees": [
+     "Morning shade of wall and arch (area), 7 m, left",
+     "Road east to Jericho (track), 11 m, left",
+     "Hill path up to Eliab's farm (track), 11 m, left",
+     "Fig (tree), 13 m, right",
+     "Long slope rising north-west (area), 13 m, left",
+     "tree (tree), 31 m, left",
+     "tree (tree), 51 m, left",
+     "tree (tree), 51 m, left",
+     "tree (tree), 67 m, left",
+     "tree (tree), 69 m, left"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 19,
+    "sees": [
+     "Morning shade of wall and arch (area), 0 m, right",
+     "building (building), 3 m, left",
+     "Stone arch (gate), 3 m, left",
+     "building (building), 4 m, centre",
+     "building (building), 9 m, right",
+     "building (building), 10 m, left",
+     "Fig (tree), 13 m, left",
+     "building (building), 16 m, left",
+     "Road east to Jericho (track), 20 m, left"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "6B",
+  "plan": 0,
+  "plan_title": "The gate at dawn",
+  "heading": "EXT. ELIAB'S FARM - GATE - DAWN",
+  "place": "eliab_farm:ext",
+  "hour": "dawn",
+  "light": {
+   "kind": "dawn",
+   "from_deg": 5,
+   "label": "first light low from the east straight down the road, mist lying in the valley"
+  },
+  "pos": [
+   -0.45,
+   -1.85
+  ],
+  "facing": 96,
+  "setup": "S03",
+  "keys": 35,
+  "used_by": [
+   "6B"
+  ],
+  "id": "sc06b_A_the_gate_at_dawn",
+  "dir": "orbits/sc06b/A_the_gate_at_dawn",
+  "from": "sc02_E_the_gate_at_dusk",
+  "digest": {
+   "front": {
+    "heading_deg": 96,
+    "sees": [
+     "Yard (area), 0 m, right",
+     "First light through the gateway (area), 1 m, centre",
+     "The one gate (gate), 2 m, right",
+     "Yard wall, about 1.7 m (wall), 2 m, right",
+     "Stone bench (slab), 4 m, right",
+     "Calf pen (wall), 8 m, left",
+     "Ox byre (building), 11 m, centre",
+     "Old fig (tree), 12 m, right",
+     "The fold (area), 13 m, left",
+     "Hill track to the pasture (track), 67 m, right"
+    ],
+    "sun": "to the right"
+   },
+   "right": {
+    "heading_deg": 6,
+    "sees": [
+     "The one gate (gate), 0 m, centre",
+     "First light through the gateway (area), 1 m, centre",
+     "Road east, down to the village gate (track), 1 m, centre",
+     "Floor track (track), 8 m, right",
+     "Hill track to the pasture (track), 10 m, right",
+     "Old fig (tree), 12 m, left",
+     "Footpath from the village (track), 46 m, right"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "behind": {
+    "heading_deg": 276,
+    "sees": [
+     "Yard (area), 1 m, centre",
+     "First light through the gateway (area), 1 m, right",
+     "The one gate (gate), 2 m, centre",
+     "Trough (prop), 4 m, left",
+     "Floor track (track), 8 m, left",
+     "Cistern (prop), 10 m, right",
+     "Threshing floor (slab), 28 m, right",
+     "Footpath from the village (track), 28 m, right",
+     "Terrace edge (wall), 31 m, centre",
+     "Path down to the far field (SW) (track), 37 m, right"
+    ],
+    "sun": "to the left"
+   },
+   "left": {
+    "heading_deg": 186,
+    "sees": [
+     "First light through the gateway (area), 2 m, right",
+     "Cistern (prop), 10 m, left",
+     "Calf pen (wall), 10 m, right",
+     "The fold (area), 12 m, right",
+     "Fold gate, barred (gate), 16 m, right",
+     "Yard (area), 16 m, left",
+     "Yard wall, about 1.7 m (wall), 22 m, right",
+     "Ovens (prop), 31 m, centre",
+     "Eaves (area), 32 m, centre",
+     "door (door), 34 m, centre",
+     "Eliab's house (eliab_house) (building), 34 m, centre",
+     "Path down to the far field (SW) (track), 37 m, left",
+     "Terrace edge (wall), 38 m, left",
+     "tree (tree), 53 m, right"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   }
+  }
+ },
+ {
+  "scene": "6B",
+  "plan": 1,
+  "plan_title": "The road at the bend",
+  "heading": "EXT. THE ROAD - THE BEND - MORNING",
+  "place": "eliab_valley:ext",
+  "hour": "morning",
+  "light": {
+   "kind": "sun",
+   "from_deg": 350,
+   "label": "low morning sun in the east, a little south of where it rose, haze over the valley"
+  },
+  "pos": [
+   1040.99,
+   -581.2
+  ],
+  "facing": 57,
+  "setup": "S11",
+  "keys": 26,
+  "used_by": [
+   "6B"
+  ],
+  "id": "sc06b_B_the_road_at_the_bend",
+  "dir": "orbits/sc06b/B_the_road_at_the_bend",
+  "from": "sc02_F_the_valley_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 57,
+    "sees": [
+     "Road east to Jericho (track), 1 m, left",
+     "The last spur of the hill (area), 4 m, left"
+    ],
+    "sun": "ahead on the right"
+   },
+   "right": {
+    "heading_deg": 327,
+    "sees": [
+     "Road east to Jericho (track), 3 m, left"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "behind": {
+    "heading_deg": 237,
+    "sees": [
+     "building (building), 465 m, centre",
+     "building (building), 903 m, right"
+    ],
+    "sun": "behind on the left"
+   },
+   "left": {
+    "heading_deg": 147,
+    "sees": [
+     "Road east to Jericho (track), 2 m, right",
+     "The last spur of the hill (area), 4 m, right",
+     "Boulders at the spur's foot (prop), 6 m, right",
+     "Thorn gully (the ewe, Sc 2) (area), 449 m, right",
+     "building (building), 494 m, right",
+     "Village (area), 510 m, left",
+     "Well (prop), 585 m, centre",
+     "Village gate (elders' bench) (gate), 741 m, left",
+     "building (building), 999 m, right",
+     "Hill pasture (the flock) (area), 1020 m, centre",
+     "Hill track (track), 1140 m, centre",
+     "Path to the far field (track), 1194 m, centre",
+     "Far field (Sc 15) (area), 1211 m, centre",
+     "Other farms on the next terraces (building), 1577 m, centre"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   }
+  }
+ },
+ {
+  "scene": "7",
+  "plan": 0,
+  "plan_title": "The crest at sunrise",
+  "heading": "EXT. THE ROAD EAST - MONTAGE",
+  "place": "sc07:The crest at sunrise",
+  "hour": "sunrise straight down the road",
+  "light": {
+   "kind": "dawn",
+   "from_deg": 5,
+   "label": "sunrise straight down the road"
+  },
+  "pos": [
+   -16,
+   -1.4
+  ],
+  "facing": 4,
+  "setup": "S01",
+  "keys": 3,
+  "used_by": [
+   "7"
+  ],
+  "id": "sc07_A_the_crest_at_sunrise",
+  "dir": "orbits/sc07/A_the_crest_at_sunrise",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 4,
+    "sees": [
+     "The road east (track), 1 m, centre",
+     "tree (tree), 8 m, left",
+     "tree (tree), 23 m, centre",
+     "tree (tree), 27 m, left"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "right": {
+    "heading_deg": 274,
+    "sees": [],
+    "sun": "to the left"
+   },
+   "behind": {
+    "heading_deg": 184,
+    "sees": [
+     "The road east (track), 1 m, centre"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   },
+   "left": {
+    "heading_deg": 94,
+    "sees": [
+     "tree (tree), 8 m, right"
+    ],
+    "sun": "to the right"
+   }
+  }
+ },
+ {
+  "scene": "7",
+  "plan": 1,
+  "plan_title": "The Jordan at noon",
+  "heading": "EXT. THE ROAD EAST - MONTAGE",
+  "place": "sc07:The Jordan at noon",
+  "hour": "noon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 270,
+   "label": "noon, high and hard from the south"
+  },
+  "pos": [
+   -3.5,
+   -1.6
+  ],
+  "facing": 20,
+  "setup": "S02",
+  "keys": 3,
+  "used_by": [
+   "7"
+  ],
+  "id": "sc07_B_the_jordan_at_noon",
+  "dir": "orbits/sc07/B_the_jordan_at_noon",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 20,
+    "sees": [
+     "The ford (track), 2 m, left",
+     "Jordan, brown and quick, flowing south (water), 13 m, left",
+     "East bank (area), 13 m, right",
+     "tree (tree), 18 m, centre",
+     "tree (tree), 18 m, right"
+    ],
+    "sun": "behind on the right"
+   },
+   "right": {
+    "heading_deg": 290,
+    "sees": [
+     "Jordan, brown and quick, flowing south (water), 9 m, right",
+     "West bank (area), 10 m, right",
+     "East bank (area), 13 m, left"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "behind": {
+    "heading_deg": 200,
+    "sees": [
+     "The ford (track), 4 m, right",
+     "Jordan, brown and quick, flowing south (water), 6 m, right",
+     "West bank (area), 6 m, right",
+     "Tamarisk thicket (tree), 10 m, centre"
+    ],
+    "sun": "ahead on the left"
+   },
+   "left": {
+    "heading_deg": 110,
+    "sees": [
+     "The ford (track), 2 m, right",
+     "Jordan, brown and quick, flowing south (water), 6 m, left",
+     "West bank (area), 6 m, left",
+     "tree (tree), 12 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   }
+  }
+ },
+ {
+  "scene": "7",
+  "plan": 2,
+  "plan_title": "The plain at evening",
+  "heading": "EXT. THE ROAD EAST - MONTAGE",
+  "place": "sc07:The plain at evening",
+  "hour": "evening sun low behind them",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 195,
+   "label": "evening sun low behind them, shadows long toward the city"
+  },
+  "pos": [
+   -14,
+   25
+  ],
+  "facing": 330,
+  "setup": "S03",
+  "keys": 3,
+  "used_by": [
+   "7"
+  ],
+  "id": "sc07_C_the_plain_at_evening",
+  "dir": "orbits/sc07/C_the_plain_at_evening",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 330,
+    "sees": [
+     "Thorn bush (tree), 2 m, right",
+     "The road east (track), 27 m, right",
+     "tree (tree), 28 m, right",
+     "tree (tree), 35 m, right",
+     "tree (tree), 45 m, right"
+    ],
+    "sun": "behind on the right"
+   },
+   "right": {
+    "heading_deg": 240,
+    "sees": [
+     "The road east (track), 27 m, left",
+     "tree (tree), 35 m, left"
+    ],
+    "sun": "ahead on the right"
+   },
+   "behind": {
+    "heading_deg": 150,
+    "sees": [],
+    "sun": "ahead on the left"
+   },
+   "left": {
+    "heading_deg": 60,
+    "sees": [],
+    "sun": "behind on the left"
+   }
+  }
+ },
+ {
+  "scene": "7",
+  "plan": 3,
+  "plan_title": "Kallias's court at night",
+  "heading": "EXT. KALLIAS'S COURT - NIGHT",
+  "place": "kallias_court:ext",
+  "hour": "night",
+  "light": {
+   "kind": "fire",
+   "label": "the blazing central brazier before Tyche and the lamps hung along the colonnade"
+  },
+  "pos": [
+   5.55,
+   -0.6
+  ],
+  "facing": 140,
+  "setup": "S05",
+  "keys": 73,
+  "used_by": [
+   "7"
+  ],
+  "id": "sc07_D_kalliass_court_at_night",
+  "dir": "orbits/sc07/D_kalliass_court_at_night",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 140,
+    "sees": [
+     "Musicians' mat (slab), 8 m, left",
+     "Open court, paved, under the stars (area), 8 m, right",
+     "Peristyle, 26 columns (prop), 10 m, right",
+     "Court wall (wall), 11 m, right",
+     "Court gate (gate), 21 m, left",
+     "Street (area), 21 m, left",
+     "Beggar's corner (slab), 22 m, left",
+     "Houses across the street (wall), 26 m, left"
+    ],
+    "flame": [
+     "The blazing central brazier: behind on the right, 5 m",
+     "Lamps hung along the colonnade: to the left, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 50,
+    "sees": [
+     "Low table (prop), 1 m, centre",
+     "The blazing central brazier (fire), 5 m, right",
+     "Open court, paved, under the stars (area), 6 m, right",
+     "Tyche, crowned, on her plinth (slab), 8 m, right",
+     "Court wall (wall), 9 m, right"
+    ],
+    "flame": [
+     "The blazing central brazier: ahead on the right, 5 m",
+     "Lamps hung along the colonnade: behind the camera, the view lit from the front, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 320,
+    "sees": [
+     "The blazing central brazier (fire), 5 m, left",
+     "Open court, paved, under the stars (area), 6 m, left",
+     "Open shrine of Tyche (wall), 7 m, left",
+     "Tyche, crowned, on her plinth (slab), 8 m, left",
+     "Court wall (wall), 9 m, left"
+    ],
+    "flame": [
+     "The blazing central brazier: ahead on the left, 5 m",
+     "Lamps hung along the colonnade: to the right, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 230,
+    "sees": [
+     "Open court, paved, under the stars (area), 7 m, left",
+     "Lamps hung along the colonnade (lamp), 8 m, centre",
+     "Court wall (wall), 10 m, left",
+     "Service door (door), 20 m, right",
+     "Court gate (gate), 21 m, right",
+     "Street (area), 21 m, right",
+     "Houses across the street (wall), 26 m, right"
+    ],
+    "flame": [
+     "The blazing central brazier: behind on the left, 5 m",
+     "Lamps hung along the colonnade: ahead, the view backlit, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "7",
+  "plan": 4,
+  "plan_title": "The court at dawn",
+  "heading": "EXT. KALLIAS'S COURT - DAWN",
+  "place": "kallias_court:ext",
+  "hour": "dawn",
+  "light": {
+   "kind": "dawn",
+   "from_deg": 5,
+   "label": "grey dawn over the shrine wall, a hot wind out of the east"
+  },
+  "pos": [
+   5.6,
+   -0.35
+  ],
+  "facing": 155,
+  "setup": "S17",
+  "keys": 11,
+  "used_by": [
+   "7"
+  ],
+  "id": "sc07_E_the_court_at_dawn",
+  "dir": "orbits/sc07/E_the_court_at_dawn",
+  "from": "sc07_D_kalliass_court_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 155,
+    "sees": [
+     "Musicians' mat (slab), 8 m, centre",
+     "Open court, paved, under the stars (area), 8 m, right",
+     "Peristyle, 26 columns (prop), 9 m, right",
+     "Court wall (wall), 11 m, right",
+     "Court gate (gate), 21 m, left",
+     "Street (area), 21 m, left",
+     "Beggar's corner (slab), 22 m, left",
+     "Houses across the street (wall), 26 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "The blazing central brazier: behind the camera, the view lit from the front, 5 m",
+     "Lamps hung along the colonnade: to the left, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 65,
+    "sees": [
+     "Low table (prop), 1 m, right",
+     "Open court, paved, under the stars (area), 7 m, right",
+     "Court wall (wall), 10 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "The blazing central brazier: ahead on the right, 5 m",
+     "Lamps hung along the colonnade: behind the camera, the view lit from the front, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 335,
+    "sees": [
+     "The blazing central brazier (fire), 5 m, left",
+     "Open court, paved, under the stars (area), 6 m, left",
+     "Open shrine of Tyche (wall), 7 m, centre",
+     "Tyche, crowned, on her plinth (slab), 8 m, left",
+     "Court wall (wall), 9 m, left"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "The blazing central brazier: ahead, the view backlit, 5 m",
+     "Lamps hung along the colonnade: to the right, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 245,
+    "sees": [
+     "Open court, paved, under the stars (area), 7 m, left",
+     "Lamps hung along the colonnade (lamp), 8 m, centre",
+     "Court wall (wall), 10 m, left",
+     "Service door (door), 20 m, right",
+     "Street (area), 22 m, right",
+     "Houses across the street (wall), 27 m, right"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "The blazing central brazier: behind on the left, 5 m",
+     "Lamps hung along the colonnade: ahead, the view backlit, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "7",
+  "plan": 5,
+  "plan_title": "The court gate, another night",
+  "heading": "EXT. KALLIAS'S COURT - GATE - NIGHT",
+  "place": "kallias_court:ext",
+  "hour": "night",
+  "light": {
+   "kind": "lamp",
+   "label": "the company's lamps and the light from the open gate, the beggar's corner in shadow"
+  },
+  "pos": [
+   -18.5,
+   2.85
+  ],
+  "facing": 345,
+  "setup": "S20",
+  "keys": 9,
+  "used_by": [
+   "7",
+   "9"
+  ],
+  "id": "sc07_F_the_court_gate_another_night",
+  "dir": "orbits/sc07/F_the_court_gate_another_night",
+  "from": "sc07_D_kalliass_court_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 345,
+    "sees": [
+     "Beggar's corner (slab), 3 m, centre",
+     "Street (area), 3 m, centre",
+     "Court wall (wall), 4 m, left",
+     "Court gate (gate), 4 m, centre",
+     "Open court, paved, under the stars (area), 7 m, left",
+     "Service door (door), 15 m, right",
+     "Musicians' mat (slab), 17 m, left",
+     "Peristyle, 26 columns (prop), 19 m, left",
+     "Lamps hung along the colonnade (lamp), 22 m, centre",
+     "Low table (prop), 25 m, centre",
+     "The blazing central brazier (fire), 29 m, centre",
+     "Open shrine of Tyche (wall), 31 m, centre",
+     "Tyche, crowned, on her plinth (slab), 32 m, centre"
+    ],
+    "flame": [
+     "The blazing central brazier: ahead, the view backlit, 29 m",
+     "Lamps hung along the colonnade: ahead, the view backlit, 22 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 255,
+    "sees": [
+     "Street (area), 2 m, right",
+     "Houses across the street (wall), 3 m, right",
+     "Court wall (wall), 6 m, left",
+     "Open court, paved, under the stars (area), 11 m, left",
+     "Service door (door), 15 m, left"
+    ],
+    "flame": [
+     "The blazing central brazier: to the left, 29 m",
+     "Lamps hung along the colonnade: to the left, 22 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 165,
+    "sees": [
+     "Street (area), 2 m, left",
+     "Houses across the street (wall), 2 m, left"
+    ],
+    "flame": [
+     "The blazing central brazier: behind the camera, the view lit from the front, 29 m",
+     "Lamps hung along the colonnade: behind the camera, the view lit from the front, 22 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 75,
+    "sees": [
+     "Street (area), 4 m, right",
+     "Court wall (wall), 4 m, right",
+     "Houses across the street (wall), 4 m, left",
+     "Open court, paved, under the stars (area), 7 m, right"
+    ],
+    "flame": [
+     "The blazing central brazier: to the right, 29 m",
+     "Lamps hung along the colonnade: to the right, 22 m",
+     "25 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "8",
+  "plan": 0,
+  "plan_title": "The wheat on the floor",
+  "heading": "EXT. ELIAB'S FARM - MONTAGE OF SEASONS",
+  "place": "eliab_farm:ext",
+  "hour": "harvest afternoon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 215,
+   "label": "harvest afternoon, a hazy sun from the south-west, chaff hanging in it"
+  },
+  "pos": [
+   -18.6,
+   -29.8
+  ],
+  "facing": 36,
+  "setup": "S01",
+  "keys": 3,
+  "used_by": [
+   "8"
+  ],
+  "id": "sc08_A_the_wheat_on_the_floor",
+  "dir": "orbits/sc08/A_the_wheat_on_the_floor",
+  "from": "sc03_A_the_threshing_floor_at_evening",
+  "digest": {
+   "front": {
+    "heading_deg": 36,
+    "sees": [
+     "Wheat spread on the floor (area), 2 m, centre",
+     "Threshing floor (slab), 6 m, centre",
+     "Floor track (track), 10 m, centre",
+     "Footpath from the village (track), 12 m, right",
+     "Terrace edge (wall), 13 m, right",
+     "Yard (area), 14 m, left",
+     "Cistern (prop), 24 m, left",
+     "Trough (prop), 31 m, left",
+     "The one gate (gate), 32 m, left",
+     "The fold (area), 33 m, left",
+     "Fold gate, barred (gate), 33 m, left",
+     "Road east, down to the village gate (track), 34 m, left",
+     "Yard wall, about 1.7 m (wall), 36 m, left",
+     "Calf pen (wall), 36 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   },
+   "right": {
+    "heading_deg": 306,
+    "sees": [
+     "Terrace edge (wall), 4 m, right",
+     "Footpath from the village (track), 15 m, left",
+     "Road east, down to the village gate (track), 82 m, left"
+    ],
+    "sun": "to the right"
+   },
+   "behind": {
+    "heading_deg": 216,
+    "sees": [
+     "Path down to the far field (SW) (track), 3 m, left",
+     "Terrace edge (wall), 4 m, left",
+     "tree (tree), 36 m, right"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "left": {
+    "heading_deg": 126,
+    "sees": [
+     "Sheaves stacked (prop), 2 m, right",
+     "Yard (area), 14 m, right",
+     "Ovens (prop), 24 m, centre",
+     "Eaves (area), 28 m, centre",
+     "Eliab's house (eliab_house) (building), 29 m, centre",
+     "door (door), 32 m, centre",
+     "The fold (area), 33 m, right",
+     "Fold gate, barred (gate), 33 m, right",
+     "Yard wall, about 1.7 m (wall), 35 m, centre",
+     "tree (tree), 36 m, left",
+     "Calf pen (wall), 36 m, right",
+     "Ox byre (building), 40 m, right",
+     "tree (tree), 51 m, centre"
+    ],
+    "sun": "to the left"
+   }
+  }
+ },
+ {
+  "scene": "8",
+  "plan": 1,
+  "plan_title": "The rains and the winter",
+  "heading": "EXT. ELIAB'S FARM - MONTAGE OF SEASONS",
+  "place": "eliab_farm:ext",
+  "hour": "rain-dark dusks of autumn and winter",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 195,
+   "label": "rain-dark dusks of autumn and winter, the gate lamp lit at every dark"
+  },
+  "pos": [
+   -21.2,
+   5.35
+  ],
+  "facing": 329,
+  "setup": "S03",
+  "keys": 3,
+  "used_by": [
+   "8"
+  ],
+  "id": "sc08_B_the_rains_and_the_winter",
+  "dir": "orbits/sc08/B_the_rains_and_the_winter",
+  "from": "sc02_D_the_fold",
+  "digest": {
+   "front": {
+    "heading_deg": 329,
+    "sees": [
+     "Manger (prop), 1 m, right",
+     "The fold (area), 2 m, right",
+     "Barley basket (prop), 3 m, left",
+     "Fold gate, barred (gate), 4 m, centre",
+     "Calf pen (wall), 12 m, left",
+     "Ox byre (building), 13 m, left",
+     "Yard (area), 21 m, left",
+     "Cistern (prop), 21 m, right",
+     "Yard wall, about 1.7 m (wall), 21 m, left",
+     "The one gate (gate), 22 m, left",
+     "Stone bench (slab), 22 m, left",
+     "Road east, down to the village gate (track), 23 m, left",
+     "Trough (prop), 25 m, centre",
+     "Old fig (tree), 28 m, left"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 239,
+    "sees": [
+     "The fold (area), 2 m, left",
+     "Eaves (area), 12 m, right",
+     "Yard (area), 13 m, right",
+     "Yard wall, about 1.7 m (wall), 13 m, right",
+     "Eliab's house (eliab_house) (building), 13 m, right",
+     "door (door), 14 m, right",
+     "Ovens (prop), 17 m, centre",
+     "Threshing floor (slab), 33 m, left",
+     "Path down to the far field (SW) (track), 38 m, left",
+     "Terrace edge (wall), 39 m, left",
+     "tree (tree), 41 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 149,
+    "sees": [
+     "The fold (area), 4 m, left",
+     "Yard (area), 8 m, right",
+     "Yard wall, about 1.7 m (wall), 9 m, right",
+     "Eaves (area), 12 m, left",
+     "Eliab's house (eliab_house) (building), 13 m, left",
+     "tree (tree), 31 m, left"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 59,
+    "sees": [
+     "The fold (area), 8 m, left",
+     "Yard (area), 8 m, left",
+     "Yard wall, about 1.7 m (wall), 9 m, left",
+     "Calf pen (wall), 12 m, right",
+     "Ox byre (building), 13 m, right",
+     "Hill track to the pasture (track), 41 m, right"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "8",
+  "plan": 1,
+  "plan_title": "The rains and the winter",
+  "heading": "EXT. ELIAB'S FARM - MONTAGE OF SEASONS",
+  "place": "eliab_farm:ext",
+  "hour": "rain-dark dusks of autumn and winter",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 195,
+   "label": "rain-dark dusks of autumn and winter, the gate lamp lit at every dark"
+  },
+  "pos": [
+   1.45,
+   1.3
+  ],
+  "facing": 232,
+  "setup": "S02",
+  "keys": 6,
+  "used_by": [
+   "8"
+  ],
+  "id": "sc08_C_the_rains_and_the_winter",
+  "dir": "orbits/sc08/C_the_rains_and_the_winter",
+  "from": "sc05_B_the_gate_at_first_light",
+  "digest": {
+   "front": {
+    "heading_deg": 232,
+    "sees": [
+     "Yard wall, about 1.7 m (wall), 2 m, right",
+     "The one gate (gate), 2 m, centre",
+     "Yard (area), 2 m, right",
+     "Road east, down to the village gate (track), 3 m, left",
+     "Trough (prop), 7 m, left",
+     "Floor track (track), 13 m, left",
+     "Cistern (prop), 13 m, centre",
+     "Footpath from the village (track), 32 m, left",
+     "Threshing floor (slab), 32 m, centre",
+     "Ovens (prop), 34 m, right",
+     "Terrace edge (wall), 34 m, left",
+     "Eaves (area), 34 m, right",
+     "Eliab's house (eliab_house) (building), 35 m, right",
+     "door (door), 36 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 142,
+    "sees": [
+     "Stone bench (slab), 1 m, centre",
+     "Yard wall, about 1.7 m (wall), 1 m, left",
+     "Yard (area), 2 m, left",
+     "Calf pen (wall), 6 m, centre",
+     "Ox byre (building), 9 m, right",
+     "The fold (area), 13 m, left",
+     "Fold gate, barred (gate), 17 m, left",
+     "Barley basket (prop), 20 m, left",
+     "Manger (prop), 22 m, left",
+     "Eaves (area), 34 m, left",
+     "Eliab's house (eliab_house) (building), 35 m, left",
+     "door (door), 36 m, left",
+     "tree (tree), 54 m, left"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 52,
+    "sees": [
+     "Yard wall, about 1.7 m (wall), 7 m, left",
+     "Yard (area), 8 m, left",
+     "Old fig (tree), 8 m, centre",
+     "Hill track to the pasture (track), 11 m, right"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 322,
+    "sees": [
+     "Road east, down to the village gate (track), 3 m, right",
+     "Floor track (track), 8 m, centre",
+     "Hill track to the pasture (track), 9 m, centre",
+     "Footpath from the village (track), 33 m, right",
+     "Terrace edge (wall), 34 m, right"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "8",
+  "plan": 2,
+  "plan_title": "The square by the west gate",
+  "heading": "EXT. CITY SQUARE BY THE WEST GATE - DUSK, MONTHS LATER",
+  "place": "sc08:The square by the west gate",
+  "hour": "dusk",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 192,
+   "label": "the last sun level through the west gate, the square in the wall's shadow, the street lamps coming on"
+  },
+  "pos": [
+   21.6,
+   1.75
+  ],
+  "facing": 155,
+  "setup": "S07",
+  "keys": 31,
+  "used_by": [
+   "8"
+  ],
+  "id": "sc08_D_the_square_by_the_west_gate",
+  "dir": "orbits/sc08/D_the_square_by_the_west_gate",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 155,
+    "sees": [
+     "Last sun through the gate (area), 1 m, centre",
+     "The square inside the west gate (area), 10 m, right",
+     "building (building), 10 m, right",
+     "Side street (track), 10 m, right",
+     "Houses (building), 11 m, right",
+     "Cook-fire, its smoke pulled west (fire), 13 m, left",
+     "City wall (building), 22 m, left",
+     "building (building), 22 m, left",
+     "West gate, the road west (gate), 23 m, left"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "Street lamps, lit one by one: behind on the right, 8 m",
+     "Cook-fire, its smoke pulled west: ahead on the left, 13 m",
+     "5 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 65,
+    "sees": [
+     "Last sun through the gate (area), 1 m, right",
+     "The square inside the west gate (area), 3 m, right",
+     "building (building), 3 m, right",
+     "Side street (track), 11 m, left"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "Street lamps, lit one by one: ahead on the right, 8 m",
+     "Cook-fire, its smoke pulled west: behind on the left, 13 m",
+     "5 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 335,
+    "sees": [
+     "Last sun through the gate (area), 2 m, left",
+     "The street up into the city (track), 2 m, right",
+     "The square inside the west gate (area), 2 m, left",
+     "building (building), 4 m, left",
+     "Houses and shops (building), 5 m, right",
+     "Street lamps, lit one by one (lamp), 8 m, left"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "Street lamps, lit one by one: ahead on the left, 8 m",
+     "Cook-fire, its smoke pulled west: behind on the right, 13 m",
+     "5 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 245,
+    "sees": [
+     "Houses and shops (building), 5 m, left",
+     "The square inside the west gate (area), 5 m, left",
+     "Cook-fire, its smoke pulled west (fire), 13 m, right",
+     "Camels kneeling, bales roped (prop), 14 m, right",
+     "building (building), 22 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "Street lamps, lit one by one: behind on the left, 8 m",
+     "Cook-fire, its smoke pulled west: ahead on the right, 13 m",
+     "5 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "8",
+  "plan": 3,
+  "plan_title": "The calf pen",
+  "heading": "EXT. ELIAB'S FARM - CALF PEN - DAY",
+  "place": "eliab_farm:ext",
+  "hour": "day",
+  "light": {
+   "kind": "sun",
+   "from_deg": 330,
+   "label": "morning, the sun over the east wall, the calf's coat glossy in it"
+  },
+  "pos": [
+   -7.25,
+   6.3
+  ],
+  "facing": 308,
+  "setup": "S08",
+  "keys": 11,
+  "used_by": [
+   "8"
+  ],
+  "id": "sc08_E_the_calf_pen",
+  "dir": "orbits/sc08/E_the_calf_pen",
+  "from": "sc02_H_the_gate_late_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 308,
+    "sees": [
+     "Calf pen (wall), 1 m, right",
+     "Yard (area), 7 m, left",
+     "Yard wall, about 1.7 m (wall), 7 m, left",
+     "Stone bench (slab), 9 m, left",
+     "The one gate (gate), 10 m, centre",
+     "Road east, down to the village gate (track), 11 m, centre",
+     "Trough (prop), 14 m, centre",
+     "Cistern (prop), 16 m, right",
+     "Floor track (track), 18 m, left",
+     "Hill track to the pasture (track), 19 m, left",
+     "Threshing floor (slab), 33 m, right",
+     "Footpath from the village (track), 36 m, right",
+     "Terrace edge (wall), 39 m, right"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "right": {
+    "heading_deg": 218,
+    "sees": [
+     "Calf pen (wall), 1 m, left",
+     "The fold (area), 4 m, right",
+     "Fold gate, barred (gate), 9 m, right",
+     "Yard (area), 22 m, left",
+     "Eaves (area), 26 m, right",
+     "Yard wall, about 1.7 m (wall), 27 m, right",
+     "Eliab's house (eliab_house) (building), 27 m, right",
+     "Ovens (prop), 28 m, centre",
+     "door (door), 28 m, right",
+     "Floor track (track), 29 m, left",
+     "Threshing floor (slab), 33 m, left",
+     "Terrace edge (wall), 40 m, left",
+     "Path down to the far field (SW) (track), 41 m, left",
+     "tree (tree), 45 m, right"
+    ],
+    "sun": "behind on the left"
+   },
+   "behind": {
+    "heading_deg": 128,
+    "sees": [
+     "Calf pen (wall), 2 m, left",
+     "Ox byre (building), 3 m, right",
+     "The fold (area), 4 m, left",
+     "Yard (area), 7 m, right",
+     "Yard wall, about 1.7 m (wall), 8 m, right",
+     "tree (tree), 45 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   },
+   "left": {
+    "heading_deg": 38,
+    "sees": [
+     "Barley in the manger (prop), 3 m, left",
+     "Ox byre (building), 3 m, left",
+     "Calf pen (wall), 4 m, right",
+     "Yard (area), 7 m, right",
+     "Yard wall, about 1.7 m (wall), 7 m, right",
+     "Old fig (tree), 14 m, right",
+     "Hill track to the pasture (track), 20 m, right"
+    ],
+    "sun": "ahead on the right"
+   }
+  }
+ },
+ {
+  "scene": "8",
+  "plan": 4,
+  "plan_title": "The gate by day",
+  "heading": "EXT. ELIAB'S FARM - GATE - DAY",
+  "place": "eliab_farm:ext",
+  "hour": "day",
+  "light": {
+   "kind": "sun",
+   "from_deg": 210,
+   "label": "harvest afternoon, the sun over the yard wall, the trough in the wall's shade"
+  },
+  "pos": [
+   2.3,
+   -1.65
+  ],
+  "facing": 194,
+  "setup": "S11",
+  "keys": 18,
+  "used_by": [
+   "8"
+  ],
+  "id": "sc08_F_the_gate_by_day",
+  "dir": "orbits/sc08/F_the_gate_by_day",
+  "from": "sc05_A_the_gate_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 194,
+    "sees": [
+     "Road east, down to the village gate (track), 1 m, centre",
+     "Wall shade (area), 2 m, left",
+     "The one gate (gate), 2 m, centre",
+     "Yard (area), 3 m, right",
+     "Calf pen (wall), 11 m, right",
+     "Cistern (prop), 12 m, left",
+     "The fold (area), 14 m, right",
+     "Fold gate, barred (gate), 18 m, right",
+     "Floor track (track), 23 m, left",
+     "Yard wall, about 1.7 m (wall), 26 m, right",
+     "Threshing floor (slab), 30 m, left",
+     "Ovens (prop), 34 m, centre",
+     "Terrace edge (wall), 35 m, left",
+     "Eaves (area), 35 m, right"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "right": {
+    "heading_deg": 104,
+    "sees": [
+     "The one gate (gate), 3 m, left",
+     "Yard wall, about 1.7 m (wall), 3 m, left",
+     "Yard (area), 3 m, left",
+     "Stone bench (slab), 4 m, centre",
+     "Calf pen (wall), 9 m, left",
+     "Old fig (tree), 11 m, right",
+     "Ox byre (building), 12 m, centre",
+     "The fold (area), 15 m, left"
+    ],
+    "sun": "behind on the left"
+   },
+   "behind": {
+    "heading_deg": 14,
+    "sees": [
+     "Road east, down to the village gate (track), 2 m, right",
+     "Floor track (track), 6 m, right",
+     "Hill track to the pasture (track), 7 m, right",
+     "Footpath from the village (track), 52 m, right"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   },
+   "left": {
+    "heading_deg": 284,
+    "sees": [
+     "Road east, down to the village gate (track), 1 m, left",
+     "Wall shade (area), 1 m, centre",
+     "Trough (prop), 4 m, right",
+     "Yard (area), 5 m, right",
+     "Floor track (track), 6 m, left",
+     "Footpath from the village (track), 29 m, right",
+     "Threshing floor (slab), 30 m, right",
+     "Terrace edge (wall), 31 m, right",
+     "Path down to the far field (SW) (track), 38 m, right"
+    ],
+    "sun": "ahead on the right"
+   }
+  }
+ },
+ {
+  "scene": "8",
+  "plan": 6,
+  "plan_title": "The fold at night",
+  "heading": "EXT. ELIAB'S FARM - FOLD - NIGHT",
+  "place": "eliab_farm:ext",
+  "hour": "night",
+  "light": {
+   "kind": "lamp",
+   "label": "night, a clay lamp on the fold gatepost and the gate lamp across the yard, the village fires far below"
+  },
+  "pos": [
+   -14.55,
+   5.85
+  ],
+  "facing": 262,
+  "setup": "S16",
+  "keys": 27,
+  "used_by": [
+   "8"
+  ],
+  "id": "sc08_G_the_fold_at_night",
+  "dir": "orbits/sc08/G_the_fold_at_night",
+  "from": "sc02_H_the_gate_late_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 262,
+    "sees": [
+     "The fold (area), 2 m, centre",
+     "Amos's lamp on the fold gatepost (lamp), 2 m, centre",
+     "Fold gate, barred (gate), 2 m, centre",
+     "Cistern (prop), 17 m, left",
+     "Yard (area), 21 m, left",
+     "Eaves (area), 21 m, right",
+     "Ovens (prop), 22 m, right",
+     "Floor track (track), 26 m, left",
+     "Threshing floor (slab), 32 m, centre",
+     "Footpath from the village (track), 36 m, left",
+     "Path down to the far field (SW) (track), 39 m, centre",
+     "Terrace edge (wall), 39 m, centre",
+     "tree (tree), 46 m, right"
+    ],
+    "flame": [
+     "Amos's lamp on the fold gatepost: ahead, the view backlit, 2 m",
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 172,
+    "sees": [
+     "The fold (area), 3 m, left",
+     "Fold gate, barred (gate), 4 m, left",
+     "Yard (area), 9 m, right",
+     "Yard wall, about 1.7 m (wall), 10 m, right",
+     "Eaves (area), 19 m, left",
+     "Eliab's house (eliab_house) (building), 20 m, left",
+     "door (door), 21 m, left",
+     "Ovens (prop), 22 m, left",
+     "tree (tree), 38 m, centre",
+     "tree (tree), 46 m, left",
+     "Terrace edge (wall), 53 m, left"
+    ],
+    "flame": [
+     "Amos's lamp on the fold gatepost: to the left, 2 m",
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 82,
+    "sees": [
+     "The fold (area), 4 m, right",
+     "Ox byre (building), 7 m, right",
+     "Yard (area), 8 m, centre",
+     "Yard wall, about 1.7 m (wall), 8 m, centre",
+     "Hill track to the pasture (track), 66 m, right"
+    ],
+    "flame": [
+     "Amos's lamp on the fold gatepost: behind the camera, the view lit from the front, 2 m",
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 352,
+    "sees": [
+     "The fold (area), 3 m, right",
+     "Calf pen (wall), 6 m, left",
+     "Ox byre (building), 6 m, left",
+     "Yard (area), 11 m, left",
+     "Yard wall, about 1.7 m (wall), 12 m, left",
+     "The one gate (gate), 16 m, right",
+     "Stone bench (slab), 16 m, centre",
+     "Road east, down to the village gate (track), 17 m, right",
+     "Trough (prop), 19 m, right",
+     "Old fig (tree), 21 m, left",
+     "Floor track (track), 24 m, right",
+     "Hill track to the pasture (track), 25 m, right",
+     "Footpath from the village (track), 45 m, right"
+    ],
+    "flame": [
+     "Amos's lamp on the fold gatepost: to the right, 2 m",
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "9",
+  "plan": 0,
+  "plan_title": "The last feast",
+  "heading": "EXT. KALLIAS'S COURT - NIGHT",
+  "place": "kallias_court:ext",
+  "hour": "night",
+  "light": {
+   "kind": "moon",
+   "from_deg": 185,
+   "label": "a thin new moon low in the west over the gate, the brazier and the colonnade lamps"
+  },
+  "pos": [
+   -5.65,
+   -2.7
+  ],
+  "facing": 228,
+  "setup": "S02",
+  "keys": 31,
+  "used_by": [
+   "9"
+  ],
+  "id": "sc09_A_the_last_feast",
+  "dir": "orbits/sc09/A_the_last_feast",
+  "from": "sc07_D_kalliass_court_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 228,
+    "sees": [
+     "Open court, paved, under the stars (area), 5 m, left",
+     "Court wall (wall), 8 m, left",
+     "Street (area), 10 m, right",
+     "Service door (door), 10 m, centre",
+     "Houses across the street (wall), 15 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "The blazing central brazier: behind on the left, 17 m",
+     "Lamps hung along the colonnade: to the left, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 138,
+    "sees": [
+     "Open court, paved, under the stars (area), 6 m, left",
+     "Court wall (wall), 9 m, left",
+     "Court gate (gate), 9 m, left",
+     "Street (area), 10 m, left",
+     "Beggar's corner (slab), 11 m, left",
+     "Houses across the street (wall), 15 m, left"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "The blazing central brazier: behind on the right, 17 m",
+     "Lamps hung along the colonnade: behind the camera, the view lit from the front, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 48,
+    "sees": [
+     "Musicians' mat (slab), 7 m, centre",
+     "Open court, paved, under the stars (area), 10 m, left",
+     "Peristyle, 26 columns (prop), 11 m, left",
+     "Low table (prop), 12 m, right",
+     "Court wall (wall), 13 m, left",
+     "The blazing central brazier (fire), 17 m, right",
+     "Open shrine of Tyche (wall), 18 m, right",
+     "Tyche, crowned, on her plinth (slab), 19 m, right"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "The blazing central brazier: ahead on the right, 17 m",
+     "Lamps hung along the colonnade: to the right, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 318,
+    "sees": [
+     "Open court, paved, under the stars (area), 5 m, right",
+     "Court wall (wall), 8 m, right",
+     "Lamps hung along the colonnade (lamp), 8 m, centre",
+     "The blazing central brazier (fire), 17 m, left",
+     "Open shrine of Tyche (wall), 18 m, left",
+     "Tyche, crowned, on her plinth (slab), 19 m, left"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "The blazing central brazier: ahead on the left, 17 m",
+     "Lamps hung along the colonnade: ahead, the view backlit, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "9",
+  "plan": 1,
+  "plan_title": "The rented room",
+  "heading": "INT. RENTED ROOM - DAY",
+  "place": "sc09:The rented room",
+  "hour": "day",
+  "light": {
+   "kind": "sun",
+   "from_deg": 270,
+   "label": "noon, high and hard, through the shutter's slats and the open door"
+  },
+  "pos": [
+   2.2,
+   2.25
+  ],
+  "facing": 265,
+  "setup": "S07",
+  "keys": 14,
+  "used_by": [
+   "9"
+  ],
+  "id": "sc09_B_the_rented_room",
+  "dir": "orbits/sc09/B_the_rented_room",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 265,
+    "sees": [
+     "Stripped bed (slab), 2 m, right",
+     "Noon bars across his face (slab), 2 m, right",
+     "Rented room (room), 2 m, centre",
+     "Door to the yard (door), 2 m, left",
+     "Shutter, noon through its slats (door), 2 m, right",
+     "Lodging-house yard in the white noon (area), 3 m, centre",
+     "Manger (prop), 5 m, left"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "right": {
+    "heading_deg": 175,
+    "sees": [
+     "Rented room (room), 2 m, right",
+     "Lodging-house yard in the white noon (area), 4 m, left"
+    ],
+    "sun": "to the left"
+   },
+   "behind": {
+    "heading_deg": 85,
+    "sees": [
+     "Cold lamp in the niche (prop), 1 m, centre",
+     "Rented room (room), 1 m, centre"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   },
+   "left": {
+    "heading_deg": 355,
+    "sees": [
+     "His bags (prop), 2 m, right",
+     "Water jar (prop), 2 m, left",
+     "Rented room (room), 2 m, centre",
+     "Door to the yard (door), 3 m, right",
+     "Lodging-house yard in the white noon (area), 4 m, right"
+    ],
+    "sun": "to the right"
+   }
+  }
+ },
+ {
+  "scene": "9",
+  "plan": 2,
+  "plan_title": "The famine market",
+  "heading": "EXT. CITY MARKET - DAY",
+  "place": "sc09:The famine market",
+  "hour": "day",
+  "light": {
+   "kind": "sun",
+   "from_deg": 215,
+   "label": "hard pale afternoon sun through the grit haze, the hot dry east wind"
+  },
+  "pos": [
+   -1.3,
+   -0.9
+  ],
+  "facing": 35,
+  "setup": "S10",
+  "keys": 28,
+  "used_by": [
+   "9"
+  ],
+  "id": "sc09_C_the_famine_market",
+  "dir": "orbits/sc09/C_the_famine_market",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 35,
+    "sees": [
+     "Market street, grit driving west (area), 1 m, left",
+     "Stalls, shuttered (building), 1 m, left",
+     "Merchant's board (prop), 2 m, centre",
+     "door (door), 5 m, right",
+     "door (door), 8 m, right"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   },
+   "right": {
+    "heading_deg": 305,
+    "sees": [
+     "door (door), 4 m, right",
+     "Market street, grit driving west (area), 4 m, right",
+     "Stalls, shuttered (building), 4 m, right",
+     "door (door), 5 m, centre",
+     "door (door), 8 m, left"
+    ],
+    "sun": "to the right"
+   },
+   "behind": {
+    "heading_deg": 215,
+    "sees": [
+     "Market street, grit driving west (area), 4 m, left",
+     "Stalls, shuttered (building), 4 m, left",
+     "door (door), 4 m, left",
+     "door (door), 4 m, right",
+     "Stalls, shuttered (building), 5 m, right",
+     "door (door), 5 m, left",
+     "door (door), 7 m, right",
+     "Empty grain stall, bare bins (prop), 9 m, centre",
+     "Loose shutter banging and banging (door), 11 m, right",
+     "door (door), 11 m, right",
+     "door (door), 14 m, right",
+     "door (door), 14 m, right",
+     "door (door), 18 m, right",
+     "door (door), 18 m, right"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "left": {
+    "heading_deg": 125,
+    "sees": [
+     "Market street, grit driving west (area), 1 m, right",
+     "Stalls, shuttered (building), 1 m, right",
+     "door (door), 3 m, left",
+     "door (door), 7 m, left",
+     "Loose shutter banging and banging (door), 11 m, left",
+     "door (door), 14 m, left",
+     "door (door), 18 m, left"
+    ],
+    "sun": "to the left"
+   }
+  }
+ },
+ {
+  "scene": "10",
+  "plan": 0,
+  "plan_title": "The citizen's estate",
+  "heading": "EXT. CITIZEN'S ESTATE - DAY",
+  "place": "sc10:The citizen's estate",
+  "hour": "day",
+  "light": {
+   "kind": "sun",
+   "from_deg": 330,
+   "label": "morning, hard pale dry light; the men in the wall's strip of shade"
+  },
+  "pos": [
+   8.8,
+   3.25
+  ],
+  "facing": 292,
+  "setup": "S02",
+  "keys": 23,
+  "used_by": [
+   "10"
+  ],
+  "id": "sc10_A_the_citizens_estate",
+  "dir": "orbits/sc10/A_the_citizens_estate",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 292,
+    "sees": [
+     "Strip of morning shade (area), 1 m, right",
+     "Dry plain (area), 3 m, right",
+     "Estate court (area), 4 m, right",
+     "Storerooms and byres (building), 7 m, right",
+     "The citizen's house (building), 16 m, right"
+    ],
+    "sun": "ahead on the left"
+   },
+   "right": {
+    "heading_deg": 202,
+    "sees": [
+     "Strip of morning shade (area), 1 m, left",
+     "Dry plain (area), 3 m, left",
+     "Estate court (area), 4 m, left",
+     "Track to the pig fields, about 600 m north-east (track), 5 m, right",
+     "Road along the wall, to the city (track), 8 m, right",
+     "Estate gate (gate), 8 m, centre",
+     "The citizen's house (building), 11 m, left",
+     "Estate wall, mud brick, about 2.5 m (wall), 11 m, centre"
+    ],
+    "sun": "behind on the left"
+   },
+   "behind": {
+    "heading_deg": 112,
+    "sees": [
+     "Road along the wall, to the city (track), 4 m, right",
+     "Track to the pig fields, about 600 m north-east (track), 5 m, left",
+     "Dry plain (area), 37 m, right"
+    ],
+    "sun": "behind on the right"
+   },
+   "left": {
+    "heading_deg": 22,
+    "sees": [
+     "Strip of morning shade (area), 3 m, right",
+     "Road along the wall, to the city (track), 4 m, left",
+     "Dry plain (area), 6 m, right",
+     "Estate court (area), 8 m, right",
+     "Track to the pig fields, about 600 m north-east (track), 11 m, left",
+     "Storerooms and byres (building), 15 m, right"
+    ],
+    "sun": "ahead on the right"
+   }
+  }
+ },
+ {
+  "scene": "10",
+  "plan": 1,
+  "plan_title": "The pig fields before dawn",
+  "heading": "EXT. PIG FIELDS - BEFORE DAWN",
+  "place": "sc10:The pig fields before dawn",
+  "hour": "before dawn",
+  "light": {
+   "kind": "dawn",
+   "from_deg": 5,
+   "label": "before dawn, grey in the east, his breath showing, the citizen's fire down to embers"
+  },
+  "pos": [
+   -4.6,
+   -1.6
+  ],
+  "facing": 22,
+  "setup": "S05",
+  "keys": 8,
+  "used_by": [
+   "10"
+  ],
+  "id": "sc10_B_the_pig_fields_before_dawn",
+  "dir": "orbits/sc10/B_the_pig_fields_before_dawn",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 22,
+    "sees": [
+     "Carob troughs (prop), 5 m, centre",
+     "Bare field of rooted dust (area), 35 m, left",
+     "Low wall of piled field stones (wall), 35 m, left",
+     "Thorn scrub, the field's east boundary (area), 72 m, right",
+     "tree (tree), 75 m, right",
+     "tree (tree), 78 m, centre",
+     "tree (tree), 79 m, right",
+     "tree (tree), 79 m, right",
+     "tree (tree), 80 m, right",
+     "tree (tree), 80 m, right",
+     "tree (tree), 81 m, right",
+     "tree (tree), 82 m, right",
+     "tree (tree), 82 m, centre",
+     "tree (tree), 82 m, right"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "His fire, down to embers: behind the camera, the view lit from the front, 6 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 292,
+    "sees": [
+     "Lone carob tree (canopy), 10 m, left",
+     "Bare field of rooted dust (area), 30 m, right",
+     "Thorn scrub, the field's east boundary (area), 78 m, left",
+     "tree (tree), 91 m, left"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "His fire, down to embers: to the right, 6 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 202,
+    "sees": [
+     "Pig pen, low stone wall (wall), 6 m, right",
+     "His fire, down to embers (fire), 6 m, centre",
+     "The citizen's booth (building), 8 m, centre",
+     "gate (gate), 9 m, right",
+     "Cart track from the estate (track), 12 m, centre",
+     "Bare field of rooted dust (area), 32 m, left",
+     "Low wall of piled field stones (wall), 36 m, right"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "His fire, down to embers: ahead, the view backlit, 6 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 112,
+    "sees": [
+     "Pig pen, low stone wall (wall), 6 m, left",
+     "Bare field of rooted dust (area), 34 m, right",
+     "Low wall of piled field stones (wall), 34 m, right"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "His fire, down to embers: to the left, 6 m"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "10",
+  "plan": 2,
+  "plan_title": "The pig fields by day",
+  "heading": "EXT. PIG FIELDS - DAY",
+  "place": "sc10:The pig fields before dawn",
+  "hour": "day",
+  "light": {
+   "kind": "sun",
+   "from_deg": 270,
+   "label": "noon, high, hard and pale; the one shade under the lone carob"
+  },
+  "pos": [
+   2.0,
+   -5.22
+  ],
+  "facing": 325,
+  "setup": "S08",
+  "keys": 18,
+  "used_by": [
+   "10"
+  ],
+  "id": "sc10_C_the_pig_fields_by_day",
+  "dir": "orbits/sc10/C_the_pig_fields_by_day",
+  "from": "sc10_B_the_pig_fields_before_dawn",
+  "digest": {
+   "front": {
+    "heading_deg": 325,
+    "sees": [
+     "Lone carob tree (canopy), 3 m, right",
+     "Noon shade (area), 4 m, left",
+     "tree (tree), 69 m, left",
+     "tree (tree), 72 m, left",
+     "tree (tree), 73 m, left",
+     "tree (tree), 73 m, left",
+     "tree (tree), 74 m, left",
+     "tree (tree), 75 m, left",
+     "tree (tree), 75 m, left",
+     "tree (tree), 75 m, left",
+     "tree (tree), 76 m, left",
+     "tree (tree), 77 m, left",
+     "tree (tree), 78 m, left",
+     "tree (tree), 78 m, left"
+    ],
+    "sun": "ahead on the right"
+   },
+   "right": {
+    "heading_deg": 235,
+    "sees": [
+     "Noon shade (area), 2 m, right",
+     "The citizen's booth (building), 14 m, right"
+    ],
+    "sun": "ahead on the left"
+   },
+   "behind": {
+    "heading_deg": 145,
+    "sees": [
+     "Noon shade (area), 1 m, right",
+     "Carob troughs (prop), 6 m, right",
+     "Cold fire pit (prop), 13 m, left",
+     "Pig pen, low stone wall (wall), 13 m, centre",
+     "The citizen's booth (building), 14 m, left",
+     "gate (gate), 16 m, left"
+    ],
+    "sun": "behind on the left"
+   },
+   "left": {
+    "heading_deg": 55,
+    "sees": [
+     "Noon shade (area), 1 m, left",
+     "Carob pods, heaped (prop), 5 m, centre",
+     "tree (tree), 73 m, right",
+     "tree (tree), 73 m, right",
+     "tree (tree), 74 m, right",
+     "tree (tree), 75 m, right",
+     "tree (tree), 76 m, right",
+     "tree (tree), 77 m, right",
+     "tree (tree), 80 m, right",
+     "tree (tree), 80 m, right",
+     "tree (tree), 81 m, right",
+     "tree (tree), 82 m, right",
+     "tree (tree), 84 m, right",
+     "tree (tree), 85 m, right"
+    ],
+    "sun": "behind on the right"
+   }
+  }
+ },
+ {
+  "scene": "10",
+  "plan": 3,
+  "plan_title": "The pig fields at dusk",
+  "heading": "EXT. PIG FIELDS - DUSK",
+  "place": "sc10:The pig fields before dawn",
+  "hour": "dusk",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 195,
+   "label": "low sun at the field's west end, long shadows east to the scrub"
+  },
+  "pos": [
+   -0.7,
+   -1.5
+  ],
+  "facing": 10,
+  "setup": "S13",
+  "keys": 14,
+  "used_by": [
+   "10"
+  ],
+  "id": "sc10_D_the_pig_fields_at_dusk",
+  "dir": "orbits/sc10/D_the_pig_fields_at_dusk",
+  "from": "sc10_B_the_pig_fields_before_dawn",
+  "digest": {
+   "front": {
+    "heading_deg": 10,
+    "sees": [
+     "Bare field of rooted dust (area), 38 m, left",
+     "Low wall of piled field stones (wall), 39 m, left",
+     "Thorn scrub, the field's east boundary (area), 68 m, right",
+     "tree (tree), 72 m, centre",
+     "tree (tree), 75 m, centre",
+     "tree (tree), 76 m, right",
+     "tree (tree), 76 m, centre",
+     "tree (tree), 76 m, centre",
+     "tree (tree), 76 m, right",
+     "tree (tree), 77 m, centre",
+     "tree (tree), 78 m, centre",
+     "tree (tree), 78 m, centre",
+     "tree (tree), 78 m, right",
+     "tree (tree), 79 m, centre"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "The citizen's new fire: behind the camera, the view lit from the front, 10 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 280,
+    "sees": [
+     "canopy (canopy), 7 m, left",
+     "Bare field of rooted dust (area), 31 m, centre"
+    ],
+    "sun": "to the right",
+    "flame": [
+     "The citizen's new fire: to the right, 10 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 190,
+    "sees": [
+     "Pig pen, low stone wall (wall), 9 m, right",
+     "The citizen's new fire (fire), 10 m, centre",
+     "building (building), 12 m, centre",
+     "gate (gate), 13 m, right",
+     "Bare field of rooted dust (area), 35 m, left",
+     "Low wall of piled field stones (wall), 40 m, centre"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "The citizen's new fire: ahead, the view backlit, 10 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 100,
+    "sees": [
+     "Carob troughs (prop), 2 m, right",
+     "Pig pen, low stone wall (wall), 11 m, left",
+     "Bare field of rooted dust (area), 34 m, centre",
+     "Low wall of piled field stones (wall), 34 m, centre"
+    ],
+    "sun": "to the left",
+    "flame": [
+     "The citizen's new fire: to the left, 10 m"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "10",
+  "plan": 4,
+  "plan_title": "The scrub and the pen at night",
+  "heading": "EXT. SCRUB BEYOND THE PIG FIELDS - NIGHT · EXT. PIG FIELDS - NIGHT",
+  "place": "sc10:The pig fields before dawn",
+  "hour": "night",
+  "light": {
+   "kind": "fire",
+   "label": "starlight; the citizen's fire the one warm light"
+  },
+  "pos": [
+   66.8,
+   5.6
+  ],
+  "facing": 30,
+  "setup": "S15",
+  "keys": 9,
+  "used_by": [
+   "10"
+  ],
+  "id": "sc10_E_the_scrub_and_the_pen_at_night",
+  "dir": "orbits/sc10/E_the_scrub_and_the_pen_at_night",
+  "from": "sc10_C_the_pig_fields_by_day",
+  "digest": {
+   "front": {
+    "heading_deg": 30,
+    "sees": [
+     "Bare field of rooted dust (area), 5 m, right",
+     "Thorn scrub, the field's east boundary (area), 5 m, right",
+     "tree (tree), 8 m, right",
+     "Thorns where the pig is caught (tree), 9 m, centre",
+     "tree (tree), 13 m, left",
+     "tree (tree), 13 m, left",
+     "tree (tree), 14 m, right",
+     "tree (tree), 16 m, centre",
+     "tree (tree), 16 m, left",
+     "tree (tree), 16 m, right",
+     "tree (tree), 17 m, right",
+     "tree (tree), 19 m, right",
+     "tree (tree), 23 m, left",
+     "tree (tree), 25 m, right"
+    ],
+    "flame": [
+     "The citizen's fire: behind the camera, the view lit from the front, 78 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 300,
+    "sees": [
+     "Bare field of rooted dust (area), 5 m, left",
+     "Thorn scrub, the field's east boundary (area), 5 m, left",
+     "tree (tree), 8 m, left",
+     "tree (tree), 10 m, centre",
+     "tree (tree), 10 m, left",
+     "tree (tree), 14 m, left",
+     "tree (tree), 16 m, left",
+     "tree (tree), 17 m, centre",
+     "tree (tree), 17 m, left",
+     "tree (tree), 18 m, centre",
+     "tree (tree), 20 m, left",
+     "tree (tree), 23 m, right",
+     "tree (tree), 23 m, left",
+     "tree (tree), 25 m, centre"
+    ],
+    "flame": [
+     "The citizen's fire: behind on the right, 78 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 210,
+    "sees": [
+     "Bare field of rooted dust (area), 38 m, left",
+     "canopy (canopy), 65 m, right",
+     "Carob troughs (prop), 67 m, right",
+     "Low wall of piled field stones (wall), 72 m, right",
+     "Pig pen, low stone wall (wall), 77 m, right",
+     "The citizen's fire (fire), 78 m, right",
+     "building (building), 80 m, right",
+     "gate (gate), 80 m, right"
+    ],
+    "flame": [
+     "The citizen's fire: ahead, the view backlit, 78 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 120,
+    "sees": [
+     "Bare field of rooted dust (area), 9 m, right",
+     "Thorn scrub, the field's east boundary (area), 9 m, right",
+     "tree (tree), 13 m, right",
+     "Low wall of piled field stones (wall), 27 m, right"
+    ],
+    "flame": [
+     "The citizen's fire: ahead on the left, 78 m"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "10",
+  "plan": 4,
+  "plan_title": "The scrub and the pen at night",
+  "heading": "EXT. SCRUB BEYOND THE PIG FIELDS - NIGHT · EXT. PIG FIELDS - NIGHT",
+  "place": "sc10:The pig fields before dawn",
+  "hour": "night",
+  "light": {
+   "kind": "fire",
+   "label": "starlight; the citizen's fire the one warm light"
+  },
+  "pos": [
+   -9.65,
+   -4.35
+  ],
+  "facing": 210,
+  "setup": "S17",
+  "keys": 18,
+  "used_by": [
+   "10"
+  ],
+  "id": "sc10_F_the_scrub_and_the_pen_at_night",
+  "dir": "orbits/sc10/F_the_scrub_and_the_pen_at_night",
+  "from": "sc10_B_the_pig_fields_before_dawn",
+  "digest": {
+   "front": {
+    "heading_deg": 210,
+    "sees": [
+     "building (building), 2 m, centre",
+     "Pig pen, low stone wall (wall), 12 m, right",
+     "Bare field of rooted dust (area), 28 m, left",
+     "Low wall of piled field stones (wall), 31 m, right"
+    ],
+    "flame": [
+     "The citizen's fire: ahead on the right, 1 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 120,
+    "sees": [
+     "The citizen's fire (fire), 1 m, left",
+     "Pig pen, low stone wall (wall), 4 m, right",
+     "gate (gate), 6 m, centre",
+     "Bare field of rooted dust (area), 31 m, left",
+     "Low wall of piled field stones (wall), 31 m, left"
+    ],
+    "flame": [
+     "The citizen's fire: ahead, the view backlit, 1 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 30,
+    "sees": [
+     "Carob troughs (prop), 11 m, centre",
+     "canopy (canopy), 14 m, right",
+     "Bare field of rooted dust (area), 37 m, left",
+     "Low wall of piled field stones (wall), 37 m, left",
+     "Thorn scrub, the field's east boundary (area), 77 m, right",
+     "tree (tree), 80 m, right",
+     "tree (tree), 84 m, right",
+     "tree (tree), 84 m, right",
+     "tree (tree), 85 m, right",
+     "tree (tree), 85 m, right",
+     "Thorns where the pig is caught (tree), 85 m, right",
+     "tree (tree), 86 m, right",
+     "tree (tree), 87 m, right",
+     "tree (tree), 87 m, right"
+    ],
+    "flame": [
+     "The citizen's fire: to the left, 1 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 300,
+    "sees": [
+     "canopy (canopy), 14 m, left",
+     "Bare field of rooted dust (area), 28 m, right",
+     "Thorn scrub, the field's east boundary (area), 80 m, left",
+     "tree (tree), 84 m, left",
+     "tree (tree), 89 m, left",
+     "tree (tree), 95 m, left",
+     "tree (tree), 96 m, left",
+     "tree (tree), 102 m, left",
+     "tree (tree), 107 m, left",
+     "tree (tree), 109 m, left",
+     "tree (tree), 110 m, left",
+     "tree (tree), 115 m, left"
+    ],
+    "flame": [
+     "The citizen's fire: behind the camera, the view lit from the front, 1 m"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "11",
+  "plan": 0,
+  "plan_title": "The hillside at dusk",
+  "heading": "EXT. HILLSIDE ABOVE THE LAKE - DUSK",
+  "place": "hillside:ext",
+  "hour": "dusk",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 140,
+   "label": "afterglow over the far shore, lower and redder; the fire and hand lamps light the faces"
+  },
+  "pos": [
+   27.3,
+   -0.15
+  ],
+  "facing": 178,
+  "setup": "S05",
+  "keys": 35,
+  "used_by": [
+   "11"
+  ],
+  "id": "sc11_A_the_hillside_at_dusk",
+  "dir": "orbits/sc11/A_the_hillside_at_dusk",
+  "from": "sc04a_A_the_hillside_at_sunset",
+  "digest": {
+   "front": {
+    "heading_deg": 178,
+    "sees": [
+     "Open gate (gate), 0 m, right",
+     "Low dry-stone fieldstone wall (wall), 21 m, right",
+     "Small fire (fire), 24 m, centre",
+     "Limestone ledge (slab), 27 m, centre",
+     "The old olive (canopy), 30 m, centre",
+     "Lake · downhill (+y) (water), 39 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "Small fire: ahead, the view backlit, 24 m",
+     "6 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 88,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 2 m, centre",
+     "Open gate (gate), 2 m, centre",
+     "Loose stone (prop), 3 m, centre",
+     "tree (tree), 9 m, right",
+     "tree (tree), 12 m, right",
+     "tree (tree), 18 m, right",
+     "Lake · downhill (+y) (water), 31 m, centre"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "Small fire: to the left, 24 m",
+     "6 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 358,
+    "sees": [
+     "tree (tree), 7 m, left",
+     "tree (tree), 8 m, centre",
+     "tree (tree), 12 m, left",
+     "tree (tree), 13 m, left",
+     "tree (tree), 13 m, right",
+     "tree (tree), 18 m, left"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "Small fire: behind the camera, the view lit from the front, 24 m",
+     "6 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 268,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 1 m, centre",
+     "Open gate (gate), 1 m, centre",
+     "tree (tree), 7 m, left",
+     "tree (tree), 12 m, left"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "Small fire: to the right, 24 m",
+     "6 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "12",
+  "plan": 0,
+  "plan_title": "The road west, the well",
+  "heading": "EXT. THE ROAD WEST - DAY",
+  "place": "sc12:The road west, the well",
+  "hour": "day",
+  "light": {
+   "kind": "sun",
+   "from_deg": 335,
+   "label": "morning, low behind him in the east"
+  },
+  "pos": [
+   4.6,
+   -6.1
+  ],
+  "facing": 120,
+  "setup": "S01",
+  "keys": 9,
+  "used_by": [
+   "12"
+  ],
+  "id": "sc12_A_the_road_west_the_well",
+  "dir": "orbits/sc12/A_the_road_west_the_well",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 120,
+    "sees": [
+     "The road west (track), 2 m, right",
+     "Stone trough (prop), 7 m, centre",
+     "Well (prop), 8 m, centre",
+     "Footpath to a hamlet (track), 8 m, centre",
+     "Burnt brown land (area), 15 m, right"
+    ],
+    "sun": "behind on the right"
+   },
+   "right": {
+    "heading_deg": 30,
+    "sees": [
+     "The road west (track), 2 m, left",
+     "Burnt brown land (area), 8 m, right"
+    ],
+    "sun": "ahead on the right"
+   },
+   "behind": {
+    "heading_deg": 300,
+    "sees": [
+     "Burnt brown land (area), 3 m, right"
+    ],
+    "sun": "ahead on the left"
+   },
+   "left": {
+    "heading_deg": 210,
+    "sees": [
+     "Burnt brown land (area), 3 m, left",
+     "The road west (track), 5 m, right"
+    ],
+    "sun": "behind on the left"
+   }
+  }
+ },
+ {
+  "scene": "12",
+  "plan": 1,
+  "plan_title": "The foreign farm in the morning",
+  "heading": "EXT. A FARM ON THE ROAD WEST - MORNING",
+  "place": "foreign_farm:ext",
+  "hour": "morning",
+  "light": {
+   "kind": "sun",
+   "from_deg": 330,
+   "label": "harvest morning, low in the east-south-east"
+  },
+  "pos": [
+   9.4,
+   21.4
+  ],
+  "facing": 200,
+  "setup": "S11",
+  "keys": 45,
+  "used_by": [
+   "12"
+  ],
+  "id": "sc12_B_the_foreign_farm_in_the_morning",
+  "dir": "orbits/sc12/B_the_foreign_farm_in_the_morning",
+  "from": "sc00_A_the_road_under_the_field_wall",
+  "digest": {
+   "front": {
+    "heading_deg": 200,
+    "sees": [
+     "Green fold on its own spring (area), 2 m, right",
+     "Stubble (area), 2 m, right",
+     "Yard with hens (area), 9 m, right",
+     "Last standing barley (area), 15 m, left",
+     "Field wall of piled stones (wall), 22 m, left",
+     "Ditch (area), 22 m, left",
+     "Single tamarisk (canopy), 23 m, left",
+     "The road west (track), 25 m, left",
+     "Scree-and-thorn slope falling south (area), 27 m, left",
+     "Well (prop), 30 m, right",
+     "canopy (canopy), 37 m, left",
+     "canopy (canopy), 48 m, left",
+     "canopy (canopy), 50 m, left",
+     "canopy (canopy), 50 m, left"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 110,
+    "sees": [
+     "Green fold on its own spring (area), 1 m, left",
+     "Stubble (area), 1 m, left",
+     "Farm track (track), 2 m, right",
+     "Yard with hens (area), 5 m, right",
+     "Bread oven (prop), 16 m, right",
+     "House (building), 19 m, right",
+     "Pantry (room), 19 m, right",
+     "Pantry door and its bar (door), 19 m, right",
+     "Long table under the vine (prop), 21 m, left",
+     "canopy (canopy), 21 m, left",
+     "Clay god's niche (prop), 24 m, left",
+     "door (door), 24 m, left",
+     "Well (prop), 30 m, left",
+     "Spring (water), 43 m, left"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 20,
+    "sees": [
+     "Green fold on its own spring (area), 1 m, left",
+     "Stubble (area), 1 m, left",
+     "Farm track (track), 1 m, centre",
+     "Yard with hens (area), 5 m, left",
+     "Ditch (area), 40 m, right",
+     "The road west (track), 45 m, right",
+     "Scree-and-thorn slope falling south (area), 49 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 290,
+    "sees": [
+     "Farm track (track), 3 m, left",
+     "Last standing barley (area), 14 m, right",
+     "Stubble (area), 20 m, right",
+     "Field wall of piled stones (wall), 20 m, right",
+     "Field gap (gate), 20 m, right",
+     "Ditch (area), 21 m, right",
+     "Single tamarisk (canopy), 23 m, right",
+     "The road west (track), 24 m, right",
+     "Scree-and-thorn slope falling south (area), 26 m, right",
+     "canopy (canopy), 33 m, centre",
+     "canopy (canopy), 37 m, right",
+     "canopy (canopy), 37 m, right",
+     "canopy (canopy), 40 m, left",
+     "canopy (canopy), 43 m, right"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "12",
+  "plan": 2,
+  "plan_title": "The edge of the field",
+  "heading": "EXT. EDGE OF THE FIELD - CONTINUOUS",
+  "place": "foreign_farm:ext",
+  "hour": "the same harvest morning",
+  "light": {
+   "kind": "sun",
+   "from_deg": 330,
+   "label": "the same harvest morning"
+  },
+  "pos": [
+   10.15,
+   3.45
+  ],
+  "facing": 210,
+  "setup": "S13",
+  "keys": 21,
+  "used_by": [
+   "12"
+  ],
+  "id": "sc12_C_the_edge_of_the_field",
+  "dir": "orbits/sc12/C_the_edge_of_the_field",
+  "from": "sc00_A_the_road_under_the_field_wall",
+  "digest": {
+   "front": {
+    "heading_deg": 210,
+    "sees": [
+     "Last standing barley (area), 2 m, left",
+     "Stubble (area), 2 m, left",
+     "Field wall of piled stones (wall), 3 m, left",
+     "Ditch (area), 3 m, left",
+     "The road west (track), 6 m, left",
+     "Scree-and-thorn slope falling south (area), 8 m, left",
+     "Single tamarisk (canopy), 11 m, centre",
+     "canopy (canopy), 19 m, left",
+     "canopy (canopy), 23 m, centre",
+     "canopy (canopy), 32 m, left",
+     "canopy (canopy), 36 m, left",
+     "canopy (canopy), 37 m, left",
+     "canopy (canopy), 37 m, centre",
+     "canopy (canopy), 37 m, left"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 120,
+    "sees": [
+     "Last standing barley (area), 1 m, right",
+     "Farm track (track), 7 m, right",
+     "Green fold on its own spring (area), 19 m, right",
+     "Stubble (area), 19 m, right",
+     "Yard with hens (area), 23 m, right",
+     "Bread oven (prop), 34 m, right",
+     "Long table under the vine (prop), 36 m, centre",
+     "canopy (canopy), 36 m, centre",
+     "House (building), 37 m, right",
+     "Pantry (room), 37 m, right",
+     "Pantry door and its bar (door), 37 m, right",
+     "Clay god's niche (prop), 40 m, centre",
+     "door (door), 40 m, centre",
+     "Well (prop), 41 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 30,
+    "sees": [
+     "Last standing barley (area), 0 m, right",
+     "Farm track (track), 3 m, right",
+     "Stubble (area), 6 m, right",
+     "Ditch (area), 8 m, right",
+     "The road west (track), 16 m, right",
+     "Green fold on its own spring (area), 19 m, left",
+     "Scree-and-thorn slope falling south (area), 21 m, right",
+     "Yard with hens (area), 23 m, left"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 300,
+    "sees": [
+     "Last standing barley (area), 1 m, centre",
+     "Stubble (area), 2 m, right",
+     "Field wall of piled stones (wall), 2 m, right",
+     "Field gap (gate), 3 m, centre",
+     "Farm track (track), 3 m, left",
+     "Ditch (area), 3 m, right",
+     "The road west (track), 6 m, right",
+     "Scree-and-thorn slope falling south (area), 8 m, right",
+     "canopy (canopy), 18 m, left",
+     "canopy (canopy), 19 m, right",
+     "canopy (canopy), 25 m, right",
+     "canopy (canopy), 27 m, left",
+     "canopy (canopy), 37 m, right",
+     "canopy (canopy), 40 m, right"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "12",
+  "plan": 3,
+  "plan_title": "The well, later",
+  "heading": "EXT. A FARM ON THE ROAD WEST - THE WELL - LATER",
+  "place": "foreign_farm:ext",
+  "hour": "noon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 270,
+   "label": "noon, high in the south, short shadows"
+  },
+  "pos": [
+   -16.0,
+   30.85
+  ],
+  "facing": 125,
+  "setup": "S16",
+  "keys": 9,
+  "used_by": [
+   "12"
+  ],
+  "id": "sc12_D_the_well_later",
+  "dir": "orbits/sc12/D_the_well_later",
+  "from": "sc12_B_the_foreign_farm_in_the_morning",
+  "digest": {
+   "front": {
+    "heading_deg": 125,
+    "sees": [
+     "Well (prop), 3 m, centre",
+     "Yard with hens (area), 6 m, left",
+     "House (building), 9 m, right",
+     "Spring (water), 21 m, right",
+     "Green fold on its own spring (area), 29 m, left"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 35,
+    "sees": [
+     "Yard with hens (area), 9 m, left",
+     "House (building), 9 m, left",
+     "Long table under the vine (prop), 11 m, centre",
+     "canopy (canopy), 11 m, centre",
+     "door (door), 13 m, centre",
+     "Clay god's niche (prop), 15 m, centre",
+     "Pantry (room), 22 m, centre",
+     "Pantry door and its bar (door), 24 m, right",
+     "Farm track (track), 25 m, right",
+     "Bread oven (prop), 29 m, right",
+     "Green fold on its own spring (area), 30 m, right",
+     "Stubble (area), 30 m, right"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 305,
+    "sees": [
+     "Yard with hens (area), 5 m, right",
+     "Green fold on its own spring (area), 9 m, right",
+     "Stubble (area), 9 m, right",
+     "Last standing barley (area), 23 m, right",
+     "Farm track (track), 25 m, left",
+     "Field wall of piled stones (wall), 30 m, right",
+     "Ditch (area), 30 m, right",
+     "The road west (track), 33 m, right",
+     "Single tamarisk (canopy), 35 m, centre",
+     "Scree-and-thorn slope falling south (area), 35 m, right",
+     "Field gap (gate), 40 m, centre",
+     "canopy (canopy), 43 m, right",
+     "canopy (canopy), 47 m, right",
+     "canopy (canopy), 50 m, centre"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 215,
+    "sees": [
+     "Yard with hens (area), 5 m, left",
+     "Green fold on its own spring (area), 9 m, left",
+     "Stubble (area), 9 m, left",
+     "Last standing barley (area), 23 m, left",
+     "Field wall of piled stones (wall), 30 m, left",
+     "Ditch (area), 30 m, left",
+     "The road west (track), 33 m, left",
+     "Scree-and-thorn slope falling south (area), 35 m, left",
+     "canopy (canopy), 42 m, left",
+     "canopy (canopy), 47 m, left",
+     "canopy (canopy), 53 m, left",
+     "canopy (canopy), 57 m, left",
+     "canopy (canopy), 62 m, left",
+     "canopy (canopy), 75 m, left"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "12",
+  "plan": 4,
+  "plan_title": "The thorn scrub before dawn",
+  "heading": "EXT. FOOT OF THE SLOPE - THORN SCRUB - BEFORE DAWN",
+  "place": "foreign_farm:ext",
+  "hour": "before dawn",
+  "light": {
+   "kind": "dawn",
+   "from_deg": 5,
+   "label": "before dawn, a grey line over the eastern hills"
+  },
+  "pos": [
+   -12.6,
+   -49.05
+  ],
+  "facing": 228,
+  "setup": "S18",
+  "keys": 23,
+  "used_by": [
+   "12"
+  ],
+  "id": "sc12_E_the_thorn_scrub_before_dawn",
+  "dir": "orbits/sc12/E_the_thorn_scrub_before_dawn",
+  "from": "sc01a_D_the_thorn_scrub_at_the_foot_of_the_slope",
+  "digest": {
+   "front": {
+    "heading_deg": 228,
+    "sees": [
+     "canopy (canopy), 4 m, centre",
+     "canopy (canopy), 4 m, right",
+     "canopy (canopy), 6 m, centre",
+     "canopy (canopy), 7 m, left",
+     "canopy (canopy), 8 m, centre",
+     "canopy (canopy), 14 m, right",
+     "canopy (canopy), 17 m, left",
+     "canopy (canopy), 19 m, centre",
+     "canopy (canopy), 22 m, right",
+     "canopy (canopy), 27 m, right",
+     "canopy (canopy), 29 m, left",
+     "Thorn scrub (area), 31 m, left",
+     "canopy (canopy), 34 m, centre",
+     "Dry wadi far below (area), 35 m, left"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 138,
+    "sees": [
+     "canopy (canopy), 3 m, left",
+     "Scree-and-thorn slope falling south (area), 3 m, right",
+     "Thorn scrub (area), 3 m, right",
+     "canopy (canopy), 6 m, left",
+     "canopy (canopy), 10 m, centre",
+     "canopy (canopy), 14 m, left",
+     "canopy (canopy), 16 m, right",
+     "canopy (canopy), 23 m, right",
+     "canopy (canopy), 24 m, right",
+     "canopy (canopy), 27 m, left",
+     "canopy (canopy), 28 m, right",
+     "canopy (canopy), 34 m, right",
+     "canopy (canopy), 34 m, left",
+     "canopy (canopy), 37 m, centre"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 48,
+    "sees": [
+     "canopy (canopy), 1 m, centre",
+     "canopy (canopy), 3 m, centre",
+     "Scree-and-thorn slope falling south (area), 3 m, left",
+     "Thorn scrub (area), 3 m, left",
+     "canopy (canopy), 6 m, right",
+     "canopy (canopy), 13 m, left",
+     "canopy (canopy), 15 m, right",
+     "canopy (canopy), 16 m, left",
+     "canopy (canopy), 20 m, centre",
+     "canopy (canopy), 24 m, left",
+     "canopy (canopy), 26 m, left",
+     "canopy (canopy), 27 m, right",
+     "canopy (canopy), 28 m, left",
+     "canopy (canopy), 35 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 318,
+    "sees": [
+     "His body, head to the west (slab), 1 m, centre",
+     "canopy (canopy), 3 m, centre",
+     "canopy (canopy), 4 m, left",
+     "canopy (canopy), 5 m, centre",
+     "canopy (canopy), 6 m, right",
+     "canopy (canopy), 8 m, centre",
+     "canopy (canopy), 15 m, left",
+     "canopy (canopy), 16 m, right",
+     "Scree-and-thorn slope falling south (area), 18 m, left",
+     "Thorn scrub (area), 18 m, left",
+     "canopy (canopy), 21 m, right",
+     "canopy (canopy), 22 m, left",
+     "canopy (canopy), 27 m, left",
+     "canopy (canopy), 29 m, right"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "12",
+  "plan": 5,
+  "plan_title": "The road west, the far hills",
+  "heading": "EXT. THE ROAD WEST - DAY",
+  "place": "sc12:The road west, the far hills",
+  "hour": "day",
+  "light": {
+   "kind": "sun",
+   "from_deg": 205,
+   "label": "afternoon, ahead of him in the west-south-west"
+  },
+  "pos": [
+   10.6,
+   -0.9
+  ],
+  "facing": 160,
+  "setup": "S24",
+  "keys": 9,
+  "used_by": [
+   "12"
+  ],
+  "id": "sc12_F_the_road_west_the_far_hills",
+  "dir": "orbits/sc12/F_the_road_west_the_far_hills",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 160,
+    "sees": [
+     "The road west (track), 1 m, right",
+     "canopy (canopy), 7 m, right",
+     "Dead brown land (area), 8 m, right",
+     "canopy (canopy), 17 m, left",
+     "canopy (canopy), 20 m, left"
+    ],
+    "sun": "ahead on the left"
+   },
+   "right": {
+    "heading_deg": 70,
+    "sees": [
+     "The road west (track), 1 m, centre",
+     "Dead brown land (area), 8 m, left"
+    ],
+    "sun": "behind on the left"
+   },
+   "behind": {
+    "heading_deg": 340,
+    "sees": [
+     "The road west (track), 3 m, left",
+     "canopy (canopy), 5 m, right",
+     "Dead brown land (area), 7 m, right"
+    ],
+    "sun": "behind on the right"
+   },
+   "left": {
+    "heading_deg": 250,
+    "sees": [
+     "Dead brown land (area), 6 m, left"
+    ],
+    "sun": "ahead on the right"
+   }
+  }
+ },
+ {
+  "scene": "12",
+  "plan": 6,
+  "plan_title": "The road home at dusk",
+  "heading": "EXT. THE ROAD HOME - DUSK",
+  "place": "eliab_valley:ext",
+  "hour": "dusk",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 175,
+   "label": "sunset straight ahead of him over his father's hills"
+  },
+  "pos": [
+   1398.4,
+   -631.9
+  ],
+  "facing": 92,
+  "setup": "S27",
+  "keys": 9,
+  "used_by": [
+   "12"
+  ],
+  "id": "sc12_G_the_road_home_at_dusk",
+  "dir": "orbits/sc12/G_the_road_home_at_dusk",
+  "from": "sc06b_B_the_road_at_the_bend",
+  "digest": {
+   "front": {
+    "heading_deg": 92,
+    "sees": [
+     "Road east to Jericho (track), 2 m, right",
+     "building (building), 769 m, left",
+     "building (building), 1303 m, left",
+     "Hill pasture (the flock) (area), 1347 m, left"
+    ],
+    "sun": "to the left"
+   },
+   "right": {
+    "heading_deg": 2,
+    "sees": [
+     "Road east to Jericho (track), 2 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   },
+   "behind": {
+    "heading_deg": 272,
+    "sees": [],
+    "sun": "to the right"
+   },
+   "left": {
+    "heading_deg": 182,
+    "sees": [
+     "Road east to Jericho (track), 3 m, right",
+     "building (building), 659 m, left",
+     "Thorn gully (the ewe, Sc 2) (area), 749 m, right",
+     "building (building), 769 m, right",
+     "Village (area), 867 m, right",
+     "Well (prop), 941 m, right",
+     "Village gate (elders' bench) (gate), 1096 m, right",
+     "building (building), 1200 m, left",
+     "building (building), 1303 m, right",
+     "Hill pasture (the flock) (area), 1331 m, right",
+     "Hill track (track), 1463 m, right",
+     "Path to the far field (track), 1540 m, right",
+     "Far field (Sc 15) (area), 1563 m, right",
+     "Other farms on the next terraces (building), 1928 m, right"
+    ],
+    "sun": "ahead, the view backlit"
+   }
+  }
+ },
+ {
+  "scene": "13",
+  "plan": 0,
+  "plan_title": "Eliab's gate at dusk",
+  "heading": "EXT. ELIAB'S FARM - GATE - DUSK",
+  "place": "eliab_farm:ext",
+  "hour": "dusk",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 180,
+   "label": "the low sun over the house roof, gold dust in the gateway, then the new flame"
+  },
+  "pos": [
+   28.2,
+   -11.5
+  ],
+  "facing": 334,
+  "setup": "S03",
+  "keys": 3,
+  "used_by": [
+   "13"
+  ],
+  "id": "sc13_A_eliabs_gate_at_dusk",
+  "dir": "orbits/sc13/A_eliabs_gate_at_dusk",
+  "from": "sc08_F_the_gate_by_day",
+  "digest": {
+   "front": {
+    "heading_deg": 334,
+    "sees": [
+     "Road east, down to the village gate (track), 1 m, left",
+     "Footpath from the village (track), 24 m, right"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "Gate lamp, lit in W02: behind the camera, the view lit from the front, 30 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 244,
+    "sees": [
+     "Footpath from the village (track), 23 m, left",
+     "Floor track (track), 30 m, right",
+     "Terrace edge (wall), 33 m, right",
+     "Threshing floor (slab), 45 m, right",
+     "Path down to the far field (SW) (track), 53 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "Gate lamp, lit in W02: to the right, 30 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 154,
+    "sees": [
+     "Road east, down to the village gate (track), 1 m, right",
+     "Hill track to the pasture (track), 21 m, centre",
+     "Floor track (track), 22 m, centre",
+     "Trough (prop), 28 m, left",
+     "Yard (area), 29 m, left",
+     "Old fig (tree), 29 m, right",
+     "The one gate (gate), 29 m, centre",
+     "Sees him, drops the flint (slab), 30 m, centre",
+     "Gate lamp, lit in W02 (lamp), 30 m, centre",
+     "Yard wall, about 1.7 m (wall), 31 m, centre",
+     "Stone bench (slab), 31 m, centre",
+     "Eliab strikes the light (slab), 31 m, centre",
+     "Cistern (prop), 35 m, left",
+     "Calf pen (wall), 36 m, centre"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "Gate lamp, lit in W02: ahead, the view backlit, 30 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 64,
+    "sees": [
+     "Road east, down to the village gate (track), 0 m, left",
+     "Hill track to the pasture (track), 24 m, left"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "Gate lamp, lit in W02: to the left, 30 m"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "13",
+  "plan": 1,
+  "plan_title": "The run past the village gate",
+  "heading": "EXT. ELIAB'S FARM - GATE - DUSK",
+  "place": "village_gate:ext",
+  "hour": "dusk",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 180,
+   "label": "the low sun in the west, the arch's face and the rising elders in its last light"
+  },
+  "pos": [
+   -25.04,
+   16.79
+  ],
+  "facing": 326,
+  "setup": "S04",
+  "keys": 7,
+  "used_by": [
+   "13"
+  ],
+  "id": "sc13_B_the_run_past_the_village_gate",
+  "dir": "orbits/sc13/B_the_run_past_the_village_gate",
+  "from": "sc06a_A_the_village_gate",
+  "digest": {
+   "front": {
+    "heading_deg": 326,
+    "sees": [
+     "Hill path up to Eliab's farm (track), 1 m, centre",
+     "Long slope rising north-west (area), 16 m, centre",
+     "Road east to Jericho (track), 18 m, centre",
+     "Old olive (tree), 24 m, right",
+     "building (building), 30 m, centre",
+     "Stone arch (gate), 30 m, centre",
+     "Fig (tree), 30 m, left",
+     "Village wall, children on top (wall), 30 m, centre",
+     "building (building), 31 m, centre",
+     "building (building), 31 m, centre",
+     "building (building), 31 m, right",
+     "building (building), 32 m, centre",
+     "Village houses (building), 32 m, right",
+     "Elders' bench (slab), 33 m, centre"
+    ],
+    "sun": "behind on the right"
+   },
+   "right": {
+    "heading_deg": 236,
+    "sees": [
+     "tree (tree), 10 m, left",
+     "Long slope rising north-west (area), 19 m, left",
+     "Village wall, children on top (wall), 34 m, left",
+     "Village houses (building), 35 m, left"
+    ],
+    "sun": "ahead on the right"
+   },
+   "behind": {
+    "heading_deg": 146,
+    "sees": [
+     "Hill path up to Eliab's farm (track), 0 m, centre",
+     "tree (tree), 23 m, left",
+     "tree (tree), 26 m, right",
+     "tree (tree), 38 m, right",
+     "tree (tree), 40 m, left",
+     "Long slope rising north-west (area), 43 m, right"
+    ],
+    "sun": "ahead on the left"
+   },
+   "left": {
+    "heading_deg": 56,
+    "sees": [
+     "tree (tree), 11 m, centre",
+     "Long slope rising north-west (area), 25 m, right",
+     "tree (tree), 26 m, left",
+     "Road east to Jericho (track), 33 m, right"
+    ],
+    "sun": "behind on the left"
+   }
+  }
+ },
+ {
+  "scene": "13",
+  "plan": 2,
+  "plan_title": "The road at dusk",
+  "heading": "EXT. THE ROAD - DUSK",
+  "place": "eliab_valley:ext",
+  "hour": "dusk",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 180,
+   "label": "the low sun white in the haze straight up the road behind the runner"
+  },
+  "pos": [
+   702.6,
+   -425.72
+  ],
+  "facing": 178,
+  "setup": "S07",
+  "keys": 41,
+  "used_by": [
+   "13"
+  ],
+  "id": "sc13_C_the_road_at_dusk",
+  "dir": "orbits/sc13/C_the_road_at_dusk",
+  "from": "sc06b_B_the_road_at_the_bend",
+  "digest": {
+   "front": {
+    "heading_deg": 178,
+    "sees": [
+     "The embrace (slab), 1 m, right",
+     "Road east to Jericho (track), 1 m, left",
+     "Each servant takes his order here (slab), 2 m, right",
+     "Stubble, falling to the wadi (area), 3 m, left",
+     "Field wall (wall), 6 m, right",
+     "Stubble, uphill (area), 7 m, right",
+     "Village (area), 143 m, centre",
+     "Well (prop), 215 m, right",
+     "Village gate (elders' bench) (gate), 370 m, right",
+     "Hill pasture (the flock) (area), 678 m, right",
+     "Hill track (track), 784 m, right",
+     "Path to the far field (track), 822 m, right",
+     "Far field (Sc 15) (area), 839 m, right",
+     "Other farms on the next terraces (building), 1205 m, right"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "right": {
+    "heading_deg": 88,
+    "sees": [
+     "Asher stops dead (slab), 0 m, centre",
+     "The embrace (slab), 1 m, left",
+     "Field wall (wall), 3 m, right",
+     "Stubble, uphill (area), 3 m, right",
+     "Thorn gully (the ewe, Sc 2) (area), 198 m, centre",
+     "building (building), 281 m, centre",
+     "building (building), 667 m, left",
+     "Hill pasture (the flock) (area), 678 m, left",
+     "Hill track (track), 784 m, left"
+    ],
+    "sun": "to the left"
+   },
+   "behind": {
+    "heading_deg": 358,
+    "sees": [
+     "Road east to Jericho (track), 1 m, right",
+     "Field wall (wall), 3 m, left",
+     "Stubble, uphill (area), 3 m, left",
+     "Stubble, falling to the wadi (area), 7 m, right"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   },
+   "left": {
+    "heading_deg": 268,
+    "sees": [
+     "Road east to Jericho (track), 1 m, centre",
+     "Stubble, falling to the wadi (area), 3 m, right",
+     "building (building), 595 m, left",
+     "building (building), 768 m, right"
+    ],
+    "sun": "to the right"
+   }
+  }
+ },
+ {
+  "scene": "13",
+  "plan": 3,
+  "plan_title": "The courtyard at night",
+  "heading": "EXT. ELIAB'S FARM - COURTYARD - NIGHT",
+  "place": "eliab_farm:ext",
+  "hour": "night",
+  "light": {
+   "kind": "fire",
+   "label": "night; the new-lit yard fire and torches, the gate lamp across the yard, lamps coming up the hill"
+  },
+  "pos": [
+   -25.8,
+   -4.05
+  ],
+  "facing": 165,
+  "setup": "S12",
+  "keys": 23,
+  "used_by": [
+   "13"
+  ],
+  "id": "sc13_D_the_courtyard_at_night",
+  "dir": "orbits/sc13/D_the_courtyard_at_night",
+  "from": "sc02_D_the_fold",
+  "digest": {
+   "front": {
+    "heading_deg": 165,
+    "sees": [
+     "Miriam's basin (prop), 0 m, right",
+     "Yard fire, new-lit (fire), 4 m, centre",
+     "Eaves (area), 7 m, left",
+     "Yard (area), 8 m, left",
+     "Eliab's house (eliab_house) (building), 8 m, centre",
+     "Torch at the eaves (lamp), 8 m, centre",
+     "door (door), 8 m, centre",
+     "Yard wall, about 1.7 m (wall), 10 m, right",
+     "tree (tree), 29 m, centre",
+     "tree (tree), 32 m, left",
+     "Terrace edge (wall), 43 m, left"
+    ],
+    "flame": [
+     "Yard fire, new-lit: ahead, the view backlit, 4 m",
+     "Spit fire laid: ahead on the left, 4 m",
+     "Torch at the eaves: ahead, the view backlit, 8 m",
+     "Gate lamp burning: behind the camera, the view lit from the front, 26 m",
+     "Neighbours' lamps up the hill: behind the camera, the view lit from the front, 36 m",
+     "8 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 75,
+    "sees": [
+     "Miriam's basin (prop), 0 m, left",
+     "The fold (area), 8 m, centre",
+     "Fold gate, barred (gate), 11 m, right",
+     "Yard (area), 13 m, left",
+     "Yard wall, about 1.7 m (wall), 14 m, left",
+     "Calf pen (wall), 19 m, right",
+     "Ox byre (building), 21 m, right",
+     "Hill track to the pasture (track), 55 m, right"
+    ],
+    "flame": [
+     "Yard fire, new-lit: to the left, 4 m",
+     "Spit fire laid: behind the camera, the view lit from the front, 4 m",
+     "Torch at the eaves: to the left, 8 m",
+     "Gate lamp burning: ahead on the right, 26 m",
+     "Neighbours' lamps up the hill: ahead on the right, 36 m",
+     "8 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 345,
+    "sees": [
+     "Yard (area), 13 m, right",
+     "Fold gate, barred (gate), 13 m, left",
+     "The fold (area), 13 m, left",
+     "Calf pen (wall), 19 m, left",
+     "Cistern (prop), 20 m, centre",
+     "Ox byre (building), 22 m, left",
+     "Threshing floor (slab), 25 m, right",
+     "Floor track (track), 26 m, right",
+     "The one gate (gate), 26 m, left",
+     "Gate lamp burning (lamp), 26 m, left",
+     "Yard wall, about 1.7 m (wall), 26 m, left",
+     "Road east, down to the village gate (track), 26 m, left",
+     "Trough (prop), 27 m, centre",
+     "Stone bench (slab), 27 m, left"
+    ],
+    "flame": [
+     "Yard fire, new-lit: behind the camera, the view lit from the front, 4 m",
+     "Spit fire laid: behind on the right, 4 m",
+     "Torch at the eaves: behind the camera, the view lit from the front, 8 m",
+     "Gate lamp burning: ahead, the view backlit, 26 m",
+     "Neighbours' lamps up the hill: ahead, the view backlit, 36 m",
+     "8 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 255,
+    "sees": [
+     "Spit fire laid (fire), 4 m, right",
+     "Ovens (prop), 7 m, right",
+     "Yard (area), 9 m, right",
+     "Threshing floor (slab), 25 m, left",
+     "Terrace edge (wall), 29 m, left",
+     "Path down to the far field (SW) (track), 30 m, left",
+     "tree (tree), 32 m, right"
+    ],
+    "flame": [
+     "Yard fire, new-lit: to the right, 4 m",
+     "Spit fire laid: ahead, the view backlit, 4 m",
+     "Torch at the eaves: to the right, 8 m",
+     "Gate lamp burning: behind on the left, 26 m",
+     "Neighbours' lamps up the hill: behind on the left, 36 m",
+     "8 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "14",
+  "plan": 0,
+  "plan_title": "The feast",
+  "heading": "INT. ELIAB'S HOUSE - NIGHT",
+  "place": "eliab_house:int",
+  "hour": "night",
+  "light": {
+   "kind": "fire",
+   "label": "night; the hearth roaring, the yard fire and the calf's fire beyond the door, a clay lamp in the niche"
+  },
+  "pos": [
+   -35.8,
+   -1.8
+  ],
+  "facing": 90,
+  "setup": "S02",
+  "keys": 37,
+  "used_by": [
+   "14"
+  ],
+  "id": "sc14_A_the_feast",
+  "dir": "orbits/sc14/A_the_feast",
+  "from": "sc02_A_the_house_before_dawn",
+  "digest": {
+   "front": {
+    "heading_deg": 90,
+    "sees": [
+     "Asher's bread, untouched (prop), 0 m, left",
+     "Water jar (prop), 2 m, right",
+     "Oil jars (prop), 2 m, left",
+     "Hearth (FRONT) (slab), 2 m, centre",
+     "Eliab's house (eliab_house) (building), 3 m, right",
+     "Storage jars (LEFT) (prop), 3 m, left",
+     "Lamp niche (prop), 3 m, left",
+     "Eaves (area), 3 m, right",
+     "Yard (area), 3 m, right",
+     "Yard wall, about 1.7 m (wall), 4 m, right",
+     "The fold (area), 14 m, right"
+    ],
+    "flame": [
+     "Yard fire, the dance ring: to the right, 6 m",
+     "The calf on the spit: behind on the right, 10 m",
+     "Torch at the eaves: ahead on the right, 3 m",
+     "2 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 0,
+    "sees": [
+     "Water jar (prop), 2 m, left",
+     "Doorway (RIGHT) (door), 2 m, centre",
+     "door (door), 2 m, centre",
+     "Eliab's house (eliab_house) (building), 2 m, right",
+     "Eaves (area), 2 m, centre",
+     "Yard (area), 2 m, centre",
+     "Torch at the eaves (lamp), 3 m, left",
+     "Yard fire, the dance ring (fire), 6 m, centre",
+     "The calf on the spit (fire), 10 m, right",
+     "The fold (area), 12 m, left",
+     "Fold gate, barred (gate), 19 m, left",
+     "Yard wall, about 1.7 m (wall), 20 m, left",
+     "Calf pen (wall), 28 m, left",
+     "Ox byre (building), 29 m, left"
+    ],
+    "flame": [
+     "Yard fire, the dance ring: ahead, the view backlit, 6 m",
+     "The calf on the spit: ahead on the right, 10 m",
+     "Torch at the eaves: ahead, the view backlit, 3 m",
+     "2 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 270,
+    "sees": [
+     "Amos's place, set (prop), 0 m, right",
+     "Stools (prop), 1 m, centre",
+     "Hand mill (prop), 2 m, right",
+     "Asher's mat (prop), 2 m, left",
+     "Sleeping bench (BEHIND) (slab), 2 m, right",
+     "Eliab's house (eliab_house) (building), 3 m, left",
+     "Yard (area), 3 m, left",
+     "Peg, sling (prop), 3 m, left",
+     "Eaves (area), 3 m, left",
+     "Ovens (prop), 9 m, left",
+     "tree (tree), 25 m, right",
+     "Terrace edge (wall), 31 m, centre",
+     "Threshing floor (slab), 33 m, left",
+     "Floor track (track), 34 m, left"
+    ],
+    "flame": [
+     "Yard fire, the dance ring: to the left, 6 m",
+     "The calf on the spit: ahead on the left, 10 m",
+     "Torch at the eaves: behind on the left, 3 m",
+     "2 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 180,
+    "sees": [
+     "Oil jars (prop), 2 m, right",
+     "Hand mill (prop), 2 m, left",
+     "Eliab's house (eliab_house) (building), 2 m, left",
+     "tree (tree), 19 m, right",
+     "tree (tree), 25 m, left",
+     "Terrace edge (wall), 36 m, left"
+    ],
+    "flame": [
+     "Yard fire, the dance ring: behind the camera, the view lit from the front, 6 m",
+     "The calf on the spit: behind on the left, 10 m",
+     "Torch at the eaves: behind the camera, the view lit from the front, 3 m",
+     "2 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "16",
+  "plan": 0,
+  "plan_title": "The hillside at night",
+  "heading": "EXT. HILLSIDE ABOVE THE LAKE - NIGHT",
+  "place": "hillside:ext",
+  "hour": "night",
+  "light": {
+   "kind": "fire",
+   "label": "the fire burning low and six clay lamps in hands; the gate, the grove and the lake lie dark"
+  },
+  "pos": [
+   4.3,
+   -4.1
+  ],
+  "facing": 118,
+  "setup": "S01",
+  "keys": 41,
+  "used_by": [
+   "16"
+  ],
+  "id": "sc16_A_the_hillside_at_night",
+  "dir": "orbits/sc16/A_the_hillside_at_night",
+  "from": "sc01_B_the_hillside_above_the_lake",
+  "digest": {
+   "front": {
+    "heading_deg": 118,
+    "sees": [
+     "Low fire (fire), 4 m, centre",
+     "Seal (prop), 5 m, left",
+     "Limestone ledge (slab), 6 m, left",
+     "The old olive (canopy), 9 m, left",
+     "Low dry-stone fieldstone wall (wall), 11 m, left",
+     "Lake · downhill (+y) (water), 35 m, right"
+    ],
+    "flame": [
+     "Low fire: ahead, the view backlit, 4 m",
+     "6 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 28,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 20 m, left",
+     "Open gate (gate), 23 m, right",
+     "Tablet (prop), 24 m, right",
+     "Loose stone (prop), 24 m, centre",
+     "tree (tree), 27 m, right",
+     "tree (tree), 29 m, centre",
+     "tree (tree), 30 m, right",
+     "tree (tree), 31 m, right",
+     "tree (tree), 31 m, right",
+     "tree (tree), 33 m, centre",
+     "tree (tree), 35 m, right",
+     "Lake · downhill (+y) (water), 35 m, left",
+     "tree (tree), 36 m, right",
+     "tree (tree), 39 m, centre"
+    ],
+    "flame": [
+     "Low fire: to the left, 4 m",
+     "6 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 298,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 14 m, right",
+     "tree (tree), 30 m, left"
+    ],
+    "flame": [
+     "Low fire: behind the camera, the view lit from the front, 4 m",
+     "6 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 208,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 10 m, right"
+    ],
+    "flame": [
+     "Low fire: to the right, 4 m",
+     "6 more small lamps or fires around the place"
+    ]
+   }
+  }
+ }
+]

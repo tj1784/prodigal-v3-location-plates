@@ -1,0 +1,462 @@
+[
+ {
+  "scene": "7",
+  "plan": 0,
+  "plan_title": "The crest at sunrise",
+  "heading": "EXT. THE ROAD EAST - MONTAGE",
+  "place": "sc07:The crest at sunrise",
+  "hour": "sunrise straight down the road",
+  "light": {
+   "kind": "dawn",
+   "from_deg": 5,
+   "label": "sunrise straight down the road"
+  },
+  "pos": [
+   -16,
+   -1.4
+  ],
+  "facing": 4,
+  "setup": "S01",
+  "keys": 3,
+  "used_by": [
+   "7"
+  ],
+  "id": "sc07_A_the_crest_at_sunrise",
+  "dir": "orbits/sc07/A_the_crest_at_sunrise",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 4,
+    "sees": [
+     "The road east (track), 1 m, centre",
+     "tree (tree), 8 m, left",
+     "tree (tree), 23 m, centre",
+     "tree (tree), 27 m, left"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "right": {
+    "heading_deg": 274,
+    "sees": [],
+    "sun": "to the left"
+   },
+   "behind": {
+    "heading_deg": 184,
+    "sees": [
+     "The road east (track), 1 m, centre"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   },
+   "left": {
+    "heading_deg": 94,
+    "sees": [
+     "tree (tree), 8 m, right"
+    ],
+    "sun": "to the right"
+   }
+  }
+ },
+ {
+  "scene": "7",
+  "plan": 1,
+  "plan_title": "The Jordan at noon",
+  "heading": "EXT. THE ROAD EAST - MONTAGE",
+  "place": "sc07:The Jordan at noon",
+  "hour": "noon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 270,
+   "label": "noon, high and hard from the south"
+  },
+  "pos": [
+   -3.5,
+   -1.6
+  ],
+  "facing": 20,
+  "setup": "S02",
+  "keys": 3,
+  "used_by": [
+   "7"
+  ],
+  "id": "sc07_B_the_jordan_at_noon",
+  "dir": "orbits/sc07/B_the_jordan_at_noon",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 20,
+    "sees": [
+     "The ford (track), 2 m, left",
+     "Jordan, brown and quick, flowing south (water), 13 m, left",
+     "East bank (area), 13 m, right",
+     "tree (tree), 18 m, centre",
+     "tree (tree), 18 m, right"
+    ],
+    "sun": "behind on the right"
+   },
+   "right": {
+    "heading_deg": 290,
+    "sees": [
+     "Jordan, brown and quick, flowing south (water), 9 m, right",
+     "West bank (area), 10 m, right",
+     "East bank (area), 13 m, left"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "behind": {
+    "heading_deg": 200,
+    "sees": [
+     "The ford (track), 4 m, right",
+     "Jordan, brown and quick, flowing south (water), 6 m, right",
+     "West bank (area), 6 m, right",
+     "Tamarisk thicket (tree), 10 m, centre"
+    ],
+    "sun": "ahead on the left"
+   },
+   "left": {
+    "heading_deg": 110,
+    "sees": [
+     "The ford (track), 2 m, right",
+     "Jordan, brown and quick, flowing south (water), 6 m, left",
+     "West bank (area), 6 m, left",
+     "tree (tree), 12 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   }
+  }
+ },
+ {
+  "scene": "7",
+  "plan": 2,
+  "plan_title": "The plain at evening",
+  "heading": "EXT. THE ROAD EAST - MONTAGE",
+  "place": "sc07:The plain at evening",
+  "hour": "evening sun low behind them",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 195,
+   "label": "evening sun low behind them, shadows long toward the city"
+  },
+  "pos": [
+   -14,
+   25
+  ],
+  "facing": 330,
+  "setup": "S03",
+  "keys": 3,
+  "used_by": [
+   "7"
+  ],
+  "id": "sc07_C_the_plain_at_evening",
+  "dir": "orbits/sc07/C_the_plain_at_evening",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 330,
+    "sees": [
+     "Thorn bush (tree), 2 m, right",
+     "The road east (track), 27 m, right",
+     "tree (tree), 28 m, right",
+     "tree (tree), 35 m, right",
+     "tree (tree), 45 m, right"
+    ],
+    "sun": "behind on the right"
+   },
+   "right": {
+    "heading_deg": 240,
+    "sees": [
+     "The road east (track), 27 m, left",
+     "tree (tree), 35 m, left"
+    ],
+    "sun": "ahead on the right"
+   },
+   "behind": {
+    "heading_deg": 150,
+    "sees": [],
+    "sun": "ahead on the left"
+   },
+   "left": {
+    "heading_deg": 60,
+    "sees": [],
+    "sun": "behind on the left"
+   }
+  }
+ },
+ {
+  "scene": "7",
+  "plan": 3,
+  "plan_title": "Kallias's court at night",
+  "heading": "EXT. KALLIAS'S COURT - NIGHT",
+  "place": "kallias_court:ext",
+  "hour": "night",
+  "light": {
+   "kind": "fire",
+   "label": "the blazing central brazier before Tyche and the lamps hung along the colonnade"
+  },
+  "pos": [
+   5.55,
+   -0.6
+  ],
+  "facing": 140,
+  "setup": "S05",
+  "keys": 73,
+  "used_by": [
+   "7"
+  ],
+  "id": "sc07_D_kalliass_court_at_night",
+  "dir": "orbits/sc07/D_kalliass_court_at_night",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 140,
+    "sees": [
+     "Musicians' mat (slab), 8 m, left",
+     "Open court, paved, under the stars (area), 8 m, right",
+     "Peristyle, 26 columns (prop), 10 m, right",
+     "Court wall (wall), 11 m, right",
+     "Court gate (gate), 21 m, left",
+     "Street (area), 21 m, left",
+     "Beggar's corner (slab), 22 m, left",
+     "Houses across the street (wall), 26 m, left"
+    ],
+    "flame": [
+     "The blazing central brazier: behind on the right, 5 m",
+     "Lamps hung along the colonnade: to the left, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 50,
+    "sees": [
+     "Low table (prop), 1 m, centre",
+     "The blazing central brazier (fire), 5 m, right",
+     "Open court, paved, under the stars (area), 6 m, right",
+     "Tyche, crowned, on her plinth (slab), 8 m, right",
+     "Court wall (wall), 9 m, right"
+    ],
+    "flame": [
+     "The blazing central brazier: ahead on the right, 5 m",
+     "Lamps hung along the colonnade: behind the camera, the view lit from the front, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 320,
+    "sees": [
+     "The blazing central brazier (fire), 5 m, left",
+     "Open court, paved, under the stars (area), 6 m, left",
+     "Open shrine of Tyche (wall), 7 m, left",
+     "Tyche, crowned, on her plinth (slab), 8 m, left",
+     "Court wall (wall), 9 m, left"
+    ],
+    "flame": [
+     "The blazing central brazier: ahead on the left, 5 m",
+     "Lamps hung along the colonnade: to the right, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 230,
+    "sees": [
+     "Open court, paved, under the stars (area), 7 m, left",
+     "Lamps hung along the colonnade (lamp), 8 m, centre",
+     "Court wall (wall), 10 m, left",
+     "Service door (door), 20 m, right",
+     "Court gate (gate), 21 m, right",
+     "Street (area), 21 m, right",
+     "Houses across the street (wall), 26 m, right"
+    ],
+    "flame": [
+     "The blazing central brazier: behind on the left, 5 m",
+     "Lamps hung along the colonnade: ahead, the view backlit, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "7",
+  "plan": 4,
+  "plan_title": "The court at dawn",
+  "heading": "EXT. KALLIAS'S COURT - DAWN",
+  "place": "kallias_court:ext",
+  "hour": "dawn",
+  "light": {
+   "kind": "dawn",
+   "from_deg": 5,
+   "label": "grey dawn over the shrine wall, a hot wind out of the east"
+  },
+  "pos": [
+   5.6,
+   -0.35
+  ],
+  "facing": 155,
+  "setup": "S17",
+  "keys": 11,
+  "used_by": [
+   "7"
+  ],
+  "id": "sc07_E_the_court_at_dawn",
+  "dir": "orbits/sc07/E_the_court_at_dawn",
+  "from": "sc07_D_kalliass_court_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 155,
+    "sees": [
+     "Musicians' mat (slab), 8 m, centre",
+     "Open court, paved, under the stars (area), 8 m, right",
+     "Peristyle, 26 columns (prop), 9 m, right",
+     "Court wall (wall), 11 m, right",
+     "Court gate (gate), 21 m, left",
+     "Street (area), 21 m, left",
+     "Beggar's corner (slab), 22 m, left",
+     "Houses across the street (wall), 26 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "The blazing central brazier: behind the camera, the view lit from the front, 5 m",
+     "Lamps hung along the colonnade: to the left, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 65,
+    "sees": [
+     "Low table (prop), 1 m, right",
+     "Open court, paved, under the stars (area), 7 m, right",
+     "Court wall (wall), 10 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "The blazing central brazier: ahead on the right, 5 m",
+     "Lamps hung along the colonnade: behind the camera, the view lit from the front, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 335,
+    "sees": [
+     "The blazing central brazier (fire), 5 m, left",
+     "Open court, paved, under the stars (area), 6 m, left",
+     "Open shrine of Tyche (wall), 7 m, centre",
+     "Tyche, crowned, on her plinth (slab), 8 m, left",
+     "Court wall (wall), 9 m, left"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "The blazing central brazier: ahead, the view backlit, 5 m",
+     "Lamps hung along the colonnade: to the right, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 245,
+    "sees": [
+     "Open court, paved, under the stars (area), 7 m, left",
+     "Lamps hung along the colonnade (lamp), 8 m, centre",
+     "Court wall (wall), 10 m, left",
+     "Service door (door), 20 m, right",
+     "Street (area), 22 m, right",
+     "Houses across the street (wall), 27 m, right"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "The blazing central brazier: behind on the left, 5 m",
+     "Lamps hung along the colonnade: ahead, the view backlit, 8 m",
+     "25 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "7",
+  "plan": 5,
+  "plan_title": "The court gate, another night",
+  "heading": "EXT. KALLIAS'S COURT - GATE - NIGHT",
+  "place": "kallias_court:ext",
+  "hour": "night",
+  "light": {
+   "kind": "lamp",
+   "label": "the company's lamps and the light from the open gate, the beggar's corner in shadow"
+  },
+  "pos": [
+   -18.5,
+   2.85
+  ],
+  "facing": 345,
+  "setup": "S20",
+  "keys": 9,
+  "used_by": [
+   "7",
+   "9"
+  ],
+  "id": "sc07_F_the_court_gate_another_night",
+  "dir": "orbits/sc07/F_the_court_gate_another_night",
+  "from": "sc07_D_kalliass_court_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 345,
+    "sees": [
+     "Beggar's corner (slab), 3 m, centre",
+     "Street (area), 3 m, centre",
+     "Court wall (wall), 4 m, left",
+     "Court gate (gate), 4 m, centre",
+     "Open court, paved, under the stars (area), 7 m, left",
+     "Service door (door), 15 m, right",
+     "Musicians' mat (slab), 17 m, left",
+     "Peristyle, 26 columns (prop), 19 m, left",
+     "Lamps hung along the colonnade (lamp), 22 m, centre",
+     "Low table (prop), 25 m, centre",
+     "The blazing central brazier (fire), 29 m, centre",
+     "Open shrine of Tyche (wall), 31 m, centre",
+     "Tyche, crowned, on her plinth (slab), 32 m, centre"
+    ],
+    "flame": [
+     "The blazing central brazier: ahead, the view backlit, 29 m",
+     "Lamps hung along the colonnade: ahead, the view backlit, 22 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 255,
+    "sees": [
+     "Street (area), 2 m, right",
+     "Houses across the street (wall), 3 m, right",
+     "Court wall (wall), 6 m, left",
+     "Open court, paved, under the stars (area), 11 m, left",
+     "Service door (door), 15 m, left"
+    ],
+    "flame": [
+     "The blazing central brazier: to the left, 29 m",
+     "Lamps hung along the colonnade: to the left, 22 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 165,
+    "sees": [
+     "Street (area), 2 m, left",
+     "Houses across the street (wall), 2 m, left"
+    ],
+    "flame": [
+     "The blazing central brazier: behind the camera, the view lit from the front, 29 m",
+     "Lamps hung along the colonnade: behind the camera, the view lit from the front, 22 m",
+     "25 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 75,
+    "sees": [
+     "Street (area), 4 m, right",
+     "Court wall (wall), 4 m, right",
+     "Houses across the street (wall), 4 m, left",
+     "Open court, paved, under the stars (area), 7 m, right"
+    ],
+    "flame": [
+     "The blazing central brazier: to the right, 29 m",
+     "Lamps hung along the colonnade: to the right, 22 m",
+     "25 more small lamps or fires around the place"
+    ]
+   }
+  }
+ }
+]

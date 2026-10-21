@@ -1,0 +1,407 @@
+{
+ "id": "eliab_house",
+ "title": "Eliab's house",
+ "scenes": [
+  "2",
+  "4",
+  "14",
+  "15"
+ ],
+ "grid": "+x east · +y north · metres · origin the lamp niche in the north gatepost (0, 0) · one frame for eliab_valley, eliab_farm and eliab_house",
+ "extent": [
+  -39,
+  -31,
+  -6,
+  2.5
+ ],
+ "anchors": {
+  "orbit_centre": [
+   -35.8,
+   -1.8
+  ],
+  "table": [
+   -35.8,
+   -1.8
+  ],
+  "house_door": [
+   -34.0,
+   -1.8
+  ],
+  "threshold": [
+   -34.0,
+   -1.8
+  ],
+  "front_wall": [
+   -35.8,
+   0.825
+  ],
+  "right_wall": [
+   -34.3,
+   -1.8
+  ],
+  "behind_wall": [
+   -35.8,
+   -4.425
+  ],
+  "left_wall": [
+   -37.3,
+   -1.8
+  ],
+  "hearth": [
+   -35.8,
+   0.25
+  ],
+  "cooking_pot": [
+   -35.6,
+   0.3
+  ],
+  "room_lamp_niche": [
+   -36.85,
+   0.8
+  ],
+  "water_jar": [
+   -34.75,
+   -0.6
+  ],
+  "sleeping_bench": [
+   -36.5,
+   -4.025
+  ],
+  "asher_mat": [
+   -34.83,
+   -3.525
+  ],
+  "asher_head": [
+   -34.83,
+   -4.15
+  ],
+  "sling_peg": [
+   -34.83,
+   -4.4
+  ],
+  "storage_jars": [
+   -36.95,
+   0.17
+  ],
+  "oil_jars": [
+   -37.0,
+   -0.8
+  ],
+  "hand_mill": [
+   -36.95,
+   -3.15
+  ],
+  "stool_north": [
+   -35.8,
+   -0.8
+  ],
+  "stool_south": [
+   -35.8,
+   -2.8
+  ],
+  "stool_west_1": [
+   -36.5,
+   -1.45
+  ],
+  "stool_west_2": [
+   -36.5,
+   -2.15
+  ],
+  "gate_lamp": [
+   0,
+   0
+  ]
+ },
+ "light": "The open doorway in the RIGHT (east) wall, the hearth at the FRONT (north) wall, clay lamps in the niche and on the table; the gate lamp small through the doorway.",
+ "notes": [
+  "The room follows the owner's map instruction (21 Oct): a strict rectangular shell 7 paces long by 4 wide at 0.75 m a pace, 5.25 m north to south by 3.0 m east to west inside fieldstone and mud-brick walls 0.6 m thick.",
+  "FRONT wall (north end): the low fire-blackened hearth ring with the clay cooking pot, and the arched lamp niche at shoulder height beside it.",
+  "RIGHT wall (east): the open timber doorway, 1.0 m, onto the dark yard and on the gate's axis; its olive-wood leaf hangs on the north jamb and folds back inside; the clay water jar stands beside it.",
+  "BEHIND wall (south end): the low mud-brick sleeping bench stacked with rolled sheepskins and folded wool blankets; Asher's mat lies beside it on the floor along the east wall, his head to the south wall under the peg with the sling.",
+  "LEFT wall (west): the tall sealed storage jars and the oil jars to the north, the stone hand mill on its reed mat with spilled flour to the south by the sleeping bench.",
+  "Centre: the low heavy olive-wood table (0.75 by 1.4 m) and four wooden stools; the table's middle is the room's exact middle, orbit_centre (-35.8, -1.8), the anchor for 360-degree orbits.",
+  "The gate lamp shows through the doorway from the table and from both west stools, which face the door; the north and south stools see the yard beside it.",
+  "From the fold gate the doorway frames the table's south half, the south stool and the west stools."
+ ],
+ "source": "staging/sc02/build_places.py (Scene 2, 21 Oct, the owner's map instruction)",
+ "place": [
+  {
+   "kind": "room",
+   "wall_m": 0.6,
+   "polygon": [
+    [
+     -37.6,
+     1.125
+    ],
+    [
+     -34.0,
+     1.125
+    ],
+    [
+     -34.0,
+     -4.725
+    ],
+    [
+     -37.6,
+     -4.725
+    ]
+   ]
+  },
+  {
+   "kind": "door",
+   "a": [
+    -34.0,
+    -1.3
+   ],
+   "b": [
+    -34.0,
+    -2.3
+   ],
+   "hinge": "a",
+   "leaf_to": [
+    -34.4,
+    -0.38
+   ],
+   "label": "Doorway (RIGHT)"
+  },
+  {
+   "kind": "slab",
+   "pos": [
+    -34.0,
+    -1.8
+   ],
+   "size": [
+    0.6,
+    1.0
+   ],
+   "shape": "rect"
+  },
+  {
+   "kind": "slab",
+   "pos": [
+    -35.8,
+    0.25
+   ],
+   "size": [
+    1.1,
+    0.9
+   ],
+   "shape": "ellipse",
+   "label": "Hearth (FRONT)"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -35.6,
+    0.3
+   ],
+   "size": [
+    0.35,
+    0.35
+   ],
+   "shape": "ellipse"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -36.85,
+    0.78
+   ],
+   "size": [
+    0.3,
+    0.1
+   ],
+   "shape": "rect",
+   "label": "Lamp niche"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -34.75,
+    -0.6
+   ],
+   "size": [
+    0.45,
+    0.45
+   ],
+   "shape": "ellipse",
+   "label": "Water jar"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -35.8,
+    -1.8
+   ],
+   "size": [
+    0.75,
+    1.4
+   ],
+   "shape": "rect",
+   "label": "Table · orbit centre"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -35.8,
+    -0.8
+   ],
+   "size": [
+    0.35,
+    0.35
+   ],
+   "shape": "rect"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -35.8,
+    -2.8
+   ],
+   "size": [
+    0.35,
+    0.35
+   ],
+   "shape": "rect",
+   "label": "Stools"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -36.5,
+    -1.45
+   ],
+   "size": [
+    0.35,
+    0.35
+   ],
+   "shape": "rect"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -36.5,
+    -2.15
+   ],
+   "size": [
+    0.35,
+    0.35
+   ],
+   "shape": "rect"
+  },
+  {
+   "kind": "slab",
+   "pos": [
+    -36.5,
+    -4.025
+   ],
+   "size": [
+    1.6,
+    0.8
+   ],
+   "shape": "rect",
+   "label": "Sleeping bench (BEHIND)"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -34.83,
+    -3.525
+   ],
+   "size": [
+    0.75,
+    1.8
+   ],
+   "shape": "rect",
+   "label": "Asher's mat"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -34.83,
+    -4.4
+   ],
+   "size": [
+    0.12,
+    0.12
+   ],
+   "shape": "rect",
+   "label": "Peg, sling"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -36.95,
+    0.45
+   ],
+   "size": [
+    0.55,
+    0.55
+   ],
+   "shape": "ellipse",
+   "label": "Storage jars (LEFT)"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -36.95,
+    -0.12
+   ],
+   "size": [
+    0.55,
+    0.55
+   ],
+   "shape": "ellipse"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -37.0,
+    -0.62
+   ],
+   "size": [
+    0.4,
+    0.4
+   ],
+   "shape": "ellipse",
+   "label": "Oil jars"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -37.0,
+    -1.0
+   ],
+   "size": [
+    0.38,
+    0.38
+   ],
+   "shape": "ellipse"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -36.9,
+    -3.15
+   ],
+   "size": [
+    0.8,
+    0.9
+   ],
+   "shape": "rect",
+   "label": "Hand mill"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    -36.95,
+    -3.15
+   ],
+   "size": [
+    0.5,
+    0.5
+   ],
+   "shape": "ellipse"
+  }
+ ]
+}

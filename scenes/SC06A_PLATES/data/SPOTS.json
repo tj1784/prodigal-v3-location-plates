@@ -1,0 +1,111 @@
+[
+ {
+  "scene": "6A",
+  "plan": 0,
+  "plan_title": "The village gate",
+  "heading": "EXT. VILLAGE GATE - MORNING, SOME DAYS LATER",
+  "place": "village_gate:ext",
+  "hour": "morning",
+  "light": {
+   "kind": "sun",
+   "from_deg": 330,
+   "label": "low morning sun through dust, about 18° up; the wall and arch shade the square"
+  },
+  "pos": [
+   -0.11,
+   0.39
+  ],
+  "facing": 289,
+  "setup": "S02",
+  "keys": 68,
+  "used_by": [
+   "6A"
+  ],
+  "id": "sc06a_A_the_village_gate",
+  "dir": "orbits/sc06a/A_the_village_gate",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 289,
+    "sees": [
+     "Stone arch (gate), 0 m, centre",
+     "Morning shade of wall and arch (area), 1 m, right",
+     "Nahum's cloth (prop), 1 m, right",
+     "building (building), 3 m, left",
+     "building (building), 4 m, centre",
+     "Door to the street (door), 4 m, left",
+     "Elders' bench (slab), 4 m, centre",
+     "Village wall, children on top (wall), 4 m, right",
+     "building (building), 4 m, right",
+     "building (building), 8 m, left",
+     "building (building), 9 m, left",
+     "building (building), 11 m, right",
+     "Village houses (building), 17 m, right"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 199,
+    "sees": [
+     "Morning shade of wall and arch (area), 2 m, left",
+     "building (building), 3 m, left",
+     "Stone arch (gate), 4 m, left",
+     "Village wall, children on top (wall), 4 m, left",
+     "building (building), 4 m, left",
+     "building (building), 10 m, left",
+     "Hill path up to Eliab's farm (track), 11 m, right",
+     "Old olive (tree), 12 m, centre",
+     "Long slope rising north-west (area), 14 m, right",
+     "Village houses (building), 17 m, left",
+     "tree (tree), 29 m, right",
+     "tree (tree), 51 m, right",
+     "tree (tree), 69 m, right"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 109,
+    "sees": [
+     "Morning shade of wall and arch (area), 7 m, left",
+     "Road east to Jericho (track), 11 m, left",
+     "Hill path up to Eliab's farm (track), 11 m, left",
+     "Fig (tree), 13 m, right",
+     "Long slope rising north-west (area), 13 m, left",
+     "tree (tree), 31 m, left",
+     "tree (tree), 51 m, left",
+     "tree (tree), 51 m, left",
+     "tree (tree), 67 m, left",
+     "tree (tree), 69 m, left"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 19,
+    "sees": [
+     "Morning shade of wall and arch (area), 0 m, right",
+     "building (building), 3 m, left",
+     "Stone arch (gate), 3 m, left",
+     "building (building), 4 m, centre",
+     "building (building), 9 m, right",
+     "building (building), 10 m, left",
+     "Fig (tree), 13 m, left",
+     "building (building), 16 m, left",
+     "Road east to Jericho (track), 20 m, left"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ }
+]

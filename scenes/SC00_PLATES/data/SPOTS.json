@@ -1,0 +1,121 @@
+[
+ {
+  "scene": "0",
+  "plan": 0,
+  "plan_title": "The road under the field wall",
+  "heading": "EXT. EDGE OF A FIELD ON THE ROAD WEST - NOON",
+  "place": "foreign_farm:ext",
+  "hour": "noon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 270,
+   "label": "white noon, sun high in the south"
+  },
+  "pos": [
+   8.75,
+   -0.25
+  ],
+  "facing": 265,
+  "setup": "S01",
+  "keys": 5,
+  "used_by": [
+   "0"
+  ],
+  "id": "sc00_A_the_road_under_the_field_wall",
+  "dir": "orbits/sc00/A_the_road_under_the_field_wall",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 265,
+    "sees": [
+     "Ditch (area), 0 m, left",
+     "The road west (track), 2 m, centre",
+     "Scree-and-thorn slope falling south (area), 4 m, centre",
+     "canopy (canopy), 15 m, centre",
+     "canopy (canopy), 19 m, right",
+     "canopy (canopy), 21 m, left",
+     "canopy (canopy), 28 m, right",
+     "canopy (canopy), 32 m, right",
+     "canopy (canopy), 33 m, right",
+     "canopy (canopy), 34 m, right",
+     "canopy (canopy), 37 m, left",
+     "canopy (canopy), 40 m, right",
+     "canopy (canopy), 40 m, right",
+     "canopy (canopy), 46 m, right"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 175,
+    "sees": [
+     "Ditch (area), 1 m, left",
+     "Last standing barley (area), 2 m, right",
+     "Field wall of piled stones (wall), 2 m, right",
+     "Stubble (area), 2 m, right",
+     "The road west (track), 4 m, left",
+     "Scree-and-thorn slope falling south (area), 6 m, left",
+     "Single tamarisk (canopy), 9 m, centre",
+     "canopy (canopy), 19 m, left",
+     "Green fold on its own spring (area), 27 m, right",
+     "Yard with hens (area), 32 m, right",
+     "canopy (canopy), 33 m, left",
+     "canopy (canopy), 34 m, left",
+     "canopy (canopy), 40 m, left",
+     "Well (prop), 43 m, right"
+    ],
+    "sun": "to the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 85,
+    "sees": [
+     "Ditch (area), 1 m, right",
+     "Field wall of piled stones (wall), 1 m, centre",
+     "Last standing barley (area), 2 m, left",
+     "Stubble (area), 2 m, centre",
+     "Farm track (track), 5 m, right",
+     "Green fold on its own spring (area), 22 m, centre",
+     "Yard with hens (area), 26 m, centre",
+     "Bread oven (prop), 37 m, centre",
+     "Long table under the vine (prop), 38 m, left",
+     "canopy (canopy), 38 m, left",
+     "House (building), 40 m, centre",
+     "Pantry (room), 40 m, centre",
+     "Pantry door and its bar (door), 40 m, centre",
+     "Clay god's niche (prop), 43 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 355,
+    "sees": [
+     "Ditch (area), 0 m, right",
+     "Field wall of piled stones (wall), 2 m, left",
+     "Last standing barley (area), 2 m, left",
+     "Field gap (gate), 3 m, left",
+     "Stubble (area), 3 m, left",
+     "The road west (track), 3 m, right",
+     "Farm track (track), 4 m, centre",
+     "Scree-and-thorn slope falling south (area), 5 m, right",
+     "canopy (canopy), 17 m, right",
+     "canopy (canopy), 26 m, right",
+     "Green fold on its own spring (area), 31 m, left",
+     "canopy (canopy), 42 m, right",
+     "Thorn scrub (area), 55 m, right"
+    ],
+    "sun": "to the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ }
+]

@@ -1,0 +1,154 @@
+[
+ {
+  "scene": "4A",
+  "plan": 0,
+  "plan_title": "The hillside at sunset",
+  "heading": "EXT. HILLSIDE ABOVE THE LAKE - SUNSET",
+  "place": "hillside:ext",
+  "hour": "sunset",
+  "light": {
+   "kind": "sun",
+   "from_deg": 140,
+   "label": "sunset, low and red over the far hills"
+  },
+  "pos": [
+   26.4,
+   2.4
+  ],
+  "facing": 18,
+  "setup": "S02",
+  "keys": 15,
+  "used_by": [
+   "4A"
+  ],
+  "id": "sc04a_A_the_hillside_at_sunset",
+  "dir": "orbits/sc04a/A_the_hillside_at_sunset",
+  "from": "sc01_A_the_hillside_above_the_lake",
+  "digest": {
+   "front": {
+    "heading_deg": 18,
+    "sees": [
+     "Loose stone, Sc 4A and 16 (prop), 1 m, centre",
+     "Low dry-stone fieldstone wall (wall), 1 m, centre",
+     "tree (tree), 7 m, left",
+     "tree (tree), 8 m, right",
+     "tree (tree), 10 m, right",
+     "tree (tree), 11 m, left",
+     "tree (tree), 13 m, centre",
+     "tree (tree), 15 m, right",
+     "tree (tree), 17 m, left",
+     "Lake · downhill (+y) (water), 30 m, left"
+    ],
+    "sun": "behind on the left"
+   },
+   "right": {
+    "heading_deg": 288,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 1 m, left",
+     "Open gate (gate), 1 m, left",
+     "tree (tree), 10 m, centre",
+     "tree (tree), 10 m, left",
+     "tree (tree), 15 m, left",
+     "tree (tree), 15 m, left",
+     "Olive's long shadow (area), 16 m, right"
+    ],
+    "sun": "behind on the right"
+   },
+   "behind": {
+    "heading_deg": 198,
+    "sees": [
+     "Olive's long shadow (area), 16 m, left",
+     "Low dry-stone fieldstone wall (wall), 23 m, right",
+     "Stones in the dust (prop), 26 m, centre",
+     "Limestone ledge (slab), 27 m, right",
+     "The old olive (canopy), 29 m, right"
+    ],
+    "sun": "ahead on the right"
+   },
+   "left": {
+    "heading_deg": 108,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 1 m, right",
+     "Lake · downhill (+y) (water), 29 m, right"
+    ],
+    "sun": "ahead on the left"
+   }
+  }
+ },
+ {
+  "scene": "4A",
+  "plan": 0,
+  "plan_title": "The hillside at sunset",
+  "heading": "EXT. HILLSIDE ABOVE THE LAKE - SUNSET",
+  "place": "hillside:ext",
+  "hour": "sunset",
+  "light": {
+   "kind": "sun",
+   "from_deg": 140,
+   "label": "sunset, low and red over the far hills"
+  },
+  "pos": [
+   0.3,
+   -0.95
+  ],
+  "facing": 10,
+  "setup": "S04",
+  "keys": 6,
+  "used_by": [
+   "4A"
+  ],
+  "id": "sc04a_B_the_hillside_at_sunset",
+  "dir": "orbits/sc04a/B_the_hillside_at_sunset",
+  "from": "sc01_B_the_hillside_above_the_lake",
+  "digest": {
+   "front": {
+    "heading_deg": 10,
+    "sees": [
+     "Stones in the dust (prop), 1 m, right",
+     "Olive's long shadow (area), 3 m, left",
+     "Low dry-stone fieldstone wall (wall), 19 m, left",
+     "Open gate (gate), 27 m, centre",
+     "Loose stone, Sc 4A and 16 (prop), 27 m, centre",
+     "tree (tree), 31 m, right",
+     "tree (tree), 32 m, centre",
+     "tree (tree), 34 m, centre",
+     "tree (tree), 35 m, centre",
+     "tree (tree), 35 m, right",
+     "tree (tree), 36 m, centre",
+     "Lake · downhill (+y) (water), 37 m, left",
+     "tree (tree), 39 m, right",
+     "tree (tree), 39 m, centre"
+    ],
+    "sun": "behind on the left"
+   },
+   "right": {
+    "heading_deg": 280,
+    "sees": [
+     "Olive's long shadow (area), 3 m, right",
+     "Low dry-stone fieldstone wall (wall), 9 m, right"
+    ],
+    "sun": "behind on the right"
+   },
+   "behind": {
+    "heading_deg": 190,
+    "sees": [
+     "Olive's long shadow (area), 3 m, left",
+     "The old olive (canopy), 4 m, right",
+     "Low dry-stone fieldstone wall (wall), 6 m, centre"
+    ],
+    "sun": "ahead on the right"
+   },
+   "left": {
+    "heading_deg": 100,
+    "sees": [
+     "Limestone ledge (slab), 1 m, centre",
+     "Olive's long shadow (area), 3 m, left",
+     "The old olive (canopy), 4 m, left",
+     "Low dry-stone fieldstone wall (wall), 7 m, left",
+     "Lake · downhill (+y) (water), 32 m, right"
+    ],
+    "sun": "ahead on the left"
+   }
+  }
+ }
+]

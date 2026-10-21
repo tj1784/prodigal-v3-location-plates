@@ -1,0 +1,231 @@
+{
+ "scene": "0",
+ "title": "The teaser",
+ "subtitle": "EXT. EDGE OF A FIELD ON THE ROAD WEST - NOON · ten seconds before Scene 1, a young man beaten in the dust under a field wall, smash cut to the hillside",
+ "plans": [
+  {
+   "title": "The road under the field wall",
+   "heading": "EXT. EDGE OF A FIELD ON THE ROAD WEST - NOON",
+   "place_ref": [
+    "foreign_farm"
+   ],
+   "extent": [
+    -3,
+    17,
+    -7.5,
+    9
+   ],
+   "grid": "+x east · +y north · origin the tamarisk trunk at the ditch by the field wall · metres",
+   "light": {
+    "kind": "sun",
+    "from_deg": 270,
+    "label": "white noon, sun high in the south"
+   },
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "named": true,
+     "pos": [
+      8.5,
+      -1.0
+     ],
+     "facing_deg": 62,
+     "note": "rags, sling round his fist"
+    },
+    {
+     "n": 2,
+     "name": "elder son",
+     "named": true,
+     "pos": [
+      9.25,
+      -2.0
+     ],
+     "facing_deg": 127,
+     "group": "mob",
+     "note": "25, sweat-dark Greek tunic"
+    },
+    {
+     "n": 3,
+     "name": "younger son",
+     "named": true,
+     "pos": [
+      7.8,
+      -2.05
+     ],
+     "facing_deg": 56,
+     "group": "mob",
+     "note": "19, kick after kick"
+    },
+    {
+     "n": 4,
+     "name": "hired man",
+     "named": true,
+     "pos": [
+      10.05,
+      -1.25
+     ],
+     "facing_deg": 171,
+     "group": "mob",
+     "note": "at the legs"
+    },
+    {
+     "n": 5,
+     "name": "second man",
+     "named": true,
+     "pos": [
+      7.05,
+      -1.3
+     ],
+     "facing_deg": 12,
+     "group": "mob",
+     "note": "at the arms"
+    },
+    {
+     "n": 6,
+     "name": "hired man",
+     "pos": [
+      8.45,
+      -0.35
+     ],
+     "facing_deg": 274,
+     "group": "mob",
+     "note": "crouched in the ditch over him"
+    },
+    {
+     "n": 7,
+     "name": "hired man",
+     "pos": [
+      8.75,
+      -3.0
+     ],
+     "facing_deg": 97,
+     "group": "mob",
+     "note": "behind the brothers"
+    }
+   ],
+   "paths": [
+    {
+     "who": 6,
+     "points": [
+      [
+       8.45,
+       -0.35
+      ],
+      [
+       7.45,
+       -0.6
+      ]
+     ],
+     "note": "lunges down at the young man's arms at 1.2 s, clearing the lens"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S01",
+     "what": "Close on the two brothers over the young man",
+     "pos": [
+      8.75,
+      -0.25
+     ],
+     "facing_deg": 265,
+     "height": "standing",
+     "wedge_m": 3
+    }
+   ],
+   "windows": [
+    {
+     "id": "W01",
+     "setup": "S01",
+     "frames": 243,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        8.4,
+        0.25
+       ],
+       "facing": 272,
+       "height": "standing",
+       "note": "pressed to the wall stones, the dark wool of a hired man's back fills the lens"
+      },
+      {
+       "t": 1.2,
+       "pos": [
+        8.45,
+        0.2
+       ],
+       "facing": 272,
+       "height": "standing",
+       "note": "he lunges down at the young man and white noon floods in"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        8.75,
+        -0.25
+       ],
+       "facing": 265,
+       "height": "standing",
+       "note": "close on the two brothers kicking, the young man curled in the dust between them"
+      },
+      {
+       "t": 7.4,
+       "pos": [
+        9.1,
+        -0.4
+       ],
+       "facing": 280,
+       "height": "standing",
+       "note": "the hired men crowding in, the burnt land falling away across the road"
+      },
+      {
+       "t": 9.9,
+       "pos": [
+        9.2,
+        -0.45
+       ],
+       "facing": 282,
+       "height": "standing",
+       "note": "the elder son's arm draws back high against the white sky"
+      }
+     ],
+     "out": {
+      "kind": "end"
+     },
+     "does": "Black with shouting and the thud of blows, then white noon, close on two brothers in good tunics beating a young man curled in the dust under the field wall as the hired men crowd in, ending on an arm drawn back high"
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The beating under the wall",
+     "extent": [
+      6.0,
+      11.4,
+      -3.6,
+      1.2
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "Scene 0 is the ten-second teaser before Scene 1; it plays the first moment of Scene 1A from standing height on the wall side, and 1A replays it closer, down in the dust.",
+  "Black is the dark wool of a hired man's back pressed over the lens; he lunges in at 1.2 s and the white noon floods the frame.",
+  "Everyone stands where Scene 1A plan 1 starts, on the shared foreign_farm grid with the tamarisk trunk at the origin.",
+  "The smash cut to the hillside lands on the elder son's arm at the top of its draw, the arm the design note asks for.",
+  "The younger son is 19 as the screenplay has him; the design note's twelve is older text.",
+  "Sun from 270 and high, the white noon of the heading; the wall's short shadow falls north onto the barley, so the road lies in full sun."
+ ]
+}

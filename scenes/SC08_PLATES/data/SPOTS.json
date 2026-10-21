@@ -1,0 +1,668 @@
+[
+ {
+  "scene": "8",
+  "plan": 0,
+  "plan_title": "The wheat on the floor",
+  "heading": "EXT. ELIAB'S FARM - MONTAGE OF SEASONS",
+  "place": "eliab_farm:ext",
+  "hour": "harvest afternoon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 215,
+   "label": "harvest afternoon, a hazy sun from the south-west, chaff hanging in it"
+  },
+  "pos": [
+   -18.6,
+   -29.8
+  ],
+  "facing": 36,
+  "setup": "S01",
+  "keys": 3,
+  "used_by": [
+   "8"
+  ],
+  "id": "sc08_A_the_wheat_on_the_floor",
+  "dir": "orbits/sc08/A_the_wheat_on_the_floor",
+  "from": "sc03_A_the_threshing_floor_at_evening",
+  "digest": {
+   "front": {
+    "heading_deg": 36,
+    "sees": [
+     "Wheat spread on the floor (area), 2 m, centre",
+     "Threshing floor (slab), 6 m, centre",
+     "Floor track (track), 10 m, centre",
+     "Footpath from the village (track), 12 m, right",
+     "Terrace edge (wall), 13 m, right",
+     "Yard (area), 14 m, left",
+     "Cistern (prop), 24 m, left",
+     "Trough (prop), 31 m, left",
+     "The one gate (gate), 32 m, left",
+     "The fold (area), 33 m, left",
+     "Fold gate, barred (gate), 33 m, left",
+     "Road east, down to the village gate (track), 34 m, left",
+     "Yard wall, about 1.7 m (wall), 36 m, left",
+     "Calf pen (wall), 36 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   },
+   "right": {
+    "heading_deg": 306,
+    "sees": [
+     "Terrace edge (wall), 4 m, right",
+     "Footpath from the village (track), 15 m, left",
+     "Road east, down to the village gate (track), 82 m, left"
+    ],
+    "sun": "to the right"
+   },
+   "behind": {
+    "heading_deg": 216,
+    "sees": [
+     "Path down to the far field (SW) (track), 3 m, left",
+     "Terrace edge (wall), 4 m, left",
+     "tree (tree), 36 m, right"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "left": {
+    "heading_deg": 126,
+    "sees": [
+     "Sheaves stacked (prop), 2 m, right",
+     "Yard (area), 14 m, right",
+     "Ovens (prop), 24 m, centre",
+     "Eaves (area), 28 m, centre",
+     "Eliab's house (eliab_house) (building), 29 m, centre",
+     "door (door), 32 m, centre",
+     "The fold (area), 33 m, right",
+     "Fold gate, barred (gate), 33 m, right",
+     "Yard wall, about 1.7 m (wall), 35 m, centre",
+     "tree (tree), 36 m, left",
+     "Calf pen (wall), 36 m, right",
+     "Ox byre (building), 40 m, right",
+     "tree (tree), 51 m, centre"
+    ],
+    "sun": "to the left"
+   }
+  }
+ },
+ {
+  "scene": "8",
+  "plan": 1,
+  "plan_title": "The rains and the winter",
+  "heading": "EXT. ELIAB'S FARM - MONTAGE OF SEASONS",
+  "place": "eliab_farm:ext",
+  "hour": "rain-dark dusks of autumn and winter",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 195,
+   "label": "rain-dark dusks of autumn and winter, the gate lamp lit at every dark"
+  },
+  "pos": [
+   -21.2,
+   5.35
+  ],
+  "facing": 329,
+  "setup": "S03",
+  "keys": 3,
+  "used_by": [
+   "8"
+  ],
+  "id": "sc08_B_the_rains_and_the_winter",
+  "dir": "orbits/sc08/B_the_rains_and_the_winter",
+  "from": "sc02_D_the_fold",
+  "digest": {
+   "front": {
+    "heading_deg": 329,
+    "sees": [
+     "Manger (prop), 1 m, right",
+     "The fold (area), 2 m, right",
+     "Barley basket (prop), 3 m, left",
+     "Fold gate, barred (gate), 4 m, centre",
+     "Calf pen (wall), 12 m, left",
+     "Ox byre (building), 13 m, left",
+     "Yard (area), 21 m, left",
+     "Cistern (prop), 21 m, right",
+     "Yard wall, about 1.7 m (wall), 21 m, left",
+     "The one gate (gate), 22 m, left",
+     "Stone bench (slab), 22 m, left",
+     "Road east, down to the village gate (track), 23 m, left",
+     "Trough (prop), 25 m, centre",
+     "Old fig (tree), 28 m, left"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 239,
+    "sees": [
+     "The fold (area), 2 m, left",
+     "Eaves (area), 12 m, right",
+     "Yard (area), 13 m, right",
+     "Yard wall, about 1.7 m (wall), 13 m, right",
+     "Eliab's house (eliab_house) (building), 13 m, right",
+     "door (door), 14 m, right",
+     "Ovens (prop), 17 m, centre",
+     "Threshing floor (slab), 33 m, left",
+     "Path down to the far field (SW) (track), 38 m, left",
+     "Terrace edge (wall), 39 m, left",
+     "tree (tree), 41 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 149,
+    "sees": [
+     "The fold (area), 4 m, left",
+     "Yard (area), 8 m, right",
+     "Yard wall, about 1.7 m (wall), 9 m, right",
+     "Eaves (area), 12 m, left",
+     "Eliab's house (eliab_house) (building), 13 m, left",
+     "tree (tree), 31 m, left"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 59,
+    "sees": [
+     "The fold (area), 8 m, left",
+     "Yard (area), 8 m, left",
+     "Yard wall, about 1.7 m (wall), 9 m, left",
+     "Calf pen (wall), 12 m, right",
+     "Ox byre (building), 13 m, right",
+     "Hill track to the pasture (track), 41 m, right"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "8",
+  "plan": 1,
+  "plan_title": "The rains and the winter",
+  "heading": "EXT. ELIAB'S FARM - MONTAGE OF SEASONS",
+  "place": "eliab_farm:ext",
+  "hour": "rain-dark dusks of autumn and winter",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 195,
+   "label": "rain-dark dusks of autumn and winter, the gate lamp lit at every dark"
+  },
+  "pos": [
+   1.45,
+   1.3
+  ],
+  "facing": 232,
+  "setup": "S02",
+  "keys": 6,
+  "used_by": [
+   "8"
+  ],
+  "id": "sc08_C_the_rains_and_the_winter",
+  "dir": "orbits/sc08/C_the_rains_and_the_winter",
+  "from": "sc05_B_the_gate_at_first_light",
+  "digest": {
+   "front": {
+    "heading_deg": 232,
+    "sees": [
+     "Yard wall, about 1.7 m (wall), 2 m, right",
+     "The one gate (gate), 2 m, centre",
+     "Yard (area), 2 m, right",
+     "Road east, down to the village gate (track), 3 m, left",
+     "Trough (prop), 7 m, left",
+     "Floor track (track), 13 m, left",
+     "Cistern (prop), 13 m, centre",
+     "Footpath from the village (track), 32 m, left",
+     "Threshing floor (slab), 32 m, centre",
+     "Ovens (prop), 34 m, right",
+     "Terrace edge (wall), 34 m, left",
+     "Eaves (area), 34 m, right",
+     "Eliab's house (eliab_house) (building), 35 m, right",
+     "door (door), 36 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 142,
+    "sees": [
+     "Stone bench (slab), 1 m, centre",
+     "Yard wall, about 1.7 m (wall), 1 m, left",
+     "Yard (area), 2 m, left",
+     "Calf pen (wall), 6 m, centre",
+     "Ox byre (building), 9 m, right",
+     "The fold (area), 13 m, left",
+     "Fold gate, barred (gate), 17 m, left",
+     "Barley basket (prop), 20 m, left",
+     "Manger (prop), 22 m, left",
+     "Eaves (area), 34 m, left",
+     "Eliab's house (eliab_house) (building), 35 m, left",
+     "door (door), 36 m, left",
+     "tree (tree), 54 m, left"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 52,
+    "sees": [
+     "Yard wall, about 1.7 m (wall), 7 m, left",
+     "Yard (area), 8 m, left",
+     "Old fig (tree), 8 m, centre",
+     "Hill track to the pasture (track), 11 m, right"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 322,
+    "sees": [
+     "Road east, down to the village gate (track), 3 m, right",
+     "Floor track (track), 8 m, centre",
+     "Hill track to the pasture (track), 9 m, centre",
+     "Footpath from the village (track), 33 m, right",
+     "Terrace edge (wall), 34 m, right"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "8",
+  "plan": 2,
+  "plan_title": "The square by the west gate",
+  "heading": "EXT. CITY SQUARE BY THE WEST GATE - DUSK, MONTHS LATER",
+  "place": "sc08:The square by the west gate",
+  "hour": "dusk",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 192,
+   "label": "the last sun level through the west gate, the square in the wall's shadow, the street lamps coming on"
+  },
+  "pos": [
+   21.6,
+   1.75
+  ],
+  "facing": 155,
+  "setup": "S07",
+  "keys": 31,
+  "used_by": [
+   "8"
+  ],
+  "id": "sc08_D_the_square_by_the_west_gate",
+  "dir": "orbits/sc08/D_the_square_by_the_west_gate",
+  "from": null,
+  "digest": {
+   "front": {
+    "heading_deg": 155,
+    "sees": [
+     "Last sun through the gate (area), 1 m, centre",
+     "The square inside the west gate (area), 10 m, right",
+     "building (building), 10 m, right",
+     "Side street (track), 10 m, right",
+     "Houses (building), 11 m, right",
+     "Cook-fire, its smoke pulled west (fire), 13 m, left",
+     "City wall (building), 22 m, left",
+     "building (building), 22 m, left",
+     "West gate, the road west (gate), 23 m, left"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "Street lamps, lit one by one: behind on the right, 8 m",
+     "Cook-fire, its smoke pulled west: ahead on the left, 13 m",
+     "5 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 65,
+    "sees": [
+     "Last sun through the gate (area), 1 m, right",
+     "The square inside the west gate (area), 3 m, right",
+     "building (building), 3 m, right",
+     "Side street (track), 11 m, left"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "Street lamps, lit one by one: ahead on the right, 8 m",
+     "Cook-fire, its smoke pulled west: behind on the left, 13 m",
+     "5 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 335,
+    "sees": [
+     "Last sun through the gate (area), 2 m, left",
+     "The street up into the city (track), 2 m, right",
+     "The square inside the west gate (area), 2 m, left",
+     "building (building), 4 m, left",
+     "Houses and shops (building), 5 m, right",
+     "Street lamps, lit one by one (lamp), 8 m, left"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "Street lamps, lit one by one: ahead on the left, 8 m",
+     "Cook-fire, its smoke pulled west: behind on the right, 13 m",
+     "5 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 245,
+    "sees": [
+     "Houses and shops (building), 5 m, left",
+     "The square inside the west gate (area), 5 m, left",
+     "Cook-fire, its smoke pulled west (fire), 13 m, right",
+     "Camels kneeling, bales roped (prop), 14 m, right",
+     "building (building), 22 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "Street lamps, lit one by one: behind on the left, 8 m",
+     "Cook-fire, its smoke pulled west: ahead on the right, 13 m",
+     "5 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "8",
+  "plan": 3,
+  "plan_title": "The calf pen",
+  "heading": "EXT. ELIAB'S FARM - CALF PEN - DAY",
+  "place": "eliab_farm:ext",
+  "hour": "day",
+  "light": {
+   "kind": "sun",
+   "from_deg": 330,
+   "label": "morning, the sun over the east wall, the calf's coat glossy in it"
+  },
+  "pos": [
+   -7.25,
+   6.3
+  ],
+  "facing": 308,
+  "setup": "S08",
+  "keys": 11,
+  "used_by": [
+   "8"
+  ],
+  "id": "sc08_E_the_calf_pen",
+  "dir": "orbits/sc08/E_the_calf_pen",
+  "from": "sc02_H_the_gate_late_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 308,
+    "sees": [
+     "Calf pen (wall), 1 m, right",
+     "Yard (area), 7 m, left",
+     "Yard wall, about 1.7 m (wall), 7 m, left",
+     "Stone bench (slab), 9 m, left",
+     "The one gate (gate), 10 m, centre",
+     "Road east, down to the village gate (track), 11 m, centre",
+     "Trough (prop), 14 m, centre",
+     "Cistern (prop), 16 m, right",
+     "Floor track (track), 18 m, left",
+     "Hill track to the pasture (track), 19 m, left",
+     "Threshing floor (slab), 33 m, right",
+     "Footpath from the village (track), 36 m, right",
+     "Terrace edge (wall), 39 m, right"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "right": {
+    "heading_deg": 218,
+    "sees": [
+     "Calf pen (wall), 1 m, left",
+     "The fold (area), 4 m, right",
+     "Fold gate, barred (gate), 9 m, right",
+     "Yard (area), 22 m, left",
+     "Eaves (area), 26 m, right",
+     "Yard wall, about 1.7 m (wall), 27 m, right",
+     "Eliab's house (eliab_house) (building), 27 m, right",
+     "Ovens (prop), 28 m, centre",
+     "door (door), 28 m, right",
+     "Floor track (track), 29 m, left",
+     "Threshing floor (slab), 33 m, left",
+     "Terrace edge (wall), 40 m, left",
+     "Path down to the far field (SW) (track), 41 m, left",
+     "tree (tree), 45 m, right"
+    ],
+    "sun": "behind on the left"
+   },
+   "behind": {
+    "heading_deg": 128,
+    "sees": [
+     "Calf pen (wall), 2 m, left",
+     "Ox byre (building), 3 m, right",
+     "The fold (area), 4 m, left",
+     "Yard (area), 7 m, right",
+     "Yard wall, about 1.7 m (wall), 8 m, right",
+     "tree (tree), 45 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   },
+   "left": {
+    "heading_deg": 38,
+    "sees": [
+     "Barley in the manger (prop), 3 m, left",
+     "Ox byre (building), 3 m, left",
+     "Calf pen (wall), 4 m, right",
+     "Yard (area), 7 m, right",
+     "Yard wall, about 1.7 m (wall), 7 m, right",
+     "Old fig (tree), 14 m, right",
+     "Hill track to the pasture (track), 20 m, right"
+    ],
+    "sun": "ahead on the right"
+   }
+  }
+ },
+ {
+  "scene": "8",
+  "plan": 4,
+  "plan_title": "The gate by day",
+  "heading": "EXT. ELIAB'S FARM - GATE - DAY",
+  "place": "eliab_farm:ext",
+  "hour": "day",
+  "light": {
+   "kind": "sun",
+   "from_deg": 210,
+   "label": "harvest afternoon, the sun over the yard wall, the trough in the wall's shade"
+  },
+  "pos": [
+   2.3,
+   -1.65
+  ],
+  "facing": 194,
+  "setup": "S11",
+  "keys": 18,
+  "used_by": [
+   "8"
+  ],
+  "id": "sc08_F_the_gate_by_day",
+  "dir": "orbits/sc08/F_the_gate_by_day",
+  "from": "sc05_A_the_gate_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 194,
+    "sees": [
+     "Road east, down to the village gate (track), 1 m, centre",
+     "Wall shade (area), 2 m, left",
+     "The one gate (gate), 2 m, centre",
+     "Yard (area), 3 m, right",
+     "Calf pen (wall), 11 m, right",
+     "Cistern (prop), 12 m, left",
+     "The fold (area), 14 m, right",
+     "Fold gate, barred (gate), 18 m, right",
+     "Floor track (track), 23 m, left",
+     "Yard wall, about 1.7 m (wall), 26 m, right",
+     "Threshing floor (slab), 30 m, left",
+     "Ovens (prop), 34 m, centre",
+     "Terrace edge (wall), 35 m, left",
+     "Eaves (area), 35 m, right"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "right": {
+    "heading_deg": 104,
+    "sees": [
+     "The one gate (gate), 3 m, left",
+     "Yard wall, about 1.7 m (wall), 3 m, left",
+     "Yard (area), 3 m, left",
+     "Stone bench (slab), 4 m, centre",
+     "Calf pen (wall), 9 m, left",
+     "Old fig (tree), 11 m, right",
+     "Ox byre (building), 12 m, centre",
+     "The fold (area), 15 m, left"
+    ],
+    "sun": "behind on the left"
+   },
+   "behind": {
+    "heading_deg": 14,
+    "sees": [
+     "Road east, down to the village gate (track), 2 m, right",
+     "Floor track (track), 6 m, right",
+     "Hill track to the pasture (track), 7 m, right",
+     "Footpath from the village (track), 52 m, right"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   },
+   "left": {
+    "heading_deg": 284,
+    "sees": [
+     "Road east, down to the village gate (track), 1 m, left",
+     "Wall shade (area), 1 m, centre",
+     "Trough (prop), 4 m, right",
+     "Yard (area), 5 m, right",
+     "Floor track (track), 6 m, left",
+     "Footpath from the village (track), 29 m, right",
+     "Threshing floor (slab), 30 m, right",
+     "Terrace edge (wall), 31 m, right",
+     "Path down to the far field (SW) (track), 38 m, right"
+    ],
+    "sun": "ahead on the right"
+   }
+  }
+ },
+ {
+  "scene": "8",
+  "plan": 6,
+  "plan_title": "The fold at night",
+  "heading": "EXT. ELIAB'S FARM - FOLD - NIGHT",
+  "place": "eliab_farm:ext",
+  "hour": "night",
+  "light": {
+   "kind": "lamp",
+   "label": "night, a clay lamp on the fold gatepost and the gate lamp across the yard, the village fires far below"
+  },
+  "pos": [
+   -14.55,
+   5.85
+  ],
+  "facing": 262,
+  "setup": "S16",
+  "keys": 27,
+  "used_by": [
+   "8"
+  ],
+  "id": "sc08_G_the_fold_at_night",
+  "dir": "orbits/sc08/G_the_fold_at_night",
+  "from": "sc02_H_the_gate_late_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 262,
+    "sees": [
+     "The fold (area), 2 m, centre",
+     "Amos's lamp on the fold gatepost (lamp), 2 m, centre",
+     "Fold gate, barred (gate), 2 m, centre",
+     "Cistern (prop), 17 m, left",
+     "Yard (area), 21 m, left",
+     "Eaves (area), 21 m, right",
+     "Ovens (prop), 22 m, right",
+     "Floor track (track), 26 m, left",
+     "Threshing floor (slab), 32 m, centre",
+     "Footpath from the village (track), 36 m, left",
+     "Path down to the far field (SW) (track), 39 m, centre",
+     "Terrace edge (wall), 39 m, centre",
+     "tree (tree), 46 m, right"
+    ],
+    "flame": [
+     "Amos's lamp on the fold gatepost: ahead, the view backlit, 2 m",
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 172,
+    "sees": [
+     "The fold (area), 3 m, left",
+     "Fold gate, barred (gate), 4 m, left",
+     "Yard (area), 9 m, right",
+     "Yard wall, about 1.7 m (wall), 10 m, right",
+     "Eaves (area), 19 m, left",
+     "Eliab's house (eliab_house) (building), 20 m, left",
+     "door (door), 21 m, left",
+     "Ovens (prop), 22 m, left",
+     "tree (tree), 38 m, centre",
+     "tree (tree), 46 m, left",
+     "Terrace edge (wall), 53 m, left"
+    ],
+    "flame": [
+     "Amos's lamp on the fold gatepost: to the left, 2 m",
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 82,
+    "sees": [
+     "The fold (area), 4 m, right",
+     "Ox byre (building), 7 m, right",
+     "Yard (area), 8 m, centre",
+     "Yard wall, about 1.7 m (wall), 8 m, centre",
+     "Hill track to the pasture (track), 66 m, right"
+    ],
+    "flame": [
+     "Amos's lamp on the fold gatepost: behind the camera, the view lit from the front, 2 m",
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 352,
+    "sees": [
+     "The fold (area), 3 m, right",
+     "Calf pen (wall), 6 m, left",
+     "Ox byre (building), 6 m, left",
+     "Yard (area), 11 m, left",
+     "Yard wall, about 1.7 m (wall), 12 m, left",
+     "The one gate (gate), 16 m, right",
+     "Stone bench (slab), 16 m, centre",
+     "Road east, down to the village gate (track), 17 m, right",
+     "Trough (prop), 19 m, right",
+     "Old fig (tree), 21 m, left",
+     "Floor track (track), 24 m, right",
+     "Hill track to the pasture (track), 25 m, right",
+     "Footpath from the village (track), 45 m, right"
+    ],
+    "flame": [
+     "Amos's lamp on the fold gatepost: to the right, 2 m",
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ }
+]

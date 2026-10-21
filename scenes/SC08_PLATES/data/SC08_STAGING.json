@@ -1,0 +1,3922 @@
+{
+ "scene": "8",
+ "title": "Home — the calf, the rumour",
+ "subtitle": "EXT. ELIAB'S FARM - MONTAGE OF SEASONS to EXT. ELIAB'S FARM - FOLD - NIGHT · the seasons at the lamp, the offer at the west gate, the calf kept, the rumour, the four goats, the kid in the fold",
+ "plans": [
+  {
+   "title": "The wheat on the floor",
+   "heading": "EXT. ELIAB'S FARM - MONTAGE OF SEASONS",
+   "place_ref": [
+    "eliab_farm"
+   ],
+   "extent": [
+    -24,
+    -5,
+    -35,
+    -20.5
+   ],
+   "light": {
+    "kind": "sun",
+    "from_deg": 215,
+    "label": "harvest afternoon, a hazy sun from the south-west, chaff hanging in it"
+   },
+   "place": [
+    {
+     "kind": "area",
+     "fill": "straw",
+     "label": "Wheat spread on the floor",
+     "label_at": [
+      -14.0,
+      -29.6
+     ],
+     "polygon": [
+      [
+       -10.6,
+       -26.5
+      ],
+      [
+       -11.249342219125179,
+       -24.501530142205592
+      ],
+      [
+       -12.949342219125178,
+       -23.26640784459648
+      ],
+      [
+       -15.050657780874822,
+       -23.26640784459648
+      ],
+      [
+       -16.75065778087482,
+       -24.501530142205592
+      ],
+      [
+       -17.4,
+       -26.5
+      ],
+      [
+       -16.75065778087482,
+       -28.498469857794408
+      ],
+      [
+       -15.050657780874822,
+       -29.73359215540352
+      ],
+      [
+       -12.94934221912518,
+       -29.73359215540352
+      ],
+      [
+       -11.249342219125179,
+       -28.498469857794408
+      ]
+     ]
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -19.0,
+      -28.3
+     ],
+     "size": [
+      1.7,
+      1.0
+     ],
+     "angle": 35,
+     "shape": "rect",
+     "label": "Sheaves stacked"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -22.2,
+      -33.2
+     ],
+     "label": "Sheaves up from the lower terraces"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Amos",
+     "pos": [
+      -13.0,
+      -26.0
+     ],
+     "facing_deg": 200,
+     "note": "at the flail, dressed like the hired men",
+     "named": true,
+     "group": "floor"
+    },
+    {
+     "n": 2,
+     "name": "hired man",
+     "pos": [
+      -15.4,
+      -24.9
+     ],
+     "facing_deg": 320,
+     "note": "at the flail",
+     "group": "floor"
+    },
+    {
+     "n": 3,
+     "name": "hired man",
+     "pos": [
+      -11.8,
+      -27.9
+     ],
+     "facing_deg": 140,
+     "note": "at the flail",
+     "group": "floor"
+    },
+    {
+     "n": 4,
+     "name": "hired man",
+     "pos": [
+      -16.3,
+      -29.3
+     ],
+     "facing_deg": 45,
+     "note": "turning the straw with a fork",
+     "group": "floor"
+    },
+    {
+     "n": 5,
+     "name": "hired man",
+     "pos": [
+      -20.6,
+      -32.2
+     ],
+     "facing_deg": 50,
+     "note": "a sheaf on his back"
+    },
+    {
+     "n": 6,
+     "name": "hired man",
+     "pos": [
+      -20.7,
+      -34.3
+     ],
+     "facing_deg": 70,
+     "note": "a sheaf on his back, up through the gap in the terrace wall"
+    }
+   ],
+   "paths": [
+    {
+     "who": 5,
+     "points": [
+      [
+       -20.6,
+       -32.2
+      ],
+      [
+       -19.9,
+       -30.4
+      ],
+      [
+       -19.3,
+       -29.1
+      ]
+     ],
+     "note": "carries his sheaf up to the stack at the floor's edge"
+    },
+    {
+     "who": 6,
+     "points": [
+      [
+       -20.7,
+       -34.3
+      ],
+      [
+       -20.4,
+       -32.6
+      ],
+      [
+       -19.8,
+       -30.9
+      ]
+     ],
+     "note": "comes up behind him with another sheaf"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S01",
+     "what": "Sheaves past the lens, Amos at the flail",
+     "pos": [
+      -18.6,
+      -29.8
+     ],
+     "facing_deg": 36,
+     "height": "knee",
+     "wedge_m": 6
+    }
+   ],
+   "windows": [
+    {
+     "id": "W01",
+     "setup": "S01",
+     "frames": 158,
+     "speaker": null,
+     "does": "Harvest afternoon at the threshing floor, sheaves of wheat carried up from the lower terraces and Amos threshing at the flail among the hired men",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -18.6,
+        -29.8
+       ],
+       "facing": 36,
+       "height": "knee",
+       "note": "low at the floor's edge as a man with a sheaf on his back crosses the lens"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        -17.4,
+        -28.8
+       ],
+       "facing": 34,
+       "height": "knee",
+       "note": "in behind him onto the floor, flails rising and falling in the chaff"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        -15.1,
+        -27.3
+       ],
+       "facing": 32,
+       "height": "standing",
+       "note": "up to Amos at the flail among the hired men, the back of his tunic dark with sweat"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ]
+  },
+  {
+   "title": "The rains and the winter",
+   "heading": "EXT. ELIAB'S FARM - MONTAGE OF SEASONS",
+   "place_ref": [
+    "eliab_farm"
+   ],
+   "extent": [
+    -26,
+    5,
+    -6,
+    15
+   ],
+   "light": {
+    "kind": "dusk",
+    "from_deg": 195,
+    "label": "rain-dark dusks of autumn and winter, the gate lamp lit at every dark"
+   },
+   "place": [
+    {
+     "kind": "lamp",
+     "pos": [
+      0,
+      0
+     ],
+     "glow_m": 2.0
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -20.5,
+      4.15
+     ],
+     "size": [
+      1.8,
+      0.5
+     ],
+     "shape": "rect",
+     "label": "Manger"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -18.55,
+      5.5
+     ],
+     "size": [
+      0.55,
+      0.55
+     ],
+     "shape": "ellipse",
+     "label": "Barley basket"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Amos",
+     "pos": [
+      -19.0,
+      5.05
+     ],
+     "facing_deg": 205,
+     "note": "in the fold in the rain, forking barley into the manger",
+     "named": true
+    },
+    {
+     "n": 2,
+     "name": "the ewe with the torn ear",
+     "pos": [
+      -20.4,
+      4.75
+     ],
+     "facing_deg": 270,
+     "note": "Asher's ewe, her head in the manger",
+     "animal": true
+    },
+    {
+     "n": 3,
+     "name": "flock",
+     "pos": [
+      -18.5,
+      9.4
+     ],
+     "facing_deg": 270,
+     "note": "the flock in the fold, wet",
+     "animal": true
+    },
+    {
+     "n": 4,
+     "name": "Eliab",
+     "pos": [
+      0.85,
+      -0.35
+     ],
+     "facing_deg": 140,
+     "note": "winter, lighting the lamp, his breath showing",
+     "named": true
+    },
+    {
+     "n": 5,
+     "name": "Asher's dog",
+     "pos": [
+      1.35,
+      -0.95
+     ],
+     "facing_deg": 345,
+     "note": "lies at his feet facing the road",
+     "animal": true
+    }
+   ],
+   "paths": [],
+   "cameras": [
+    {
+     "shot": "S02",
+     "what": "The lamp in its niche, the stone darkening",
+     "pos": [
+      1.45,
+      1.3
+     ],
+     "facing_deg": 232,
+     "height": "standing",
+     "wedge_m": 2.5
+    },
+    {
+     "shot": "S03",
+     "what": "The torn ear at the manger, Amos forking barley",
+     "pos": [
+      -21.2,
+      5.35
+     ],
+     "facing_deg": 329,
+     "height": "knee",
+     "wedge_m": 3.5
+    },
+    {
+     "shot": "S04",
+     "what": "Eliab's breath over the new flame",
+     "pos": [
+      1.15,
+      0.75
+     ],
+     "facing_deg": 242,
+     "height": "standing",
+     "wedge_m": 2.5
+    }
+   ],
+   "windows": [
+    {
+     "id": "W02",
+     "setup": "S02",
+     "frames": 141,
+     "speaker": null,
+     "does": "The first rain of autumn darkens the dry stone round the gate lamp, burning in its niche at dusk",
+     "reached": [],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1.8,
+        1.7
+       ],
+       "facing": 231,
+       "height": "standing",
+       "note": "close on the dry stone of the north gatepost as the first drops spot it"
+      },
+      {
+       "t": 2.8,
+       "pos": [
+        1.45,
+        1.3
+       ],
+       "facing": 232,
+       "height": "standing",
+       "note": "the lamp burning in its niche and the stone darkening round it"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        1.2,
+        0.95
+       ],
+       "facing": 232,
+       "height": "standing",
+       "note": "in toward the flame bending in the wet wind and holding"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    },
+    {
+     "id": "W03",
+     "setup": "S03",
+     "frames": 158,
+     "speaker": null,
+     "does": "Rain on the fold at dusk, and Amos forks extra barley into the manger for the ewe with the torn ear while the gate lamp burns far across the yard",
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -21.6,
+        5.7
+       ],
+       "facing": 322,
+       "height": "low",
+       "note": "low among the wet fleeces, the ewe with the torn ear at the manger, rain running off the torn ear"
+      },
+      {
+       "t": 3.0,
+       "pos": [
+        -21.2,
+        5.35
+       ],
+       "facing": 329,
+       "height": "knee",
+       "note": "the barley falling into the manger off Amos's fork"
+      },
+      {
+       "t": 6.2,
+       "pos": [
+        -20.9,
+        5.4
+       ],
+       "facing": 350,
+       "height": "standing",
+       "note": "rising to Amos's wet face as he forks it in, the gate lamp burning far across the yard"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    },
+    {
+     "id": "W04",
+     "setup": "S04",
+     "frames": 158,
+     "speaker": null,
+     "does": "Winter dusk at the gate, and Eliab's breath shows in the cold as he strikes a light and lights the lamp in its niche, the dog at his feet",
+     "reached": [
+      4,
+      5
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1.45,
+        1.3
+       ],
+       "facing": 232,
+       "height": "standing",
+       "note": "the same stones of the gatepost in winter, the niche dark and cold"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        1.3,
+        1.0
+       ],
+       "facing": 252,
+       "height": "standing",
+       "note": "his old hands at the niche striking the flint, his breath clouding"
+      },
+      {
+       "t": 5.8,
+       "pos": [
+        1.15,
+        0.75
+       ],
+       "facing": 242,
+       "height": "standing",
+       "note": "the new flame on his face and his breath clouding over it, the dog at his feet facing the road"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The gate lamp, autumn and winter",
+     "extent": [
+      -2.6,
+      4.2,
+      -2.2,
+      1.8
+     ]
+    },
+    {
+     "key": "B",
+     "title": "Barley for the ewe with the torn ear",
+     "extent": [
+      -22.5,
+      -17.5,
+      3.0,
+      6.7
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The square by the west gate",
+   "heading": "EXT. CITY SQUARE BY THE WEST GATE - DUSK, MONTHS LATER",
+   "extent": [
+    -4,
+    46,
+    -12,
+    13
+   ],
+   "grid": "+x east · +y north · metres · origin the inner mouth of the city's west gate · Kallias's court lies up the lamp street to the east",
+   "light": {
+    "kind": "dusk",
+    "from_deg": 192,
+    "label": "the last sun level through the west gate, the square in the wall's shadow, the street lamps coming on"
+   },
+   "place": [
+    {
+     "kind": "area",
+     "fill": "stone",
+     "polygon": [
+      [
+       0,
+       -10
+      ],
+      [
+       24,
+       -10
+      ],
+      [
+       24,
+       11
+      ],
+      [
+       0,
+       11
+      ]
+     ],
+     "label": "The square inside the west gate",
+     "label_at": [
+      3.4,
+      -8.6
+     ]
+    },
+    {
+     "kind": "area",
+     "fill": "straw",
+     "polygon": [
+      [
+       0,
+       -2.5
+      ],
+      [
+       24,
+       2.6
+      ],
+      [
+       24,
+       7.6
+      ],
+      [
+       0,
+       2.5
+      ]
+     ],
+     "label": "Last sun through the gate",
+     "label_at": [
+      6.0,
+      3.8
+     ]
+    },
+    {
+     "kind": "building",
+     "wall_m": 0.6,
+     "polygon": [
+      [
+       -2.6,
+       2.5
+      ],
+      [
+       0,
+       2.5
+      ],
+      [
+       0,
+       14
+      ],
+      [
+       -2.6,
+       14
+      ]
+     ],
+     "label": "City wall",
+     "label_at": [
+      -1.3,
+      9.0
+     ]
+    },
+    {
+     "kind": "building",
+     "wall_m": 0.6,
+     "polygon": [
+      [
+       -2.6,
+       -13
+      ],
+      [
+       0,
+       -13
+      ],
+      [
+       0,
+       -2.5
+      ],
+      [
+       -2.6,
+       -2.5
+      ]
+     ]
+    },
+    {
+     "kind": "gate",
+     "a": [
+      -1.3,
+      2.5
+     ],
+     "b": [
+      -1.3,
+      -2.5
+     ],
+     "post_m": 0.8,
+     "label": "West gate, the road west",
+     "label_at": [
+      -1.8,
+      -4.4
+     ]
+    },
+    {
+     "kind": "building",
+     "wall_m": 0.5,
+     "polygon": [
+      [
+       0,
+       11
+      ],
+      [
+       15,
+       11
+      ],
+      [
+       15,
+       14
+      ],
+      [
+       0,
+       14
+      ]
+     ],
+     "label": "Houses"
+    },
+    {
+     "kind": "building",
+     "wall_m": 0.5,
+     "polygon": [
+      [
+       19,
+       11
+      ],
+      [
+       24,
+       11
+      ],
+      [
+       24,
+       3
+      ],
+      [
+       46,
+       3
+      ],
+      [
+       46,
+       14
+      ],
+      [
+       19,
+       14
+      ]
+     ]
+    },
+    {
+     "kind": "building",
+     "wall_m": 0.5,
+     "polygon": [
+      [
+       0,
+       -10
+      ],
+      [
+       24,
+       -10
+      ],
+      [
+       24,
+       -3
+      ],
+      [
+       46,
+       -3
+      ],
+      [
+       46,
+       -13
+      ],
+      [
+       0,
+       -13
+      ]
+     ],
+     "label": "Houses and shops",
+     "label_at": [
+      35,
+      -8
+     ]
+    },
+    {
+     "kind": "track",
+     "width_m": 4,
+     "points": [
+      [
+       17,
+       10.6
+      ],
+      [
+       17,
+       14
+      ]
+     ],
+     "label": "Side street",
+     "label_at": [
+      13.6,
+      12.4
+     ]
+    },
+    {
+     "kind": "track",
+     "width_m": 6,
+     "points": [
+      [
+       23,
+       0
+      ],
+      [
+       34,
+       0
+      ],
+      [
+       46,
+       0
+      ]
+     ],
+     "label": "The street up into the city"
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      25.4,
+      -2.75
+     ],
+     "glow_m": 1.3
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      29.4,
+      2.75
+     ],
+     "glow_m": 1.3,
+     "label": "Street lamps, lit one by one"
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      33.4,
+      -2.75
+     ],
+     "glow_m": 1.3
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      37.4,
+      2.75
+     ],
+     "glow_m": 1.3
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      41.4,
+      -2.75
+     ],
+     "glow_m": 1.3
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      45.4,
+      2.75
+     ],
+     "glow_m": 1.3
+    },
+    {
+     "kind": "fire",
+     "pos": [
+      9.0,
+      -1.6
+     ],
+     "r": 0.35,
+     "glow_m": 1.8,
+     "label": "Cook-fire, its smoke pulled west",
+     "label_at": [
+      8.4,
+      0.6
+     ]
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      4.4,
+      -6.0
+     ],
+     "size": [
+      2.5,
+      1.0
+     ],
+     "angle": 15,
+     "shape": "ellipse"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      7.6,
+      -5.0
+     ],
+     "size": [
+      2.5,
+      1.0
+     ],
+     "angle": -10,
+     "shape": "ellipse"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      6.4,
+      -8.6
+     ],
+     "size": [
+      2.5,
+      1.0
+     ],
+     "angle": 5,
+     "shape": "ellipse"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      10.8,
+      -6.8
+     ],
+     "size": [
+      2.5,
+      1.0
+     ],
+     "angle": 20,
+     "shape": "ellipse",
+     "label": "Camels kneeling, bales roped",
+     "label_at": [
+      11.2,
+      -8.9
+     ]
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      13.6,
+      -4.6
+     ],
+     "size": [
+      2.5,
+      1.0
+     ],
+     "angle": -5,
+     "shape": "ellipse"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      14.6,
+      -8.4
+     ],
+     "size": [
+      2.5,
+      1.0
+     ],
+     "angle": 10,
+     "shape": "ellipse"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      17.4,
+      -6.2
+     ],
+     "size": [
+      2.5,
+      1.0
+     ],
+     "angle": -15,
+     "shape": "ellipse"
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      5.8,
+      -4.9
+     ],
+     "size": [
+      0.8,
+      0.6
+     ],
+     "shape": "rect"
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      9.4,
+      -5.6
+     ],
+     "size": [
+      0.8,
+      0.6
+     ],
+     "shape": "rect"
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      12.4,
+      -5.4
+     ],
+     "size": [
+      0.8,
+      0.6
+     ],
+     "shape": "rect"
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      16.0,
+      -7.4
+     ],
+     "size": [
+      0.8,
+      0.6
+     ],
+     "shape": "rect"
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      18.6,
+      -4.8
+     ],
+     "size": [
+      0.8,
+      0.6
+     ],
+     "shape": "rect"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      20.6,
+      2.4
+     ],
+     "label": "Asher stops, Jes on his arm, Philon beside him"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      17.0,
+      12.6
+     ],
+     "facing_deg": 277,
+     "note": "fresh garland, the purple hem gone dull with stains",
+     "named": true,
+     "group": "the three"
+    },
+    {
+     "n": 2,
+     "name": "Jes",
+     "pos": [
+      17.55,
+      12.75
+     ],
+     "facing_deg": 277,
+     "note": "on Asher's arm",
+     "named": true,
+     "group": "the three"
+    },
+    {
+     "n": 3,
+     "name": "Philon",
+     "pos": [
+      16.45,
+      12.2
+     ],
+     "facing_deg": 280,
+     "note": "fresh garland, loud",
+     "named": true,
+     "group": "the three"
+    },
+    {
+     "n": 4,
+     "name": "traveller",
+     "pos": [
+      19.9,
+      -0.2
+     ],
+     "facing_deg": 250,
+     "note": "from the village fire, roping a bale",
+     "named": true
+    },
+    {
+     "n": 5,
+     "name": "traveller's camel",
+     "pos": [
+      19.4,
+      -1.35
+     ],
+     "facing_deg": 180,
+     "note": "kneeling, half loaded",
+     "animal": true
+    },
+    {
+     "n": 6,
+     "name": "driver",
+     "pos": [
+      5.6,
+      -3.6
+     ],
+     "facing_deg": 300,
+     "note": "roping a bale",
+     "group": "caravan"
+    },
+    {
+     "n": 7,
+     "name": "driver",
+     "pos": [
+      11.6,
+      -3.9
+     ],
+     "facing_deg": 250,
+     "note": "lifting a bale onto a kneeling camel",
+     "group": "caravan"
+    },
+    {
+     "n": 8,
+     "name": "driver",
+     "pos": [
+      15.4,
+      -6.0
+     ],
+     "facing_deg": 160,
+     "note": "calling across the camels",
+     "group": "caravan"
+    },
+    {
+     "n": 9,
+     "name": "driver",
+     "pos": [
+      8.1,
+      -2.3
+     ],
+     "facing_deg": 37,
+     "note": "squatting at the cook-fire",
+     "group": "caravan"
+    },
+    {
+     "n": 10,
+     "name": "servant",
+     "pos": [
+      29.0,
+      2.0
+     ],
+     "facing_deg": 70,
+     "note": "on a short ladder, lighting a lamp"
+    },
+    {
+     "n": 11,
+     "name": "servant",
+     "pos": [
+      33.6,
+      -2.0
+     ],
+     "facing_deg": 0,
+     "note": "a lit taper, on up the street"
+    },
+    {
+     "n": 12,
+     "name": "woman",
+     "pos": [
+      2.6,
+      1.2
+     ],
+     "facing_deg": 25,
+     "note": "a water jar on her shoulder, in from the gate"
+    },
+    {
+     "n": 13,
+     "name": "boy",
+     "pos": [
+      13.2,
+      0.6
+     ],
+     "facing_deg": 250,
+     "note": "watching the camels"
+    }
+   ],
+   "paths": [
+    {
+     "who": 1,
+     "points": [
+      [
+       17.0,
+       12.6
+      ],
+      [
+       17.6,
+       8.0
+      ],
+      [
+       19.3,
+       4.7
+      ],
+      [
+       20.6,
+       2.4
+      ]
+     ],
+     "note": "down the side street and across the square, and stops at the edge of the caravan"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       20.6,
+       2.4
+      ],
+      [
+       23.8,
+       1.1
+      ],
+      [
+       30.0,
+       0.4
+      ],
+      [
+       38.0,
+       0.2
+      ],
+      [
+       44.5,
+       0.1
+      ]
+     ],
+     "note": "walks on toward the lamps up the street"
+    },
+    {
+     "who": 2,
+     "points": [
+      [
+       17.55,
+       12.75
+      ],
+      [
+       18.15,
+       8.15
+      ],
+      [
+       19.85,
+       4.95
+      ],
+      [
+       21.15,
+       2.85
+      ]
+     ],
+     "note": "on his arm"
+    },
+    {
+     "who": 2,
+     "points": [
+      [
+       21.15,
+       2.85
+      ],
+      [
+       24.2,
+       1.5
+      ],
+      [
+       30.2,
+       0.85
+      ],
+      [
+       38.0,
+       0.7
+      ],
+      [
+       44.5,
+       0.6
+      ]
+     ],
+     "note": "on his arm up the street"
+    },
+    {
+     "who": 3,
+     "points": [
+      [
+       16.45,
+       12.2
+      ],
+      [
+       17.05,
+       7.8
+      ],
+      [
+       18.6,
+       4.5
+      ],
+      [
+       19.75,
+       2.2
+      ]
+     ],
+     "note": "loud beside them"
+    },
+    {
+     "who": 3,
+     "points": [
+      [
+       19.75,
+       2.2
+      ],
+      [
+       23.4,
+       0.6
+      ],
+      [
+       29.8,
+       -0.1
+      ],
+      [
+       38.0,
+       -0.3
+      ],
+      [
+       44.5,
+       -0.4
+      ]
+     ],
+     "note": "throws an arm round Asher's neck as they go"
+    },
+    {
+     "who": 10,
+     "points": [
+      [
+       29.0,
+       2.0
+      ],
+      [
+       33.0,
+       -2.1
+      ],
+      [
+       37.0,
+       2.1
+      ],
+      [
+       41.0,
+       -2.1
+      ]
+     ],
+     "note": "lights the lamps one by one up the street"
+    },
+    {
+     "who": 11,
+     "points": [
+      [
+       33.6,
+       -2.0
+      ],
+      [
+       44.5,
+       -1.4
+      ]
+     ],
+     "note": "on up the street with the taper"
+    },
+    {
+     "who": 12,
+     "points": [
+      [
+       2.6,
+       1.2
+      ],
+      [
+       9.0,
+       4.2
+      ],
+      [
+       15.2,
+       9.0
+      ],
+      [
+       16.5,
+       12.4
+      ]
+     ],
+     "note": "carries her water jar in from the gate and up the side street"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S05",
+     "what": "A lamp lit up the street, the square below",
+     "pos": [
+      28.3,
+      0.5
+     ],
+     "facing_deg": 64,
+     "height": "standing",
+     "wedge_m": 5
+    },
+    {
+     "shot": "S06",
+     "what": "Over Asher's shoulder, the traveller knows him",
+     "pos": [
+      20.3,
+      3.45
+     ],
+     "facing_deg": 264,
+     "height": "standing",
+     "wedge_m": 4
+    },
+    {
+     "shot": "S07",
+     "what": "The purse weighed, the lamps up the street",
+     "pos": [
+      21.6,
+      1.75
+     ],
+     "facing_deg": 155,
+     "height": "seated",
+     "wedge_m": 2
+    }
+   ],
+   "windows": [
+    {
+     "id": "W05",
+     "setup": "S05",
+     "frames": 226,
+     "speaker": null,
+     "does": "Up the street servants light the city's lamps one by one, and the camera comes down into the square inside the west gate, where a caravan loads for an early start in the last sun and the hot east wind pulls the cook-fire smoke west",
+     "reached": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        28.3,
+        0.5
+       ],
+       "facing": 64,
+       "height": "standing",
+       "note": "a servant on a short ladder touching a taper to a lamp on its bracket, the lamps beyond still dark up the street"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        27.7,
+        0.35
+       ],
+       "facing": 180,
+       "height": "standing",
+       "note": "turning down the street to the square, the low sun in the open west gate at its far end"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        22.6,
+        0.2
+       ],
+       "facing": 200,
+       "height": "standing",
+       "note": "down into the square in the wall's shadow, camels kneeling, bales roped, drivers calling across them in three tongues, the cook-fire smoke streaming west across the gate's light"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W06",
+     "setup": "S06",
+     "frames": 260,
+     "speaker": "TRAVELLER",
+     "line": "Eliab's boy.",
+     "line_at": 8.6,
+     "does": "Asher crosses the square with Philon and Jes in fresh garlands, and at the edge of the caravan the traveller from the village fire looks at the garland and the stained purple hem and knows him",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        22.6,
+        0.2
+       ],
+       "facing": 200,
+       "height": "standing"
+      },
+      {
+       "t": 2.0,
+       "pos": [
+        22.5,
+        1.4
+       ],
+       "facing": 127,
+       "height": "standing",
+       "note": "turning from the caravan to Asher, Philon and Jes coming down from the side street in fresh garlands, Jes on Asher's arm, Philon loud"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        21.9,
+        3.0
+       ],
+       "facing": 142,
+       "height": "standing",
+       "note": "walking up to meet them, the purple hem dull with stains as they come into the last light from the gate"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        21.3,
+        3.75
+       ],
+       "facing": 227,
+       "height": "standing",
+       "note": "turning in behind them as they pass and come to the edge of the caravan"
+      },
+      {
+       "t": 8.0,
+       "pos": [
+        20.3,
+        3.45
+       ],
+       "facing": 264,
+       "height": "standing",
+       "note": "over Asher's shoulder onto the traveller straightening from the bale on his kneeling camel, his eyes on the garland and the purple hem"
+      },
+      {
+       "t": 10.4,
+       "pos": [
+        20.3,
+        3.3
+       ],
+       "facing": 263,
+       "height": "standing",
+       "note": "a half pace in toward the old man's face as he knows him, Asher stopped in the light"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W07",
+     "setup": null,
+     "frames": 141,
+     "speaker": "PHILON",
+     "line": "This is Eutychos, old man.",
+     "line_at": 1.4,
+     "does": "Philon laughs and gives the old man Asher's new name, and the old man's eyes stay on Asher",
+     "reached": [
+      1,
+      3,
+      4
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        20.3,
+        3.3
+       ],
+       "facing": 263,
+       "height": "standing"
+      },
+      {
+       "t": 1.2,
+       "pos": [
+        20.2,
+        3.2
+       ],
+       "facing": 260,
+       "height": "standing",
+       "note": "Philon laughing at the frame's edge as he throws the new name at the old man"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        19.95,
+        2.8
+       ],
+       "facing": 269,
+       "height": "standing",
+       "note": "a stride in between the two friends' shoulders, the old man's eyes staying on Asher"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        19.9,
+        2.75
+       ],
+       "facing": 270,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W08",
+     "setup": null,
+     "frames": 345,
+     "speaker": "TRAVELLER",
+     "line": "The east wind has not stopped in forty days. <pause> At first light I go west, by your father's valley. <pause> My camel will carry two.",
+     "line_at": 1.2,
+     "wps": 2.6,
+     "does": "The traveller tells Asher he goes west at first light by his father's valley and offers him the second seat on his camel",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        19.9,
+        2.75
+       ],
+       "facing": 270,
+       "height": "standing"
+      },
+      {
+       "t": 2.0,
+       "pos": [
+        20.05,
+        2.65
+       ],
+       "facing": 267,
+       "height": "standing",
+       "note": "close between the two friends' shoulders on the traveller's weathered face, the east wind's dust on him"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        20.0,
+        2.6
+       ],
+       "facing": 268,
+       "height": "standing",
+       "note": "his hand going toward the west gate and the last sun, the road home beyond it"
+      },
+      {
+       "t": 9.4,
+       "pos": [
+        21.1,
+        3.75
+       ],
+       "facing": 250,
+       "height": "standing",
+       "note": "easing back and round behind Jes as the old man lays a hand on his kneeling camel's neck and offers the second seat"
+      },
+      {
+       "t": 12.0,
+       "pos": [
+        22.1,
+        2.5
+       ],
+       "facing": 184,
+       "height": "standing",
+       "note": "round to the street side onto Asher as the offer lands"
+      },
+      {
+       "t": 13.8,
+       "pos": [
+        22.0,
+        1.6
+       ],
+       "facing": 150,
+       "height": "standing",
+       "note": "his face turning from the old man"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W09",
+     "setup": "S07",
+     "frames": 260,
+     "speaker": "ASHER",
+     "line": "Tell him the lamps here burn all night.",
+     "line_at": 6.2,
+     "does": "Asher's hand goes to his purse and weighs it, light, and he looks up the street at the lamps being lit and sends his father his word",
+     "reached": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        22.0,
+        1.6
+       ],
+       "facing": 150,
+       "height": "standing"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        21.6,
+        1.75
+       ],
+       "facing": 155,
+       "height": "seated",
+       "note": "dipping to his hand as it goes to the purse at his belt"
+      },
+      {
+       "t": 3.8,
+       "pos": [
+        21.55,
+        1.8
+       ],
+       "facing": 155,
+       "height": "seated",
+       "note": "the purse weighed in his palm, light"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        21.8,
+        1.55
+       ],
+       "facing": 145,
+       "height": "standing",
+       "note": "rising with his eyes as he looks up the street at the lamps being lit"
+      },
+      {
+       "t": 8.8,
+       "pos": [
+        21.9,
+        1.5
+       ],
+       "facing": 145,
+       "height": "standing",
+       "note": "the street's lamplight on his face as he gives his answer to the lamps"
+      },
+      {
+       "t": 10.2,
+       "pos": [
+        21.95,
+        1.45
+       ],
+       "facing": 145,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W10",
+     "setup": null,
+     "frames": 243,
+     "speaker": null,
+     "does": "Asher walks on toward the lamps with Jes on his arm and Philon's arm round his neck, and the traveller watches them go and pulls the rope tight",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10,
+      11
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        21.95,
+        1.45
+       ],
+       "facing": 145,
+       "height": "standing"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        22.4,
+        0.2
+       ],
+       "facing": 50,
+       "height": "standing",
+       "note": "stepping back as he walks on past toward the lamps, Jes on his arm"
+      },
+      {
+       "t": 4.2,
+       "pos": [
+        22.65,
+        0.05
+       ],
+       "facing": 11,
+       "height": "standing",
+       "note": "Philon throwing an arm round his neck as the three of them go up the lit street"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        22.55,
+        -0.05
+       ],
+       "facing": 2,
+       "height": "standing",
+       "note": "the three of them going small up the street under the lamps"
+      },
+      {
+       "t": 8.8,
+       "pos": [
+        21.8,
+        -0.25
+       ],
+       "facing": 178,
+       "height": "standing",
+       "note": "turning back to the traveller as he watches them go"
+      },
+      {
+       "t": 9.8,
+       "pos": [
+        21.5,
+        -0.35
+       ],
+       "facing": 201,
+       "height": "standing",
+       "note": "close on his hands pulling the rope tight on the bale"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The traveller and the purse",
+     "extent": [
+      17.4,
+      25.2,
+      -1.7,
+      4.2
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The calf pen",
+   "heading": "EXT. ELIAB'S FARM - CALF PEN - DAY",
+   "place_ref": [
+    "eliab_farm"
+   ],
+   "extent": [
+    -11,
+    2,
+    -2.5,
+    11.5
+   ],
+   "light": {
+    "kind": "sun",
+    "from_deg": 330,
+    "label": "morning, the sun over the east wall, the calf's coat glossy in it"
+   },
+   "place": [
+    {
+     "kind": "prop",
+     "pos": [
+      -6.2,
+      8.6
+     ],
+     "size": [
+      1.8,
+      0.45
+     ],
+     "shape": "rect",
+     "label": "Barley in the manger"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Eliab",
+     "pos": [
+      -6.6,
+      4.75
+     ],
+     "facing_deg": 88,
+     "note": "at the rail, his forearms on it",
+     "named": true
+    },
+    {
+     "n": 2,
+     "name": "Shallum",
+     "pos": [
+      -5.55,
+      4.8
+     ],
+     "facing_deg": 100,
+     "note": "the foreman, a basket of barley on his hip",
+     "named": true
+    },
+    {
+     "n": 3,
+     "name": "the red calf",
+     "pos": [
+      -6.3,
+      7.5
+     ],
+     "facing_deg": 95,
+     "note": "glossy coat, its muzzle in the barley",
+     "animal": true
+    }
+   ],
+   "paths": [],
+   "cameras": [
+    {
+     "shot": "S08",
+     "what": "The red calf, Eliab and Shallum at the rail",
+     "pos": [
+      -7.25,
+      6.3
+     ],
+     "facing_deg": 308,
+     "height": "standing",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S09",
+     "what": "Close across the rail on Eliab",
+     "pos": [
+      -6.95,
+      5.6
+     ],
+     "facing_deg": 292,
+     "height": "standing",
+     "wedge_m": 2
+    }
+   ],
+   "windows": [
+    {
+     "id": "W11",
+     "setup": "S08",
+     "frames": 226,
+     "speaker": "ELIAB",
+     "line": "Keep a calf on the barley. <pause> Always one.",
+     "line_at": 4.6,
+     "wps": 2.4,
+     "does": "A red calf with a glossy coat in its pen, and Eliab at the rail beside Shallum the foreman orders a calf kept always on the barley",
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -7.7,
+        7.2
+       ],
+       "facing": 12,
+       "height": "low",
+       "note": "low in the straw beside the red calf's glossy flank, its muzzle in the barley"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        -7.5,
+        6.7
+       ],
+       "facing": 309,
+       "height": "knee",
+       "note": "rising along its back to the rail, where Eliab and Shallum lean in the morning sun"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        -7.25,
+        6.3
+       ],
+       "facing": 308,
+       "height": "standing",
+       "note": "Eliab and Shallum at the rail across the calf's back"
+      },
+      {
+       "t": 8.6,
+       "pos": [
+        -7.0,
+        6.0
+       ],
+       "facing": 288,
+       "height": "standing",
+       "note": "Eliab's eyes on the calf as he says it, Shallum beside him"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W12",
+     "setup": null,
+     "frames": 124,
+     "speaker": "SHALLUM",
+     "line": "What feast, master?",
+     "line_at": 1.4,
+     "does": "Shallum asks what feast the calf is for",
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -7.0,
+        6.0
+       ],
+       "facing": 288,
+       "height": "standing"
+      },
+      {
+       "t": 1.2,
+       "pos": [
+        -6.55,
+        5.95
+       ],
+       "facing": 311,
+       "height": "standing",
+       "note": "a half pace along the calf's flank to Shallum's puzzled face"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        -6.5,
+        5.9
+       ],
+       "facing": 311,
+       "height": "standing"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        -6.6,
+        5.85
+       ],
+       "facing": 270,
+       "height": "standing",
+       "note": "back to Eliab"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W13",
+     "setup": "S09",
+     "frames": 158,
+     "speaker": "ELIAB",
+     "line": "The one I am keeping it for.",
+     "line_at": 1.8,
+     "wps": 2.4,
+     "does": "Eliab answers that he keeps it for one feast, and his eyes go to the open gate",
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -6.6,
+        5.85
+       ],
+       "facing": 270,
+       "height": "standing"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        -6.95,
+        5.6
+       ],
+       "facing": 292,
+       "height": "standing",
+       "note": "close across the rail on Eliab's face"
+      },
+      {
+       "t": 5.8,
+       "pos": [
+        -7.35,
+        5.8
+       ],
+       "facing": 314,
+       "height": "standing",
+       "note": "easing back as his eyes go past them both to the open gate and the road beyond"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ]
+  },
+  {
+   "title": "The gate by day",
+   "heading": "EXT. ELIAB'S FARM - GATE - DAY",
+   "place_ref": [
+    "eliab_farm"
+   ],
+   "extent": [
+    -8,
+    8,
+    -10,
+    4
+   ],
+   "light": {
+    "kind": "sun",
+    "from_deg": 210,
+    "label": "harvest afternoon, the sun over the yard wall, the trough in the wall's shade"
+   },
+   "place": [
+    {
+     "kind": "area",
+     "fill": "dark",
+     "polygon": [
+      [
+       0.35,
+       -16
+      ],
+      [
+       2.45,
+       -14.8
+      ],
+      [
+       2.45,
+       -2.85
+      ],
+      [
+       0.35,
+       -4.05
+      ]
+     ],
+     "label": "Wall shade",
+     "label_at": [
+      1.4,
+      -9.4
+     ]
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -0.35,
+      -2.3
+     ],
+     "label": "Eliab stops in the gateway"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "traveller",
+     "pos": [
+      1.7,
+      -4.0
+     ],
+     "facing_deg": 268,
+     "note": "waters his camel, talks with his hands",
+     "named": true
+    },
+    {
+     "n": 2,
+     "name": "traveller's camel",
+     "pos": [
+      2.7,
+      -5.3
+     ],
+     "facing_deg": 180,
+     "note": "drinking at the trough",
+     "animal": true
+    },
+    {
+     "n": 3,
+     "name": "hired man",
+     "pos": [
+      0.95,
+      -7.05
+     ],
+     "facing_deg": 75,
+     "note": "on the trough's rim",
+     "group": "trough"
+    },
+    {
+     "n": 4,
+     "name": "hired man",
+     "pos": [
+      2.1,
+      -7.55
+     ],
+     "facing_deg": 100,
+     "note": "a sickle at his belt",
+     "group": "trough"
+    },
+    {
+     "n": 5,
+     "name": "hired man",
+     "pos": [
+      3.4,
+      -6.9
+     ],
+     "facing_deg": 130,
+     "note": "leaning on a fork",
+     "group": "trough"
+    },
+    {
+     "n": 6,
+     "name": "donkey",
+     "pos": [
+      4.7,
+      -8.5
+     ],
+     "facing_deg": 160,
+     "note": "loaded with sheaves",
+     "animal": true
+    },
+    {
+     "n": 7,
+     "name": "Amos",
+     "pos": [
+      0.65,
+      2.2
+     ],
+     "facing_deg": 355,
+     "note": "on the stone bench, sharpening a sickle",
+     "named": true
+    },
+    {
+     "n": 8,
+     "name": "Eliab",
+     "pos": [
+      -7.0,
+      -1.6
+     ],
+     "facing_deg": 0,
+     "note": "comes from the yard to the gate",
+     "named": true
+    }
+   ],
+   "paths": [
+    {
+     "who": 8,
+     "points": [
+      [
+       -7.0,
+       -1.6
+      ],
+      [
+       -2.5,
+       -2.0
+      ],
+      [
+       -0.35,
+       -2.3
+      ]
+     ],
+     "note": "comes across the yard and stops in the gateway behind the talkers"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S10",
+     "what": "The camel at the trough, the traveller talking",
+     "pos": [
+      3.6,
+      -4.3
+     ],
+     "facing_deg": 204,
+     "height": "low",
+     "wedge_m": 4
+    },
+    {
+     "shot": "S11",
+     "what": "Eliab in the gateway, his eyes on the road",
+     "pos": [
+      2.3,
+      -1.65
+     ],
+     "facing_deg": 194,
+     "height": "standing",
+     "wedge_m": 3
+    }
+   ],
+   "windows": [
+    {
+     "id": "W14",
+     "setup": "S10",
+     "frames": 362,
+     "speaker": "TRAVELLER",
+     "line": "Eliab's boy? <pause> I saw him in the city on the plain. <pause> Spends like a lord. A woman on each arm. <pause> Purple at the hem.",
+     "line_at": 2.6,
+     "does": "The traveller waters his camel at the trough and tells the hired men what he saw in the city, and Amos on the bench within earshot hears it",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        3.6,
+        -4.3
+       ],
+       "facing": 204,
+       "height": "low",
+       "note": "low under the camel's neck, its muzzle in the trough and the hired men in the wall's shade beyond"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        3.7,
+        -3.9
+       ],
+       "facing": 205,
+       "height": "knee",
+       "note": "rising past the camel's hump to the traveller talking with his hands to the hired men"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        3.9,
+        -3.4
+       ],
+       "facing": 200,
+       "height": "standing",
+       "note": "the hired men laughing at the city talk in the wall's shade"
+      },
+      {
+       "t": 9.6,
+       "pos": [
+        3.2,
+        -2.2
+       ],
+       "facing": 150,
+       "height": "standing",
+       "note": "drifting with the talk along the road past the gateway toward the stone bench"
+      },
+      {
+       "t": 12.8,
+       "pos": [
+        2.4,
+        -0.3
+       ],
+       "facing": 125,
+       "height": "standing",
+       "note": "across to Amos on the bench as the words reach him, the whetstone stopping on the blade"
+      },
+      {
+       "t": 14.6,
+       "pos": [
+        2.0,
+        0.45
+       ],
+       "facing": 128,
+       "height": "standing",
+       "note": "in toward his face"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W15",
+     "setup": null,
+     "frames": 175,
+     "speaker": null,
+     "does": "Amos's face closes, Eliab has come to the gate behind the talkers, the talk stops and the traveller wipes his mouth",
+     "reached": [
+      1,
+      3,
+      4,
+      7,
+      8
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        2.0,
+        0.45
+       ],
+       "facing": 128,
+       "height": "standing"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        1.85,
+        0.65
+       ],
+       "facing": 128,
+       "height": "standing",
+       "note": "Amos's face closing over the stilled blade"
+      },
+      {
+       "t": 4.2,
+       "pos": [
+        1.95,
+        0.2
+       ],
+       "facing": 227,
+       "height": "standing",
+       "note": "turning off his face to the gateway, where Eliab has come behind the talkers into the sunlit opening"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        2.5,
+        -0.7
+       ],
+       "facing": 233,
+       "height": "standing",
+       "note": "the talk stopping as the men see him, and the traveller turning and wiping his mouth"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W16",
+     "setup": null,
+     "frames": 175,
+     "speaker": "TRAVELLER",
+     "line": "He sends you word, master. <pause> The lamps there burn all night.",
+     "line_at": 1.6,
+     "does": "The traveller gives Eliab his son's word",
+     "reached": [
+      1,
+      8
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        2.5,
+        -0.7
+       ],
+       "facing": 233,
+       "height": "standing"
+      },
+      {
+       "t": 1.8,
+       "pos": [
+        2.75,
+        -1.9
+       ],
+       "facing": 211,
+       "height": "standing",
+       "note": "a pace down the wall to the traveller turned to Eliab, the back of his hand at his mouth"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        2.85,
+        -2.2
+       ],
+       "facing": 182,
+       "height": "standing",
+       "note": "Eliab in the gateway taking the word, his face still"
+      },
+      {
+       "t": 6.8,
+       "pos": [
+        2.9,
+        -2.25
+       ],
+       "facing": 181,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W17",
+     "setup": "S11",
+     "frames": 192,
+     "speaker": "ELIAB",
+     "line": "Give him bread before he goes on.",
+     "line_at": 3.8,
+     "wps": 2.4,
+     "does": "Eliab looks down the road and orders bread for the traveller before he goes on",
+     "reached": [
+      1,
+      3,
+      8
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        2.9,
+        -2.25
+       ],
+       "facing": 181,
+       "height": "standing"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        2.3,
+        -1.65
+       ],
+       "facing": 194,
+       "height": "standing",
+       "note": "in toward Eliab's face as he looks past them all down the road"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        2.1,
+        -1.6
+       ],
+       "facing": 196,
+       "height": "standing",
+       "note": "his eyes coming back from the road to the hired men as he gives the order"
+      },
+      {
+       "t": 7.4,
+       "pos": [
+        2.05,
+        -1.6
+       ],
+       "facing": 196,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ]
+  },
+  {
+   "title": "The gate at dusk",
+   "heading": "EXT. ELIAB'S FARM - GATE - DUSK",
+   "place_ref": [
+    "eliab_farm"
+   ],
+   "extent": [
+    -19,
+    9,
+    -8,
+    7
+   ],
+   "light": {
+    "kind": "dusk",
+    "from_deg": 195,
+    "label": "the last sun over the house roof, then the new lamp at the gatepost"
+   },
+   "place": [
+    {
+     "kind": "lamp",
+     "pos": [
+      0,
+      0
+     ],
+     "glow_m": 1.8
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Eliab",
+     "pos": [
+      0.85,
+      -0.5
+     ],
+     "facing_deg": 340,
+     "note": "lights the lamp, then keeps his eyes on the road",
+     "named": true
+    },
+    {
+     "n": 2,
+     "name": "Asher's dog",
+     "pos": [
+      1.55,
+      -1.0
+     ],
+     "facing_deg": 340,
+     "note": "lies facing the road",
+     "animal": true
+    },
+    {
+     "n": 3,
+     "name": "Amos",
+     "pos": [
+      -0.8,
+      -2.0
+     ],
+     "facing_deg": 42,
+     "note": "stands behind them in the gateway",
+     "named": true
+    }
+   ],
+   "paths": [
+    {
+     "who": 3,
+     "points": [
+      [
+       -0.8,
+       -2.0
+      ],
+      [
+       -6.0,
+       -0.6
+      ],
+      [
+       -12.0,
+       1.6
+      ],
+      [
+       -15.6,
+       2.9
+      ]
+     ],
+     "note": "walks away across the yard toward the fold"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S12",
+     "what": "The dog facing the road, Eliab at the lamp",
+     "pos": [
+      5.8,
+      -3.5
+     ],
+     "facing_deg": 149,
+     "height": "knee",
+     "wedge_m": 6
+    },
+    {
+     "shot": "S13",
+     "what": "At Amos's shoulder, his father's back and the road",
+     "pos": [
+      -0.65,
+      -2.75
+     ],
+     "facing_deg": 30,
+     "height": "standing",
+     "wedge_m": 6
+    },
+    {
+     "shot": "S14",
+     "what": "Between them, Amos's face in the lamplight",
+     "pos": [
+      0.4,
+      -1.9
+     ],
+     "facing_deg": 185,
+     "height": "standing",
+     "wedge_m": 2
+    }
+   ],
+   "windows": [
+    {
+     "id": "W18",
+     "setup": "S12",
+     "frames": 226,
+     "speaker": null,
+     "does": "Eliab lights the gate lamp at dusk, the dog lies facing the road and Amos stands behind them in the gateway",
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        5.8,
+        -3.5
+       ],
+       "facing": 149,
+       "height": "knee",
+       "note": "low on the road below the gate in the last light, the dog lying in the dust facing the road and Eliab at the gatepost beyond"
+      },
+      {
+       "t": 3.4,
+       "pos": [
+        3.9,
+        -2.6
+       ],
+       "facing": 143,
+       "height": "standing",
+       "note": "rising as he strikes the flint at the niche and the wick catches"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        2.5,
+        -2.1
+       ],
+       "facing": 145,
+       "height": "standing",
+       "note": "his old hand cupping the new flame, Amos standing behind them in the gateway"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        1.95,
+        -2.4
+       ],
+       "facing": 148,
+       "height": "standing",
+       "note": "Eliab turning from the lamp to the road, his son behind him"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W19",
+     "setup": null,
+     "frames": 158,
+     "speaker": "AMOS",
+     "line": "Your son is not coming back.",
+     "line_at": 1.8,
+     "wps": 2.6,
+     "does": "Amos tells his father his son is gone for good, and Eliab keeps his eyes on the road",
+     "reached": [
+      1,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1.95,
+        -2.4
+       ],
+       "facing": 148,
+       "height": "standing"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        1.6,
+        -2.6
+       ],
+       "facing": 166,
+       "height": "standing",
+       "note": "easing toward Amos as he speaks to his father's back"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        1.95,
+        -2.25
+       ],
+       "facing": 122,
+       "height": "standing",
+       "note": "back out across to Eliab keeping his eyes on the road, the new flame at his shoulder"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        2.05,
+        -2.2
+       ],
+       "facing": 125,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W20",
+     "setup": null,
+     "frames": 175,
+     "speaker": "AMOS",
+     "line": "It is written, <pause> the elder shall serve the younger.",
+     "line_at": 1.4,
+     "wps": 2.4,
+     "does": "Amos quotes the Scripture at his father's back",
+     "reached": [
+      1,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        2.05,
+        -2.2
+       ],
+       "facing": 125,
+       "height": "standing"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        1.6,
+        -2.5
+       ],
+       "facing": 168,
+       "height": "standing",
+       "note": "back to Amos as he quotes the Scripture, low and hard"
+      },
+      {
+       "t": 4.2,
+       "pos": [
+        0.65,
+        -2.75
+       ],
+       "facing": 153,
+       "height": "standing",
+       "note": "a slow step toward him into the gateway"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        -0.4,
+        -2.85
+       ],
+       "facing": 62,
+       "height": "standing",
+       "note": "past his shoulder into the gateway, his father's back and the new lamp beyond"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W21",
+     "setup": "S13",
+     "frames": 294,
+     "speaker": "ELIAB",
+     "line": "Read on, son. <pause> When Jacob came home, Esau ran to meet him, <inhale> and fell upon his neck, and kissed him.",
+     "line_at": 1.6,
+     "wps": 2.4,
+     "does": "Eliab answers with Jacob's homecoming, his back to his son and his eyes on the road",
+     "reached": [
+      1,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.4,
+        -2.85
+       ],
+       "facing": 62,
+       "height": "standing"
+      },
+      {
+       "t": 2.0,
+       "pos": [
+        -0.65,
+        -2.75
+       ],
+       "facing": 30,
+       "height": "standing",
+       "note": "settling at Amos's shoulder, his father's back at the lamp and the long road going down into the dusk beyond"
+      },
+      {
+       "t": 6.4,
+       "pos": [
+        -0.35,
+        -2.7
+       ],
+       "facing": 28,
+       "height": "standing",
+       "note": "a slow half pace out toward the road with the words"
+      },
+      {
+       "t": 10.6,
+       "pos": [
+        0.0,
+        -2.65
+       ],
+       "facing": 30,
+       "height": "standing",
+       "note": "down the empty road past the father's shoulder, the way a son would come home"
+      },
+      {
+       "t": 11.8,
+       "pos": [
+        0.05,
+        -2.65
+       ],
+       "facing": 30,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W22",
+     "setup": "S14",
+     "frames": 141,
+     "speaker": "AMOS",
+     "line": "You never once let me sleep.",
+     "line_at": 1.8,
+     "wps": 2.4,
+     "does": "Amos tells his father he was woken every morning of his boyhood",
+     "reached": [
+      1,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.05,
+        -2.65
+       ],
+       "facing": 30,
+       "height": "standing"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        0.4,
+        -1.9
+       ],
+       "facing": 185,
+       "height": "standing",
+       "note": "turning round into the space between them onto Amos's face, the new lamp on it and the last light behind him"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        0.35,
+        -1.85
+       ],
+       "facing": 187,
+       "height": "standing"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        0.3,
+        -1.8
+       ],
+       "facing": 190,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W23",
+     "setup": null,
+     "frames": 226,
+     "speaker": "ELIAB",
+     "line": "When you were small, there was no one else to wake. <pause> Then there was.",
+     "line_at": 1.6,
+     "wps": 2.4,
+     "does": "Eliab owns the lean years plainly, his eyes on the road",
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.3,
+        -1.8
+       ],
+       "facing": 190,
+       "height": "standing"
+      },
+      {
+       "t": 1.2,
+       "pos": [
+        0.55,
+        -1.95
+       ],
+       "facing": 78,
+       "height": "standing",
+       "note": "turning from the son to the father's shoulder as he answers"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        1.9,
+        -1.75
+       ],
+       "facing": 130,
+       "height": "standing",
+       "note": "out past the dog onto the road and round to his face, lit by the lamp, his eyes on the road"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        2.0,
+        -1.6
+       ],
+       "facing": 136,
+       "height": "standing"
+      },
+      {
+       "t": 8.6,
+       "pos": [
+        2.05,
+        -1.55
+       ],
+       "facing": 139,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W24",
+     "setup": null,
+     "frames": 226,
+     "speaker": "AMOS",
+     "line": "I asked you once. <pause> For a kid, for my friends. <pause> I was ten.",
+     "line_at": 2.0,
+     "wps": 2.4,
+     "does": "Amos tells his father he asked once, at ten, for a kid for his friends",
+     "reached": [
+      1,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        2.05,
+        -1.55
+       ],
+       "facing": 139,
+       "height": "standing"
+      },
+      {
+       "t": 2.0,
+       "pos": [
+        2.5,
+        -2.2
+       ],
+       "facing": 159,
+       "height": "standing",
+       "note": "back off the father's shoulder to hold the two of them, Amos's face beyond"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        2.9,
+        -2.6
+       ],
+       "facing": 155,
+       "height": "standing",
+       "note": "drawing slowly back down the road as the old wound comes out of him"
+      },
+      {
+       "t": 8.8,
+       "pos": [
+        3.2,
+        -2.85
+       ],
+       "facing": 153,
+       "height": "standing",
+       "note": "the boy of ten in the grown man's face, his father still turned to the road"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W25",
+     "setup": null,
+     "frames": 158,
+     "speaker": "ELIAB",
+     "line": "We had four goats, and a winter coming.",
+     "line_at": 1.8,
+     "wps": 2.4,
+     "does": "Eliab answers with the hungry year, four goats and a winter coming",
+     "reached": [
+      1,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        3.2,
+        -2.85
+       ],
+       "facing": 153,
+       "height": "standing"
+      },
+      {
+       "t": 1.8,
+       "pos": [
+        2.75,
+        -2.6
+       ],
+       "facing": 132,
+       "height": "standing",
+       "note": "a stride in toward the father's face as he answers plainly, his eyes on the road"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        2.6,
+        -2.5
+       ],
+       "facing": 131,
+       "height": "standing"
+      },
+      {
+       "t": 6.2,
+       "pos": [
+        2.58,
+        -2.48
+       ],
+       "facing": 131,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W26",
+     "setup": null,
+     "frames": 192,
+     "speaker": "AMOS",
+     "line": "I never asked again.",
+     "line_at": 1.2,
+     "wps": 2.4,
+     "does": "Amos says that once was the last time he asked, and when Eliab turns from the road his son is already walking away toward the fold",
+     "reached": [
+      1,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        2.58,
+        -2.48
+       ],
+       "facing": 131,
+       "height": "standing"
+      },
+      {
+       "t": 1.0,
+       "pos": [
+        2.6,
+        -2.55
+       ],
+       "facing": 153,
+       "height": "standing",
+       "note": "the two of them at the lamp as Amos speaks to his father's back"
+      },
+      {
+       "t": 3.8,
+       "pos": [
+        2.75,
+        -2.7
+       ],
+       "facing": 150,
+       "height": "standing",
+       "note": "drawing back as the father turns at last from the road"
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        3.0,
+        -2.85
+       ],
+       "facing": 160,
+       "height": "standing",
+       "note": "Amos already walking away across the yard toward the fold, his father at the lamp"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        3.2,
+        -2.95
+       ],
+       "facing": 163,
+       "height": "standing",
+       "note": "the son going small in the dusk yard"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The father at the lamp, the son behind him",
+     "extent": [
+      -1.3,
+      3.7,
+      -3.4,
+      0.6
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The fold at night",
+   "heading": "EXT. ELIAB'S FARM - FOLD - NIGHT",
+   "place_ref": [
+    "eliab_farm"
+   ],
+   "extent": [
+    -26,
+    22,
+    -14,
+    15
+   ],
+   "light": {
+    "kind": "lamp",
+    "label": "night, a clay lamp on the fold gatepost and the gate lamp across the yard, the village fires far below"
+   },
+   "place": [
+    {
+     "kind": "lamp",
+     "pos": [
+      -15.4,
+      3.5
+     ],
+     "glow_m": 2.2,
+     "label": "Amos's lamp on the fold gatepost"
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      0,
+      0
+     ],
+     "glow_m": 1.6
+    },
+    {
+     "kind": "label",
+     "pos": [
+      16.0,
+      -11.4
+     ],
+     "label": "Down the hill to the drum and the fires, about 600 m"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -13.65,
+      2.7
+     ],
+     "label": "Eliab comes to the wall"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Amos",
+     "pos": [
+      -14.9,
+      2.95
+     ],
+     "facing_deg": 88,
+     "note": "at the fold wall, looking into the fold",
+     "named": true
+    },
+    {
+     "n": 2,
+     "name": "Joel",
+     "pos": [
+      -13.9,
+      3.05
+     ],
+     "facing_deg": 112,
+     "note": "a neighbour, leans on the fold wall",
+     "named": true
+    },
+    {
+     "n": 3,
+     "name": "young black kid",
+     "pos": [
+      -14.75,
+      4.45
+     ],
+     "facing_deg": 165,
+     "note": "butting its mother",
+     "animal": true
+    },
+    {
+     "n": 4,
+     "name": "she-goat",
+     "pos": [
+      -15.35,
+      4.85
+     ],
+     "facing_deg": 20,
+     "note": "the kid's mother",
+     "animal": true
+    },
+    {
+     "n": 5,
+     "name": "flock",
+     "pos": [
+      -19.0,
+      9.4
+     ],
+     "facing_deg": 270,
+     "note": "bedded in the fold",
+     "animal": true
+    },
+    {
+     "n": 6,
+     "name": "Eliab",
+     "pos": [
+      6.8,
+      -5.6
+     ],
+     "facing_deg": 105,
+     "note": "up from the threshing floor, the wheat in",
+     "named": true
+    }
+   ],
+   "paths": [
+    {
+     "who": 2,
+     "points": [
+      [
+       -13.9,
+       3.05
+      ],
+      [
+       -8.0,
+       0.7
+      ],
+      [
+       0.0,
+       -1.8
+      ],
+      [
+       8.0,
+       -3.0
+      ],
+      [
+       19.0,
+       -6.9
+      ]
+     ],
+     "note": "goes back down the hill to the wedding"
+    },
+    {
+     "who": 6,
+     "points": [
+      [
+       6.8,
+       -5.6
+      ],
+      [
+       7.6,
+       -3.6
+      ],
+      [
+       2.0,
+       -2.1
+      ],
+      [
+       -4.0,
+       -0.6
+      ],
+      [
+       -10.0,
+       1.4
+      ],
+      [
+       -13.75,
+       2.8
+      ]
+     ],
+     "note": "up from the floor, in at the gate and across the yard to the wall"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       -14.9,
+       2.95
+      ],
+      [
+       -8.5,
+       0.3
+      ],
+      [
+       0.0,
+       -2.0
+      ],
+      [
+       8.0,
+       -3.2
+      ],
+      [
+       20.5,
+       -7.6
+      ]
+     ],
+     "note": "goes empty-handed down toward the fires"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S15",
+     "what": "Low among the sheep, the two men at the wall",
+     "pos": [
+      -13.1,
+      5.7
+     ],
+     "facing_deg": 244,
+     "height": "low",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S16",
+     "what": "The kid butting its mother, Amos's face beyond",
+     "pos": [
+      -14.55,
+      5.85
+     ],
+     "facing_deg": 262,
+     "height": "low",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S17",
+     "what": "Over the father's back, the son going toward the gate lamp",
+     "pos": [
+      -15.9,
+      4.5
+     ],
+     "facing_deg": 338,
+     "height": "standing",
+     "wedge_m": 16
+    }
+   ],
+   "windows": [
+    {
+     "id": "W27",
+     "setup": "S15",
+     "frames": 209,
+     "speaker": "JOEL",
+     "line": "My sister is married tonight. <pause> Come down and make merry with your friends.",
+     "line_at": 2.6,
+     "does": "A drum below in the village and fires, and Joel leans on the fold wall and asks Amos down to his sister's wedding",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -13.1,
+        5.7
+       ],
+       "facing": 244,
+       "height": "low",
+       "note": "low among the bedded sheep in the fold, a drum beating far below in the village"
+      },
+      {
+       "t": 2.8,
+       "pos": [
+        -13.4,
+        5.0
+       ],
+       "facing": 243,
+       "height": "knee",
+       "note": "rising over the fleeces to the two men at the wall in the lamplight, Joel leaning on it"
+      },
+      {
+       "t": 6.4,
+       "pos": [
+        -13.55,
+        4.6
+       ],
+       "facing": 257,
+       "height": "standing",
+       "note": "Joel at the wall, smiling, the dark yard behind him"
+      },
+      {
+       "t": 8.4,
+       "pos": [
+        -13.6,
+        4.5
+       ],
+       "facing": 230,
+       "height": "standing",
+       "note": "Amos's face, his eyes on the fold"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W28",
+     "setup": null,
+     "frames": 141,
+     "speaker": "AMOS",
+     "line": "The last of the wheat comes in tonight.",
+     "line_at": 1.6,
+     "wps": 2.6,
+     "does": "Amos answers that the last of the wheat comes in tonight",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -13.6,
+        4.5
+       ],
+       "facing": 230,
+       "height": "standing"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        -14.1,
+        4.7
+       ],
+       "facing": 245,
+       "height": "standing",
+       "note": "a half pace along the inside of the wall to Amos's face"
+      },
+      {
+       "t": 4.8,
+       "pos": [
+        -14.15,
+        4.75
+       ],
+       "facing": 247,
+       "height": "standing"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        -14.1,
+        4.75
+       ],
+       "facing": 277,
+       "height": "standing",
+       "note": "across to Joel"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W29",
+     "setup": null,
+     "frames": 243,
+     "speaker": "JOEL",
+     "line": "The wheat will keep. <pause> I will keep you a place.",
+     "line_at": 1.4,
+     "does": "Joel tells him the wheat will keep and he will keep him a place, and goes back down the hill",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -14.1,
+        4.75
+       ],
+       "facing": 277,
+       "height": "standing"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        -13.8,
+        4.65
+       ],
+       "facing": 266,
+       "height": "standing",
+       "note": "Joel pushing off the wall with his answer"
+      },
+      {
+       "t": 6.4,
+       "pos": [
+        -13.6,
+        4.6
+       ],
+       "facing": 321,
+       "height": "standing",
+       "note": "Joel going away across the dark yard toward the gate lamp"
+      },
+      {
+       "t": 9.6,
+       "pos": [
+        -13.4,
+        4.65
+       ],
+       "facing": 334,
+       "height": "standing",
+       "note": "on across the yard to the gate lamp and the hill down to the drum"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W30",
+     "setup": "S16",
+     "frames": 311,
+     "speaker": null,
+     "does": "Amos looks into the fold at a young black kid butting its mother, and looks at it a long time",
+     "reached": [
+      1,
+      3,
+      4
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -13.4,
+        4.65
+       ],
+       "facing": 334,
+       "height": "standing"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        -14.0,
+        5.4
+       ],
+       "facing": 250,
+       "height": "knee",
+       "note": "back to Amos alone at the wall and down into the fold"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        -14.55,
+        5.85
+       ],
+       "facing": 262,
+       "height": "low",
+       "note": "low in the straw behind the young black kid butting its mother, Amos's face beyond it over the wall"
+      },
+      {
+       "t": 8.6,
+       "pos": [
+        -14.5,
+        5.8
+       ],
+       "facing": 262,
+       "height": "low",
+       "note": "a long still look, the kid butting and butting in the lamplight"
+      },
+      {
+       "t": 12.4,
+       "pos": [
+        -14.45,
+        5.75
+       ],
+       "facing": 263,
+       "height": "low",
+       "note": "his eyes on it"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W31",
+     "setup": null,
+     "frames": 379,
+     "speaker": "ELIAB",
+     "line": "The wheat is in. <pause> The drum has called you since sundown. <pause> Go down to them, son. <pause> Take what you will from the fold.",
+     "line_at": 3.6,
+     "wps": 2.4,
+     "does": "Eliab comes to the wall and tells his son the wheat is in, to go down to them and take what he will from the fold",
+     "reached": [
+      1,
+      3,
+      4,
+      6
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -14.45,
+        5.75
+       ],
+       "facing": 263,
+       "height": "low"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        -14.2,
+        5.2
+       ],
+       "facing": 281,
+       "height": "knee",
+       "note": "rising as Eliab comes out of the dark yard to the wall beside his son"
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        -14.1,
+        4.85
+       ],
+       "facing": 263,
+       "height": "standing",
+       "note": "the father and the son side by side at the wall in the lamplight"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        -13.95,
+        4.7
+       ],
+       "facing": 276,
+       "height": "standing",
+       "note": "his father's face as he speaks to his son"
+      },
+      {
+       "t": 14.6,
+       "pos": [
+        -13.95,
+        4.65
+       ],
+       "facing": 241,
+       "height": "standing",
+       "note": "Amos's face on the last words, the kid at the frame's edge"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W32",
+     "setup": "S17",
+     "frames": 294,
+     "speaker": null,
+     "does": "Amos hesitates with his eyes off the fold, then goes empty-handed down toward the fires while his father stays at the wall",
+     "reached": [
+      1,
+      6
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -13.95,
+        4.65
+       ],
+       "facing": 241,
+       "height": "standing"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        -14.2,
+        4.7
+       ],
+       "facing": 248,
+       "height": "standing",
+       "note": "Amos hesitating at the wall, his eyes kept off the fold"
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        -14.7,
+        5.3
+       ],
+       "facing": 306,
+       "height": "standing",
+       "note": "he turns from the wall and goes, his hands empty at his sides"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        -15.85,
+        4.55
+       ],
+       "facing": 338,
+       "height": "standing",
+       "note": "round behind the kid to the fold gate and its lamp, the father's back at the wall"
+      },
+      {
+       "t": 11.6,
+       "pos": [
+        -15.9,
+        4.5
+       ],
+       "facing": 338,
+       "height": "standing",
+       "note": "the son going empty-handed across the dark yard toward the gate lamp and the drum below, his father at the wall in the lamplight"
+      }
+     ],
+     "out": {
+      "kind": "end"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "At the fold wall",
+     "extent": [
+      -17.6,
+      -11.6,
+      1.9,
+      6.4
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "Scene 8 plays on the shared farm places in the lamp-niche frame; only the west gate square has its own grid, in the city of Kallias's court.",
+  "The montage is two plans and four beats joined by hard cuts, the wheat under the harvest sun and then three rain-dark dusks at the gate lamp and the fold.",
+  "The first rain and the winter beat open on the same frame of the gatepost, so the seasons turn at the same lamp.",
+  "In the city the last sun comes level through the west gate, so the traveller sees the garland and the stained hem in the only light in the square while the street lamps come on to the east.",
+  "The traveller comes on the last day of the wheat harvest, so the gate by day, the lamp at dusk and the fold at night are one day and one evening.",
+  "At the gate by day the camera works from the road in the wall's shade, so the trough, the gateway and Amos on the bench share one line of sight and Eliab appears in the sunlit gateway behind the talkers.",
+  "At dusk Eliab keeps his face to the road through every line and turns only at the end; the camera reads his face from the road and takes Amos's place in the gateway for Esau's running.",
+  "At the fold the camera stays inside among the sheep, so both men's faces come over the wall in the light of Amos's lamp, with the kid between the camera and Amos.",
+  "Amos leaves the dusk and the night the same way, walking away inside the yard while his father stays at a lamp.",
+  "W30 is chosen stillness, the camera low in the straw through the whole long look at the kid, and the dusk take ends in a slow pull-back down the road."
+ ]
+}

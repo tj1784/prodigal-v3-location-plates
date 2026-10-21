@@ -1,0 +1,480 @@
+[
+ {
+  "scene": "1A",
+  "plan": 0,
+  "plan_title": "The road under the field wall",
+  "heading": "EXT. EDGE OF A FIELD ON THE ROAD WEST - NOON",
+  "place": "foreign_farm:ext",
+  "hour": "noon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 270,
+   "label": "white noon, sun high in the south"
+  },
+  "pos": [
+   -0.6,
+   -1.9
+  ],
+  "facing": 19,
+  "setup": "S06",
+  "keys": 32,
+  "used_by": [
+   "1A"
+  ],
+  "id": "sc01a_A_the_road_under_the_field_wall",
+  "dir": "orbits/sc01a/A_the_road_under_the_field_wall",
+  "from": "sc00_A_the_road_under_the_field_wall",
+  "digest": {
+   "front": {
+    "heading_deg": 19,
+    "sees": [
+     "Ditch (area), 1 m, left",
+     "The road west (track), 2 m, right",
+     "Field wall of piled stones (wall), 3 m, left",
+     "Stubble (area), 4 m, left",
+     "Last standing barley (area), 4 m, left",
+     "Scree-and-thorn slope falling south (area), 5 m, right",
+     "Field gap (gate), 12 m, centre",
+     "Farm track (track), 13 m, right",
+     "canopy (canopy), 25 m, right",
+     "Green fold on its own spring (area), 25 m, left",
+     "Yard with hens (area), 30 m, left",
+     "canopy (canopy), 34 m, right",
+     "canopy (canopy), 48 m, right"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 289,
+    "sees": [
+     "The road west (track), 1 m, left",
+     "Scree-and-thorn slope falling south (area), 3 m, right",
+     "canopy (canopy), 14 m, centre",
+     "canopy (canopy), 23 m, right",
+     "canopy (canopy), 24 m, left",
+     "canopy (canopy), 26 m, right",
+     "canopy (canopy), 30 m, right",
+     "canopy (canopy), 34 m, right",
+     "canopy (canopy), 36 m, right",
+     "canopy (canopy), 39 m, left",
+     "canopy (canopy), 44 m, right",
+     "Thorn scrub (area), 44 m, right",
+     "canopy (canopy), 45 m, right",
+     "canopy (canopy), 47 m, right"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 199,
+    "sees": [
+     "The road west (track), 1 m, left",
+     "Ditch (area), 3 m, right",
+     "Scree-and-thorn slope falling south (area), 3 m, left",
+     "Field wall of piled stones (wall), 6 m, right",
+     "Stubble (area), 6 m, right",
+     "Last standing barley (area), 7 m, right",
+     "canopy (canopy), 11 m, left",
+     "canopy (canopy), 25 m, left",
+     "canopy (canopy), 25 m, left",
+     "canopy (canopy), 26 m, left",
+     "canopy (canopy), 30 m, centre",
+     "canopy (canopy), 34 m, left",
+     "canopy (canopy), 38 m, left",
+     "canopy (canopy), 42 m, centre"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 109,
+    "sees": [
+     "Ditch (area), 1 m, centre",
+     "Single tamarisk (canopy), 2 m, right",
+     "Field wall of piled stones (wall), 3 m, centre",
+     "Last standing barley (area), 3 m, right",
+     "Stubble (area), 3 m, right",
+     "Farm track (track), 23 m, right",
+     "Green fold on its own spring (area), 24 m, right",
+     "Yard with hens (area), 28 m, right",
+     "Long table under the vine (prop), 37 m, centre",
+     "canopy (canopy), 37 m, centre",
+     "Well (prop), 39 m, centre",
+     "Bread oven (prop), 41 m, right",
+     "House (building), 42 m, right",
+     "Pantry (room), 42 m, right"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "1A",
+  "plan": 0,
+  "plan_title": "The road under the field wall",
+  "heading": "EXT. EDGE OF A FIELD ON THE ROAD WEST - NOON",
+  "place": "foreign_farm:ext",
+  "hour": "noon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 270,
+   "label": "white noon, sun high in the south"
+  },
+  "pos": [
+   -12.6,
+   -5.3
+  ],
+  "facing": 270,
+  "setup": "S08",
+  "keys": 3,
+  "used_by": [
+   "1A"
+  ],
+  "id": "sc01a_B_the_road_under_the_field_wall",
+  "dir": "orbits/sc01a/B_the_road_under_the_field_wall",
+  "from": "sc01a_A_the_road_under_the_field_wall",
+  "digest": {
+   "front": {
+    "heading_deg": 270,
+    "sees": [
+     "canopy (canopy), 8 m, left",
+     "canopy (canopy), 14 m, right",
+     "canopy (canopy), 17 m, right",
+     "canopy (canopy), 20 m, centre",
+     "canopy (canopy), 21 m, left",
+     "canopy (canopy), 28 m, centre",
+     "canopy (canopy), 28 m, right",
+     "canopy (canopy), 29 m, left",
+     "canopy (canopy), 33 m, centre",
+     "canopy (canopy), 37 m, centre",
+     "Scree-and-thorn slope falling south (area), 41 m, centre",
+     "Thorn scrub (area), 41 m, centre",
+     "canopy (canopy), 42 m, centre",
+     "canopy (canopy), 42 m, centre"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 180,
+    "sees": [
+     "Scree-and-thorn slope falling south (area), 2 m, right",
+     "The road west (track), 4 m, right",
+     "Ditch (area), 6 m, right",
+     "Field wall of piled stones (wall), 8 m, right",
+     "Stubble (area), 9 m, right",
+     "Last standing barley (area), 9 m, right",
+     "canopy (canopy), 14 m, left",
+     "canopy (canopy), 18 m, left",
+     "canopy (canopy), 30 m, left",
+     "Green fold on its own spring (area), 35 m, right",
+     "canopy (canopy), 38 m, centre",
+     "canopy (canopy), 46 m, left",
+     "Thorn scrub (area), 52 m, left",
+     "canopy (canopy), 62 m, left"
+    ],
+    "sun": "to the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 90,
+    "sees": [
+     "Scree-and-thorn slope falling south (area), 1 m, left",
+     "The road west (track), 3 m, centre",
+     "Ditch (area), 5 m, centre",
+     "Field wall of piled stones (wall), 6 m, centre",
+     "Last standing barley (area), 7 m, centre",
+     "Stubble (area), 7 m, centre",
+     "Green fold on its own spring (area), 27 m, centre",
+     "Yard with hens (area), 31 m, centre",
+     "Farm track (track), 32 m, right",
+     "Well (prop), 39 m, centre",
+     "Long table under the vine (prop), 41 m, centre",
+     "canopy (canopy), 41 m, centre",
+     "House (building), 45 m, centre",
+     "door (door), 46 m, centre"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 0,
+    "sees": [
+     "Scree-and-thorn slope falling south (area), 2 m, left",
+     "The road west (track), 4 m, left",
+     "Ditch (area), 7 m, left",
+     "canopy (canopy), 8 m, right",
+     "Field wall of piled stones (wall), 8 m, left",
+     "Stubble (area), 9 m, left",
+     "Last standing barley (area), 9 m, left",
+     "Single tamarisk (canopy), 14 m, left",
+     "canopy (canopy), 20 m, right",
+     "Field gap (gate), 24 m, left",
+     "Farm track (track), 26 m, centre",
+     "canopy (canopy), 31 m, right",
+     "Green fold on its own spring (area), 35 m, left",
+     "canopy (canopy), 37 m, centre"
+    ],
+    "sun": "to the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "1A",
+  "plan": 1,
+  "plan_title": "The top of the slope",
+  "heading": "EXT. TOP OF THE SLOPE - CONTINUOUS",
+  "place": "foreign_farm:ext",
+  "hour": "white noon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 270,
+   "label": "white noon, sun high in the south"
+  },
+  "pos": [
+   -12.75,
+   -4.25
+  ],
+  "facing": 175,
+  "setup": "S10",
+  "keys": 15,
+  "used_by": [
+   "1A"
+  ],
+  "id": "sc01a_C_the_top_of_the_slope",
+  "dir": "orbits/sc01a/C_the_top_of_the_slope",
+  "from": "sc01a_B_the_road_under_the_field_wall",
+  "digest": {
+   "front": {
+    "heading_deg": 175,
+    "sees": [
+     "Scree-and-thorn slope falling south (area), 1 m, centre",
+     "The road west (track), 2 m, right",
+     "Ditch (area), 5 m, right",
+     "Field wall of piled stones (wall), 7 m, right",
+     "Last standing barley (area), 7 m, right",
+     "Stubble (area), 7 m, right",
+     "canopy (canopy), 18 m, left",
+     "canopy (canopy), 31 m, left",
+     "Green fold on its own spring (area), 31 m, right",
+     "canopy (canopy), 38 m, left",
+     "canopy (canopy), 47 m, left",
+     "Thorn scrub (area), 57 m, left",
+     "canopy (canopy), 63 m, left"
+    ],
+    "sun": "to the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 85,
+    "sees": [
+     "The road west (track), 2 m, left",
+     "Ditch (area), 4 m, centre",
+     "Field wall of piled stones (wall), 5 m, centre",
+     "Last standing barley (area), 6 m, centre",
+     "Stubble (area), 6 m, centre",
+     "Green fold on its own spring (area), 26 m, centre",
+     "Yard with hens (area), 30 m, centre",
+     "Farm track (track), 30 m, right",
+     "Well (prop), 38 m, left",
+     "Long table under the vine (prop), 40 m, centre",
+     "canopy (canopy), 40 m, centre",
+     "House (building), 44 m, centre",
+     "door (door), 45 m, centre",
+     "Clay god's niche (prop), 45 m, centre"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 355,
+    "sees": [
+     "Scree-and-thorn slope falling south (area), 1 m, centre",
+     "The road west (track), 2 m, left",
+     "Ditch (area), 5 m, left",
+     "Field wall of piled stones (wall), 8 m, left",
+     "Stubble (area), 8 m, left",
+     "Last standing barley (area), 8 m, left",
+     "canopy (canopy), 9 m, right",
+     "Single tamarisk (canopy), 13 m, left",
+     "canopy (canopy), 21 m, right",
+     "Field gap (gate), 24 m, left",
+     "Farm track (track), 26 m, left",
+     "canopy (canopy), 32 m, right",
+     "Green fold on its own spring (area), 36 m, left",
+     "canopy (canopy), 37 m, centre"
+    ],
+    "sun": "to the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 265,
+    "sees": [
+     "canopy (canopy), 9 m, left",
+     "canopy (canopy), 14 m, right",
+     "canopy (canopy), 18 m, centre",
+     "canopy (canopy), 21 m, centre",
+     "canopy (canopy), 22 m, left",
+     "canopy (canopy), 29 m, centre",
+     "canopy (canopy), 29 m, right",
+     "canopy (canopy), 30 m, left",
+     "canopy (canopy), 31 m, right",
+     "canopy (canopy), 34 m, left",
+     "canopy (canopy), 38 m, centre",
+     "Scree-and-thorn slope falling south (area), 42 m, centre",
+     "Thorn scrub (area), 42 m, centre",
+     "canopy (canopy), 43 m, left"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "1A",
+  "plan": 2,
+  "plan_title": "The thorn scrub at the foot of the slope",
+  "heading": "EXT. FOOT OF THE SLOPE - THORN SCRUB - CONTINUOUS",
+  "place": "foreign_farm:ext",
+  "hour": "white noon",
+  "light": {
+   "kind": "sun",
+   "from_deg": 270,
+   "label": "white noon, sun high in the south"
+  },
+  "pos": [
+   -12.9,
+   -49.35
+  ],
+  "facing": 275,
+  "setup": "S14",
+  "keys": 11,
+  "used_by": [
+   "1A"
+  ],
+  "id": "sc01a_D_the_thorn_scrub_at_the_foot_of_the_slope",
+  "dir": "orbits/sc01a/D_the_thorn_scrub_at_the_foot_of_the_slope",
+  "from": "sc01a_B_the_road_under_the_field_wall",
+  "digest": {
+   "front": {
+    "heading_deg": 275,
+    "sees": [
+     "canopy (canopy), 3 m, left",
+     "canopy (canopy), 3 m, right",
+     "canopy (canopy), 5 m, left",
+     "canopy (canopy), 5 m, left",
+     "canopy (canopy), 6 m, right",
+     "canopy (canopy), 6 m, right",
+     "canopy (canopy), 8 m, right",
+     "canopy (canopy), 8 m, left",
+     "canopy (canopy), 15 m, left",
+     "canopy (canopy), 17 m, centre",
+     "canopy (canopy), 18 m, right",
+     "canopy (canopy), 21 m, centre",
+     "canopy (canopy), 28 m, right",
+     "canopy (canopy), 29 m, left"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 185,
+    "sees": [
+     "canopy (canopy), 2 m, right",
+     "canopy (canopy), 4 m, left",
+     "Scree-and-thorn slope falling south (area), 5 m, right",
+     "Thorn scrub (area), 5 m, right",
+     "canopy (canopy), 5 m, right",
+     "canopy (canopy), 6 m, left",
+     "canopy (canopy), 8 m, left",
+     "canopy (canopy), 14 m, centre",
+     "canopy (canopy), 18 m, left",
+     "canopy (canopy), 22 m, left",
+     "canopy (canopy), 27 m, centre",
+     "canopy (canopy), 34 m, left",
+     "canopy (canopy), 34 m, right",
+     "canopy (canopy), 35 m, left"
+    ],
+    "sun": "to the left",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 95,
+    "sees": [
+     "canopy (canopy), 1 m, right",
+     "Scree-and-thorn slope falling south (area), 3 m, centre",
+     "Thorn scrub (area), 3 m, centre",
+     "canopy (canopy), 10 m, left",
+     "canopy (canopy), 13 m, right",
+     "canopy (canopy), 17 m, centre",
+     "canopy (canopy), 20 m, right",
+     "canopy (canopy), 23 m, left",
+     "canopy (canopy), 25 m, centre",
+     "canopy (canopy), 26 m, right",
+     "canopy (canopy), 28 m, centre",
+     "canopy (canopy), 34 m, centre",
+     "canopy (canopy), 37 m, left",
+     "canopy (canopy), 39 m, right"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 5,
+    "sees": [
+     "canopy (canopy), 1 m, left",
+     "canopy (canopy), 3 m, right",
+     "canopy (canopy), 3 m, left",
+     "canopy (canopy), 4 m, centre",
+     "Scree-and-thorn slope falling south (area), 4 m, left",
+     "Thorn scrub (area), 4 m, left",
+     "canopy (canopy), 6 m, left",
+     "canopy (canopy), 8 m, right",
+     "canopy (canopy), 15 m, centre",
+     "canopy (canopy), 22 m, right",
+     "canopy (canopy), 27 m, centre",
+     "canopy (canopy), 33 m, right",
+     "canopy (canopy), 36 m, right",
+     "canopy (canopy), 36 m, left"
+    ],
+    "sun": "to the right",
+    "flame": [
+     "1 more small lamps or fires around the place"
+    ]
+   }
+  }
+ }
+]

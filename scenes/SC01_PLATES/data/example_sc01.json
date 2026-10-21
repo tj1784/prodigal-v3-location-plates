@@ -1,0 +1,1333 @@
+{
+ "scene": "1",
+ "title": "The hillside",
+ "subtitle": "EXT. HILLSIDE ABOVE THE LAKE — LATE AFTERNOON · 33 people, the teacher on the ledge, two Pharisees outside the open gate",
+ "plans": [
+  {
+   "title": "The hillside above the lake",
+   "heading": "EXT. HILLSIDE ABOVE THE LAKE - LATE AFTERNOON",
+   "place_ref": [
+    "hillside"
+   ],
+   "light": {
+    "kind": "sun",
+    "from_deg": 135,
+    "label": "late afternoon, low through haze"
+   },
+   "people": [
+    {
+     "n": 1,
+     "name": "the teacher",
+     "pos": [
+      0,
+      0
+     ],
+     "facing_deg": 325,
+     "group": "ledge",
+     "named": true,
+     "note": "on the limestone ledge"
+    },
+    {
+     "n": 2,
+     "name": "Hezron",
+     "pos": [
+      0.95,
+      -0.35
+     ],
+     "facing_deg": 160,
+     "group": "ledge",
+     "named": true,
+     "note": "publican, lead seal at his chest"
+    },
+    {
+     "n": 3,
+     "name": "Tirzah",
+     "pos": [
+      1.35,
+      -0.95
+     ],
+     "facing_deg": 145,
+     "group": "ledge",
+     "named": true,
+     "note": "8, holds his sleeve"
+    },
+    {
+     "n": 4,
+     "name": "shepherd boy",
+     "pos": [
+      1.8,
+      1
+     ],
+     "facing_deg": 209,
+     "group": "ledge",
+     "named": true,
+     "note": "17, staff across his knees"
+    },
+    {
+     "n": 5,
+     "name": "fisherman",
+     "pos": [
+      4,
+      -3.2
+     ],
+     "facing_deg": 141,
+     "group": "A"
+    },
+    {
+     "n": 6,
+     "name": "veiled woman",
+     "pos": [
+      5.2,
+      -3.7
+     ],
+     "facing_deg": 145,
+     "group": "A"
+    },
+    {
+     "n": 7,
+     "name": "family adult",
+     "pos": [
+      6,
+      -2.5
+     ],
+     "facing_deg": 157,
+     "group": "A"
+    },
+    {
+     "n": 8,
+     "name": "tax-gatherer",
+     "pos": [
+      4.6,
+      -5
+     ],
+     "facing_deg": 133,
+     "group": "A"
+    },
+    {
+     "n": 9,
+     "name": "family youth",
+     "pos": [
+      6.4,
+      -4.6
+     ],
+     "facing_deg": 144,
+     "group": "A"
+    },
+    {
+     "n": 10,
+     "name": "fisherman",
+     "pos": [
+      4.5,
+      2.2
+     ],
+     "facing_deg": 206,
+     "group": "B"
+    },
+    {
+     "n": 11,
+     "name": "veiled woman",
+     "pos": [
+      2.8,
+      3.8
+     ],
+     "facing_deg": 234,
+     "group": "B"
+    },
+    {
+     "n": 12,
+     "name": "family adult",
+     "pos": [
+      5.8,
+      3
+     ],
+     "facing_deg": 207,
+     "group": "B"
+    },
+    {
+     "n": 13,
+     "name": "tax-gatherer",
+     "pos": [
+      5.4,
+      0.9
+     ],
+     "facing_deg": 189,
+     "group": "B"
+    },
+    {
+     "n": 14,
+     "name": "veiled woman",
+     "pos": [
+      4,
+      4.9
+     ],
+     "facing_deg": 231,
+     "group": "B"
+    },
+    {
+     "n": 15,
+     "name": "fisherman",
+     "pos": [
+      11,
+      -7.4
+     ],
+     "facing_deg": 146,
+     "group": "C"
+    },
+    {
+     "n": 16,
+     "name": "veiled woman",
+     "pos": [
+      12.4,
+      -6.8
+     ],
+     "facing_deg": 151,
+     "group": "C"
+    },
+    {
+     "n": 17,
+     "name": "family adult",
+     "pos": [
+      14,
+      -7.8
+     ],
+     "facing_deg": 151,
+     "group": "C"
+    },
+    {
+     "n": 18,
+     "name": "tax-gatherer",
+     "pos": [
+      12,
+      -9
+     ],
+     "facing_deg": 143,
+     "group": "C"
+    },
+    {
+     "n": 19,
+     "name": "family youth",
+     "pos": [
+      14.5,
+      -9.2
+     ],
+     "facing_deg": 148,
+     "group": "C"
+    },
+    {
+     "n": 20,
+     "name": "fisherman",
+     "pos": [
+      15.5,
+      -6.5
+     ],
+     "facing_deg": 157,
+     "group": "C"
+    },
+    {
+     "n": 21,
+     "name": "fisherman",
+     "pos": [
+      17.6,
+      5
+     ],
+     "facing_deg": 196,
+     "group": "D"
+    },
+    {
+     "n": 22,
+     "name": "veiled woman",
+     "pos": [
+      19.1,
+      4.3
+     ],
+     "facing_deg": 193,
+     "group": "D"
+    },
+    {
+     "n": 23,
+     "name": "family adult",
+     "pos": [
+      20.5,
+      5.5
+     ],
+     "facing_deg": 195,
+     "group": "D"
+    },
+    {
+     "n": 24,
+     "name": "tax-gatherer",
+     "pos": [
+      18.8,
+      2.9
+     ],
+     "facing_deg": 189,
+     "group": "D"
+    },
+    {
+     "n": 25,
+     "name": "family youth",
+     "pos": [
+      21,
+      3.7
+     ],
+     "facing_deg": 190,
+     "group": "D"
+    },
+    {
+     "n": 26,
+     "name": "fisherman",
+     "pos": [
+      19,
+      -12.4
+     ],
+     "facing_deg": 147,
+     "group": "E"
+    },
+    {
+     "n": 27,
+     "name": "veiled woman",
+     "pos": [
+      20.4,
+      -11.5
+     ],
+     "facing_deg": 151,
+     "group": "E"
+    },
+    {
+     "n": 28,
+     "name": "family adult",
+     "pos": [
+      22,
+      -12
+     ],
+     "facing_deg": 151,
+     "group": "E"
+    },
+    {
+     "n": 29,
+     "name": "tax-gatherer",
+     "pos": [
+      10,
+      -18.9
+     ],
+     "facing_deg": 118,
+     "group": "F"
+    },
+    {
+     "n": 30,
+     "name": "family youth",
+     "pos": [
+      12,
+      -18.9
+     ],
+     "facing_deg": 122,
+     "group": "F"
+    },
+    {
+     "n": 31,
+     "name": "child",
+     "pos": [
+      17,
+      -4.2
+     ],
+     "facing_deg": 20,
+     "group": "E",
+     "named": true,
+     "note": "chasing a lizard"
+    },
+    {
+     "n": 32,
+     "name": "Jotham",
+     "pos": [
+      30,
+      -0.6
+     ],
+     "facing_deg": 179,
+     "group": "watchers",
+     "named": true,
+     "note": "black headcloth, wax tablet",
+     "shade": true
+    },
+    {
+     "n": 33,
+     "name": "Eleazar",
+     "pos": [
+      30.8,
+      1
+     ],
+     "facing_deg": 182,
+     "group": "watchers",
+     "named": true,
+     "note": "striped mantle, arms folded",
+     "shade": true
+    },
+    {
+     "n": 34,
+     "name": "donkey",
+     "animal": true,
+     "pos": [
+      25,
+      -2.8
+     ],
+     "facing_deg": 285,
+     "note": "tethered at the wall"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S01",
+     "what": "Rear wide, all groups",
+     "pos": [
+      11,
+      -20
+     ],
+     "facing_deg": 88,
+     "height": "seated",
+     "wedge_m": 26
+    },
+    {
+     "shot": "S02",
+     "what": "Bread, Hezron right",
+     "pos": [
+      1,
+      -1.6
+     ],
+     "facing_deg": 122,
+     "height": "seated",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S03",
+     "what": "Hezron, Tirzah",
+     "pos": [
+      -0.6,
+      -1.3
+     ],
+     "facing_deg": 45,
+     "height": "seated",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S04",
+     "what": "Boy, teacher left",
+     "pos": [
+      0.3,
+      -0.6
+     ],
+     "facing_deg": 80,
+     "height": "seated",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S05",
+     "what": "Gate, watchers",
+     "pos": [
+      8,
+      -6
+     ],
+     "facing_deg": 20,
+     "height": "seated",
+     "wedge_m": 22
+    },
+    {
+     "shot": "S06",
+     "what": "Watchers, gate left",
+     "pos": [
+      28,
+      -4
+     ],
+     "facing_deg": 75,
+     "height": "standing",
+     "wedge_m": 8
+    },
+    {
+     "shot": "S07",
+     "what": "Eleazar calls out",
+     "pos": [
+      30,
+      -3
+     ],
+     "facing_deg": 116,
+     "height": "standing",
+     "wedge_m": 8
+    },
+    {
+     "shot": "S08",
+     "what": "Heads turn, Hezron's hand on the bread, gate beyond",
+     "pos": [
+      0.2,
+      -1.0
+     ],
+     "facing_deg": 20,
+     "height": "seated",
+     "wedge_m": 28
+    },
+    {
+     "shot": "S09",
+     "what": "Teacher turns, gate right",
+     "pos": [
+      -0.8,
+      -2
+     ],
+     "facing_deg": 36,
+     "height": "seated",
+     "wedge_m": 6
+    },
+    {
+     "shot": "S10",
+     "what": "Teacher shoulder, gate",
+     "pos": [
+      -1.5,
+      -1.7
+     ],
+     "facing_deg": 25,
+     "height": "seated",
+     "wedge_m": 28
+    },
+    {
+     "shot": "S11",
+     "what": "Boy answers, teacher left",
+     "pos": [
+      0.5,
+      -1
+     ],
+     "facing_deg": 85,
+     "height": "seated",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S12",
+     "what": "Laughter, teacher left",
+     "pos": [
+      7,
+      -7
+     ],
+     "facing_deg": 110,
+     "height": "seated",
+     "wedge_m": 12
+    },
+    {
+     "shot": "S13",
+     "what": "Tablet, Eleazar behind",
+     "pos": [
+      29,
+      -2.8
+     ],
+     "facing_deg": 87,
+     "height": "standing",
+     "wedge_m": 6
+    },
+    {
+     "shot": "S14",
+     "what": "Two sons, gate right",
+     "pos": [
+      -0.5,
+      -1.5
+     ],
+     "facing_deg": 40,
+     "height": "seated",
+     "wedge_m": 3
+    }
+   ],
+   "windows": [
+    {
+     "id": "W01",
+     "setup": "S01",
+     "frames": 226,
+     "speaker": null,
+     "reached": [
+      1,
+      31,
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        11,
+        -20
+       ],
+       "facing": 88,
+       "height": "seated",
+       "note": "between the shoulders of two seated listeners"
+      },
+      {
+       "t": 1.2,
+       "pos": [
+        11,
+        -20
+       ],
+       "facing": 88,
+       "height": "standing"
+      },
+      {
+       "t": 8.2,
+       "pos": [
+        12.3,
+        -9.6
+       ],
+       "facing": 118,
+       "height": "standing",
+       "note": "down the open ground between the seated groups"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the dull linen of a seated publican's shoulder",
+      "slides": "right"
+     },
+     "does": "the slope at rest, bread passing, a child chasing a lizard"
+    },
+    {
+     "id": "W02",
+     "setup": "S02",
+     "frames": 175,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1,
+        -1.6
+       ],
+       "facing": 122,
+       "height": "seated"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        0.85,
+        -1.25
+       ],
+       "facing": 122,
+       "height": "seated",
+       "note": "in toward the bread"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        0.9,
+        -1.15
+       ],
+       "facing": 95,
+       "height": "seated",
+       "note": "following the half loaf"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the torn half loaf in a man's open hand",
+      "slides": "back"
+     },
+     "does": "the teacher tears the barley round and hands half on"
+    },
+    {
+     "id": "W03",
+     "setup": "S03",
+     "frames": 158,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.6,
+        -1.3
+       ],
+       "facing": 45,
+       "height": "seated"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        -0.35,
+        -1.15
+       ],
+       "facing": 40,
+       "height": "seated"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        -0.25,
+        -1.05
+       ],
+       "facing": 32,
+       "height": "seated",
+       "note": "down into the bread in his hands"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "a broken piece of coarse barley bread",
+      "slides": "back"
+     },
+     "does": "Hezron eats beside Tirzah"
+    },
+    {
+     "id": "W04",
+     "setup": "S04",
+     "frames": 124,
+     "speaker": null,
+     "reached": [
+      1,
+      4
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.3,
+        -0.6
+       ],
+       "facing": 80,
+       "height": "seated"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        0.4,
+        -0.7
+       ],
+       "facing": 75,
+       "height": "seated"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        0.4,
+        -0.7
+       ],
+       "facing": 15,
+       "height": "seated",
+       "whip": "right"
+      }
+     ],
+     "out": {
+      "kind": "whip",
+      "dir": "right"
+     },
+     "does": "across the slope to the two Pharisees outside the gate"
+    },
+    {
+     "id": "W05",
+     "setup": "S05",
+     "frames": 141,
+     "speaker": null,
+     "reached": [
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        8,
+        -6
+       ],
+       "facing": 20,
+       "height": "seated"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        9.4,
+        -5.5
+       ],
+       "facing": 18,
+       "height": "seated",
+       "note": "between the seated listeners"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     },
+     "does": "the gate and the watchers from among the seated people"
+    },
+    {
+     "id": "W06",
+     "setup": "S06",
+     "frames": 158,
+     "speaker": "ELEAZAR",
+     "reached": [
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        28,
+        -4
+       ],
+       "facing": 75,
+       "height": "standing"
+      },
+      {
+       "t": 6.4,
+       "pos": [
+        28.45,
+        -3.35
+       ],
+       "facing": 78,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "line": "A tax-gatherer at his knee. Eating his bread.",
+     "line_at": 1.0,
+     "does": "Eleazar speaks low to Jotham"
+    },
+    {
+     "id": "W07",
+     "setup": null,
+     "frames": 141,
+     "speaker": "JOTHAM",
+     "reached": [
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        28.45,
+        -3.35
+       ],
+       "facing": 78,
+       "height": "standing"
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        29.1,
+        -2.5
+       ],
+       "facing": 85,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "line": "His own father will not say his name.",
+     "line_at": 1.0,
+     "does": "Jotham answers with the tablet in his hand"
+    },
+    {
+     "id": "W08",
+     "setup": "S07",
+     "frames": 243,
+     "speaker": "ELEAZAR",
+     "reached": [
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        29.1,
+        -2.5
+       ],
+       "facing": 85,
+       "height": "standing"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        30,
+        -3
+       ],
+       "facing": 116,
+       "height": "standing",
+       "note": "around the near side of the two men"
+      },
+      {
+       "t": 9.8,
+       "pos": [
+        30.15,
+        -2.85
+       ],
+       "facing": 114,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     },
+     "line": "Nor should any man in Israel. <pause> This man receives sinners, and eats with them.",
+     "line_at": 2.4,
+     "does": "Eleazar lifts his voice for the whole slope"
+    },
+    {
+     "id": "W09",
+     "setup": "S08",
+     "frames": 124,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.2,
+        -1.0
+       ],
+       "facing": 20,
+       "height": "seated"
+      },
+      {
+       "t": 2.8,
+       "pos": [
+        0.15,
+        -1.05
+       ],
+       "facing": 22,
+       "height": "seated"
+      },
+      {
+       "t": 4.8,
+       "pos": [
+        -0.4,
+        -1.6
+       ],
+       "facing": 30,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "heads turn and Hezron's hand stops on the bread"
+    },
+    {
+     "id": "W10",
+     "setup": "S09",
+     "frames": 107,
+     "speaker": null,
+     "reached": [
+      1,
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.4,
+        -1.6
+       ],
+       "facing": 30,
+       "height": "seated"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        -0.8,
+        -2.0
+       ],
+       "facing": 36,
+       "height": "seated"
+      },
+      {
+       "t": 4.2,
+       "pos": [
+        -1.2,
+        -1.85
+       ],
+       "facing": 30,
+       "height": "seated",
+       "note": "round behind his right shoulder"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "the teacher turns toward the gate"
+    },
+    {
+     "id": "W11",
+     "setup": "S10",
+     "frames": 430,
+     "speaker": "JESUS",
+     "reached": [
+      1,
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -1.2,
+        -1.85
+       ],
+       "facing": 30,
+       "height": "seated"
+      },
+      {
+       "t": 1.2,
+       "pos": [
+        -1.5,
+        -1.7
+       ],
+       "facing": 25,
+       "height": "seated"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        -1.0,
+        -2.2
+       ],
+       "facing": 35,
+       "height": "seated",
+       "note": "round his right side"
+      },
+      {
+       "t": 17.6,
+       "pos": [
+        -0.4,
+        -2.3
+       ],
+       "facing": 45,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "line": "Which man among you, having a hundred sheep, if he lose one of them, would not leave the ninety and nine in the wilderness, <inhale> and go after the one that is lost, until he find it?",
+     "line_at": 1.4,
+     "does": "the teacher asks the gate his question"
+    },
+    {
+     "id": "W12",
+     "setup": "S11",
+     "frames": 107,
+     "speaker": "SHEPHERD BOY",
+     "reached": [
+      1,
+      4
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.4,
+        -2.3
+       ],
+       "facing": 45,
+       "height": "seated"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        0.5,
+        -1.0
+       ],
+       "facing": 85,
+       "height": "seated",
+       "note": "toward the boy's voice"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        0.6,
+        -0.9
+       ],
+       "facing": 80,
+       "height": "seated"
+      },
+      {
+       "t": 4.3,
+       "pos": [
+        0.6,
+        -0.9
+       ],
+       "facing": 20,
+       "height": "seated",
+       "whip": "right"
+      }
+     ],
+     "out": {
+      "kind": "whip",
+      "dir": "right"
+     },
+     "line": "Any shepherd would.",
+     "line_at": 1.8,
+     "does": "the shepherd boy answers and the slope laughs"
+    },
+    {
+     "id": "W13",
+     "setup": "S12",
+     "frames": 260,
+     "speaker": "JESUS",
+     "reached": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        7,
+        -7
+       ],
+       "facing": 110,
+       "height": "seated"
+      },
+      {
+       "t": 10.0,
+       "pos": [
+        5.9,
+        -5.9
+       ],
+       "facing": 118,
+       "height": "seated",
+       "note": "between two seated groups toward the ledge"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     },
+     "line": "And when he has found it, he lays it upon his shoulders, rejoicing.",
+     "line_at": 4.4,
+     "does": "the teacher goes on to the gate"
+    },
+    {
+     "id": "W14",
+     "setup": null,
+     "frames": 311,
+     "speaker": "JESUS",
+     "reached": [
+      1,
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -1.5,
+        -1.7
+       ],
+       "facing": 25,
+       "height": "seated",
+       "note": "just behind his right shoulder"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        -1.1,
+        -1.55
+       ],
+       "facing": 15,
+       "height": "standing",
+       "note": "past his shoulder"
+      },
+      {
+       "t": 12.8,
+       "pos": [
+        25.9,
+        -1.45
+       ],
+       "facing": 0,
+       "height": "standing",
+       "note": "across the slope between the seated groups and past the tethered donkey into the gateway"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the dark rough face of a fieldstone pier",
+      "slides": "left"
+     },
+     "line": "And coming home, he calls together his friends and his neighbours, and says to them, <pause> Rejoice with me, for I have found my sheep that was lost.",
+     "line_at": 0.6,
+     "does": "the teacher speaks of joy in heaven"
+    },
+    {
+     "id": "W15",
+     "setup": "S13",
+     "frames": 345,
+     "speaker": "JESUS",
+     "reached": [
+      32,
+      33
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        28.8,
+        -2.6
+       ],
+       "facing": 80,
+       "height": "standing"
+      },
+      {
+       "t": 1.2,
+       "pos": [
+        29,
+        -2.8
+       ],
+       "facing": 87,
+       "height": "standing",
+       "note": "onto the tablet"
+      },
+      {
+       "t": 13.6,
+       "pos": [
+        29.35,
+        -2.35
+       ],
+       "facing": 93,
+       "height": "standing",
+       "note": "up from the tablet toward the two men"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     },
+     "line": "I say to you, that even so there shall be joy in heaven over one sinner who repents, <inhale> more than over ninety and nine righteous men who need no repentance.",
+     "line_at": 0.6,
+     "does": "Eleazar's jaw tightens and Jotham looks down"
+    },
+    {
+     "id": "W16",
+     "setup": "S14",
+     "frames": 175,
+     "speaker": "JESUS",
+     "reached": [
+      1
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.5,
+        -1.5
+       ],
+       "facing": 40,
+       "height": "seated"
+      },
+      {
+       "t": 6.9,
+       "pos": [
+        -0.25,
+        -1.15
+       ],
+       "facing": 42,
+       "height": "seated",
+       "note": "in toward his face"
+      }
+     ],
+     "out": {
+      "kind": "end"
+     },
+     "line": "A certain man had two sons.",
+     "line_at": 3.2,
+     "does": "the teacher begins the story of two sons"
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "Under the olive",
+     "extent": [
+      -3.85,
+      2.9,
+      -2.3,
+      1.68
+     ]
+    },
+    {
+     "key": "B",
+     "title": "At the gate",
+     "extent": [
+      22.2,
+      33.7,
+      -4.62,
+      2.2
+     ]
+    }
+   ],
+   "join_bows": [
+    {
+     "from": "W01",
+     "to": "W02",
+     "bow": 0.22
+    },
+    {
+     "from": "W02",
+     "to": "W03",
+     "bow": 0.3
+    },
+    {
+     "from": "W03",
+     "to": "W04",
+     "bow": 0.3
+    },
+    {
+     "from": "W04",
+     "to": "W05",
+     "bow": 0.3
+    },
+    {
+     "from": "W05",
+     "to": "W06",
+     "bow": 0.25
+    },
+    {
+     "from": "W08",
+     "to": "W09",
+     "bow": -0.6
+    },
+    {
+     "from": "W12",
+     "to": "W13",
+     "bow": -0.5
+    },
+    {
+     "from": "W13",
+     "to": "W14",
+     "bow": -0.3
+    },
+    {
+     "from": "W14",
+     "to": "W15",
+     "bow": 0.3
+    },
+    {
+     "from": "W15",
+     "to": "W16",
+     "bow": -0.82
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "Thirty-three people by the owner's Scene 1 rule; 31 inside the wall counting the four under the olive.",
+  "The gate is at the teacher's three o'clock, 27 m away; whips and stitches there are concealed relocations, never a 27 m whip."
+ ]
+}

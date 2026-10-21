@@ -1,0 +1,202 @@
+[
+ {
+  "scene": "5",
+  "plan": 0,
+  "plan_title": "The gate at night",
+  "heading": "EXT. ELIAB'S FARM - GATE - NIGHT",
+  "place": "eliab_farm:ext",
+  "hour": "night",
+  "light": {
+   "kind": "lamp",
+   "label": "moonless night; the gate lamp in its niche, the lit house door far across the yard"
+  },
+  "pos": [
+   0.75,
+   -0.95
+  ],
+  "facing": 204,
+  "setup": "S03",
+  "keys": 25,
+  "used_by": [
+   "5",
+   "10"
+  ],
+  "id": "sc05_A_the_gate_at_night",
+  "dir": "orbits/sc05/A_the_gate_at_night",
+  "from": "sc02_E_the_gate_at_dusk",
+  "digest": {
+   "front": {
+    "heading_deg": 204,
+    "sees": [
+     "Road east, down to the village gate (track), 1 m, left",
+     "The one gate (gate), 1 m, left",
+     "Yard (area), 1 m, right",
+     "Cistern (prop), 11 m, left",
+     "The fold (area), 13 m, right",
+     "Fold gate, barred (gate), 17 m, right",
+     "Floor track (track), 21 m, left",
+     "Footpath from the village (track), 29 m, left",
+     "Threshing floor (slab), 30 m, left",
+     "Ovens (prop), 32 m, centre",
+     "Yard wall, about 1.7 m (wall), 32 m, right",
+     "Eaves (area), 33 m, right",
+     "Terrace edge (wall), 33 m, left",
+     "Eliab's house (eliab_house) (building), 35 m, right"
+    ],
+    "flame": [
+     "Gate lamp, filled and trimmed: to the right, 1 m",
+     "House lamp, the door open and lit: ahead, the view backlit, 37 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 114,
+    "sees": [
+     "Yard (area), 1 m, left",
+     "Gate lamp, filled and trimmed (lamp), 1 m, left",
+     "The one gate (gate), 1 m, left",
+     "Yard wall, about 1.7 m (wall), 2 m, centre",
+     "Stone bench (slab), 3 m, right",
+     "Calf pen (wall), 7 m, centre",
+     "Ox byre (building), 10 m, centre",
+     "The fold (area), 13 m, left",
+     "Fold gate, barred (gate), 17 m, left"
+    ],
+    "flame": [
+     "Gate lamp, filled and trimmed: ahead, the view backlit, 1 m",
+     "House lamp, the door open and lit: ahead on the left, 37 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 24,
+    "sees": [
+     "Road east, down to the village gate (track), 3 m, right",
+     "Floor track (track), 7 m, right",
+     "Hill track to the pasture (track), 9 m, right",
+     "Old fig (tree), 11 m, left",
+     "Footpath from the village (track), 64 m, right"
+    ],
+    "flame": [
+     "Gate lamp, filled and trimmed: to the left, 1 m",
+     "House lamp, the door open and lit: behind the camera, the view lit from the front, 37 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 294,
+    "sees": [
+     "Road east, down to the village gate (track), 1 m, right",
+     "The one gate (gate), 3 m, right",
+     "Yard (area), 3 m, right",
+     "Trough (prop), 5 m, right",
+     "Floor track (track), 7 m, left",
+     "Hill track to the pasture (track), 9 m, left",
+     "Footpath from the village (track), 29 m, right",
+     "Terrace edge (wall), 32 m, right"
+    ],
+    "flame": [
+     "Gate lamp, filled and trimmed: behind the camera, the view lit from the front, 1 m",
+     "House lamp, the door open and lit: behind on the right, 37 m"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "5",
+  "plan": 1,
+  "plan_title": "The gate at first light",
+  "heading": "EXT. ELIAB'S FARM - GATE - FIRST LIGHT",
+  "place": "eliab_farm:ext",
+  "hour": "first light",
+  "light": {
+   "kind": "dawn",
+   "from_deg": 8,
+   "label": "first light, grey over the eastern hills; the gate lamp burning its last"
+  },
+  "pos": [
+   1.35,
+   0.8
+  ],
+  "facing": 165,
+  "setup": "S09",
+  "keys": 23,
+  "used_by": [
+   "5"
+  ],
+  "id": "sc05_B_the_gate_at_first_light",
+  "dir": "orbits/sc05/B_the_gate_at_first_light",
+  "from": "sc05_A_the_gate_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 165,
+    "sees": [
+     "Stone bench (slab), 1 m, right",
+     "Yard wall, about 1.7 m (wall), 1 m, left",
+     "Gate lamp, its last (lamp), 2 m, left",
+     "The one gate (gate), 2 m, left",
+     "Yard (area), 2 m, left",
+     "Calf pen (wall), 6 m, right",
+     "Ox byre (building), 9 m, right",
+     "The fold (area), 13 m, centre",
+     "Fold gate, barred (gate), 17 m, centre",
+     "Ovens (prop), 33 m, left",
+     "Eaves (area), 34 m, left",
+     "Eliab's house (eliab_house) (building), 35 m, left",
+     "door (door), 35 m, left",
+     "tree (tree), 54 m, centre"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "Gate lamp, its last: ahead on the left, 2 m"
+    ]
+   },
+   "right": {
+    "heading_deg": 75,
+    "sees": [
+     "Stone bench (slab), 1 m, left",
+     "Yard wall, about 1.7 m (wall), 3 m, left",
+     "Yard (area), 3 m, left",
+     "Calf pen (wall), 8 m, left",
+     "Old fig (tree), 9 m, right",
+     "Ox byre (building), 9 m, left",
+     "Hill track to the pasture (track), 17 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "Gate lamp, its last: behind on the left, 2 m"
+    ]
+   },
+   "behind": {
+    "heading_deg": 345,
+    "sees": [
+     "Road east, down to the village gate (track), 3 m, right",
+     "Floor track (track), 8 m, right",
+     "Hill track to the pasture (track), 9 m, right",
+     "Footpath from the village (track), 37 m, right"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "Gate lamp, its last: behind on the right, 2 m"
+    ]
+   },
+   "left": {
+    "heading_deg": 255,
+    "sees": [
+     "Gate lamp, its last (lamp), 2 m, right",
+     "The one gate (gate), 2 m, right",
+     "Yard (area), 2 m, right",
+     "Road east, down to the village gate (track), 3 m, centre",
+     "Trough (prop), 6 m, centre",
+     "Floor track (track), 9 m, left",
+     "Cistern (prop), 13 m, right",
+     "Footpath from the village (track), 31 m, centre",
+     "Threshing floor (slab), 31 m, right",
+     "Terrace edge (wall), 33 m, left",
+     "Path down to the far field (SW) (track), 40 m, right"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "Gate lamp, its last: ahead on the right, 2 m"
+    ]
+   }
+  }
+ }
+]

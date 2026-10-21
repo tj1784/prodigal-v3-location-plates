@@ -1,0 +1,88 @@
+[
+ {
+  "scene": "16",
+  "plan": 0,
+  "plan_title": "The hillside at night",
+  "heading": "EXT. HILLSIDE ABOVE THE LAKE - NIGHT",
+  "place": "hillside:ext",
+  "hour": "night",
+  "light": {
+   "kind": "fire",
+   "label": "the fire burning low and six clay lamps in hands; the gate, the grove and the lake lie dark"
+  },
+  "pos": [
+   4.3,
+   -4.1
+  ],
+  "facing": 118,
+  "setup": "S01",
+  "keys": 41,
+  "used_by": [
+   "16"
+  ],
+  "id": "sc16_A_the_hillside_at_night",
+  "dir": "orbits/sc16/A_the_hillside_at_night",
+  "from": "sc01_B_the_hillside_above_the_lake",
+  "digest": {
+   "front": {
+    "heading_deg": 118,
+    "sees": [
+     "Low fire (fire), 4 m, centre",
+     "Seal (prop), 5 m, left",
+     "Limestone ledge (slab), 6 m, left",
+     "The old olive (canopy), 9 m, left",
+     "Low dry-stone fieldstone wall (wall), 11 m, left",
+     "Lake · downhill (+y) (water), 35 m, right"
+    ],
+    "flame": [
+     "Low fire: ahead, the view backlit, 4 m",
+     "6 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 28,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 20 m, left",
+     "Open gate (gate), 23 m, right",
+     "Tablet (prop), 24 m, right",
+     "Loose stone (prop), 24 m, centre",
+     "tree (tree), 27 m, right",
+     "tree (tree), 29 m, centre",
+     "tree (tree), 30 m, right",
+     "tree (tree), 31 m, right",
+     "tree (tree), 31 m, right",
+     "tree (tree), 33 m, centre",
+     "tree (tree), 35 m, right",
+     "Lake · downhill (+y) (water), 35 m, left",
+     "tree (tree), 36 m, right",
+     "tree (tree), 39 m, centre"
+    ],
+    "flame": [
+     "Low fire: to the left, 4 m",
+     "6 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 298,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 14 m, right",
+     "tree (tree), 30 m, left"
+    ],
+    "flame": [
+     "Low fire: behind the camera, the view lit from the front, 4 m",
+     "6 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 208,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 10 m, right"
+    ],
+    "flame": [
+     "Low fire: to the right, 4 m",
+     "6 more small lamps or fires around the place"
+    ]
+   }
+  }
+ }
+]

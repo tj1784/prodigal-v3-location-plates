@@ -1,0 +1,1546 @@
+{
+ "scene": "4",
+ "title": "The supper · the demand",
+ "subtitle": "INT. ELIAB'S HOUSE - DUSK · the whole household at supper in the owner's 7 by 4 pace room, one lamp on the table, the gate lamp through the door · Asher asks for his portion",
+ "plans": [
+  {
+   "title": "Eliab's house at supper",
+   "heading": "INT. ELIAB'S HOUSE - DUSK",
+   "place_ref": [
+    "eliab_farm",
+    "eliab_house"
+   ],
+   "extent": [
+    -38.0,
+    -32.0,
+    -4.95,
+    1.35
+   ],
+   "grid": "+x east · +y north · metres · origin the gate lamp's niche in the north gatepost (0, 0), 34 m east of the door",
+   "light": {
+    "kind": "lamp",
+    "label": "one clay lamp on the table and the last grey light in through the open east door"
+   },
+   "place": [
+    {
+     "kind": "lamp",
+     "pos": [
+      -35.7,
+      -1.7
+     ],
+     "glow_m": 1.5,
+     "label": "The one lamp"
+    },
+    {
+     "kind": "track",
+     "width_m": 0.06,
+     "points": [
+      [
+       -36.5,
+       -2.15
+      ],
+      [
+       -34.0,
+       -2.0
+      ],
+      [
+       -32.0,
+       -1.885
+      ]
+     ],
+     "label": "Gate lamp, 34 m east",
+     "label_at": [
+      -32.3,
+      -2.45
+     ]
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -33.05,
+      -0.95
+     ],
+     "label": "Grey dusk light in at the door"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Eliab",
+     "named": true,
+     "pos": [
+      -35.8,
+      -0.85
+     ],
+     "facing_deg": 270,
+     "note": "at the head, back to the hearth"
+    },
+    {
+     "n": 2,
+     "name": "Micah",
+     "named": true,
+     "pos": [
+      -36.5,
+      -1.45
+     ],
+     "facing_deg": 30,
+     "note": "the steward, at Eliab's right"
+    },
+    {
+     "n": 3,
+     "name": "Asher",
+     "named": true,
+     "pos": [
+      -36.5,
+      -2.15
+     ],
+     "facing_deg": 40,
+     "note": "purple hem, faces the door"
+    },
+    {
+     "n": 4,
+     "name": "Amos",
+     "named": true,
+     "pos": [
+      -35.8,
+      -2.8
+     ],
+     "facing_deg": 90,
+     "note": "at the foot, undyed wool"
+    },
+    {
+     "n": 5,
+     "name": "Miriam",
+     "named": true,
+     "pos": [
+      -35.1,
+      0.25
+     ],
+     "facing_deg": 190,
+     "note": "at the hearth, hand on the pot"
+    },
+    {
+     "n": 6,
+     "name": "Dan",
+     "named": true,
+     "pos": [
+      -36.6,
+      -3.35
+     ],
+     "facing_deg": 55,
+     "note": "12, by the hand mill",
+     "group": "far end"
+    },
+    {
+     "n": 7,
+     "name": "hired man",
+     "pos": [
+      -36.75,
+      -3.95
+     ],
+     "facing_deg": 60,
+     "note": "on the sleeping bench",
+     "group": "far end"
+    },
+    {
+     "n": 8,
+     "name": "hired man",
+     "pos": [
+      -36.1,
+      -3.7
+     ],
+     "facing_deg": 75,
+     "note": "on the floor before the bench",
+     "group": "far end"
+    },
+    {
+     "n": 9,
+     "name": "hired man",
+     "pos": [
+      -35.5,
+      -4.05
+     ],
+     "facing_deg": 100,
+     "note": "at the bench's end",
+     "group": "far end"
+    },
+    {
+     "n": 10,
+     "name": "hired man",
+     "pos": [
+      -34.85,
+      -3.85
+     ],
+     "facing_deg": 130,
+     "note": "on Asher's rolled mat",
+     "group": "far end"
+    },
+    {
+     "n": 11,
+     "name": "hired man",
+     "pos": [
+      -34.75,
+      -3.3
+     ],
+     "facing_deg": 155,
+     "note": "on Asher's mat by the wall",
+     "group": "far end"
+    },
+    {
+     "n": 12,
+     "name": "Asher's dog",
+     "animal": true,
+     "pos": [
+      -35.8,
+      -1.95
+     ],
+     "facing_deg": 0,
+     "note": "under the table"
+    }
+   ],
+   "paths": [],
+   "cameras": [
+    {
+     "shot": "S01",
+     "what": "Low at the lamp, the door and the gate lamp",
+     "pos": [
+      -36.4,
+      -1.8
+     ],
+     "facing_deg": 0,
+     "height": "low",
+     "wedge_m": 2.4
+    },
+    {
+     "shot": "S02",
+     "what": "Over Amos's shoulder, the blessing",
+     "pos": [
+      -36.05,
+      -3.2
+     ],
+     "facing_deg": 88,
+     "height": "seated",
+     "wedge_m": 2.4
+    },
+    {
+     "shot": "S03",
+     "what": "By the door, Micah's count",
+     "pos": [
+      -34.8,
+      -2.1
+     ],
+     "facing_deg": 160,
+     "height": "standing",
+     "wedge_m": 2.0
+    },
+    {
+     "shot": "S04",
+     "what": "The pass begins on Eliab's laugh",
+     "pos": [
+      -35.2,
+      -1.05
+     ],
+     "facing_deg": 160,
+     "height": "seated",
+     "wedge_m": 1.4
+    },
+    {
+     "shot": "S05",
+     "what": "Behind Asher, his bread, the gate lamp",
+     "pos": [
+      -36.75,
+      -2.4
+     ],
+     "facing_deg": 10,
+     "height": "seated",
+     "wedge_m": 2.4
+    },
+    {
+     "shot": "S06",
+     "what": "Amos's jaw at the demand",
+     "pos": [
+      -35.2,
+      -3.0
+     ],
+     "facing_deg": 135,
+     "height": "seated",
+     "wedge_m": 2.0
+    },
+    {
+     "shot": "S07",
+     "what": "Eliab still over the bread in his hands",
+     "pos": [
+      -35.05,
+      -1.6
+     ],
+     "facing_deg": 128,
+     "height": "seated",
+     "wedge_m": 1.6
+    },
+    {
+     "shot": "S08",
+     "what": "The doorway, the whole table still",
+     "pos": [
+      -34.2,
+      -1.72
+     ],
+     "facing_deg": 182,
+     "height": "standing",
+     "wedge_m": 2.2
+    },
+    {
+     "shot": "S09",
+     "what": "Over Eliab's shoulder down to Amos",
+     "pos": [
+      -35.25,
+      -0.6
+     ],
+     "facing_deg": 245,
+     "height": "seated",
+     "wedge_m": 2.4
+    }
+   ],
+   "windows": [
+    {
+     "id": "W01",
+     "setup": "S01",
+     "frames": 345,
+     "speaker": null,
+     "does": "The household eats at supper in the last grey light, one lamp smoking on the table and the gate lamp small through the open door, the hired men at the far end, Miriam at the hearth and the dog under the table, while dogs bark on the farms down the valley",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -36.4,
+        -1.8
+       ],
+       "facing": 0,
+       "height": "low",
+       "note": "low at the table's edge between Micah's and Asher's shoulders, the lamp flame and its smoke turning in the grey light of the open door, the dog lying under the table, the gate lamp small in the dusk beyond with moths at its flame"
+      },
+      {
+       "t": 3.0,
+       "pos": [
+        -36.5,
+        -1.8
+       ],
+       "facing": 0,
+       "height": "knee",
+       "note": "rising past the lamp as dogs bark on the farms down the valley"
+      },
+      {
+       "t": 5.8,
+       "pos": [
+        -37.0,
+        -1.85
+       ],
+       "facing": 0,
+       "height": "standing",
+       "note": "drawing back between their shoulders to the whole table, Eliab at its head and Amos at its foot"
+      },
+      {
+       "t": 8.2,
+       "pos": [
+        -36.85,
+        -2.42
+       ],
+       "facing": 300,
+       "height": "standing",
+       "note": "turning past Asher's back to the hired men eating at the far end"
+      },
+      {
+       "t": 10.6,
+       "pos": [
+        -36.25,
+        -2.72
+       ],
+       "facing": 330,
+       "height": "standing",
+       "note": "through the gap by the hand mill among Dan and the hired men on the bench, the floor and the mat"
+      },
+      {
+       "t": 13.4,
+       "pos": [
+        -36.06,
+        -3.18
+       ],
+       "facing": 85,
+       "height": "seated",
+       "note": "turning up the table as Eliab takes up the round, Miriam at the hearth behind him"
+      },
+      {
+       "t": 14.2,
+       "pos": [
+        -36.05,
+        -3.2
+       ],
+       "facing": 88,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W02",
+     "setup": "S02",
+     "frames": 277,
+     "speaker": "ELIAB",
+     "line": "Blessed are you, O LORD our God, King of the world, who brings forth bread from the earth.",
+     "line_at": 2.8,
+     "wps": 2.4,
+     "does": "Eliab breaks the round of bread at the head of the table and blesses it while the household bows over the meal",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -36.05,
+        -3.2
+       ],
+       "facing": 88,
+       "height": "seated",
+       "note": "over Amos's left shoulder up the length of the table, Eliab lifting the round at its head, Miriam at the hearth behind him"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        -36.0,
+        -3.12
+       ],
+       "facing": 86,
+       "height": "seated",
+       "note": "Eliab breaks the round in his hands"
+      },
+      {
+       "t": 6.4,
+       "pos": [
+        -36.1,
+        -3.25
+       ],
+       "facing": 87,
+       "height": "standing",
+       "note": "rising and easing back a half pace over the bowed heads as he blesses the bread"
+      },
+      {
+       "t": 10.9,
+       "pos": [
+        -36.15,
+        -3.3
+       ],
+       "facing": 88,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W03",
+     "setup": "S03",
+     "frames": 226,
+     "speaker": "MICAH",
+     "line": "Sixty measures, master. The tithe is set apart, and the fifth for the store.",
+     "line_at": 3.0,
+     "does": "Micah gives his master the harvest count as the broken bread goes down the table to the hired men",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      7,
+      8,
+      9,
+      10,
+      11
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -36.15,
+        -3.3
+       ],
+       "facing": 88,
+       "height": "standing"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        -35.45,
+        -3.25
+       ],
+       "facing": 110,
+       "height": "standing",
+       "note": "behind Amos's back among the hired men as the broken bread comes down the table to them"
+      },
+      {
+       "t": 3.4,
+       "pos": [
+        -35.0,
+        -2.6
+       ],
+       "facing": 150,
+       "height": "standing",
+       "note": "out along the open side of the table by the door"
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        -34.8,
+        -2.1
+       ],
+       "facing": 160,
+       "height": "standing",
+       "note": "Micah turning to his master with the count"
+      },
+      {
+       "t": 8.8,
+       "pos": [
+        -34.8,
+        -1.98
+       ],
+       "facing": 158,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W04",
+     "setup": null,
+     "frames": 141,
+     "speaker": "ASHER",
+     "line": "This house has never seen a bad year.",
+     "line_at": 1.6,
+     "does": "Asher answers the count with a boast across the table",
+     "reached": [
+      2,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -34.8,
+        -1.98
+       ],
+       "facing": 158,
+       "height": "standing"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        -34.82,
+        -1.92
+       ],
+       "facing": 182,
+       "height": "standing",
+       "note": "across the table to Asher"
+      },
+      {
+       "t": 5.2,
+       "pos": [
+        -34.75,
+        -1.5
+       ],
+       "facing": 198,
+       "height": "standing",
+       "note": "drifting up along the doorway's edge as he boasts"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W05",
+     "setup": null,
+     "frames": 141,
+     "speaker": "ELIAB",
+     "line": "Because we kept the store in every good one.",
+     "line_at": 1.6,
+     "does": "Eliab answers his son plainly from the head of the table",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -34.75,
+        -1.5
+       ],
+       "facing": 198,
+       "height": "standing"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        -34.8,
+        -1.4
+       ],
+       "facing": 150,
+       "height": "standing",
+       "note": "up the table to Eliab"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        -34.95,
+        -1.3
+       ],
+       "facing": 152,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W06",
+     "setup": null,
+     "frames": 192,
+     "speaker": "ASHER",
+     "line": "Count the ewe twice, Micah. She came home on a better beast than the rest.",
+     "line_at": 1.4,
+     "does": "Asher leans to Micah with the joke about the ewe and the better beast that carried her home",
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -34.95,
+        -1.3
+       ],
+       "facing": 152,
+       "height": "standing"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        -34.9,
+        -1.25
+       ],
+       "facing": 200,
+       "height": "standing",
+       "note": "across to Asher leaning to Micah with the joke"
+      },
+      {
+       "t": 6.4,
+       "pos": [
+        -35.05,
+        -1.12
+       ],
+       "facing": 190,
+       "height": "seated",
+       "note": "down to the table's height at Eliab's corner as the joke lands"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        -35.12,
+        -1.05
+       ],
+       "facing": 185,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W07",
+     "setup": "S04",
+     "frames": 192,
+     "speaker": null,
+     "does": "Eliab laughs out loud and the hired men laugh while the camera passes along the table from his laugh to Asher's grin to Amos eating in silence",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -35.12,
+        -1.05
+       ],
+       "facing": 185,
+       "height": "seated"
+      },
+      {
+       "t": 1.2,
+       "pos": [
+        -35.2,
+        -1.05
+       ],
+       "facing": 160,
+       "height": "seated",
+       "note": "close on Eliab laughing out loud, his head back"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        -35.25,
+        -1.75
+       ],
+       "facing": 195,
+       "height": "seated",
+       "note": "along the table's edge past Micah laughing to Asher's grin"
+      },
+      {
+       "t": 6.4,
+       "pos": [
+        -35.28,
+        -2.45
+       ],
+       "facing": 215,
+       "height": "seated",
+       "note": "on to Amos eating in silence at the foot, the hired men laughing behind him"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        -35.28,
+        -2.48
+       ],
+       "facing": 212,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W08",
+     "setup": null,
+     "frames": 175,
+     "speaker": "ASHER",
+     "line": "Father. Sixty measures, the flock, the vines. What is all of it worth?",
+     "line_at": 1.4,
+     "does": "Asher leans toward his father and asks what all of it is worth",
+     "reached": [
+      3,
+      4,
+      6,
+      7
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -35.28,
+        -2.48
+       ],
+       "facing": 212,
+       "height": "seated"
+      },
+      {
+       "t": 1.2,
+       "pos": [
+        -35.25,
+        -2.38
+       ],
+       "facing": 190,
+       "height": "seated",
+       "note": "to Asher as he leans toward his father, Amos at the frame's edge"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        -35.0,
+        -2.2
+       ],
+       "facing": 188,
+       "height": "seated",
+       "note": "easing back an arm's length to hold the two brothers together"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W09",
+     "setup": null,
+     "frames": 107,
+     "speaker": "AMOS",
+     "line": "Eat, Asher.",
+     "line_at": 1.4,
+     "does": "Amos tells his brother low to eat, his eyes on the table",
+     "reached": [
+      4,
+      6,
+      7,
+      8
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -35.0,
+        -2.2
+       ],
+       "facing": 188,
+       "height": "seated"
+      },
+      {
+       "t": 1.0,
+       "pos": [
+        -35.15,
+        -2.35
+       ],
+       "facing": 215,
+       "height": "seated",
+       "note": "in toward Amos, his eyes on the table"
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        -35.25,
+        -2.42
+       ],
+       "facing": 213,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W10",
+     "setup": null,
+     "frames": 209,
+     "speaker": "ELIAB",
+     "line": "Worth? One day it shall be yours and your brother's.",
+     "line_at": 1.4,
+     "wps": 2.4,
+     "does": "Eliab answers warmly as the camera walks round the foot of the table behind Amos to Asher's side",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -35.25,
+        -2.42
+       ],
+       "facing": 213,
+       "height": "seated"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        -35.38,
+        -3.05
+       ],
+       "facing": 115,
+       "height": "seated",
+       "note": "round behind Amos's right shoulder as Eliab answers at the head of the table"
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        -36.0,
+        -3.38
+       ],
+       "facing": 84,
+       "height": "seated",
+       "note": "behind Amos's back among the hired men, Eliab facing down the table as he names the brother"
+      },
+      {
+       "t": 5.8,
+       "pos": [
+        -36.32,
+        -2.92
+       ],
+       "facing": 60,
+       "height": "seated",
+       "note": "up through the gap by the hand mill"
+      },
+      {
+       "t": 6.8,
+       "pos": [
+        -36.3,
+        -2.6
+       ],
+       "facing": 30,
+       "height": "seated"
+      },
+      {
+       "t": 8.0,
+       "pos": [
+        -36.75,
+        -2.4
+       ],
+       "facing": 10,
+       "height": "seated",
+       "note": "behind Asher's right shoulder"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W11",
+     "setup": "S05",
+     "frames": 243,
+     "speaker": null,
+     "does": "Asher holds his whole round over the table, looks at Amos chewing with his eyes on the table, looks through the door at the gate lamp, and sets the bread down flat with his hand on it, where the Scene 12 flash of the dog trotting off with a round of bread cuts in",
+     "reached": [
+      1,
+      3,
+      4,
+      5
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -36.75,
+        -2.4
+       ],
+       "facing": 10,
+       "height": "seated",
+       "note": "behind Asher's right shoulder, his round whole in his hand, Amos chewing at the foot of the table, the gate lamp small through the door beyond"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        -36.72,
+        -2.38
+       ],
+       "facing": 352,
+       "height": "seated",
+       "note": "Asher looks at Amos, who chews with his eyes on the table"
+      },
+      {
+       "t": 5.2,
+       "pos": [
+        -36.72,
+        -2.42
+       ],
+       "facing": 6,
+       "height": "seated",
+       "note": "Asher looks through the door at the gate lamp"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        -36.5,
+        -2.5
+       ],
+       "facing": 40,
+       "height": "seated",
+       "note": "over his shoulder as he sets the bread down flat on the table and keeps his hand on it"
+      },
+      {
+       "t": 9.6,
+       "pos": [
+        -36.08,
+        -2.22
+       ],
+       "facing": 58,
+       "height": "knee",
+       "note": "leaning out over the table's corner down to his flat hand until the crust of the round fills the lens"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the crust of a barley round under a flat hand",
+      "slides": "back"
+     }
+    },
+    {
+     "id": "W12",
+     "setup": "S06",
+     "frames": 175,
+     "speaker": "ASHER",
+     "line": "Father, give me the portion of your goods that falls to me.",
+     "line_at": 1.4,
+     "wps": 2.4,
+     "does": "Asher asks his father for his portion while the camera settles on Amos's jaw",
+     "reached": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -35.5,
+        -2.62
+       ],
+       "facing": 160,
+       "height": "seated",
+       "note": "the crust of Amos's round in his hands filling the lens and sliding back"
+      },
+      {
+       "t": 1.8,
+       "pos": [
+        -35.2,
+        -3.0
+       ],
+       "facing": 135,
+       "height": "seated",
+       "note": "rising behind his right shoulder and settling on his jaw, Asher across the table and Eliab at its head"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        -35.22,
+        -2.98
+       ],
+       "facing": 137,
+       "height": "seated",
+       "note": "on Amos's jaw as the demand is spoken"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W13",
+     "setup": null,
+     "frames": 175,
+     "speaker": null,
+     "does": "The room falls silent, the hired men stop chewing, and Miriam's hand stops on the pot",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -35.22,
+        -2.98
+       ],
+       "facing": 137,
+       "height": "seated"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        -35.15,
+        -3.05
+       ],
+       "facing": 210,
+       "height": "seated",
+       "note": "turning to the far end as the hired men stop chewing with their bowls in their hands, Dan still by the mill"
+      },
+      {
+       "t": 5.8,
+       "pos": [
+        -35.1,
+        -3.0
+       ],
+       "facing": 120,
+       "height": "seated",
+       "note": "back across Amos's jaw and up the table to Eliab, Miriam's hand stopped on the pot at the hearth beyond him"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        -35.12,
+        -2.98
+       ],
+       "facing": 126,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W14",
+     "setup": null,
+     "frames": 192,
+     "speaker": null,
+     "does": "Amos sets his bread down, his jaw tight and his eyes on his father, and when Eliab looks at him first Amos drops his eyes to the table",
+     "reached": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -35.12,
+        -2.98
+       ],
+       "facing": 126,
+       "height": "seated"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        -35.2,
+        -2.95
+       ],
+       "facing": 145,
+       "height": "seated",
+       "note": "back onto Amos as he sets his bread down, his jaw tight, his eyes up the table on his father"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        -35.25,
+        -2.9
+       ],
+       "facing": 138,
+       "height": "seated",
+       "note": "Eliab at the head looks at Amos first"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        -35.3,
+        -2.86
+       ],
+       "facing": 150,
+       "height": "seated",
+       "note": "Amos drops his eyes to the table"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W15",
+     "setup": "S07",
+     "frames": 226,
+     "speaker": "ELIAB",
+     "line": "You know what you ask.",
+     "line_at": 4.4,
+     "wps": 2.0,
+     "does": "Eliab looks down at the bread in his hands for a long still moment, then tells Asher he knows what he asks, and Asher holds his father's eyes",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -35.3,
+        -2.86
+       ],
+       "facing": 150,
+       "height": "seated"
+      },
+      {
+       "t": 2.0,
+       "pos": [
+        -35.0,
+        -2.3
+       ],
+       "facing": 140,
+       "height": "seated",
+       "note": "up the open side of the table"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        -35.05,
+        -1.6
+       ],
+       "facing": 128,
+       "height": "seated",
+       "note": "to Eliab, still for a long moment over the bread in his hands"
+      },
+      {
+       "t": 6.8,
+       "pos": [
+        -35.08,
+        -1.52
+       ],
+       "facing": 165,
+       "height": "seated",
+       "note": "Eliab lifts his eyes to Asher, and Asher holds them"
+      },
+      {
+       "t": 8.6,
+       "pos": [
+        -35.12,
+        -1.45
+       ],
+       "facing": 172,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W16",
+     "setup": null,
+     "frames": 226,
+     "speaker": "ELIAB",
+     "line": "Your portion will be silver, son, and silver runs faster than any man who carries it.",
+     "line_at": 1.2,
+     "wps": 2.4,
+     "does": "Eliab names the cost to his son, silver that runs faster than any man who carries it",
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -35.12,
+        -1.45
+       ],
+       "facing": 172,
+       "height": "seated"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        -35.25,
+        -1.15
+       ],
+       "facing": 180,
+       "height": "seated",
+       "note": "close at his left side, Eliab speaking to Asher across the table"
+      },
+      {
+       "t": 8.4,
+       "pos": [
+        -35.28,
+        -1.12
+       ],
+       "facing": 175,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W17",
+     "setup": null,
+     "frames": 192,
+     "speaker": "ELIAB",
+     "line": "Every morning you chose your bed, and I let you choose it.",
+     "line_at": 1.4,
+     "wps": 2.4,
+     "does": "Eliab tells Asher he let him choose his bed every morning, and Asher looks down",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      6
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -35.28,
+        -1.12
+       ],
+       "facing": 175,
+       "height": "seated"
+      },
+      {
+       "t": 3.0,
+       "pos": [
+        -35.12,
+        -1.85
+       ],
+       "facing": 198,
+       "height": "seated",
+       "note": "along the table to Asher's face as his father speaks"
+      },
+      {
+       "t": 6.8,
+       "pos": [
+        -35.15,
+        -1.9
+       ],
+       "facing": 202,
+       "height": "seated",
+       "note": "Asher looks down"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W18",
+     "setup": "S08",
+     "frames": 158,
+     "speaker": "ELIAB",
+     "line": "Now you choose the road.",
+     "line_at": 1.0,
+     "wps": 2.0,
+     "does": "Eliab tells Asher that now he chooses the road, and the whole table stays still",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -35.15,
+        -1.9
+       ],
+       "facing": 202,
+       "height": "seated"
+      },
+      {
+       "t": 3.0,
+       "pos": [
+        -34.65,
+        -1.9
+       ],
+       "facing": 185,
+       "height": "standing",
+       "note": "rising and drawing back toward the doorway"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        -34.2,
+        -1.72
+       ],
+       "facing": 182,
+       "height": "standing",
+       "note": "in the doorway, the whole table still in the lamplight"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W19",
+     "setup": "S09",
+     "frames": 226,
+     "speaker": "ELIAB",
+     "line": "Tomorrow I divide my living. To your brother his part, and to you yours.",
+     "line_at": 2.4,
+     "wps": 2.4,
+     "does": "Eliab grants the division to both sons, his part to the brother and his own to Asher",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -34.2,
+        -1.72
+       ],
+       "facing": 182,
+       "height": "standing"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        -34.7,
+        -1.2
+       ],
+       "facing": 200,
+       "height": "standing",
+       "note": "in from the doorway toward the head of the table"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        -35.25,
+        -0.6
+       ],
+       "facing": 245,
+       "height": "seated",
+       "note": "round behind Eliab's left shoulder and down the length of the table to Amos at its foot"
+      },
+      {
+       "t": 8.6,
+       "pos": [
+        -35.27,
+        -0.62
+       ],
+       "facing": 250,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W20",
+     "setup": null,
+     "frames": 209,
+     "speaker": "AMOS",
+     "line": "Write mine if you must, Father. Then keep it. I am going nowhere.",
+     "line_at": 2.0,
+     "wps": 2.4,
+     "does": "Amos answers quietly from the foot of the table, asking his father to write his share and keep it, for he is staying",
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -35.27,
+        -0.62
+       ],
+       "facing": 250,
+       "height": "seated"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        -35.35,
+        -0.72
+       ],
+       "facing": 252,
+       "height": "seated",
+       "note": "leaning in over Eliab's shoulder, Amos at the foot of the table with the hired men behind him"
+      },
+      {
+       "t": 8.2,
+       "pos": [
+        -35.45,
+        -0.82
+       ],
+       "facing": 254,
+       "height": "seated",
+       "note": "in past Eliab's shoulder onto Amos as he finishes, Asher's hand still flat on his bread"
+      }
+     ],
+     "out": {
+      "kind": "end"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The foot of the table",
+     "extent": [
+      -37.35,
+      -34.55,
+      -3.5,
+      -2.15
+     ]
+    },
+    {
+     "key": "B",
+     "title": "The head of the table",
+     "extent": [
+      -36.8,
+      -33.6,
+      -2.15,
+      -0.35
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "The room is the owner's 7 by 4 paces (5.25 by 3.0 m) from eliab_house, unchanged, and the gate lamp shows through the east doorway from the table and the west stools, 34 m away in the north gatepost.",
+  "Eliab sits at the head on the north stool with his back to the hearth, Micah at his right hand, Asher beside Micah facing the door and the gate lamp, and Amos at the foot among the hired men, so father and elder son face each other down the table.",
+  "The far end is crowded with five hired men on the sleeping bench, the floor and Asher's mat, and Dan (12) on the mill's reed mat, because the screenplay seats the whole household; everyone keeps their place through the meal, so the plan draws camera paths only.",
+  "The light is one clay lamp on the table and the last grey light from the open door; the hearth is banked under Miriam's pot and gives warmth and breath, and the lamp gives the light.",
+  "Signature move, W07 to W12, the camera passes along the open side of the table from Eliab's laugh to Asher's grin to Amos eating in silence, and settles on Amos's jaw at the demand with Asher and Eliab beyond him.",
+  "The camera works the open east side between the table and the door, and reaches the west side by walking round the foot of the table among the hired men (W01, W03, W10).",
+  "The scene is two long takes, W01 to W11 (94 s) and W12 to W20 (74 s), joined by one bread stitch, Asher's round under his flat hand to Amos's round in his hands, 0.7 m apart.",
+  "The Scene 12 flash of the dog trotting off with a round of bread cuts in at that bread stitch, at the end of W11.",
+  "After the demand Amos's eyes go up the table to his father, and he drops them to the table when Eliab looks at him first, as the screenplay has it.",
+  "W13 and W14 stay at Amos's jaw by choice while the room goes still; insets A and B hold the windows at the foot and the head of the table, and the main map keeps the walks and the signature pass (W07)."
+ ]
+}

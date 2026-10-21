@@ -1,0 +1,190 @@
+{
+ "scene": "5",
+ "title": "The gate at night",
+ "subtitle": "EXT. ELIAB'S FARM - GATE - NIGHT · EXT. ELIAB'S FARM - GATE - FIRST LIGHT · the lamp filled for the night and Amos at the threshold, then the division written to both sons and sealed by the last of the gate lamp",
+ "plans": [
+  {
+   "title": "The gate at night",
+   "heading": "EXT. ELIAB'S FARM - GATE - NIGHT",
+   "place_ref": ["eliab_farm"],
+   "extent": [-39, 13, -17, 15.5],
+   "light": {"kind": "lamp", "label": "moonless night; the gate lamp in its niche, the lit house door far across the yard"},
+   "place": [
+    {"kind": "lamp", "pos": [0, 0], "glow_m": 3.0, "label": "Gate lamp, filled and trimmed"},
+    {"kind": "lamp", "pos": [-35.8, -1.8], "glow_m": 2.4, "label": "House lamp, the door open and lit"},
+    {"kind": "label", "pos": [-0.15, -1.35], "label": "Amos stops on the threshold"},
+    {"kind": "label", "pos": [-16, -6.0], "label": "Night wind off the hills, from the west"},
+    {"kind": "label", "pos": [9.5, -5.6], "label": "The dark road east"}
+   ],
+   "people": [
+    {"n": 1, "name": "Eliab", "named": true, "pos": [1.0, 0.0], "facing_deg": 180, "note": "a small oil juglet in his hand, rust-red mantle"},
+    {"n": 2, "name": "Amos", "named": true, "pos": [-34.6, -1.8], "facing_deg": 0, "note": "inside the lit house door"}
+   ],
+   "paths": [
+    {"who": 2, "points": [[-34.6, -1.8], [-33.7, -1.8], [-20, -1.72], [-4, -1.62], [-0.15, -1.35]], "note": "comes out of the house and crosses the dark yard to the threshold"},
+    {"who": 2, "points": [[-0.15, -1.35], [-1.3, -2.15], [-12, -2.2], [-33.4, -2.05], [-34.6, -1.95]], "note": "turns and goes back in through the open lit door"}
+   ],
+   "cameras": [
+    {"shot": "S01", "what": "Oil into the lamp at the niche, his old hands and the flame", "pos": [0.8, -0.55], "facing_deg": 110, "height": "standing", "wedge_m": 1.6},
+    {"shot": "S02", "what": "Amos coming out of the dark into the lamp's reach", "pos": [-7.6, -2.3], "facing_deg": 168, "height": "standing", "wedge_m": 5},
+    {"shot": "S03", "what": "Amos on the threshold, the lit door far behind him", "pos": [0.75, -0.95], "facing_deg": 204, "height": "standing", "wedge_m": 3},
+    {"shot": "S04", "what": "Eliab's face over the flame, his eyes on the wick", "pos": [0.8, -0.85], "facing_deg": 77, "height": "standing", "wedge_m": 1.6},
+    {"shot": "S05", "what": "Eliab at the lamp looking down the dark road, the lit door far behind", "pos": [2.1, -1.6], "facing_deg": 150, "height": "standing", "wedge_m": 6}
+   ],
+   "windows": [
+    {"id": "W01", "setup": "S01", "frames": 277, "speaker": null,
+     "does": "Eliab fills the clay lamp in its niche from a small juglet and trims the wick, the flame bends in the wind off the hills and holds, and far across the dark yard Amos comes out of the lit house door",
+     "reached": [1, 2],
+     "keys": [
+      {"t": 0.0, "pos": [0.8, -0.55], "facing": 110, "height": "standing", "note": "close at his left shoulder, oil running from a small clay juglet into the lamp in the niche"},
+      {"t": 3.4, "pos": [0.74, -0.48], "facing": 122, "height": "standing", "note": "in to the wick as his old fingers trim it, moths at the flame"},
+      {"t": 6.6, "pos": [0.8, -0.56], "facing": 116, "height": "standing", "note": "the flame bends out toward the road in the wind off the hills, and holds"},
+      {"t": 8.4, "pos": [1.15, -0.85], "facing": 140, "height": "standing", "note": "turning with the sound of the house door far behind"},
+      {"t": 11.0, "pos": [1.9, -1.25], "facing": 158, "height": "standing", "note": "a step back onto the road, and far across the dark yard through the open gateway Amos comes out of the lit door"}
+     ],
+     "out": {"kind": "continue"}},
+    {"id": "W02", "setup": "S02", "frames": 396, "speaker": null,
+     "does": "Amos crosses the dark yard to the gate, and the camera goes in to meet him and walks backward before him into the lamp's light",
+     "reached": [2],
+     "keys": [
+      {"t": 0.0, "pos": [1.9, -1.25], "facing": 158, "height": "standing"},
+      {"t": 1.6, "pos": [0.9, -1.7], "facing": 186, "height": "standing", "note": "off the road into the open gateway, the far lit doorway ahead"},
+      {"t": 6.4, "pos": [-4.4, -2.6], "facing": 176, "height": "standing", "note": "into the dark yard toward Amos as he comes across it from the lit door"},
+      {"t": 9.6, "pos": [-7.6, -2.3], "facing": 168, "height": "standing", "note": "meeting him a few paces off, his face coming out of the dark into the lamp's reach"},
+      {"t": 11.0, "pos": [-5.2, -1.45], "facing": 182, "height": "standing", "note": "a sidestep onto his line, then backward before him"},
+      {"t": 14.0, "pos": [-0.6, -1.4], "facing": 182, "height": "standing", "note": "walking backward before him to the gate, his set face in the lamplight, his eyes on the lamp past the lens and the lit door far behind him"},
+      {"t": 15.9, "pos": [0.75, -0.95], "facing": 204, "height": "standing", "note": "out through the gateway to his father's side as Amos stops on the threshold"}
+     ],
+     "out": {"kind": "continue"}},
+    {"id": "W03", "setup": "S03", "frames": 124, "speaker": "AMOS", "line": "Tell him no.", "line_at": 1.0, "wps": 1.8,
+     "does": "Amos stops on the threshold and says it low and hard to his father at the lamp",
+     "reached": [2],
+     "keys": [
+      {"t": 0.0, "pos": [0.75, -0.95], "facing": 204, "height": "standing", "note": "Amos on the threshold, his jaw set, his eyes on his father past the lens"},
+      {"t": 2.6, "pos": [0.55, -1.1], "facing": 200, "height": "standing", "note": "a short step in on the three low words"},
+      {"t": 4.5, "pos": [0.55, -1.1], "facing": 150, "height": "standing", "whip": "right", "note": "a fast turn toward his father's answer"}
+     ],
+     "out": {"kind": "whip", "dir": "right"}},
+    {"id": "W04", "setup": "S04", "frames": 243, "speaker": "ELIAB", "line": "A son is not an ox, Amos, to be kept in a stall.", "line_at": 1.2, "wps": 2.4,
+     "does": "Eliab answers with his eyes on the wick, then turns from the lamp to look at his son, who is already going in",
+     "reached": [1, 2],
+     "keys": [
+      {"t": 0.0, "pos": [0.58, -1.08], "facing": 72, "height": "standing", "note": "the whip lands on Eliab's face over the flame"},
+      {"t": 1.0, "pos": [0.8, -0.85], "facing": 77, "height": "standing", "note": "his eyes on the wick as he answers"},
+      {"t": 5.6, "pos": [0.84, -0.82], "facing": 80, "height": "standing", "note": "his fingers still at the wick"},
+      {"t": 7.0, "pos": [0.82, -0.88], "facing": 150, "height": "standing", "note": "turning with his look from the lamp toward the gateway"},
+      {"t": 8.4, "pos": [0.65, -1.2], "facing": 196, "height": "standing", "note": "a step into the gateway with his look, and Amos's back already going in across the dark yard toward the lit door"}
+     ],
+     "out": {"kind": "continue"}},
+    {"id": "W05", "setup": "S05", "frames": 209, "speaker": null,
+     "does": "Eliab stays with the lamp and looks down the dark road, while far behind him Amos walks back across the yard to the open lit door",
+     "reached": [1, 2],
+     "keys": [
+      {"t": 0.0, "pos": [0.65, -1.2], "facing": 196, "height": "standing"},
+      {"t": 1.8, "pos": [1.0, -1.2], "facing": 110, "height": "standing", "note": "back with Eliab as he turns from the yard to the lamp"},
+      {"t": 4.6, "pos": [1.75, -1.55], "facing": 142, "height": "standing", "note": "round onto the road in front of him as he looks down it"},
+      {"t": 6.8, "pos": [2.1, -1.6], "facing": 150, "height": "standing", "note": "his face edged by the lamp behind him, his eyes past the lens down the dark road, the open gateway and the lit door far behind him"},
+      {"t": 8.2, "pos": [2.12, -1.62], "facing": 151, "height": "standing", "note": "the flame holding in its niche, Amos's dark shape small against the lit doorway"}
+     ],
+     "out": {"kind": "cut"}}
+   ],
+   "insets": [
+    {"key": "A", "title": "The lamp and the threshold", "extent": [-1.1, 3.3, -2.05, 0.55]},
+    {"key": "B", "title": "Meeting Amos in the dark yard", "extent": [-8.6, 2.4, -3.2, 0.2]}
+   ]
+  },
+  {
+   "title": "The gate at first light",
+   "heading": "EXT. ELIAB'S FARM - GATE - FIRST LIGHT",
+   "place_ref": ["eliab_farm"],
+   "extent": [-39, 13, -17, 15.5],
+   "light": {"kind": "dawn", "from_deg": 8, "label": "first light, grey over the eastern hills; the gate lamp burning its last"},
+   "place": [
+    {"kind": "lamp", "pos": [0, 0], "glow_m": 1.4, "label": "Gate lamp, its last"},
+    {"kind": "prop", "pos": [1.0, 1.02], "size": [0.32, 0.22], "shape": "rect"},
+    {"kind": "label", "pos": [1.3, -0.45], "label": "Micah stops with the wax"}
+   ],
+   "people": [
+    {"n": 1, "name": "Eliab", "named": true, "pos": [0.68, 1.05], "facing_deg": 0, "note": "papyrus on his knee, a reed in his hand"},
+    {"n": 2, "name": "Amos", "named": true, "pos": [-34.0, -1.75], "facing_deg": 0, "note": "standing in the open house doorway, watching"},
+    {"n": 3, "name": "Micah", "named": true, "pos": [-24.5, -3.1], "facing_deg": 0, "note": "has come out of the house with the wax"}
+   ],
+   "paths": [
+    {"who": 3, "points": [[-24.5, -3.1], [-8, -3.3], [-1.0, -2.6], [0.9, -1.0], [1.3, -0.45]], "note": "crosses the grey yard on the south side of the lane and stops before his master with the wax"},
+    {"who": 3, "points": [[1.3, -0.45], [1.1, 0.3], [1.75, -0.5]], "note": "steps up to give the wax, then back"},
+    {"who": 1, "points": [[0.68, 1.05], [0.85, 0.55], [0.68, 1.05]], "note": "half rises to the niche to soften the wax at the flame, and sits again"}
+   ],
+   "cameras": [
+    {"shot": "S06", "what": "The same gate at first light, the division on his knee, Amos in the far doorway", "pos": [2.1, -1.6], "facing_deg": 150, "height": "standing", "wedge_m": 6},
+    {"shot": "S07", "what": "The father writing near, the elder son watching from the far doorway", "pos": [1.85, -0.65], "facing_deg": 153, "height": "standing", "wedge_m": 6},
+    {"shot": "S08", "what": "Micah holding the wax, his master's shoulder near", "pos": [1.35, 1.55], "facing_deg": 245, "height": "seated", "wedge_m": 2.5},
+    {"shot": "S09", "what": "The signet pressed into the wax on his knee", "pos": [1.35, 0.8], "facing_deg": 165, "height": "seated", "wedge_m": 1.2}
+   ],
+   "windows": [
+    {"id": "W06", "setup": "S06", "frames": 192, "speaker": null,
+     "does": "At first light Eliab sits on the stone bench by the gatepost writing on the papyrus on his knee by the last of the lamp, while Amos stands in the far doorway and Micah crosses the yard",
+     "reached": [1, 2, 3],
+     "keys": [
+      {"t": 0.0, "pos": [2.1, -1.6], "facing": 150, "height": "standing", "note": "the same frame at first light, Eliab on the stone bench writing, the lamp burning low in the niche, Amos standing in the far doorway and Micah crossing the grey yard with the wax"},
+      {"t": 3.0, "pos": [2.4, -0.45], "facing": 150, "height": "standing", "note": "a slow walk in toward the bench"},
+      {"t": 5.4, "pos": [1.7, 0.7], "facing": 168, "height": "seated", "note": "lowering toward the papyrus on his knee, the reed moving slowly and squarely in the last of the lamplight"},
+      {"t": 7.4, "pos": [1.1, 0.95], "facing": 178, "height": "seated", "note": "close over the page until its pale fibres fill the lens"}
+     ],
+     "out": {"kind": "occluder", "what": "the pale fibres of the papyrus sheet", "slides": "back"}},
+    {"id": "W07", "setup": "S07", "frames": 345, "speaker": "ELIAB", "line": "The upper terraces, <pause> the olives, <pause> the greater flock. <pause> To Amos. <pause> The lower field and the vineyard. <pause> To Asher.", "line_at": 1.4, "wps": 1.9,
+     "does": "Eliab writes slowly and squarely and says each part aloud, and far beyond the post Amos stands in the doorway watching as Micah comes up to the gate with the wax",
+     "reached": [1, 2, 3],
+     "keys": [
+      {"t": 0.0, "pos": [1.1, 0.95], "facing": 178, "height": "seated", "note": "the papyrus sliding back as the lens rises off the page"},
+      {"t": 2.6, "pos": [1.5, 0.75], "facing": 165, "height": "seated", "note": "up off the page to his face, the words slow and square as he writes them"},
+      {"t": 5.4, "pos": [1.58, 0.62], "facing": 160, "height": "seated", "note": "his eyes on the reed, the last flame at his shoulder"},
+      {"t": 8.2, "pos": [1.85, -0.65], "facing": 153, "height": "standing", "note": "on his son's name a step back past the post, and far beyond it in the open doorway Amos stands watching"},
+      {"t": 12.4, "pos": [1.9, -0.75], "facing": 152, "height": "standing", "note": "the father writing at the frame's edge and the elder son small in the far doorway"},
+      {"t": 13.8, "pos": [1.95, -0.85], "facing": 160, "height": "standing", "note": "Micah coming up through the gateway into the frame with the wax"}
+     ],
+     "out": {"kind": "continue"}},
+    {"id": "W08", "setup": "S08", "frames": 175, "speaker": "MICAH", "line": "Master, he will sell your father's vines.", "line_at": 2.6, "wps": 2.3,
+     "does": "Micah holds the wax against his chest and keeps it, and speaks for the old vines",
+     "reached": [1, 3],
+     "keys": [
+      {"t": 0.0, "pos": [1.95, -0.85], "facing": 160, "height": "standing"},
+      {"t": 1.1, "pos": [2.25, 0.35], "facing": 215, "height": "standing", "note": "round past Micah's shoulder"},
+      {"t": 2.2, "pos": [1.35, 1.55], "facing": 245, "height": "seated", "note": "low beside his master at the bench, the old steward beyond him holding the wax to his chest"},
+      {"t": 4.6, "pos": [1.38, 1.5], "facing": 246, "height": "seated", "note": "his eyes on his master as he speaks for the old vines"},
+      {"t": 6.6, "pos": [1.4, 1.45], "facing": 244, "height": "seated", "note": "the wax held fast against his chest"}
+     ],
+     "out": {"kind": "continue"}},
+    {"id": "W09", "setup": "S09", "frames": 328, "speaker": "ELIAB", "line": "Then they are his to sell.", "line_at": 1.6, "wps": 2.2,
+     "does": "Eliab answers, Micah gives him the wax, and Eliab softens it at the last of the flame, presses his signet into it and lifts the ring away, his hand shaking once",
+     "reached": [1, 3],
+     "keys": [
+      {"t": 0.0, "pos": [1.4, 1.45], "facing": 244, "height": "seated"},
+      {"t": 1.4, "pos": [1.65, 0.5], "facing": 150, "height": "seated", "note": "a quiet turn round his knees to his face as he answers his old steward"},
+      {"t": 4.4, "pos": [1.62, 0.48], "facing": 152, "height": "seated", "note": "the answer quiet, his eyes on Micah"},
+      {"t": 6.2, "pos": [1.55, 0.4], "facing": 168, "height": "seated", "note": "Micah's old hand coming in with the wax and giving it into his master's"},
+      {"t": 8.6, "pos": [1.3, 0.05], "facing": 182, "height": "standing", "note": "up with the wax to the niche, close on it turning soft in the last of the flame"},
+      {"t": 11.0, "pos": [1.35, 0.8], "facing": 165, "height": "seated", "note": "down with the soft wax to the papyrus on his knee as he presses his signet into it"},
+      {"t": 12.4, "pos": [1.32, 0.84], "facing": 163, "height": "seated", "note": "the ring lifting away from the seal"},
+      {"t": 13.2, "pos": [1.3, 0.86], "facing": 162, "height": "seated", "note": "his old hand shaking once"}
+     ],
+     "out": {"kind": "end"}}
+   ],
+   "insets": [
+    {"key": "A", "title": "The gateway, the bench and the lamp", "extent": [-1.6, 4.6, -2.2, 1.75]},
+    {"key": "B", "title": "The wax at the bench", "extent": [-0.35, 3.2, -0.35, 1.75]}
+   ]
+  }
+ ],
+ "notes": [
+  "Both hours use Scene 2's farm frame, +x east and +y north in metres from the lamp niche in the north gatepost, with the house door 34 m west on the gateway's axis.",
+  "At night Eliab tends the lamp from the road face of the niche, outside his own gate, so Amos comes out across the dark yard to the threshold to speak, and goes back in.",
+  "The night wind comes off the hills from the west, down the valley, so the flame leans out of the niche toward the road and holds.",
+  "Amos crosses the 34 m in real time, and the camera goes in to meet him and walks backward before him into the lamp's light, a baton pass from father to son and back.",
+  "The whip from Amos to his father lands on the answer in place at the post; the other joins inside each hour are continues and one stitch on the papyrus.",
+  "The gate and the house door stand open in every frame that reaches them, and Amos goes back in through the open lit door.",
+  "The first-light hour opens on the night's last frame, the same lens at the same spot, so one cut carries the hours at the gate.",
+  "From the house door the bench sits behind the north post and the 1.7 m wall, so Amos sees the lamp, the gateway and Micah and hears his father, and the lens on the road outside the gateway holds father and son in one deep frame.",
+  "Micah walks the south side of the lane so the far doorway stays clear in the deep frames, and stops before the bench with the wax.",
+  "The wax passes from Micah's hand to Eliab's, up to the last flame and down to the papyrus in one move, ending on the ring lifting and his hand shaking once."
+ ]
+}

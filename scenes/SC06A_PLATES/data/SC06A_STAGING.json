@@ -1,0 +1,1811 @@
+{
+ "scene": "6A",
+ "title": "The village gate",
+ "subtitle": "EXT. VILLAGE GATE — MORNING, SOME DAYS LATER · the vines sold before three elders · Nahum's light stone, Eliab's true one · 40 people and a donkey",
+ "plans": [
+  {
+   "title": "The village gate",
+   "heading": "EXT. VILLAGE GATE - MORNING, SOME DAYS LATER",
+   "place_ref": [
+    "village_gate"
+   ],
+   "extent": [
+    -67,
+    28,
+    -27,
+    50
+   ],
+   "light": {
+    "kind": "sun",
+    "from_deg": 330,
+    "label": "low morning sun through dust, about 18° up; the wall and arch shade the square"
+   },
+   "place": [
+    {
+     "kind": "area",
+     "fill": "dark",
+     "polygon": [
+      [
+       16.97,
+       16.97
+      ],
+      [
+       10.57,
+       20.66
+      ],
+      [
+       -3.71,
+       6.38
+      ],
+      [
+       -9.57,
+       9.77
+      ],
+      [
+       -14.95,
+       4.39
+      ],
+      [
+       -9.08,
+       1.01
+      ],
+      [
+       -23.37,
+       -13.28
+      ],
+      [
+       -16.97,
+       -16.97
+      ]
+     ],
+     "label": "Morning shade of wall and arch",
+     "label_at": [
+      7.64,
+      13.58
+     ]
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -0.06,
+      -0.93
+     ],
+     "size": [
+      1.3,
+      0.9
+     ],
+     "angle": 45,
+     "shape": "rect",
+     "label": "Nahum's cloth"
+    },
+    {
+     "kind": "fire",
+     "pos": [
+      0.88,
+      -2.23
+     ],
+     "r": 0.12,
+     "glow_m": 0.45
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -0.85,
+      -0.21
+     ],
+     "label": "Asher"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -0.99,
+      -1.13
+     ],
+     "label": "Eliab"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      -17.16,
+      11.12
+     ],
+     "facing_deg": 323,
+     "named": true,
+     "note": "sealed division under his arm"
+    },
+    {
+     "n": 2,
+     "name": "Eliab",
+     "pos": [
+      -62.23,
+      45.25
+     ],
+     "facing_deg": 322,
+     "named": true,
+     "note": "over the shoulder at about 17 s"
+    },
+    {
+     "n": 3,
+     "name": "Amos",
+     "pos": [
+      2.97,
+      7.78
+     ],
+     "facing_deg": 250,
+     "named": true,
+     "note": "apart at the north-east edge"
+    },
+    {
+     "n": 4,
+     "name": "Nahum",
+     "pos": [
+      0.67,
+      -1.38
+     ],
+     "facing_deg": 135,
+     "named": true,
+     "group": "porch",
+     "note": "stool, hand balance, stone weights"
+    },
+    {
+     "n": 5,
+     "name": "Elder 1",
+     "pos": [
+      0.14,
+      -3.68
+     ],
+     "facing_deg": 125,
+     "named": true,
+     "group": "porch",
+     "note": "staff"
+    },
+    {
+     "n": 6,
+     "name": "Elder 2",
+     "pos": [
+      0.6,
+      -3.22
+     ],
+     "facing_deg": 131,
+     "named": true,
+     "group": "porch",
+     "note": "scribe, reed pen"
+    },
+    {
+     "n": 7,
+     "name": "Elder 3",
+     "pos": [
+      1.06,
+      -2.76
+     ],
+     "facing_deg": 141,
+     "named": true,
+     "group": "porch",
+     "note": "softens the wax"
+    },
+    {
+     "n": 8,
+     "name": "mother",
+     "pos": [
+      -6.89,
+      3.01
+     ],
+     "facing_deg": 145,
+     "named": true,
+     "group": "B",
+     "note": "pulls her child back"
+    },
+    {
+     "n": 9,
+     "name": "her child",
+     "pos": [
+      -6.75,
+      4.14
+     ],
+     "facing_deg": 149,
+     "named": true,
+     "group": "B",
+     "note": "in the lane"
+    },
+    {
+     "n": 10,
+     "name": "laughing child",
+     "pos": [
+      -2.9,
+      -3.32
+     ],
+     "facing_deg": 75,
+     "named": true,
+     "group": "wall SW",
+     "note": "on the wall top"
+    },
+    {
+     "n": 11,
+     "name": "older sister",
+     "pos": [
+      -3.43,
+      -3.85
+     ],
+     "facing_deg": 70,
+     "group": "wall SW",
+     "note": "on the wall top, her hand hushes him"
+    },
+    {
+     "n": 12,
+     "name": "child on the wall",
+     "pos": [
+      -4.53,
+      -4.95
+     ],
+     "facing_deg": 85,
+     "group": "wall SW"
+    },
+    {
+     "n": 13,
+     "name": "child on the wall",
+     "pos": [
+      -5.73,
+      -6.15
+     ],
+     "facing_deg": 95,
+     "group": "wall SW"
+    },
+    {
+     "n": 14,
+     "name": "child on the wall",
+     "pos": [
+      3.39,
+      2.97
+     ],
+     "facing_deg": 195,
+     "group": "wall NE"
+    },
+    {
+     "n": 15,
+     "name": "child on the wall",
+     "pos": [
+      4.45,
+      4.03
+     ],
+     "facing_deg": 190,
+     "group": "wall NE"
+    },
+    {
+     "n": 16,
+     "name": "child on the wall",
+     "pos": [
+      5.73,
+      5.3
+     ],
+     "facing_deg": 185,
+     "group": "wall NE"
+    },
+    {
+     "n": 17,
+     "name": "child on the wall",
+     "pos": [
+      7.0,
+      6.58
+     ],
+     "facing_deg": 180,
+     "group": "wall NE"
+    },
+    {
+     "n": 18,
+     "name": "villager",
+     "pos": [
+      -4.31,
+      -0.64
+     ],
+     "facing_deg": 347,
+     "group": "A"
+    },
+    {
+     "n": 19,
+     "name": "village man",
+     "pos": [
+      -5.8,
+      -0.85
+     ],
+     "facing_deg": 8,
+     "group": "A"
+    },
+    {
+     "n": 20,
+     "name": "boy",
+     "pos": [
+      -5.3,
+      0.92
+     ],
+     "facing_deg": 339,
+     "group": "A"
+    },
+    {
+     "n": 21,
+     "name": "old woman",
+     "pos": [
+      -5.66,
+      -2.4
+     ],
+     "facing_deg": 27,
+     "group": "A"
+    },
+    {
+     "n": 22,
+     "name": "hired man",
+     "pos": [
+      -7.14,
+      0.78
+     ],
+     "facing_deg": 340,
+     "group": "A"
+    },
+    {
+     "n": 23,
+     "name": "village woman",
+     "pos": [
+      -7.57,
+      -1.34
+     ],
+     "facing_deg": 10,
+     "group": "A"
+    },
+    {
+     "n": 24,
+     "name": "villager",
+     "pos": [
+      -9.48,
+      2.69
+     ],
+     "facing_deg": 340,
+     "group": "B"
+    },
+    {
+     "n": 25,
+     "name": "village man",
+     "pos": [
+      -11.17,
+      2.69
+     ],
+     "facing_deg": 337,
+     "group": "B"
+    },
+    {
+     "n": 26,
+     "name": "boy",
+     "pos": [
+      -10.04,
+      4.53
+     ],
+     "facing_deg": 341,
+     "group": "B"
+    },
+    {
+     "n": 27,
+     "name": "old woman",
+     "pos": [
+      -10.75,
+      0.57
+     ],
+     "facing_deg": 343,
+     "group": "B"
+    },
+    {
+     "n": 28,
+     "name": "hired man",
+     "pos": [
+      -12.23,
+      4.6
+     ],
+     "facing_deg": 339,
+     "group": "B"
+    },
+    {
+     "n": 29,
+     "name": "village woman",
+     "pos": [
+      -1.13,
+      3.54
+     ],
+     "facing_deg": 289,
+     "group": "C"
+    },
+    {
+     "n": 30,
+     "name": "villager",
+     "pos": [
+      -1.13,
+      5.23
+     ],
+     "facing_deg": 276,
+     "group": "C"
+    },
+    {
+     "n": 31,
+     "name": "village man",
+     "pos": [
+      -3.11,
+      4.95
+     ],
+     "facing_deg": 309,
+     "group": "C"
+    },
+    {
+     "n": 32,
+     "name": "boy",
+     "pos": [
+      0.49,
+      4.74
+     ],
+     "facing_deg": 256,
+     "group": "C"
+    },
+    {
+     "n": 33,
+     "name": "old woman",
+     "pos": [
+      -3.25,
+      6.51
+     ],
+     "facing_deg": 297,
+     "group": "C"
+    },
+    {
+     "n": 34,
+     "name": "hired man",
+     "pos": [
+      -1.06,
+      7.14
+     ],
+     "facing_deg": 268,
+     "group": "C"
+    },
+    {
+     "n": 35,
+     "name": "village woman",
+     "pos": [
+      0.92,
+      7.42
+     ],
+     "facing_deg": 265,
+     "group": "D"
+    },
+    {
+     "n": 36,
+     "name": "villager",
+     "pos": [
+      0.92,
+      9.26
+     ],
+     "facing_deg": 272,
+     "group": "D"
+    },
+    {
+     "n": 37,
+     "name": "village man",
+     "pos": [
+      -1.27,
+      8.34
+     ],
+     "facing_deg": 272,
+     "group": "D"
+    },
+    {
+     "n": 38,
+     "name": "boy",
+     "pos": [
+      1.77,
+      10.68
+     ],
+     "facing_deg": 261,
+     "group": "D"
+    },
+    {
+     "n": 39,
+     "name": "village woman",
+     "pos": [
+      2.86,
+      -3.36
+     ],
+     "facing_deg": 137,
+     "group": "door",
+     "note": "in the street behind the door"
+    },
+    {
+     "n": 40,
+     "name": "old man",
+     "pos": [
+      3.92,
+      -3.15
+     ],
+     "facing_deg": 142,
+     "group": "door",
+     "note": "in the street behind the door"
+    },
+    {
+     "n": 41,
+     "name": "donkey",
+     "animal": true,
+     "pos": [
+      3.04,
+      4.31
+     ],
+     "facing_deg": 225,
+     "note": "tethered at a ring in the wall"
+    }
+   ],
+   "paths": [
+    {
+     "who": 1,
+     "points": [
+      [
+       -17.16,
+       11.12
+      ],
+      [
+       -13.86,
+       8.77
+      ],
+      [
+       -9.55,
+       6.01
+      ],
+      [
+       -5.18,
+       2.88
+      ],
+      [
+       -0.85,
+       -0.21
+      ]
+     ],
+     "note": "W01 down the hill path and through the hushed crowd to the scale"
+    },
+    {
+     "who": 9,
+     "points": [
+      [
+       -6.75,
+       4.14
+      ],
+      [
+       -7.32,
+       3.29
+      ]
+     ],
+     "note": "W01 pulled back by her mother as Asher passes"
+    },
+    {
+     "who": 2,
+     "points": [
+      [
+       -62.23,
+       45.25
+      ],
+      [
+       -55.86,
+       40.31
+      ],
+      [
+       -49.43,
+       35.43
+      ],
+      [
+       -41.44,
+       29.27
+      ],
+      [
+       -33.38,
+       23.19
+      ],
+      [
+       -25.39,
+       17.04
+      ],
+      [
+       -18.81,
+       12.3
+      ],
+      [
+       -13.86,
+       8.77
+      ],
+      [
+       -9.55,
+       6.01
+      ],
+      [
+       -0.99,
+       -1.13
+      ]
+     ],
+     "note": "W02 to W08 over the shoulder, down the hill path and through the parted crowd to his son's side"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       -0.85,
+       -0.21
+      ],
+      [
+       -1.73,
+       -0.53
+      ],
+      [
+       -1.91,
+       -1.48
+      ],
+      [
+       -1.1,
+       -2.37
+      ],
+      [
+       -0.21,
+       -2.69
+      ]
+     ],
+     "note": "W13 round his father to kneel at the scribe elder's deed"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       -0.21,
+       -2.69
+      ],
+      [
+       -1.2,
+       -2.05
+      ],
+      [
+       -1.1,
+       -0.32
+      ],
+      [
+       -1.66,
+       0.11
+      ]
+     ],
+     "note": "after the deed to the arch mouth with the purse, then W15 one step after his father"
+    },
+    {
+     "who": 2,
+     "points": [
+      [
+       -0.99,
+       -1.13
+      ],
+      [
+       -5.02,
+       2.05
+      ],
+      [
+       -9.12,
+       6.43
+      ],
+      [
+       -13.44,
+       9.19
+      ],
+      [
+       -18.38,
+       12.73
+      ],
+      [
+       -24.96,
+       17.47
+      ],
+      [
+       -32.95,
+       23.62
+      ],
+      [
+       -41.01,
+       29.7
+      ],
+      [
+       -49.0,
+       35.85
+      ],
+      [
+       -55.44,
+       40.73
+      ]
+     ],
+     "note": "W14 to W15 back up the lane and the hill path alone"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S01",
+     "what": "Balance on its cloth, hill path beyond the arch",
+     "pos": [
+      0.99,
+      -0.78
+     ],
+     "facing_deg": 151,
+     "height": "knee",
+     "wedge_m": 22
+    },
+    {
+     "shot": "S02",
+     "what": "Raised balance foreground, Nahum, elders, village door",
+     "pos": [
+      -0.11,
+      0.39
+     ],
+     "facing_deg": 289,
+     "height": "knee",
+     "wedge_m": 3.5
+    },
+    {
+     "shot": "S03",
+     "what": "The lane parts, Eliab grows as he comes",
+     "pos": [
+      0.78,
+      -0.07
+     ],
+     "facing_deg": 173,
+     "height": "standing",
+     "wedge_m": 14
+    },
+    {
+     "shot": "S04",
+     "what": "Father and son before the bench",
+     "pos": [
+      0.42,
+      1.56
+     ],
+     "facing_deg": 251,
+     "height": "standing",
+     "wedge_m": 4.5
+    },
+    {
+     "shot": "S05",
+     "what": "Thumb in the wax, the three elders",
+     "pos": [
+      -1.1,
+      -2.65
+     ],
+     "facing_deg": 350,
+     "height": "knee",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S06",
+     "what": "Amos at the edge of the crowd",
+     "pos": [
+      2.02,
+      5.48
+     ],
+     "facing_deg": 67,
+     "height": "standing",
+     "wedge_m": 4
+    },
+    {
+     "shot": "S07",
+     "what": "Big wide through the arch, Eliab small on the slope",
+     "pos": [
+      3.29,
+      -0.6
+     ],
+     "facing_deg": 149,
+     "height": "high",
+     "wedge_m": 58
+    }
+   ],
+   "windows": [
+    {
+     "id": "W01",
+     "setup": "S01",
+     "frames": 413,
+     "speaker": null,
+     "does": "Morning dust hangs in the low light at the arch while Nahum lays out his balance and Asher comes down the hill path and through the hushed crowd, a mother pulling her child back from his way",
+     "reached": [
+      1,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.99,
+        -0.78
+       ],
+       "facing": 151,
+       "height": "knee",
+       "note": "low beside Nahum's knee, the bronze balance on its cloth big in the foreground, the bright hill path beyond the arch with Asher small on it"
+      },
+      {
+       "t": 3.2,
+       "pos": [
+        0.0,
+        0.78
+       ],
+       "facing": 145,
+       "height": "standing",
+       "note": "rising and stepping out from under the arch"
+      },
+      {
+       "t": 7.4,
+       "pos": [
+        -3.82,
+        3.68
+       ],
+       "facing": 149,
+       "height": "standing",
+       "note": "out among the villagers in the shade, Asher growing on the path"
+      },
+      {
+       "t": 9.6,
+       "pos": [
+        -4.6,
+        4.03
+       ],
+       "facing": 173,
+       "height": "standing",
+       "note": "the mother pulls her child back as Asher reaches the crowd"
+      },
+      {
+       "t": 12.2,
+       "pos": [
+        -4.45,
+        3.61
+       ],
+       "facing": 300,
+       "height": "standing",
+       "note": "turning with Asher as he passes the lens"
+      },
+      {
+       "t": 16.6,
+       "pos": [
+        -2.02,
+        0.6
+       ],
+       "facing": 315,
+       "height": "standing",
+       "note": "behind his right shoulder as he stops at the cloth"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W02",
+     "setup": null,
+     "frames": 175,
+     "speaker": "ASHER",
+     "line": "Good morning, fathers. No one has died. You may smile.",
+     "line_at": 1.4,
+     "does": "Asher greets the elders brightly and every face in the gathering stays still",
+     "reached": [
+      1,
+      4,
+      5,
+      6,
+      7
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -2.02,
+        0.6
+       ],
+       "facing": 315,
+       "height": "standing"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        -0.53,
+        1.1
+       ],
+       "facing": 257,
+       "height": "standing",
+       "note": "round his left side, his profile to the bench"
+      },
+      {
+       "t": 4.2,
+       "pos": [
+        1.13,
+        -0.57
+       ],
+       "facing": 167,
+       "height": "seated",
+       "note": "in past the cloth to Nahum's shoulder, Asher's face with the still crowd and the bright slope behind him"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        1.17,
+        -0.67
+       ],
+       "facing": 165,
+       "height": "seated",
+       "note": "Eliab small over the shoulder of the slope behind his son"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W03",
+     "setup": null,
+     "frames": 141,
+     "speaker": "NAHUM",
+     "line": "The lower field and the vineyard. Ten shekels.",
+     "line_at": 1.6,
+     "does": "Nahum names his price over the balance on its cloth",
+     "reached": [
+      1,
+      4,
+      5,
+      6,
+      7
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1.17,
+        -0.67
+       ],
+       "facing": 165,
+       "height": "seated"
+      },
+      {
+       "t": 1.5,
+       "pos": [
+        0.28,
+        0.28
+       ],
+       "facing": 281,
+       "height": "knee",
+       "note": "a quick swing out and down to the balance, Nahum and the elders behind it, the sunlit village through the door"
+      },
+      {
+       "t": 5.5,
+       "pos": [
+        0.28,
+        0.07
+       ],
+       "facing": 285,
+       "height": "knee",
+       "note": "easing in over the cloth"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W04",
+     "setup": null,
+     "frames": 158,
+     "speaker": "ASHER",
+     "line": "Ten? The vines gave forty jars last year. You trod them yourself.",
+     "line_at": 1.0,
+     "does": "Asher answers with the forty jars while his father comes down the hill path far behind him",
+     "reached": [
+      1,
+      2,
+      4
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.28,
+        0.07
+       ],
+       "facing": 285,
+       "height": "knee"
+      },
+      {
+       "t": 1.3,
+       "pos": [
+        0.74,
+        0.04
+       ],
+       "facing": 170,
+       "height": "standing",
+       "note": "up to Asher's face, close, the hill path behind him with the small figure coming down"
+      },
+      {
+       "t": 6.2,
+       "pos": [
+        1.34,
+        0.0
+       ],
+       "facing": 167,
+       "height": "standing",
+       "note": "a stride back to open the slope behind him"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the sun-faded linen of Asher's sleeve",
+      "slides": "left"
+     }
+    },
+    {
+     "id": "W05",
+     "setup": null,
+     "frames": 175,
+     "speaker": "NAHUM",
+     "line": "I trod them with your father thirty years. Your grandfather planted them.",
+     "line_at": 1.4,
+     "does": "Nahum looks up from his stool and names the grandfather who planted the vines",
+     "reached": [
+      1,
+      4,
+      5,
+      6,
+      7
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.6,
+        0.81
+       ],
+       "facing": 295,
+       "height": "standing",
+       "note": "the sleeve clears over Asher's left shoulder onto Nahum looking up"
+      },
+      {
+       "t": 3.0,
+       "pos": [
+        -0.85,
+        0.71
+       ],
+       "facing": 297,
+       "height": "standing"
+      },
+      {
+       "t": 6.8,
+       "pos": [
+        -1.1,
+        0.53
+       ],
+       "facing": 299,
+       "height": "standing",
+       "note": "a slow stride round behind his shoulder"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W06",
+     "setup": null,
+     "frames": 226,
+     "speaker": "ASHER",
+     "line": "Ten shekels for forty jars? At that price I would buy them back from you tomorrow.",
+     "line_at": 1.0,
+     "does": "Asher turns his joke to the crowd and a child on the wall laughs until his sister's hand hushes him",
+     "reached": [
+      1,
+      4,
+      5,
+      6,
+      7,
+      10,
+      11
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -1.1,
+        0.53
+       ],
+       "facing": 299,
+       "height": "standing"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        -0.78,
+        1.91
+       ],
+       "facing": 273,
+       "height": "standing",
+       "note": "back out into the front row as Asher turns his joke to the crowd"
+      },
+      {
+       "t": 6.8,
+       "pos": [
+        -0.99,
+        2.05
+       ],
+       "facing": 271,
+       "height": "standing"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        -1.03,
+        1.8
+       ],
+       "facing": 251,
+       "height": "standing",
+       "note": "a quick turn onto the laugh on the wall top"
+      },
+      {
+       "t": 9.2,
+       "pos": [
+        -1.1,
+        1.59
+       ],
+       "facing": 248,
+       "height": "standing",
+       "note": "the older girl's hand over his mouth, the faces along the wall"
+      }
+     ],
+     "out": {
+      "kind": "whip",
+      "dir": "left"
+     }
+    },
+    {
+     "id": "W07",
+     "setup": "S02",
+     "frames": 209,
+     "speaker": "NAHUM",
+     "line": "Ten. Take it, or carry your paper home.",
+     "line_at": 4.0,
+     "does": "Nahum sets a stone in his pan, the beam swings, and he gives his last word",
+     "reached": [
+      1,
+      4,
+      5,
+      6,
+      7
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.11,
+        0.39
+       ],
+       "facing": 289,
+       "height": "knee",
+       "note": "the whip clears low beside Asher, the raised balance in the foreground, Nahum, the elders and the village door behind"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        -0.18,
+        0.04
+       ],
+       "facing": 295,
+       "height": "knee",
+       "note": "in toward the pan as the stone drops and the beam swings"
+      },
+      {
+       "t": 8.4,
+       "pos": [
+        -0.18,
+        -0.18
+       ],
+       "facing": 301,
+       "height": "knee",
+       "note": "an arm's length in under the beam"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W08",
+     "setup": "S03",
+     "frames": 311,
+     "speaker": null,
+     "does": "Asher looks from the silent elders to the faces along the wall and turns half away with the papyrus crushed in his fist as the crowd parts for Eliab, who stands beside his son with his eyes on the pan, lifts the stone out and weighs it in his palm",
+     "reached": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.18,
+        -0.18
+       ],
+       "facing": 301,
+       "height": "knee"
+      },
+      {
+       "t": 1.2,
+       "pos": [
+        0.11,
+        0.18
+       ],
+       "facing": 245,
+       "height": "standing",
+       "note": "rising past the swinging beam"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        0.67,
+        0.04
+       ],
+       "facing": 180,
+       "height": "standing",
+       "note": "turning to Asher's face, the lane open behind him"
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        0.78,
+        -0.07
+       ],
+       "facing": 173,
+       "height": "standing",
+       "note": "the crowd parts in the lane and Eliab grows as he comes"
+      },
+      {
+       "t": 8.6,
+       "pos": [
+        0.71,
+        -0.14
+       ],
+       "facing": 185,
+       "height": "standing",
+       "note": "Eliab arrives at his son's right"
+      },
+      {
+       "t": 10.6,
+       "pos": [
+        0.53,
+        -0.18
+       ],
+       "facing": 240,
+       "height": "seated",
+       "note": "down with Eliab's hand to the pan"
+      },
+      {
+       "t": 12.6,
+       "pos": [
+        0.39,
+        -0.18
+       ],
+       "facing": 217,
+       "height": "seated",
+       "note": "the grey stone in his open palm close in the lens"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the grey stone in Eliab's open palm",
+      "slides": "back"
+     }
+    },
+    {
+     "id": "W09",
+     "setup": null,
+     "frames": 158,
+     "speaker": "ELIAB",
+     "line": "This stone has never been in your pan, Nahum.",
+     "line_at": 1.2,
+     "does": "Eliab names the light stone to Nahum's face",
+     "reached": [
+      1,
+      2,
+      4
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.95,
+        -0.18
+       ],
+       "facing": 237,
+       "height": "standing",
+       "note": "the palm draws back to father and Nahum with the stone between them"
+      },
+      {
+       "t": 6.2,
+       "pos": [
+        1.59,
+        -0.25
+       ],
+       "facing": 217,
+       "height": "standing",
+       "note": "a step back to hold father and Nahum together"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W10",
+     "setup": null,
+     "frames": 209,
+     "speaker": "NAHUM",
+     "line": "Let him go back up the hill ashamed, and the vines stay in your house.",
+     "line_at": 1.4,
+     "wps": 2.4,
+     "does": "Nahum leans to Eliab's ear and speaks low for him alone",
+     "reached": [
+      2,
+      4
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1.59,
+        -0.25
+       ],
+       "facing": 217,
+       "height": "standing"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        0.85,
+        -0.57
+       ],
+       "facing": 235,
+       "height": "seated",
+       "note": "down close as Nahum leans to Eliab's ear"
+      },
+      {
+       "t": 8.2,
+       "pos": [
+        0.88,
+        -0.67
+       ],
+       "facing": 237,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W11",
+     "setup": "S04",
+     "frames": 345,
+     "speaker": "ELIAB",
+     "line": "If he goes, he goes by his own will, at a fair price. Not chased off by a light stone. <pause> Forty jars a year, Nahum. A hundred shekels, and by the true stone.",
+     "line_at": 1.0,
+     "does": "Eliab straightens beside his son and sets a fair price by the true stone",
+     "reached": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.88,
+        -0.67
+       ],
+       "facing": 237,
+       "height": "seated"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        1.03,
+        0.25
+       ],
+       "facing": 225,
+       "height": "standing",
+       "note": "rising with Eliab as he straightens"
+      },
+      {
+       "t": 8.0,
+       "pos": [
+        0.42,
+        1.56
+       ],
+       "facing": 251,
+       "height": "standing",
+       "note": "out round the front to father and son before the bench"
+      },
+      {
+       "t": 13.8,
+       "pos": [
+        0.28,
+        1.91
+       ],
+       "facing": 255,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W12",
+     "setup": null,
+     "frames": 260,
+     "speaker": null,
+     "does": "Nahum holds his old friend's eyes, sets the true stone in the pan and pours silver until the beam hangs level",
+     "reached": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.28,
+        1.91
+       ],
+       "facing": 255,
+       "height": "standing"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        0.28,
+        0.57
+       ],
+       "facing": 273,
+       "height": "seated",
+       "note": "in toward Nahum holding his old friend's eyes"
+      },
+      {
+       "t": 5.2,
+       "pos": [
+        0.32,
+        0.11
+       ],
+       "facing": 281,
+       "height": "knee",
+       "note": "down to the balance as the true stone goes into the pan"
+      },
+      {
+       "t": 10.2,
+       "pos": [
+        0.35,
+        -0.07
+       ],
+       "facing": 277,
+       "height": "knee",
+       "note": "the silver pours until the beam hangs level, the elders behind"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W13",
+     "setup": "S05",
+     "frames": 328,
+     "speaker": "ELDERS",
+     "line": "We are witnesses.",
+     "line_at": 11.4,
+     "does": "The scribe elder writes the deed, the wax softens at the ember pot, and Asher presses his thumb into it before the three elders",
+     "reached": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.35,
+        -0.07
+       ],
+       "facing": 277,
+       "height": "knee"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        0.21,
+        -0.07
+       ],
+       "facing": 283,
+       "height": "standing",
+       "note": "past Nahum's shoulder to the reed moving on the deed"
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        -1.13,
+        0.57
+       ],
+       "facing": 245,
+       "height": "standing",
+       "note": "following Asher round his father toward the bench"
+      },
+      {
+       "t": 8.2,
+       "pos": [
+        -2.4,
+        -0.99
+       ],
+       "facing": 325,
+       "height": "standing",
+       "note": "past Eliab's back to the south-west mouth of the arch"
+      },
+      {
+       "t": 9.8,
+       "pos": [
+        -1.1,
+        -2.65
+       ],
+       "facing": 350,
+       "height": "knee",
+       "note": "down beside the first elder's knee, Asher's hand over the soft wax for one breath"
+      },
+      {
+       "t": 11.2,
+       "pos": [
+        -0.99,
+        -2.83
+       ],
+       "facing": 343,
+       "height": "knee",
+       "note": "up to the three elders as they speak together"
+      },
+      {
+       "t": 13.0,
+       "pos": [
+        -1.06,
+        -2.83
+       ],
+       "facing": 341,
+       "height": "seated"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W14",
+     "setup": "S06",
+     "frames": 345,
+     "speaker": null,
+     "does": "The camera passes the watching faces to Amos at the edge of the crowd and turns with his eyes to Eliab leaving up the lane alone",
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -1.06,
+        -2.83
+       ],
+       "facing": 341,
+       "height": "seated"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        -2.05,
+        -1.27
+       ],
+       "facing": 105,
+       "height": "standing",
+       "note": "rising and turning out to the watching faces"
+      },
+      {
+       "t": 6.4,
+       "pos": [
+        0.18,
+        3.08
+       ],
+       "facing": 65,
+       "height": "standing",
+       "note": "along the front of the crowd past the faces"
+      },
+      {
+       "t": 8.6,
+       "pos": [
+        2.02,
+        5.48
+       ],
+       "facing": 67,
+       "height": "standing",
+       "note": "Amos at the north-east edge, apart, his face set"
+      },
+      {
+       "t": 10.4,
+       "pos": [
+        2.05,
+        5.66
+       ],
+       "facing": 73,
+       "height": "standing"
+      },
+      {
+       "t": 13.0,
+       "pos": [
+        1.87,
+        5.69
+       ],
+       "facing": 195,
+       "height": "standing",
+       "note": "turning with Amos's eyes to Eliab leaving up the lane into the sun"
+      },
+      {
+       "t": 14.2,
+       "pos": [
+        1.77,
+        5.73
+       ],
+       "facing": 195,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    },
+    {
+     "id": "W15",
+     "setup": "S07",
+     "frames": 413,
+     "speaker": null,
+     "does": "The whole village watches Eliab small on the long slope, Asher takes one step after him and stops, and his eyes stay down on the heavy purse",
+     "reached": [
+      1,
+      2,
+      4
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        3.29,
+        -0.6
+       ],
+       "facing": 149,
+       "height": "high",
+       "note": "held high on the bench at the back of the porch, the arch framing the village and the long bright slope"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        3.08,
+        -0.6
+       ],
+       "facing": 153,
+       "height": "high",
+       "note": "Asher's one step in the arch mouth, and his stop"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        2.33,
+        -0.49
+       ],
+       "facing": 163,
+       "height": "standing",
+       "note": "stepping down off the bench"
+      },
+      {
+       "t": 11.0,
+       "pos": [
+        0.14,
+        0.14
+       ],
+       "facing": 170,
+       "height": "standing",
+       "note": "out through the porch behind Asher"
+      },
+      {
+       "t": 14.0,
+       "pos": [
+        -2.33,
+        1.56
+       ],
+       "facing": 295,
+       "height": "standing",
+       "note": "round his left side to his face"
+      },
+      {
+       "t": 15.6,
+       "pos": [
+        -2.12,
+        1.27
+       ],
+       "facing": 297,
+       "height": "seated",
+       "note": "down to the heavy purse in his hands"
+      },
+      {
+       "t": 17.0,
+       "pos": [
+        -2.09,
+        1.17
+       ],
+       "facing": 301,
+       "height": "seated",
+       "note": "up to his face, eyes down"
+      }
+     ],
+     "out": {
+      "kind": "end"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "Under the arch",
+     "extent": [
+      -3.7,
+      5.6,
+      -4.0,
+      1.5
+     ]
+    },
+    {
+     "key": "B",
+     "title": "The lane and the crowd",
+     "extent": [
+      -12.6,
+      5.6,
+      2.2,
+      12.9
+     ]
+    }
+   ],
+   "join_bows": [],
+   "number_people": false
+  }
+ ],
+ "notes": [
+  "The gate faces north-west up the hill path, the bearing of Eliab's farm; the low sun from 330° puts the square in the shade of the wall and arch and lights the long slope beyond.",
+  "The elders sit on the bench at the back of the arched porch, facing out, the door to the village street beside them; Nahum's stool and cloth sit in front of them under the arch.",
+  "W01 to W14 is one long take of continues, with Asher's sleeve as a stitch after W04, a whip on the child's laugh after W06 and the stone in Eliab's palm after W08.",
+  "Eliab comes over the shoulder of the slope at about 17 s and walks down at about 1.4 m/s; he is small behind Asher in W02 and W04 and grows through the parted lane in W08.",
+  "Amos stands at the north-east edge of the crowd from the start, outside every camera field until W14 finds him after the elders' line.",
+  "W15 follows a hard cut that skips about 40 s of the climb, so Eliab is already small on the long slope and nears its shoulder by the end; it is the scene's one deliberate break.",
+  "The crowd closes behind Asher in the lane and parts again for Eliab; children sit along the wall top on both sides of the arch.",
+  "Nahum tips the weighed silver from the pan into Asher's purse while the camera is on the deed and Amos, so W15 opens with the purse already heavy in his hands.",
+  "People stand where the plan starts, so Asher is on the path and Eliab beyond the shoulder; the labels Asher and Eliab under the arch mark their places in the trade, and inset A reads the gate where the main map hangs its labels on leader lines."
+ ]
+}

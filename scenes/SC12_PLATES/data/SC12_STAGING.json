@@ -1,0 +1,3547 @@
+{
+ "scene": "12",
+ "title": "The road home",
+ "subtitle": "The road west · the foreign farm · the edge of the field · the well · the thorn scrub · the road home · he rehearses, steals their bread, wakes in the thorns and limps home into the sunset",
+ "plans": [
+  {
+   "title": "The road west, the well",
+   "heading": "EXT. THE ROAD WEST - DAY",
+   "extent": [
+    -19,
+    15,
+    -9,
+    9
+   ],
+   "grid": "+x east · +y north · origin the well's centre · metres",
+   "light": {
+    "kind": "sun",
+    "from_deg": 335,
+    "label": "morning, low behind him in the east"
+   },
+   "place": [
+    {
+     "kind": "area",
+     "fill": "earth",
+     "polygon": [
+      [
+       -19,
+       -9
+      ],
+      [
+       15,
+       -9
+      ],
+      [
+       15,
+       9
+      ],
+      [
+       -19,
+       9
+      ]
+     ],
+     "label": "Burnt brown land",
+     "label_at": [
+      9,
+      6.5
+     ]
+    },
+    {
+     "kind": "track",
+     "points": [
+      [
+       15,
+       -4.65
+      ],
+      [
+       0,
+       -4.5
+      ],
+      [
+       -19,
+       -4.4
+      ]
+     ],
+     "width_m": 3.6,
+     "label": "The road west",
+     "label_at": [
+      8,
+      -7.2
+     ]
+    },
+    {
+     "kind": "track",
+     "points": [
+      [
+       0.2,
+       0.8
+      ],
+      [
+       -1.4,
+       4.4
+      ],
+      [
+       -4.2,
+       9
+      ]
+     ],
+     "width_m": 1.0,
+     "label": "Footpath to a hamlet",
+     "label_at": [
+      -4.6,
+      6.6
+     ]
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      0,
+      0
+     ],
+     "size": [
+      1.5,
+      1.5
+     ],
+     "shape": "ellipse",
+     "label": "Well"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      2.15,
+      0.15
+     ],
+     "size": [
+      2.0,
+      0.6
+     ],
+     "label": "Stone trough"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      11.0,
+      -4.6
+     ],
+     "facing_deg": 180,
+     "named": true,
+     "note": "barefoot, grey tunic, the sling in his fist"
+    },
+    {
+     "n": 13,
+     "name": "woman at the rope",
+     "pos": [
+      0.45,
+      -0.85
+     ],
+     "facing_deg": 118,
+     "group": "well",
+     "note": "hauling the rope hand over hand"
+    },
+    {
+     "n": 14,
+     "name": "woman at the trough",
+     "pos": [
+      2.6,
+      -0.45
+     ],
+     "facing_deg": 95,
+     "group": "well",
+     "note": "filling a jar"
+    },
+    {
+     "n": 15,
+     "name": "woman with a jar",
+     "pos": [
+      -1.5,
+      -0.9
+     ],
+     "facing_deg": 120,
+     "group": "well",
+     "note": "a jar on her shoulder, talking"
+    },
+    {
+     "n": 16,
+     "name": "girl",
+     "pos": [
+      -2.3,
+      0.5
+     ],
+     "facing_deg": 300,
+     "group": "well",
+     "note": "a small jar on her hip"
+    }
+   ],
+   "paths": [
+    {
+     "who": 1,
+     "points": [
+      [
+       11.0,
+       -4.6
+      ],
+      [
+       0,
+       -4.55
+      ],
+      [
+       -15.5,
+       -4.45
+      ]
+     ],
+     "note": "walks west at about 1.1 m/s, past the well on his right"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S01",
+     "what": "Beside him, the well ahead beyond him",
+     "pos": [
+      4.6,
+      -6.1
+     ],
+     "facing_deg": 120,
+     "height": "standing",
+     "wedge_m": 7
+    },
+    {
+     "shot": "S02",
+     "what": "Before his face as he rehearses",
+     "pos": [
+      -10.1,
+      -4.7
+     ],
+     "facing_deg": 5,
+     "height": "standing",
+     "wedge_m": 4
+    }
+   ],
+   "windows": [
+    {
+     "id": "W01",
+     "setup": "S01",
+     "frames": 260,
+     "speaker": null,
+     "reached": [
+      1,
+      13,
+      14,
+      15,
+      16
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        12.0,
+        -5.7
+       ],
+       "facing": 132,
+       "height": "low",
+       "note": "low on the stony road behind his bare feet, the sling swinging in his fist"
+      },
+      {
+       "t": 3.2,
+       "pos": [
+        8.6,
+        -6.0
+       ],
+       "facing": 125,
+       "height": "knee",
+       "note": "rising beside him at his walking pace"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        4.6,
+        -6.1
+       ],
+       "facing": 120,
+       "height": "standing",
+       "note": "at his left side, his gaunt profile against the dead brown land, the well ahead beyond him"
+      },
+      {
+       "t": 10.4,
+       "pos": [
+        0.4,
+        -6.1
+       ],
+       "facing": 112,
+       "height": "standing",
+       "note": "the well and the women at the rope slide past behind him, their eyes on their work"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "Barefoot on the stony road in the grey tunic, the sling in his fist, he walks west past a well where women draw water, their eyes on the rope and the jars"
+    },
+    {
+     "id": "W02",
+     "setup": "S02",
+     "frames": 311,
+     "speaker": "ASHER",
+     "line": "Father, I have sinned against heaven, <inhale> and before you... <pause> Make me as one of your hired men.",
+     "line_at": 2.6,
+     "wps": 2.0,
+     "reached": [
+      1,
+      13,
+      14
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.4,
+        -6.1
+       ],
+       "facing": 112,
+       "height": "standing"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        -4.4,
+        -4.8
+       ],
+       "facing": 15,
+       "height": "standing",
+       "note": "a quick step round ahead of him, walking backward before his face, the well small behind him"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        -10.1,
+        -4.7
+       ],
+       "facing": 5,
+       "height": "standing",
+       "note": "close before his face, his cracked lips moving over the words"
+      },
+      {
+       "t": 11.6,
+       "pos": [
+        -15.2,
+        -4.6
+       ],
+       "facing": 0,
+       "height": "standing",
+       "note": "his eyes on the road ahead past the lens"
+      },
+      {
+       "t": 12.8,
+       "pos": [
+        -16.4,
+        -4.62
+       ],
+       "facing": 2,
+       "height": "standing",
+       "note": "his face close, the dead land and the road behind him"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     },
+     "does": "His lips move as he rehearses under his breath, walking west into his own long morning shadow"
+    }
+   ]
+  },
+  {
+   "title": "The foreign farm in the morning",
+   "heading": "EXT. A FARM ON THE ROAD WEST - MORNING",
+   "place_ref": [
+    "foreign_farm"
+   ],
+   "extent": [
+    -26,
+    24,
+    -6,
+    49
+   ],
+   "grid": "+x east · +y north · origin the tamarisk trunk at the ditch by the field wall · metres",
+   "light": {
+    "kind": "sun",
+    "from_deg": 330,
+    "label": "harvest morning, low in the east-south-east"
+   },
+   "place": [
+    {
+     "kind": "label",
+     "pos": [
+      -1,
+      45.6
+     ],
+     "label": "Doves on the roof"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      21,
+      -2.5
+     ],
+     "facing_deg": 180,
+     "named": true,
+     "note": "grey tunic, barefoot, the sling in his fist"
+    },
+    {
+     "n": 2,
+     "name": "elder son",
+     "pos": [
+      -7.3,
+      34.45
+     ],
+     "facing_deg": 90,
+     "named": true,
+     "group": "family",
+     "note": "25, Greek tunic, eats with both hands"
+    },
+    {
+     "n": 3,
+     "name": "younger son",
+     "pos": [
+      -4.8,
+      35.95
+     ],
+     "facing_deg": 270,
+     "named": true,
+     "group": "family",
+     "note": "19, at his father's side"
+    },
+    {
+     "n": 4,
+     "name": "hired man",
+     "pos": [
+      -8.6,
+      8.1
+     ],
+     "facing_deg": 265,
+     "group": "reapers",
+     "note": "1A's HIRED MAN, reaping"
+    },
+    {
+     "n": 5,
+     "name": "second man",
+     "pos": [
+      -12.3,
+      7.6
+     ],
+     "facing_deg": 280,
+     "group": "reapers",
+     "note": "1A's SECOND MAN, reaping"
+    },
+    {
+     "n": 6,
+     "name": "hired man",
+     "pos": [
+      -15.9,
+      9.0
+     ],
+     "facing_deg": 260,
+     "group": "reapers",
+     "note": "reaping"
+    },
+    {
+     "n": 7,
+     "name": "hired man",
+     "pos": [
+      -19.4,
+      7.9
+     ],
+     "facing_deg": 275,
+     "group": "reapers",
+     "note": "reaping"
+    },
+    {
+     "n": 8,
+     "name": "father",
+     "pos": [
+      -6.0,
+      36.5
+     ],
+     "facing_deg": 270,
+     "named": true,
+     "group": "family",
+     "note": "50s, broad, rings on his hands"
+    },
+    {
+     "n": 9,
+     "name": "mother",
+     "pos": [
+      -4.2,
+      34.45
+     ],
+     "facing_deg": 90,
+     "named": true,
+     "group": "family",
+     "note": "40s, laughing, sleeves rolled"
+    },
+    {
+     "n": 10,
+     "name": "maid",
+     "pos": [
+      12.9,
+      35.95
+     ],
+     "facing_deg": 133,
+     "named": true,
+     "note": "30s, floured to the elbows"
+    },
+    {
+     "n": 11,
+     "name": "dog",
+     "pos": [
+      -10.4,
+      9.4
+     ],
+     "facing_deg": 300,
+     "animal": true,
+     "note": "the farm dog, in the stubble by the sheaves"
+    },
+    {
+     "n": 12,
+     "name": "hens",
+     "pos": [
+      6.4,
+      31.6
+     ],
+     "facing_deg": 200,
+     "animal": true,
+     "note": "a dozen hens scratching"
+    }
+   ],
+   "paths": [
+    {
+     "who": 1,
+     "points": [
+      [
+       21,
+       -2.5
+      ],
+      [
+       6,
+       -2.2
+      ],
+      [
+       1.0,
+       0.1
+      ]
+     ],
+     "note": "comes west along the road and stops in the ditch under the tamarisk while the family eats"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       1.0,
+       0.1
+      ],
+      [
+       13.2,
+       -0.3
+      ],
+      [
+       13.4,
+       4.0
+      ],
+      [
+       16.8,
+       17.0
+      ],
+      [
+       17.6,
+       31.0
+      ],
+      [
+       10.6,
+       39.5
+      ],
+      [
+       7.0,
+       39.6
+      ],
+      [
+       6.9,
+       42.6
+      ]
+     ],
+     "note": "between W09 and W10, unseen, along the ditch, through the field gap, up the fold's east side and behind the oven into the pantry"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       6.85,
+       42.0
+      ],
+      [
+       6.75,
+       40.0
+      ],
+      [
+       6.9,
+       33.5
+      ],
+      [
+       7.4,
+       25.0
+      ],
+      [
+       7.9,
+       14.0
+      ],
+      [
+       8.0,
+       4.5
+      ]
+     ],
+     "note": "the run, about 36 m at 5 m/s, out of the pantry, through the hens and over the stubble into the standing barley by the wall"
+    },
+    {
+     "who": 2,
+     "points": [
+      [
+       -7.3,
+       34.45
+      ],
+      [
+       -6.9,
+       33.7
+      ],
+      [
+       -2.6,
+       33.9
+      ],
+      [
+       5.2,
+       38.6
+      ],
+      [
+       6.6,
+       34.0
+      ],
+      [
+       7.2,
+       24.0
+      ],
+      [
+       7.8,
+       13.0
+      ],
+      [
+       8.55,
+       5.2
+      ]
+     ],
+     "note": "springs up at the maid's cry, reaches the door as Asher bursts out, then runs him down from close behind"
+    },
+    {
+     "who": 3,
+     "points": [
+      [
+       -4.8,
+       35.95
+      ],
+      [
+       -2.9,
+       36.3
+      ],
+      [
+       6.0,
+       24.0
+      ],
+      [
+       9.4,
+       9.6
+      ]
+     ],
+     "note": "follows his brother into the chase"
+    },
+    {
+     "who": 8,
+     "points": [
+      [
+       -6.0,
+       36.5
+      ],
+      [
+       -5.0,
+       39.5
+      ],
+      [
+       -5.0,
+       36.6
+      ]
+     ],
+     "note": "to the niche with the first piece and back with the second to his younger son"
+    },
+    {
+     "who": 10,
+     "points": [
+      [
+       12.9,
+       35.95
+      ],
+      [
+       8.4,
+       38.9
+      ],
+      [
+       7.4,
+       39.45
+      ],
+      [
+       6.8,
+       41.8
+      ],
+      [
+       7.6,
+       39.3
+      ],
+      [
+       12.6,
+       35.7
+      ]
+     ],
+     "note": "with the board of loaves to the pantry door, the bar off, in and out again, back to the oven"
+    },
+    {
+     "who": 11,
+     "points": [
+      [
+       -10.4,
+       9.4
+      ],
+      [
+       -9.4,
+       20.0
+      ],
+      [
+       -7.8,
+       30.0
+      ],
+      [
+       -7.3,
+       33.5
+      ]
+     ],
+     "note": "trots up from the reapers and lies down by the bench"
+    },
+    {
+     "who": 11,
+     "points": [
+      [
+       -7.3,
+       33.5
+      ],
+      [
+       -1.0,
+       30.0
+      ],
+      [
+       5.5,
+       21.0
+      ],
+      [
+       8.2,
+       3.7
+      ]
+     ],
+     "note": "runs barking with the chase to his feet in the barley"
+    },
+    {
+     "who": 4,
+     "points": [
+      [
+       -8.6,
+       8.1
+      ],
+      [
+       6.6,
+       6.4
+      ]
+     ],
+     "note": "the reapers drop their sickles and fan out across the stubble"
+    },
+    {
+     "who": 5,
+     "points": [
+      [
+       -12.3,
+       7.6
+      ],
+      [
+       7.0,
+       8.2
+      ]
+     ],
+     "note": "fans out across the stubble"
+    },
+    {
+     "who": 6,
+     "points": [
+      [
+       -15.9,
+       9.0
+      ],
+      [
+       5.6,
+       3.6
+      ]
+     ],
+     "note": "cuts along the wall through the barley"
+    },
+    {
+     "who": 7,
+     "points": [
+      [
+       -19.4,
+       7.9
+      ],
+      [
+       9.6,
+       7.0
+      ]
+     ],
+     "note": "fans out across the stubble"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S03",
+     "what": "Over the barley to the farm in its green fold",
+     "pos": [
+      -4.4,
+      4.6
+     ],
+     "facing_deg": 100,
+     "height": "standing",
+     "wedge_m": 14
+    },
+    {
+     "shot": "S04",
+     "what": "Under the vine, the family at the table, the niche beyond",
+     "pos": [
+      -7.3,
+      32.3
+     ],
+     "facing_deg": 72,
+     "height": "standing",
+     "wedge_m": 6
+    },
+    {
+     "shot": "S05",
+     "what": "Behind the elder son, the father breaks the loaf",
+     "pos": [
+      -7.4,
+      33.65
+     ],
+     "facing_deg": 65,
+     "height": "seated",
+     "wedge_m": 4
+    },
+    {
+     "shot": "S06",
+     "what": "The father's hand on the younger son's head",
+     "pos": [
+      -3.75,
+      36.35
+     ],
+     "facing_deg": 200,
+     "height": "seated",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S07",
+     "what": "The mother laughing across the table",
+     "pos": [
+      -3.3,
+      35.3
+     ],
+     "facing_deg": 195,
+     "height": "seated",
+     "wedge_m": 4
+    },
+    {
+     "shot": "S08",
+     "what": "The maid at the pantry door and its bar",
+     "pos": [
+      3.7,
+      37.6
+     ],
+     "facing_deg": 38,
+     "height": "standing",
+     "wedge_m": 5
+    },
+    {
+     "shot": "S09",
+     "what": "Behind his shoulder over the wall to the table",
+     "pos": [
+      1.45,
+      -0.5
+     ],
+     "facing_deg": 101,
+     "height": "standing",
+     "wedge_m": 34
+    },
+    {
+     "shot": "S10",
+     "what": "The maid at the oven, the pantry door beyond",
+     "pos": [
+      13.85,
+      35.25
+     ],
+     "facing_deg": 152,
+     "height": "standing",
+     "wedge_m": 8
+    },
+    {
+     "shot": "S11",
+     "what": "Running at his side over the stubble",
+     "pos": [
+      9.4,
+      21.4
+     ],
+     "facing_deg": 200,
+     "height": "standing",
+     "wedge_m": 6
+    }
+   ],
+   "windows": [
+    {
+     "id": "W03",
+     "setup": "S03",
+     "frames": 226,
+     "speaker": null,
+     "reached": [
+      4,
+      5,
+      6,
+      7,
+      11
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -1.6,
+        2.15
+       ],
+       "facing": 305,
+       "height": "low",
+       "note": "low between the standing barley and the field wall, the tamarisk's feathery branches over the stones and the ditch"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        -2.3,
+        2.7
+       ],
+       "facing": 158,
+       "height": "knee",
+       "note": "turning along the wall to the last strip of standing barley, the reapers bent at its far edge, singing"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        -4.4,
+        4.6
+       ],
+       "facing": 100,
+       "height": "standing",
+       "note": "rising through the barley heads, the farm up in its green fold, doves on the roof, the oven smoke rising straight up"
+      },
+      {
+       "t": 8.6,
+       "pos": [
+        -6.6,
+        6.6
+       ],
+       "facing": 145,
+       "height": "standing",
+       "note": "along the barley's edge to the nearest reaper singing at his sickle, the farm dog rising from the shade of the sheaves"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "A field wall by the road and a single tamarisk over the ditch, then the harvest beyond it, reapers singing along the last standing barley, the farm in its green fold with doves on the roof and the oven smoke rising straight up"
+    },
+    {
+     "id": "W04",
+     "setup": "S04",
+     "frames": 328,
+     "speaker": null,
+     "reached": [
+      2,
+      3,
+      8,
+      9,
+      11
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -6.6,
+        6.6
+       ],
+       "facing": 145,
+       "height": "standing"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        -7.4,
+        8.4
+       ],
+       "facing": 125,
+       "height": "standing",
+       "note": "the dog trots out past the reaper's legs and up the stubble, the camera turning after it"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        -8.3,
+        17.8
+       ],
+       "facing": 100,
+       "height": "standing",
+       "note": "following the dog up across the stubble toward the farm in its green fold"
+      },
+      {
+       "t": 10.4,
+       "pos": [
+        -8.1,
+        27.4
+       ],
+       "facing": 88,
+       "height": "standing",
+       "note": "into the green fold, the long table under the vine ahead, the family sitting down to eat"
+      },
+      {
+       "t": 13.2,
+       "pos": [
+        -7.3,
+        32.3
+       ],
+       "facing": 72,
+       "height": "standing",
+       "note": "under the vine's edge as the dog flops down by the bench, the father standing at the table, the clay god's lamp burning in its niche by the house door"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "The farm dog trots up from the reapers across the stubble and leads the camera into the green fold, where the family sits down to eat at a long table under a vine, the little clay god's lamp burning in its niche by the house door"
+    },
+    {
+     "id": "W05",
+     "setup": "S05",
+     "frames": 311,
+     "speaker": "FATHER",
+     "line": "To the gods of this house, <pause> the first of the bread.",
+     "line_at": 1.6,
+     "wps": 2.2,
+     "reached": [
+      2,
+      3,
+      8,
+      9
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -7.3,
+        32.3
+       ],
+       "facing": 72,
+       "height": "standing"
+      },
+      {
+       "t": 1.3,
+       "pos": [
+        -7.4,
+        33.65
+       ],
+       "facing": 65,
+       "height": "seated",
+       "note": "down to bench height behind the elder son's shoulder as the father lifts a loaf and breaks it"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        -7.0,
+        33.4
+       ],
+       "facing": 68,
+       "height": "seated",
+       "note": "a slow drift along the bench toward his ringed hands and the torn loaf"
+      },
+      {
+       "t": 7.2,
+       "pos": [
+        -3.0,
+        33.4
+       ],
+       "facing": 110,
+       "height": "standing",
+       "note": "rising behind the backs on the bench and round the table's end after the first piece"
+      },
+      {
+       "t": 9.6,
+       "pos": [
+        -3.3,
+        36.6
+       ],
+       "facing": 118,
+       "height": "standing",
+       "note": "following him to the house door with the bread in his hand"
+      },
+      {
+       "t": 11.4,
+       "pos": [
+        -4.2,
+        38.35
+       ],
+       "facing": 108,
+       "height": "standing",
+       "note": "over his shoulder as he lays the first piece before the little clay god"
+      },
+      {
+       "t": 12.6,
+       "pos": [
+        -4.3,
+        38.55
+       ],
+       "facing": 108,
+       "height": "standing",
+       "note": "close on the bread before the clay god, the lamp flame bending"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "The father lifts a loaf, breaks it, gives the first of the bread to the gods of the house and lays the first piece in the niche before the clay god"
+    },
+    {
+     "id": "W06",
+     "setup": "S06",
+     "frames": 175,
+     "speaker": null,
+     "reached": [
+      3,
+      8,
+      9,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -4.3,
+        38.55
+       ],
+       "facing": 108,
+       "height": "standing"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        -4.15,
+        38.35
+       ],
+       "facing": 195,
+       "height": "standing",
+       "note": "turning with him as he comes back from the niche with the second piece"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        -3.9,
+        37.1
+       ],
+       "facing": 228,
+       "height": "standing",
+       "note": "following the bread down to the younger son on the bench"
+      },
+      {
+       "t": 6.8,
+       "pos": [
+        -3.75,
+        36.35
+       ],
+       "facing": 200,
+       "height": "seated",
+       "note": "down at bench height as the father's ringed hand rests on the young man's head"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "The father gives the second piece to his younger son, and his hand rests on the young man's head"
+    },
+    {
+     "id": "W07",
+     "setup": "S07",
+     "frames": 175,
+     "speaker": "MOTHER",
+     "line": "Eat, before your brother eats it all.",
+     "line_at": 1.8,
+     "reached": [
+      2,
+      3,
+      8,
+      9
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -3.75,
+        36.35
+       ],
+       "facing": 200,
+       "height": "seated"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        -3.3,
+        35.3
+       ],
+       "facing": 195,
+       "height": "seated",
+       "note": "round the table's end to the mother at the bench, laughing, her sleeves rolled"
+      },
+      {
+       "t": 4.9,
+       "pos": [
+        -3.25,
+        35.1
+       ],
+       "facing": 196,
+       "height": "seated",
+       "note": "the elder son grinning over a mouthful, the father's hand still on the young man's head"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        -3.25,
+        35.1
+       ],
+       "facing": 20,
+       "height": "standing",
+       "note": "the elder son's eyes go to the fresh loaves coming from the oven and the lens whips right after them",
+       "whip": "right"
+      }
+     ],
+     "out": {
+      "kind": "whip",
+      "dir": "right"
+     },
+     "does": "The mother laughs at her younger son across the table and teases him about his brother"
+    },
+    {
+     "id": "W08",
+     "setup": "S08",
+     "frames": 260,
+     "speaker": null,
+     "reached": [
+      10
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -3.25,
+        35.1
+       ],
+       "facing": 20,
+       "height": "standing"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        0.6,
+        36.4
+       ],
+       "facing": 30,
+       "height": "standing",
+       "note": "across the yard toward the floured maid as she sets down the board of loaves and heaves the heavy bar off the pantry door"
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        3.7,
+        37.6
+       ],
+       "facing": 38,
+       "height": "standing",
+       "note": "she leans the bar against the wall and carries the loaves in through the door"
+      },
+      {
+       "t": 8.4,
+       "pos": [
+        4.3,
+        37.4
+       ],
+       "facing": 15,
+       "height": "standing",
+       "note": "she comes out floured to the elbows and goes back to the oven, the smoke rising straight up"
+      },
+      {
+       "t": 10.4,
+       "pos": [
+        4.5,
+        37.5
+       ],
+       "facing": 40,
+       "height": "standing",
+       "note": "back on the open pantry door, dark inside the sunlit wall, as she goes back to the oven"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     },
+     "does": "The maid, floured to the elbows, lifts the heavy bar off the pantry door, carries in a board of loaves and goes back to the oven, leaving the door open"
+    },
+    {
+     "id": "W09",
+     "setup": "S09",
+     "frames": 243,
+     "speaker": null,
+     "reached": [
+      1,
+      3,
+      8
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        2.15,
+        -0.95
+       ],
+       "facing": 138,
+       "height": "low",
+       "note": "low in the ditch at his bare cut feet and the sling wrapped round his fist"
+      },
+      {
+       "t": 2.8,
+       "pos": [
+        1.95,
+        -0.75
+       ],
+       "facing": 128,
+       "height": "knee",
+       "note": "rising up his grey tunic to his gaunt face under the tamarisk branches"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        1.45,
+        -0.5
+       ],
+       "facing": 101,
+       "height": "standing",
+       "note": "behind his shoulder over the piled stones and the barley to the long table under the vine, the father's hand on the younger son's head"
+      },
+      {
+       "t": 8.2,
+       "pos": [
+        1.25,
+        -0.45
+       ],
+       "facing": 83,
+       "height": "standing",
+       "note": "his eyes go to the open pantry door, dark in the sunlit house wall"
+      },
+      {
+       "t": 9.8,
+       "pos": [
+        1.15,
+        -0.32
+       ],
+       "facing": 86,
+       "height": "standing",
+       "note": "a step in toward his cheek as he looks"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     },
+     "does": "Asher stands at the field wall under the tamarisk, barefoot, the sling in his fist, watching the father's hand on the younger son's head across the stubble, and then he looks at the open pantry door"
+    },
+    {
+     "id": "W10",
+     "setup": "S10",
+     "frames": 141,
+     "speaker": "MAID",
+     "line": "Thief! Thief!",
+     "line_at": 2.2,
+     "wps": 1.4,
+     "reached": [
+      10,
+      2,
+      3,
+      8,
+      9
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        13.85,
+        35.45
+       ],
+       "facing": 140,
+       "height": "knee",
+       "note": "low beside the oven mouth, the maid's floured arms drawing loaves on the paddle"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        13.85,
+        35.25
+       ],
+       "facing": 152,
+       "height": "standing",
+       "note": "a crash in the pantry and a jar shatters, she spins toward the open door"
+      },
+      {
+       "t": 3.9,
+       "pos": [
+        13.45,
+        35.1
+       ],
+       "facing": 158,
+       "height": "standing",
+       "note": "past her shoulder as she screams at the dark doorway, the family rising under the vine beyond"
+      },
+      {
+       "t": 5.5,
+       "pos": [
+        12.9,
+        35.05
+       ],
+       "facing": 150,
+       "height": "standing",
+       "note": "pushing past her shoulder toward the dark doorway as a running figure fills it"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "A crash in the pantry and a jar shatters, and the maid at the oven spins toward the open door and screams"
+    },
+    {
+     "id": "W11",
+     "setup": "S11",
+     "frames": 209,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      11,
+      12
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        12.9,
+        35.05
+       ],
+       "facing": 150,
+       "height": "standing"
+      },
+      {
+       "t": 0.9,
+       "pos": [
+        10.4,
+        36.0
+       ],
+       "facing": 175,
+       "height": "standing",
+       "note": "he bursts out of the door into the sunlight with the round of bread clutched to his chest and dodges the elder son, and the camera breaks into a run",
+       "run": true
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        8.9,
+        30.7
+       ],
+       "facing": 200,
+       "height": "standing",
+       "note": "running at his side across the yard through the scattering hens",
+       "run": true
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        9.4,
+        21.4
+       ],
+       "facing": 200,
+       "height": "standing",
+       "note": "out over the stubble at his side, his bare feet pounding, the bread to his chest",
+       "run": true
+      },
+      {
+       "t": 5.75,
+       "pos": [
+        9.6,
+        11.3
+       ],
+       "facing": 160,
+       "height": "standing",
+       "note": "half a step ahead, looking back across him to the elder son close behind and the hired men fanning out over the stubble",
+       "run": true
+      },
+      {
+       "t": 7.3,
+       "pos": [
+        9.45,
+        5.7
+       ],
+       "facing": 220,
+       "height": "standing",
+       "note": "he plunges into the standing barley by the wall",
+       "run": true
+      },
+      {
+       "t": 8.4,
+       "pos": [
+        9.15,
+        5.45
+       ],
+       "facing": 230,
+       "height": "knee",
+       "note": "the camera plunges after him, green barley heads sweeping across the lens"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the green standing barley heads sweeping across the lens",
+      "slides": "left"
+     },
+     "does": "Asher bursts out of the pantry door into the sunlight with a round of bread clutched to his chest and runs across the yard through scattering hens and out over the stubble, the elder son close behind and the hired men fanning out"
+    }
+   ],
+   "join_bows": [
+    {
+     "from": "W08",
+     "to": "W09",
+     "bow": -0.4
+    },
+    {
+     "from": "W09",
+     "to": "W10",
+     "bow": 0.3
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "Under the vine",
+     "extent": [
+      -12.5,
+      1.5,
+      31.8,
+      40.6
+     ]
+    },
+    {
+     "key": "B",
+     "title": "The pantry door and the oven",
+     "extent": [
+      0.0,
+      15.2,
+      33.0,
+      42.8
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The edge of the field",
+   "heading": "EXT. EDGE OF THE FIELD - CONTINUOUS",
+   "place_ref": [
+    "foreign_farm"
+   ],
+   "extent": [
+    -4.5,
+    13,
+    -1.6,
+    13.5
+   ],
+   "grid": "+x east · +y north · origin the tamarisk trunk at the ditch by the field wall · metres",
+   "light": {
+    "kind": "sun",
+    "from_deg": 330,
+    "label": "the same harvest morning"
+   },
+   "place": [
+    {
+     "kind": "label",
+     "pos": [
+      8.5,
+      -1.0
+     ],
+     "label": "1A's beating, across the wall"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      1.2,
+      10.2
+     ],
+     "label": "Sc 4 flash, the dog with the bread"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      8.0,
+      4.5
+     ],
+     "facing_deg": 250,
+     "named": true,
+     "note": "pinned, the bread to his chest"
+    },
+    {
+     "n": 2,
+     "name": "elder son",
+     "pos": [
+      8.55,
+      5.2
+     ],
+     "facing_deg": 230,
+     "named": true,
+     "group": "catch",
+     "note": "on him in the barley"
+    },
+    {
+     "n": 3,
+     "name": "younger son",
+     "pos": [
+      9.4,
+      9.6
+     ],
+     "facing_deg": 260,
+     "named": true,
+     "note": "running in behind"
+    },
+    {
+     "n": 4,
+     "name": "hired man",
+     "pos": [
+      6.6,
+      6.4
+     ],
+     "facing_deg": 330,
+     "group": "catch",
+     "note": "1A's HIRED MAN"
+    },
+    {
+     "n": 5,
+     "name": "second man",
+     "pos": [
+      7.0,
+      8.2
+     ],
+     "facing_deg": 300,
+     "group": "catch",
+     "note": "1A's SECOND MAN"
+    },
+    {
+     "n": 6,
+     "name": "hired man",
+     "pos": [
+      5.6,
+      3.6
+     ],
+     "facing_deg": 10,
+     "group": "catch",
+     "note": "through the barley along the wall"
+    },
+    {
+     "n": 7,
+     "name": "hired man",
+     "pos": [
+      9.6,
+      7.0
+     ],
+     "facing_deg": 220,
+     "group": "catch",
+     "note": "the one who looks away"
+    },
+    {
+     "n": 11,
+     "name": "dog",
+     "pos": [
+      8.2,
+      3.7
+     ],
+     "facing_deg": 60,
+     "animal": true,
+     "note": "barking at his feet"
+    }
+   ],
+   "paths": [
+    {
+     "who": 1,
+     "points": [
+      [
+       8.0,
+       4.5
+      ],
+      [
+       8.5,
+       2.05
+      ]
+     ],
+     "note": "dragged out of the barley to the foot of the wall, his back to the stones"
+    },
+    {
+     "who": 2,
+     "points": [
+      [
+       8.55,
+       5.2
+      ],
+      [
+       9.05,
+       3.0
+      ],
+      [
+       9.7,
+       2.0
+      ]
+     ],
+     "note": "drags him by the right arm, wrenches the bread, stands over him, then pulls a stone from the wall"
+    },
+    {
+     "who": 4,
+     "points": [
+      [
+       6.6,
+       6.4
+      ],
+      [
+       7.4,
+       4.4
+      ],
+      [
+       7.25,
+       2.6
+      ]
+     ],
+     "note": "drags him by the left arm"
+    },
+    {
+     "who": 6,
+     "points": [
+      [
+       5.6,
+       3.6
+      ],
+      [
+       6.9,
+       3.75
+      ]
+     ],
+     "note": "closes in along the wall"
+    },
+    {
+     "who": 5,
+     "points": [
+      [
+       7.0,
+       8.2
+      ],
+      [
+       7.85,
+       4.45
+      ]
+     ],
+     "note": "closes in"
+    },
+    {
+     "who": 7,
+     "points": [
+      [
+       9.6,
+       7.0
+      ],
+      [
+       9.9,
+       4.45
+      ]
+     ],
+     "note": "closes in, looks at the ribs and looks away"
+    },
+    {
+     "who": 3,
+     "points": [
+      [
+       9.4,
+       9.6
+      ],
+      [
+       8.95,
+       5.1
+      ]
+     ],
+     "note": "arrives behind the men"
+    },
+    {
+     "who": 11,
+     "points": [
+      [
+       8.2,
+       3.7
+      ],
+      [
+       5.2,
+       6.4
+      ],
+      [
+       1.2,
+       10.2
+      ],
+      [
+       -1.2,
+       12.2
+      ]
+     ],
+     "note": "takes the tossed bread and trots off across the stubble with it in its jaws, toward the farm"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S12",
+     "what": "Low with the dog trotting off with the bread",
+     "pos": [
+      9.25,
+      4.0
+     ],
+     "facing_deg": 150,
+     "height": "low",
+     "wedge_m": 5
+    },
+    {
+     "shot": "S13",
+     "what": "Low at the wall, up at the elder son",
+     "pos": [
+      10.15,
+      3.45
+     ],
+     "facing_deg": 210,
+     "height": "knee",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S14",
+     "what": "Over the shoulder of the man who looks away",
+     "pos": [
+      10.5,
+      5.3
+     ],
+     "facing_deg": 230,
+     "height": "standing",
+     "wedge_m": 4
+    },
+    {
+     "shot": "S15",
+     "what": "The stone weighed in his palm",
+     "pos": [
+      10.45,
+      2.45
+     ],
+     "facing_deg": 200,
+     "height": "knee",
+     "wedge_m": 2.5
+    }
+   ],
+   "windows": [
+    {
+     "id": "W12",
+     "setup": "S12",
+     "frames": 294,
+     "speaker": null,
+     "reached": [
+      1,
+      2,
+      4,
+      6,
+      11
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        9.1,
+        6.0
+       ],
+       "facing": 235,
+       "height": "knee",
+       "note": "the green barley heads part across the lens on hands dragging him out by the arms"
+      },
+      {
+       "t": 1.8,
+       "pos": [
+        9.75,
+        4.5
+       ],
+       "facing": 215,
+       "height": "knee",
+       "note": "backing along beside them as they haul him through the barley to the wall"
+      },
+      {
+       "t": 3.8,
+       "pos": [
+        10.2,
+        3.1
+       ],
+       "facing": 205,
+       "height": "knee",
+       "note": "they throw him back against the wall stones, the bread clutched to his chest"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        10.0,
+        2.85
+       ],
+       "facing": 205,
+       "height": "knee",
+       "note": "the elder son wrenches the round of bread out of his arms"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        9.6,
+        3.5
+       ],
+       "facing": 185,
+       "height": "knee",
+       "note": "and tosses it to the dog at his feet"
+      },
+      {
+       "t": 8.8,
+       "pos": [
+        9.25,
+        4.0
+       ],
+       "facing": 150,
+       "height": "low",
+       "note": "low between the men's legs with the dog as it trots off across the stubble, the round of bread in its jaws"
+      },
+      {
+       "t": 11.8,
+       "pos": [
+        9.2,
+        4.1
+       ],
+       "facing": 145,
+       "height": "low",
+       "note": "the dog going small across the stubble toward the green fold"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "They drag him out of the standing barley to the wall, the elder son wrenches the bread out of his arms and tosses it to the dog, and the dog trots off across the stubble with the round of bread in its jaws, the moment Sc 4 flashes, from 7 to 12 s"
+    },
+    {
+     "id": "W13",
+     "setup": "S13",
+     "frames": 158,
+     "speaker": "ELDER SON",
+     "line": "You would steal from my father's house?",
+     "line_at": 1.8,
+     "reached": [
+      1,
+      2,
+      4,
+      5,
+      7
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        9.2,
+        4.1
+       ],
+       "facing": 145,
+       "height": "low"
+      },
+      {
+       "t": 1.5,
+       "pos": [
+        10.15,
+        3.45
+       ],
+       "facing": 210,
+       "height": "knee",
+       "note": "round at his voice, low beside the wall, up at the elder son standing over him, the barley behind"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        10.25,
+        3.3
+       ],
+       "facing": 208,
+       "height": "knee",
+       "note": "his sweat-dark Greek tunic against the morning sky"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        10.3,
+        3.2
+       ],
+       "facing": 200,
+       "height": "knee",
+       "note": "the hired men closing round him, breathing hard"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "The elder son stands over him at the foot of the wall and speaks down to him"
+    },
+    {
+     "id": "W14",
+     "setup": "S14",
+     "frames": 362,
+     "speaker": "ELDER SON",
+     "line": "The law says a thief pays it back. <pause> But this is a famine, <inhale> and in a famine I say the thief dies!",
+     "line_at": 4.8,
+     "wps": 2.6,
+     "reached": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        10.3,
+        3.2
+       ],
+       "facing": 200,
+       "height": "knee"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        10.5,
+        4.15
+       ],
+       "facing": 215,
+       "height": "standing",
+       "note": "rising among the hired men standing round him, sweat-dark, breathing hard"
+      },
+      {
+       "t": 3.4,
+       "pos": [
+        10.5,
+        5.3
+       ],
+       "facing": 230,
+       "height": "standing",
+       "note": "over the shoulder of the hired man who looks at the ribs showing through the rags, and looks away"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        10.7,
+        3.85
+       ],
+       "facing": 205,
+       "height": "standing",
+       "note": "round to the elder son as he makes his own law for the men"
+      },
+      {
+       "t": 10.6,
+       "pos": [
+        10.45,
+        3.45
+       ],
+       "facing": 205,
+       "height": "standing",
+       "note": "his eyes going round the men"
+      },
+      {
+       "t": 14.4,
+       "pos": [
+        10.1,
+        3.3
+       ],
+       "facing": 220,
+       "height": "knee",
+       "note": "down past his hip to the young man at the wall's foot"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "The hired men stand round him breathing hard, one looks at the ribs showing through the rags and looks away, and the elder son makes his own famine law for them"
+    },
+    {
+     "id": "W15",
+     "setup": "S15",
+     "frames": 141,
+     "speaker": null,
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        10.1,
+        3.3
+       ],
+       "facing": 220,
+       "height": "knee"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        10.6,
+        2.55
+       ],
+       "facing": 205,
+       "height": "knee",
+       "note": "he turns to the wall and pulls a stone from the piled stones"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        10.45,
+        2.45
+       ],
+       "facing": 200,
+       "height": "knee",
+       "note": "close on the stone rising and falling in his palm, the young man at the wall's foot beyond"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        10.4,
+        2.4
+       ],
+       "facing": 196,
+       "height": "knee",
+       "note": "the weight of it settling in his hand"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     },
+     "does": "The elder son pulls a stone from the wall and weighs it in his palm"
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "At the foot of the wall",
+     "extent": [
+      5.6,
+      12.4,
+      1.2,
+      6.2
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The well, later",
+   "heading": "EXT. A FARM ON THE ROAD WEST - THE WELL - LATER",
+   "place_ref": [
+    "foreign_farm"
+   ],
+   "extent": [
+    -23,
+    -2,
+    29,
+    41.5
+   ],
+   "grid": "+x east · +y north · origin the tamarisk trunk at the ditch by the field wall · metres",
+   "light": {
+    "kind": "sun",
+    "from_deg": 270,
+    "label": "noon, high in the south, short shadows"
+   },
+   "place": [
+    {
+     "kind": "label",
+     "pos": [
+      -16.85,
+      31.8
+     ],
+     "label": "Red water into the dry ground"
+    }
+   ],
+   "people": [
+    {
+     "n": 2,
+     "name": "elder son",
+     "pos": [
+      -16.6,
+      31.2
+     ],
+     "facing_deg": 113,
+     "named": true,
+     "group": "well",
+     "note": "hands held out under the stream"
+    },
+    {
+     "n": 3,
+     "name": "younger son",
+     "pos": [
+      -15.5,
+      31.55
+     ],
+     "facing_deg": 165,
+     "named": true,
+     "group": "well",
+     "note": "waiting his turn"
+    },
+    {
+     "n": 4,
+     "name": "hired man",
+     "pos": [
+      -18.8,
+      31.5
+     ],
+     "facing_deg": 25,
+     "group": "well"
+    },
+    {
+     "n": 5,
+     "name": "second man",
+     "pos": [
+      -19.3,
+      33.9
+     ],
+     "facing_deg": 330,
+     "group": "well"
+    },
+    {
+     "n": 6,
+     "name": "hired man",
+     "pos": [
+      -15.2,
+      33.4
+     ],
+     "facing_deg": 225,
+     "group": "well"
+    },
+    {
+     "n": 7,
+     "name": "hired man",
+     "pos": [
+      -16.3,
+      34.3
+     ],
+     "facing_deg": 260,
+     "group": "well"
+    },
+    {
+     "n": 8,
+     "name": "father",
+     "pos": [
+      -6.3,
+      36.75
+     ],
+     "facing_deg": 200,
+     "named": true,
+     "group": "table",
+     "note": "standing at the table"
+    },
+    {
+     "n": 9,
+     "name": "mother",
+     "pos": [
+      -4.2,
+      34.45
+     ],
+     "facing_deg": 90,
+     "named": true,
+     "group": "table",
+     "note": "seated"
+    },
+    {
+     "n": 10,
+     "name": "maid",
+     "pos": [
+      -17.1,
+      32.5
+     ],
+     "facing_deg": 290,
+     "named": true,
+     "group": "well",
+     "note": "pouring slowly from a jar"
+    }
+   ],
+   "paths": [
+    {
+     "who": 2,
+     "points": [
+      [
+       -16.6,
+       31.2
+      ],
+      [
+       -15.7,
+       32.35
+      ],
+      [
+       -12.0,
+       32.6
+      ],
+      [
+       -8.4,
+       33.6
+      ],
+      [
+       -7.3,
+       34.45
+      ]
+     ],
+     "note": "steps back to dry his hands, then walks to the table and sits down again"
+    },
+    {
+     "who": 3,
+     "points": [
+      [
+       -15.5,
+       31.55
+      ],
+      [
+       -16.45,
+       31.25
+      ],
+      [
+       -12.0,
+       33.3
+      ],
+      [
+       -9.0,
+       36.6
+      ],
+      [
+       -4.8,
+       35.95
+      ]
+     ],
+     "note": "takes his turn under the jar, then walks round to his place by his father"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S16",
+     "what": "Low on the red water running into the dry ground",
+     "pos": [
+      -16.0,
+      30.85
+     ],
+     "facing_deg": 125,
+     "height": "low",
+     "wedge_m": 2.5
+    },
+    {
+     "shot": "S17",
+     "what": "The brothers seated again, the father lifts the bread",
+     "pos": [
+      -6.2,
+      33.2
+     ],
+     "facing_deg": 97,
+     "height": "seated",
+     "wedge_m": 5
+    }
+   ],
+   "windows": [
+    {
+     "id": "W16",
+     "setup": "S16",
+     "frames": 226,
+     "speaker": null,
+     "reached": [
+      2,
+      3,
+      4,
+      10
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -16.0,
+        30.85
+       ],
+       "facing": 125,
+       "height": "low",
+       "note": "low at the dry ground by the well, water splashing down and running red into the dust"
+      },
+      {
+       "t": 3.2,
+       "pos": [
+        -15.95,
+        31.0
+       ],
+       "facing": 130,
+       "height": "knee",
+       "note": "rising slowly up the stream to the elder son's hands under the tilted jar, the maid pouring slowly"
+      },
+      {
+       "t": 6.2,
+       "pos": [
+        -15.85,
+        31.05
+       ],
+       "facing": 140,
+       "height": "knee",
+       "note": "the younger son's hands come in under the stream, red water running off them"
+      },
+      {
+       "t": 8.9,
+       "pos": [
+        -15.3,
+        30.8
+       ],
+       "facing": 135,
+       "height": "standing",
+       "note": "up to the two brothers drying their hands on their tunics"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "The maid pours water over the men's hands from a jar, slowly, as is the custom before a meal, and it runs red into the dry ground"
+    },
+    {
+     "id": "W17",
+     "setup": "S17",
+     "frames": 277,
+     "speaker": null,
+     "reached": [
+      2,
+      3,
+      8,
+      9
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -15.3,
+        30.8
+       ],
+       "facing": 135,
+       "height": "standing"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        -15.0,
+        31.2
+       ],
+       "facing": 40,
+       "height": "standing",
+       "note": "turning as the two brothers walk from the well toward the table under the vine"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        -10.8,
+        32.2
+       ],
+       "facing": 45,
+       "height": "standing",
+       "note": "walking behind them into the vine's shade"
+      },
+      {
+       "t": 9.4,
+       "pos": [
+        -7.4,
+        33.0
+       ],
+       "facing": 55,
+       "height": "standing",
+       "note": "they sit down again at the long table under the vine"
+      },
+      {
+       "t": 11.2,
+       "pos": [
+        -6.2,
+        33.2
+       ],
+       "facing": 97,
+       "height": "seated",
+       "note": "down behind the bench as the father lifts the bread"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     },
+     "does": "The two brothers sit down again at the table under the vine, and the father lifts the bread"
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "At the well",
+     "extent": [
+      -19.6,
+      -14.4,
+      29.9,
+      34.9
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The thorn scrub before dawn",
+   "heading": "EXT. FOOT OF THE SLOPE - THORN SCRUB - BEFORE DAWN",
+   "place_ref": [
+    "foreign_farm"
+   ],
+   "extent": [
+    -30,
+    4,
+    -57,
+    -1
+   ],
+   "grid": "+x east · +y north · origin the tamarisk trunk at the ditch by the field wall · metres",
+   "light": {
+    "kind": "dawn",
+    "from_deg": 5,
+    "label": "before dawn, a grey line over the eastern hills"
+   },
+   "place": [
+    {
+     "kind": "label",
+     "pos": [
+      -13,
+      -2.6
+     ],
+     "label": "The road, 47 m up the empty slope"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -22,
+      -26
+     ],
+     "label": "Scree and thorn, empty"
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      -12.2,
+      -49.58
+     ],
+     "size": [
+      1.75,
+      0.5
+     ],
+     "angle": -8,
+     "shape": "ellipse",
+     "label": "His body, head to the west"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      -12.55,
+      -49.55
+     ],
+     "facing_deg": 0,
+     "named": true,
+     "shade": true,
+     "note": "on his side where he fell, head 0.4 m west, dew on his rags"
+    }
+   ],
+   "paths": [],
+   "cameras": [
+    {
+     "shot": "S18",
+     "what": "Close at his face as his eyes open",
+     "pos": [
+      -12.6,
+      -49.05
+     ],
+     "facing_deg": 228,
+     "height": "low",
+     "wedge_m": 1.2
+    },
+    {
+     "shot": "S20",
+     "what": "The swollen hand against the grey sky",
+     "pos": [
+      -12.8,
+      -49.0
+     ],
+     "facing_deg": 280,
+     "height": "low",
+     "wedge_m": 1.2
+    },
+    {
+     "shot": "S21",
+     "what": "Over his cheek up the empty slope to the road",
+     "pos": [
+      -13.15,
+      -49.75
+     ],
+     "facing_deg": 85,
+     "height": "low",
+     "wedge_m": 46
+    },
+    {
+     "shot": "S23",
+     "what": "Pulling back out of the thorns as he sleeps",
+     "pos": [
+      -11.75,
+      -48.4
+     ],
+     "facing_deg": 232,
+     "height": "knee",
+     "wedge_m": 2
+    }
+   ],
+   "windows": [
+    {
+     "id": "W18",
+     "setup": "S18",
+     "frames": 226,
+     "speaker": null,
+     "reached": [
+      1
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -11.95,
+        -48.75
+       ],
+       "facing": 15,
+       "height": "low",
+       "note": "low among grey thorn stems, dew beaded on a branch against a grey line over the eastern hills, the last stars above"
+      },
+      {
+       "t": 3.0,
+       "pos": [
+        -12.1,
+        -48.9
+       ],
+       "facing": 230,
+       "height": "low",
+       "note": "turning down through the dewy branches to the stones and his torn rags beaded with dew"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        -12.45,
+        -48.95
+       ],
+       "facing": 228,
+       "height": "low",
+       "note": "along his body to his face in the thorns, the blood dried dark on it, wincing at each breath"
+      },
+      {
+       "t": 8.8,
+       "pos": [
+        -12.6,
+        -49.05
+       ],
+       "facing": 228,
+       "height": "low",
+       "note": "his eyes open and the dried blood cracks on his face"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "The last stars and a grey line over the eastern hills, wind in the thorns and dew on everything, and deep in the scrub where he fell he wakes, wincing at each breath, the dried blood cracking on his face as he opens his eyes"
+    },
+    {
+     "id": "W19",
+     "setup": null,
+     "frames": 175,
+     "speaker": null,
+     "reached": [
+      1
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -12.6,
+        -49.05
+       ],
+       "facing": 228,
+       "height": "low"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        -12.35,
+        -49.1
+       ],
+       "facing": 255,
+       "height": "low",
+       "note": "sliding down from his face to the hand on his ribs as his breathing slows and steadies"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        -12.25,
+        -49.12
+       ],
+       "facing": 258,
+       "height": "low",
+       "note": "his ribs rise under the hand with the deepest breath they allow"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "His breathing slows and steadies, and he lies still with a hand on his ribs and takes the deepest breath the ribs allow"
+    },
+    {
+     "id": "W20",
+     "setup": "S20",
+     "frames": 175,
+     "speaker": null,
+     "reached": [
+      1
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -12.25,
+        -49.12
+       ],
+       "facing": 258,
+       "height": "low"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        -12.6,
+        -48.95
+       ],
+       "facing": 265,
+       "height": "low",
+       "note": "back up along his arm as the swollen black hand lifts against the paling sky"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        -12.8,
+        -49.0
+       ],
+       "facing": 280,
+       "height": "low",
+       "note": "beside his eyes, the hand black against the grey sky, and he looks at it"
+      },
+      {
+       "t": 6.8,
+       "pos": [
+        -12.82,
+        -49.02
+       ],
+       "facing": 285,
+       "height": "low",
+       "note": "the fingers close into a fist"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "He lifts the hand that took the bread, swollen black where the heel came down, looks at it and closes it"
+    },
+    {
+     "id": "W21",
+     "setup": "S21",
+     "frames": 226,
+     "speaker": "ASHER",
+     "line": "Father?",
+     "line_at": 5.0,
+     "wps": 0.8,
+     "reached": [
+      1
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -12.82,
+        -49.02
+       ],
+       "facing": 285,
+       "height": "low"
+      },
+      {
+       "t": 1.8,
+       "pos": [
+        -13.15,
+        -49.75
+       ],
+       "facing": 85,
+       "height": "low",
+       "note": "over his cheek as he turns his head, up the long grey slope empty all the way to the road"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        -13.15,
+        -49.72
+       ],
+       "facing": 88,
+       "height": "low",
+       "note": "the slope grey and still, the thorns stirring in the wind"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        -12.7,
+        -49.05
+       ],
+       "facing": 240,
+       "height": "low",
+       "note": "round to his cracked lips as he whispers"
+      },
+      {
+       "t": 8.8,
+       "pos": [
+        -12.65,
+        -48.95
+       ],
+       "facing": 100,
+       "height": "low",
+       "note": "back up the empty slope as the wind moves through the grey thorn"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "He turns his head to the slope above him, empty all the way to the road, whispers, and the wind in the thorns answers"
+    },
+    {
+     "id": "W22",
+     "setup": null,
+     "frames": 158,
+     "speaker": null,
+     "reached": [
+      1
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -12.65,
+        -48.95
+       ],
+       "facing": 100,
+       "height": "low"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        -12.65,
+        -49.1
+       ],
+       "facing": 232,
+       "height": "low",
+       "note": "down close to his mouth, dew gathered on his cracked lips"
+      },
+      {
+       "t": 5.8,
+       "pos": [
+        -12.7,
+        -49.15
+       ],
+       "facing": 228,
+       "height": "low",
+       "note": "he wets them with his tongue and drinks the dew"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "Dew has gathered on his cracked lips, and he wets them with his tongue and drinks it"
+    },
+    {
+     "id": "W23",
+     "setup": "S23",
+     "frames": 277,
+     "speaker": null,
+     "reached": [
+      1
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -12.7,
+        -49.15
+       ],
+       "facing": 228,
+       "height": "low"
+      },
+      {
+       "t": 3.0,
+       "pos": [
+        -12.95,
+        -49.3
+       ],
+       "facing": 270,
+       "height": "low",
+       "note": "his eyes, up through the thorn branches at the last stars going out one by one"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        -12.55,
+        -49.05
+       ],
+       "facing": 228,
+       "height": "low",
+       "note": "back to his face as his eyes close"
+      },
+      {
+       "t": 11.2,
+       "pos": [
+        -11.75,
+        -48.4
+       ],
+       "facing": 232,
+       "height": "knee",
+       "note": "a slow pull back up out of the thorns, his chest rising and falling slow and even"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     },
+     "does": "He lies back and watches the last stars go out one by one until his eyes close, his chest rising and falling, slow and even"
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "In the thorns",
+     "extent": [
+      -14.0,
+      -11.2,
+      -50.3,
+      -48.0
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The road west, the far hills",
+   "heading": "EXT. THE ROAD WEST - DAY",
+   "extent": [
+    -12,
+    18,
+    -7,
+    7
+   ],
+   "grid": "+x east · +y north · origin where he stops · metres",
+   "light": {
+    "kind": "sun",
+    "from_deg": 205,
+    "label": "afternoon, ahead of him in the west-south-west"
+   },
+   "place": [
+    {
+     "kind": "area",
+     "fill": "earth",
+     "polygon": [
+      [
+       -12,
+       -7
+      ],
+      [
+       18,
+       -7
+      ],
+      [
+       18,
+       7
+      ],
+      [
+       -12,
+       7
+      ]
+     ],
+     "label": "Dead brown land",
+     "label_at": [
+      12,
+      5
+     ]
+    },
+    {
+     "kind": "track",
+     "points": [
+      [
+       18,
+       0.25
+      ],
+      [
+       8,
+       0.05
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       -12,
+       -0.3
+      ]
+     ],
+     "width_m": 3.2,
+     "label": "The road west",
+     "label_at": [
+      9,
+      -2.6
+     ]
+    },
+    {
+     "kind": "canopy",
+     "pos": [
+      6,
+      3.8
+     ],
+     "rx": 0.9,
+     "ry": 0.77,
+     "trunk_m": 0.06
+    },
+    {
+     "kind": "canopy",
+     "pos": [
+      -6,
+      -3.6
+     ],
+     "rx": 1.1,
+     "ry": 0.94,
+     "trunk_m": 0.06
+    },
+    {
+     "kind": "canopy",
+     "pos": [
+      14.5,
+      -4.2
+     ],
+     "rx": 0.8,
+     "ry": 0.68,
+     "trunk_m": 0.06
+    },
+    {
+     "kind": "canopy",
+     "pos": [
+      -8.5,
+      -5.2
+     ],
+     "rx": 1.0,
+     "ry": 0.85,
+     "trunk_m": 0.06
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -9.5,
+      1.9
+     ],
+     "label": "A line of hills far off to the west"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      11.8,
+      0.0
+     ],
+     "facing_deg": 180,
+     "named": true,
+     "note": "limping, barefoot, the split brow, the swollen hand"
+    }
+   ],
+   "paths": [
+    {
+     "who": 1,
+     "points": [
+      [
+       11.8,
+       0.0
+      ],
+      [
+       0,
+       0
+      ]
+     ],
+     "note": "limps west at about 0.8 m/s and stops"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S24",
+     "what": "Behind his limp on the stony road",
+     "pos": [
+      10.6,
+      -0.9
+     ],
+     "facing_deg": 160,
+     "height": "knee",
+     "wedge_m": 4
+    },
+    {
+     "shot": "S25",
+     "what": "His face as he looks at the far hills",
+     "pos": [
+      -0.95,
+      -1.25
+     ],
+     "facing_deg": 52,
+     "height": "standing",
+     "wedge_m": 3
+    }
+   ],
+   "windows": [
+    {
+     "id": "W24",
+     "setup": "S24",
+     "frames": 260,
+     "speaker": null,
+     "reached": [
+      1
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        13.4,
+        -0.7
+       ],
+       "facing": 160,
+       "height": "low",
+       "note": "low behind him on the stony road, his bare cut feet limping, the sling in his fist"
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        10.6,
+        -0.9
+       ],
+       "facing": 160,
+       "height": "knee",
+       "note": "rising behind his limp, the swollen hand at his side"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        7.6,
+        -0.8
+       ],
+       "facing": 170,
+       "height": "standing",
+       "note": "walking at his shoulder down the long empty road west"
+      },
+      {
+       "t": 10.6,
+       "pos": [
+        5.3,
+        -0.7
+       ],
+       "facing": 175,
+       "height": "standing",
+       "note": "behind his shoulder, the road running on into the haze"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "He walks west on the stony road, and he limps"
+    },
+    {
+     "id": "W25",
+     "setup": "S25",
+     "frames": 226,
+     "speaker": null,
+     "reached": [
+      1
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        5.3,
+        -0.7
+       ],
+       "facing": 175,
+       "height": "standing"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        3.0,
+        -0.9
+       ],
+       "facing": 180,
+       "height": "standing",
+       "note": "past his shoulder, far off a line of hills low in the haze"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        1.0,
+        -0.8
+       ],
+       "facing": 175,
+       "height": "standing",
+       "note": "he stops, and the camera comes up at his shoulder"
+      },
+      {
+       "t": 7.4,
+       "pos": [
+        -0.95,
+        -1.25
+       ],
+       "facing": 52,
+       "height": "standing",
+       "note": "a quarter arc round to his face as he looks at the hills, the afternoon sun on it"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        -0.85,
+        -1.15
+       ],
+       "facing": 53,
+       "height": "standing",
+       "note": "a half step in toward his eyes"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     },
+     "does": "Far off a line of hills shows in the haze, and he stops and looks at them"
+    }
+   ]
+  },
+  {
+   "title": "The road home at dusk",
+   "heading": "EXT. THE ROAD HOME - DUSK",
+   "place_ref": [
+    "eliab_valley"
+   ],
+   "extent": [
+    -150,
+    1550,
+    -900,
+    300
+   ],
+   "light": {
+    "kind": "dusk",
+    "from_deg": 175,
+    "label": "sunset straight ahead of him over his father's hills"
+   },
+   "place": [
+    {
+     "kind": "contour",
+     "points": [
+      [
+       1401,
+       -645
+      ],
+      [
+       1400,
+       -630
+      ],
+      [
+       1399,
+       -615
+      ]
+     ],
+     "label": "The rise where the road tops out",
+     "label_at": [
+      1404,
+      -618
+     ]
+    },
+    {
+     "kind": "contour",
+     "points": [
+      [
+       1398.5,
+       -629.8
+      ],
+      [
+       700,
+       -315
+      ],
+      [
+       0,
+       0
+      ]
+     ],
+     "label": "His view down the valley to the gate, 1.5 km",
+     "label_at": [
+      760,
+      -300
+     ]
+    },
+    {
+     "kind": "label",
+     "pos": [
+      230,
+      20
+     ],
+     "label": "Bells, a boy's whistle and the dog's bark rise from here"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      1408.7,
+      -631.07
+     ],
+     "facing_deg": 173,
+     "named": true,
+     "note": "limping uphill into the setting sun, the split brow, the swollen hand"
+    }
+   ],
+   "paths": [
+    {
+     "who": 1,
+     "points": [
+      [
+       1408.7,
+       -631.07
+      ],
+      [
+       1400.0,
+       -630.0
+      ],
+      [
+       1398.5,
+       -629.8
+      ]
+     ],
+     "note": "climbs west to the crest at about 0.8 m/s and stops"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S26",
+     "what": "Low behind him up the climbing road",
+     "pos": [
+      1407.2,
+      -631.4
+     ],
+     "facing_deg": 170,
+     "height": "knee",
+     "wedge_m": 4
+    },
+    {
+     "shot": "S27",
+     "what": "His profile in the last light above the valley",
+     "pos": [
+      1398.4,
+      -631.9
+     ],
+     "facing_deg": 92,
+     "height": "standing",
+     "wedge_m": 4
+    }
+   ],
+   "windows": [
+    {
+     "id": "W26",
+     "setup": "S26",
+     "frames": 260,
+     "speaker": null,
+     "reached": [
+      1
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1410.6,
+        -631.9
+       ],
+       "facing": 165,
+       "height": "knee",
+       "note": "low behind him on the climbing road, dust on his skin, evening gnats in the low sun ahead"
+      },
+      {
+       "t": 4.5,
+       "pos": [
+        1407.2,
+        -631.4
+       ],
+       "facing": 170,
+       "height": "knee",
+       "note": "climbing behind him, his breath loud, the rise of the road against the sun"
+      },
+      {
+       "t": 8.6,
+       "pos": [
+        1403.9,
+        -630.95
+       ],
+       "facing": 172,
+       "height": "standing",
+       "note": "he tops the rise into the full light of the setting sun"
+      },
+      {
+       "t": 10.6,
+       "pos": [
+        1402.2,
+        -630.8
+       ],
+       "facing": 175,
+       "height": "standing",
+       "note": "the camera comes up over the crest behind him as the valley begins to open below"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "The road climbs, and the valley of his father's farm opens below him"
+    },
+    {
+     "id": "W27",
+     "setup": "S27",
+     "frames": 379,
+     "speaker": null,
+     "reached": [
+      1
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1402.2,
+        -630.8
+       ],
+       "facing": 175,
+       "height": "standing"
+      },
+      {
+       "t": 3.0,
+       "pos": [
+        1400.6,
+        -630.75
+       ],
+       "facing": 165,
+       "height": "standing",
+       "note": "over his shoulder the valley of his father's farm far below, the terraces and the village, the sun going down straight ahead over the hills"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        1399.6,
+        -631.6
+       ],
+       "facing": 140,
+       "height": "standing",
+       "note": "sheep bells rise from the valley, then a boy's whistle, and his head lifts"
+      },
+      {
+       "t": 11.0,
+       "pos": [
+        1398.4,
+        -631.9
+       ],
+       "facing": 92,
+       "height": "standing",
+       "note": "round to his profile in the last light as a dog barks in answer far below"
+      },
+      {
+       "t": 15.2,
+       "pos": [
+        1398.3,
+        -631.55
+       ],
+       "facing": 92,
+       "height": "standing",
+       "note": "a step in toward his face in the last light, the valley below him"
+      }
+     ],
+     "out": {
+      "kind": "end"
+     },
+     "does": "Sheep bells rise from the valley, then a boy's whistle and a dog's answering bark, as the light goes and the sun sets straight ahead of him over his father's hills"
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The crest at the mile's end",
+     "extent": [
+      1386,
+      1422,
+      -641,
+      -620
+     ]
+    }
+   ],
+   "grid": "+x east · +y north · Scene 2's eliab_valley frame, origin the gate lamp at Eliab's farm · metres"
+  }
+ ],
+ "notes": [
+  "The farm, the edge of the field, the well and the scrub sit on 1A's foreign_farm frame; the two roads west are local grids; the road home sits on Scene 2's eliab_valley frame at road_mile_end (1400, -630), where the road first comes into view of Eliab's gate.",
+  "The farm dog leads the camera up from the reapers to the table and leaves the edge of the field with the bread, so the Sc 4 flash is cut from W12 between 7 and 12 s.",
+  "The father's hand rests on the younger son's head from W06 into W09, so Asher sees it from the wall; the cut into W09 is the deliberate break that reveals who has been watching.",
+  "Between W09 and W10 Asher slips unseen along the ditch, through the field gap and up the fold's east side behind the oven into the pantry; the cut carries that time.",
+  "W11 runs with him as 1A's signature move does, so the theft and the lynching share one running camera, and the barley heads stitch it into the edge of the field.",
+  "The elder son reaches the pantry door as Asher bursts out and stays close behind for the whole run; the younger son follows, so both brothers sit down again in W17.",
+  "The catch ends at the wall's field face, about 3 m across the stones from 1A's beating on the road side.",
+  "The well is staged at noon, later than the morning theft and just after 1A's white-noon beating.",
+  "He wakes on 1A's scrub_rest spot with his head 0.4 m west; the scrub windows travel an arm's length at a time, a near-stillness chosen for the exhausted body.",
+  "The hired men are 1A's four, numbered 4 to 7; man 7 looks at the ribs and looks away, the same man bent over at the lip in 1A."
+ ]
+}

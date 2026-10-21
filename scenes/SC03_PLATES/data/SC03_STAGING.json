@@ -1,0 +1,1565 @@
+{
+ "scene": "3",
+ "title": "The brothers",
+ "subtitle": "EXT. ELIAB'S FARM - THRESHING FLOOR - EVENING · Amos winnows in the evening wind; Asher takes the second fork and tells him first",
+ "plans": [
+  {
+   "title": "The threshing floor at evening",
+   "heading": "EXT. ELIAB'S FARM - THRESHING FLOOR - EVENING",
+   "place_ref": [
+    "eliab_farm"
+   ],
+   "extent": [
+    -19.2,
+    -6.6,
+    -33.8,
+    -20.2
+   ],
+   "grid": "+x east · +y north · metres · origin the lamp niche in the north gatepost (0, 0) · one frame with eliab_farm",
+   "light": {
+    "kind": "sun",
+    "from_deg": 195,
+    "label": "evening, the low sun from the west-south-west, the wind from the west"
+   },
+   "place": [
+    {
+     "kind": "area",
+     "fill": "straw",
+     "polygon": [
+      [
+       -11.9,
+       -24.6
+      ],
+      [
+       -9.0,
+       -24.2
+      ],
+      [
+       -6.5,
+       -25.4
+      ],
+      [
+       -5.6,
+       -27.6
+      ],
+      [
+       -5.6,
+       -31.6
+      ],
+      [
+       -8.6,
+       -30.4
+      ],
+      [
+       -10.4,
+       -29.2
+      ],
+      [
+       -11.9,
+       -28.0
+      ]
+     ],
+     "label": "Chaff drift, east and downhill",
+     "label_at": [
+      -8.4,
+      -29.0
+     ]
+    },
+    {
+     "kind": "area",
+     "fill": "straw",
+     "polygon": [
+      [
+       -12.1,
+       -26.3
+      ],
+      [
+       -12.12,
+       -25.84
+      ],
+      [
+       -12.2,
+       -25.42
+      ],
+      [
+       -12.31,
+       -25.09
+      ],
+      [
+       -12.45,
+       -24.87
+      ],
+      [
+       -12.6,
+       -24.8
+      ],
+      [
+       -12.75,
+       -24.87
+      ],
+      [
+       -12.89,
+       -25.09
+      ],
+      [
+       -13.0,
+       -25.42
+      ],
+      [
+       -13.08,
+       -25.84
+      ],
+      [
+       -13.1,
+       -26.3
+      ],
+      [
+       -13.08,
+       -26.76
+      ],
+      [
+       -13.0,
+       -27.18
+      ],
+      [
+       -12.89,
+       -27.51
+      ],
+      [
+       -12.75,
+       -27.73
+      ],
+      [
+       -12.6,
+       -27.8
+      ],
+      [
+       -12.45,
+       -27.73
+      ],
+      [
+       -12.31,
+       -27.51
+      ],
+      [
+       -12.2,
+       -27.18
+      ],
+      [
+       -12.12,
+       -26.76
+      ]
+     ],
+     "label": "Barley heap",
+     "label_at": [
+      -12.6,
+      -27.0
+     ]
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -10.25,
+      -23.75
+     ],
+     "size": [
+      1.5,
+      0.12
+     ],
+     "angle": 40,
+     "shape": "rect",
+     "label": "Second fork"
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      -10.6,
+      -21.0
+     ],
+     "size": [
+      2.6,
+      1.4
+     ],
+     "shape": "ellipse",
+     "label": "Sheaves still to thresh"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -18.0,
+      -21.2
+     ],
+     "label": "Evening wind from the west →"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -15.0,
+      -33.2
+     ],
+     "label": "Other floors at work across the valley, 1.1 km south"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -8.7,
+      -22.9
+     ],
+     "label": "Down the valley to the Jordan →"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -17.6,
+      -20.5
+     ],
+     "label": "Eliab's house roof, 33 m north-west"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Amos",
+     "named": true,
+     "pos": [
+      -13.9,
+      -27.2
+     ],
+     "facing_deg": 0,
+     "note": "about 40, undyed wool dark with sweat, winnowing with the wind at his back"
+    },
+    {
+     "n": 2,
+     "name": "Asher",
+     "named": true,
+     "pos": [
+      -7.0,
+      -22.28
+     ],
+     "facing_deg": 211,
+     "note": "about 20, purple-hemmed tunic, the sling at his belt, coming down the floor track from the farm where W02 finds him"
+    }
+   ],
+   "paths": [
+    {
+     "who": 2,
+     "points": [
+      [
+       -7.0,
+       -22.28
+      ],
+      [
+       -9.9,
+       -24.0
+      ],
+      [
+       -10.4,
+       -24.1
+      ],
+      [
+       -12.6,
+       -24.35
+      ],
+      [
+       -14.0,
+       -25.3
+      ]
+     ],
+     "note": "W02, down the floor track, the second fork from the rim stones, round the heap's north end to Amos's left"
+    },
+    {
+     "who": 2,
+     "points": [
+      [
+       -14.0,
+       -25.3
+      ],
+      [
+       -14.0,
+       -25.95
+      ]
+     ],
+     "note": "W08, a step toward his brother on Come with me"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       -13.9,
+       -27.2
+      ],
+      [
+       -13.95,
+       -26.75
+      ]
+     ],
+     "note": "W13, a step in to his brother on Tell me, then he turns back to the wind there"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S01",
+     "what": "Amos alone, the valley and far floors beyond",
+     "pos": [
+      -14.03,
+      -24.05
+     ],
+     "facing_deg": 272,
+     "height": "standing",
+     "wedge_m": 3.0
+    },
+    {
+     "shot": "S02",
+     "what": "Asher's shoulder, Amos looks at him",
+     "pos": [
+      -13.28,
+      -23.73
+     ],
+     "facing_deg": 260,
+     "height": "standing",
+     "wedge_m": 2.0
+    },
+    {
+     "shot": "S03",
+     "what": "Two backs in one stance",
+     "pos": [
+      -15.83,
+      -24.83
+     ],
+     "facing_deg": 323,
+     "height": "standing",
+     "wedge_m": 2.0
+    },
+    {
+     "shot": "S04",
+     "what": "Amos's almost-smile",
+     "pos": [
+      -15.7,
+      -26.4
+     ],
+     "facing_deg": 336,
+     "height": "standing",
+     "wedge_m": 1.4
+    },
+    {
+     "shot": "S05",
+     "what": "Asher's comeback",
+     "pos": [
+      -15.39,
+      -27.3
+     ],
+     "facing_deg": 55,
+     "height": "standing",
+     "wedge_m": 1.4
+    },
+    {
+     "shot": "S06",
+     "what": "Into the low sun, gold chaff at the lens",
+     "pos": [
+      -11.06,
+      -26.65
+     ],
+     "facing_deg": 180,
+     "height": "knee",
+     "wedge_m": 2.4
+    },
+    {
+     "shot": "S07",
+     "what": "Asher's face past Amos's shoulder",
+     "pos": [
+      -15.01,
+      -28.1
+     ],
+     "facing_deg": 70,
+     "height": "standing",
+     "wedge_m": 1.4
+    },
+    {
+     "shot": "S08",
+     "what": "Amos listens, Asher's shoulder near",
+     "pos": [
+      -14.49,
+      -24.74
+     ],
+     "facing_deg": 283,
+     "height": "standing",
+     "wedge_m": 1.0
+    },
+    {
+     "shot": "S09",
+     "what": "Amos's ten summers",
+     "pos": [
+      -15.49,
+      -25.9
+     ],
+     "facing_deg": 321,
+     "height": "standing",
+     "wedge_m": 1.0
+    },
+    {
+     "shot": "S10",
+     "what": "Both profiles close, the law",
+     "pos": [
+      -15.36,
+      -26.86
+     ],
+     "facing_deg": 11,
+     "height": "standing",
+     "wedge_m": 1.0
+    },
+    {
+     "shot": "S11",
+     "what": "Amos and the valley he fed",
+     "pos": [
+      -14.98,
+      -27.32
+     ],
+     "facing_deg": 6,
+     "height": "standing",
+     "wedge_m": 1.0
+    },
+    {
+     "shot": "S12",
+     "what": "Asher, his father's roof beyond",
+     "pos": [
+      -14.44,
+      -27.56
+     ],
+     "facing_deg": 75,
+     "height": "standing",
+     "wedge_m": 1.0
+    },
+    {
+     "shot": "S13",
+     "what": "Amos's face, Asher turned away",
+     "pos": [
+      -13.77,
+      -25.37
+     ],
+     "facing_deg": 263,
+     "height": "standing",
+     "wedge_m": 0.9
+    },
+    {
+     "shot": "S14",
+     "what": "Both brothers, the chaff crossing between",
+     "pos": [
+      -12.83,
+      -27.74
+     ],
+     "facing_deg": 123,
+     "height": "standing",
+     "wedge_m": 1.4
+    }
+   ],
+   "windows": [
+    {
+     "id": "W01",
+     "setup": "S01",
+     "frames": 328,
+     "speaker": null,
+     "does": "Amos winnows alone in the low sun with the evening wind at his back, the grain falling back on the heap and the chaff blowing away gold, other floors at work across the valley",
+     "reached": [
+      1
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -10.66,
+        -27.6
+       ],
+       "facing": 174,
+       "height": "knee",
+       "note": "low behind the heap in the chaff stream, Amos dark against the low sun, his forkful rising"
+      },
+      {
+       "t": 2.25,
+       "pos": [
+        -10.71,
+        -26.12
+       ],
+       "facing": 198,
+       "height": "knee"
+      },
+      {
+       "t": 4.5,
+       "pos": [
+        -11.35,
+        -24.9
+       ],
+       "facing": 222,
+       "height": "standing",
+       "note": "rising round the heap's north end as the chaff streams away"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        -12.18,
+        -24.25
+       ],
+       "facing": 239,
+       "height": "standing"
+      },
+      {
+       "t": 7.5,
+       "pos": [
+        -13.13,
+        -23.97
+       ],
+       "facing": 255,
+       "height": "standing"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        -14.03,
+        -24.05
+       ],
+       "facing": 272,
+       "height": "standing",
+       "note": "off his left shoulder, the terrace edge, the valley and the far slope with other floors at work"
+      },
+      {
+       "t": 12.4,
+       "pos": [
+        -13.87,
+        -24.0
+       ],
+       "facing": 276,
+       "height": "standing",
+       "note": "the chaff crossing the frame from right to left"
+      },
+      {
+       "t": 13.2,
+       "pos": [
+        -13.82,
+        -24.0
+       ],
+       "facing": 22,
+       "height": "standing",
+       "note": "a gust of chaff carries the eye up the floor track",
+       "whip": "left"
+      }
+     ],
+     "out": {
+      "kind": "whip",
+      "dir": "left"
+     }
+    },
+    {
+     "id": "W02",
+     "setup": "S02",
+     "frames": 243,
+     "speaker": null,
+     "does": "Asher comes down the floor track, takes the second fork from the rim stones and steps in at Amos's left, and Amos looks at him",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -13.82,
+        -24.0
+       ],
+       "facing": 22,
+       "height": "standing"
+      },
+      {
+       "t": 3.4,
+       "pos": [
+        -13.01,
+        -23.82
+       ],
+       "facing": 10,
+       "height": "standing",
+       "note": "a long stride toward him as he takes the second fork from the rim stones"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        -12.81,
+        -24.06
+       ],
+       "facing": 292,
+       "height": "standing",
+       "note": "he passes the lens at arm's length"
+      },
+      {
+       "t": 9.8,
+       "pos": [
+        -13.28,
+        -23.73
+       ],
+       "facing": 260,
+       "height": "standing",
+       "note": "behind Asher's shoulder, Amos's face beyond as he looks at his brother"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W03",
+     "setup": "S03",
+     "frames": 243,
+     "speaker": "ASHER",
+     "line": "There is barley still to thresh. I will be up before you. I always am.",
+     "line_at": 3.2,
+     "wps": 2.6,
+     "does": "Asher plants his feet, squares his shoulders and grunts exactly like Amos, then turns his head to him and speaks as Amos",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -13.28,
+        -23.73
+       ],
+       "facing": 260,
+       "height": "standing"
+      },
+      {
+       "t": 3.0,
+       "pos": [
+        -14.4,
+        -23.84
+       ],
+       "facing": 281,
+       "height": "standing",
+       "note": "round behind Asher's left shoulder as he plants his feet and squares his shoulders"
+      },
+      {
+       "t": 4.7,
+       "pos": [
+        -15.21,
+        -24.22
+       ],
+       "facing": 302,
+       "height": "standing"
+      },
+      {
+       "t": 6.4,
+       "pos": [
+        -15.83,
+        -24.83
+       ],
+       "facing": 323,
+       "height": "standing",
+       "note": "two backs in one stance, the chaff flying away down the valley beyond them"
+      },
+      {
+       "t": 8.15,
+       "pos": [
+        -16.14,
+        -25.42
+       ],
+       "facing": 329,
+       "height": "standing"
+      },
+      {
+       "t": 9.9,
+       "pos": [
+        -16.28,
+        -26.07
+       ],
+       "facing": 335,
+       "height": "standing",
+       "note": "round behind them toward Amos as the line lands"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W04",
+     "setup": "S04",
+     "frames": 192,
+     "speaker": "AMOS",
+     "line": "You have never held a fork right in your life.",
+     "line_at": 2.9,
+     "wps": 2.5,
+     "does": "The corner of Amos's mouth moves, almost a smile, and it goes, and he answers his brother",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -16.28,
+        -26.07
+       ],
+       "facing": 335,
+       "height": "standing"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        -15.7,
+        -26.4
+       ],
+       "facing": 336,
+       "height": "standing",
+       "note": "in on Amos's face as the corner of his mouth moves"
+      },
+      {
+       "t": 7.5,
+       "pos": [
+        -15.24,
+        -26.54
+       ],
+       "facing": 334,
+       "height": "standing",
+       "note": "closer on him as he answers his brother"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W05",
+     "setup": "S05",
+     "frames": 158,
+     "speaker": "ASHER",
+     "line": "I held it right for a moment. You were not looking.",
+     "line_at": 0.9,
+     "does": "Asher grins back at his brother",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -15.24,
+        -26.54
+       ],
+       "facing": 334,
+       "height": "standing"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        -15.1,
+        -26.36
+       ],
+       "facing": 44,
+       "height": "standing",
+       "note": "turning onto Asher's grin across the gap"
+      },
+      {
+       "t": 3.8,
+       "pos": [
+        -15.33,
+        -26.77
+       ],
+       "facing": 50,
+       "height": "standing"
+      },
+      {
+       "t": 6.2,
+       "pos": [
+        -15.39,
+        -27.3
+       ],
+       "facing": 55,
+       "height": "standing",
+       "note": "a step back round as Asher answers"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W06",
+     "setup": "S06",
+     "frames": 379,
+     "speaker": null,
+     "does": "The brothers toss together for a while as the camera circles them through the gold chaff, then Asher stops",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -15.39,
+        -27.3
+       ],
+       "facing": 55,
+       "height": "standing"
+      },
+      {
+       "t": 1.0,
+       "pos": [
+        -15.31,
+        -27.94
+       ],
+       "facing": 61,
+       "height": "standing"
+      },
+      {
+       "t": 2.0,
+       "pos": [
+        -14.96,
+        -28.58
+       ],
+       "facing": 67,
+       "height": "standing",
+       "note": "out round Amos's right as both forks start to fly"
+      },
+      {
+       "t": 3.2,
+       "pos": [
+        -14.06,
+        -29.05
+       ],
+       "facing": 88,
+       "height": "standing"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        -12.96,
+        -29.13
+       ],
+       "facing": 109,
+       "height": "standing",
+       "note": "past the heap's south end, both forks against the evening sky"
+      },
+      {
+       "t": 5.2,
+       "pos": [
+        -12.02,
+        -28.57
+       ],
+       "facing": 133,
+       "height": "standing"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        -11.36,
+        -27.7
+       ],
+       "facing": 156,
+       "height": "standing"
+      },
+      {
+       "t": 6.8,
+       "pos": [
+        -11.06,
+        -26.65
+       ],
+       "facing": 180,
+       "height": "knee",
+       "note": "low behind the heap, the gold chaff of both forks streaming at the lens"
+      },
+      {
+       "t": 7.9,
+       "pos": [
+        -11.23,
+        -25.41
+       ],
+       "facing": 202,
+       "height": "knee"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        -11.9,
+        -24.35
+       ],
+       "facing": 223,
+       "height": "standing",
+       "note": "rising out of the chaff round the heap's north end"
+      },
+      {
+       "t": 9.73,
+       "pos": [
+        -12.62,
+        -23.75
+       ],
+       "facing": 242,
+       "height": "standing"
+      },
+      {
+       "t": 10.47,
+       "pos": [
+        -13.51,
+        -23.4
+       ],
+       "facing": 262,
+       "height": "standing"
+      },
+      {
+       "t": 11.2,
+       "pos": [
+        -14.49,
+        -23.35
+       ],
+       "facing": 281,
+       "height": "standing",
+       "note": "behind them, the chaff flying away gold down the valley"
+      },
+      {
+       "t": 11.93,
+       "pos": [
+        -15.42,
+        -23.67
+       ],
+       "facing": 300,
+       "height": "standing"
+      },
+      {
+       "t": 12.67,
+       "pos": [
+        -16.21,
+        -24.27
+       ],
+       "facing": 319,
+       "height": "standing"
+      },
+      {
+       "t": 13.4,
+       "pos": [
+        -16.76,
+        -25.09
+       ],
+       "facing": 338,
+       "height": "standing",
+       "note": "behind their backs, both forks flying in one rhythm"
+      },
+      {
+       "t": 14.5,
+       "pos": [
+        -17.0,
+        -26.4
+       ],
+       "facing": 10,
+       "height": "standing"
+      },
+      {
+       "t": 15.6,
+       "pos": [
+        -16.67,
+        -27.67
+       ],
+       "facing": 42,
+       "height": "standing",
+       "note": "Asher stops and turns to his brother"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W07",
+     "setup": "S07",
+     "frames": 226,
+     "speaker": "ASHER",
+     "line": "I am asking him for my portion. <pause> Tonight.",
+     "line_at": 1.2,
+     "does": "Asher tells Amos he will ask for his portion tonight, Amos stops, and the chaff drifts between them",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -16.67,
+        -27.67
+       ],
+       "facing": 42,
+       "height": "standing"
+      },
+      {
+       "t": 2.3,
+       "pos": [
+        -15.82,
+        -28.06
+       ],
+       "facing": 56,
+       "height": "standing"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        -15.01,
+        -28.1
+       ],
+       "facing": 70,
+       "height": "standing",
+       "note": "past Amos's shoulder onto Asher's face as he says it"
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        -14.37,
+        -28.56
+       ],
+       "facing": 86,
+       "height": "standing"
+      },
+      {
+       "t": 6.6,
+       "pos": [
+        -13.53,
+        -28.76
+       ],
+       "facing": 101,
+       "height": "standing",
+       "note": "round behind Amos as he stops"
+      },
+      {
+       "t": 7.25,
+       "pos": [
+        -12.72,
+        -28.52
+       ],
+       "facing": 122,
+       "height": "standing"
+      },
+      {
+       "t": 7.9,
+       "pos": [
+        -12.03,
+        -28.01
+       ],
+       "facing": 143,
+       "height": "standing",
+       "note": "past the heap's south end"
+      },
+      {
+       "t": 8.45,
+       "pos": [
+        -11.58,
+        -27.21
+       ],
+       "facing": 170,
+       "height": "standing"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        -11.45,
+        -26.31
+       ],
+       "facing": 196,
+       "height": "knee",
+       "note": "low behind the heap, the chaff drifting gold between their dark profiles toward the lens"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the drifting gold chaff of Amos's last forkful filling the lens",
+      "slides": "left"
+     }
+    },
+    {
+     "id": "W08",
+     "setup": "S08",
+     "frames": 260,
+     "speaker": "ASHER",
+     "line": "Come with me. <pause> Ask for yours. <inhale> Beyond the Jordan the streets are lit all night, and no one counts the oil.",
+     "line_at": 0.9,
+     "does": "Asher steps closer and asks his brother to come with him, his eyes going down the valley toward the Jordan, and Amos listens",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -13.35,
+        -24.76
+       ],
+       "facing": 257,
+       "height": "standing",
+       "note": "the chaff clears off Amos's face over Asher's shoulder"
+      },
+      {
+       "t": 2.5,
+       "pos": [
+        -13.92,
+        -24.65
+       ],
+       "facing": 270,
+       "height": "standing"
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        -14.49,
+        -24.74
+       ],
+       "facing": 283,
+       "height": "standing",
+       "note": "Amos listens as his brother steps closer"
+      },
+      {
+       "t": 7.7,
+       "pos": [
+        -14.91,
+        -24.97
+       ],
+       "facing": 294,
+       "height": "standing"
+      },
+      {
+       "t": 10.4,
+       "pos": [
+        -15.25,
+        -25.31
+       ],
+       "facing": 306,
+       "height": "standing",
+       "note": "Amos's face as his brother's words run out"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W09",
+     "setup": "S09",
+     "frames": 260,
+     "speaker": "AMOS",
+     "line": "At your age I had threshed ten summers. <pause> You have slept through all of yours.",
+     "line_at": 1.0,
+     "wps": 2.4,
+     "does": "Amos answers flat and hard, and Asher grins and tosses a forkful high as if it were a joke",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -15.25,
+        -25.31
+       ],
+       "facing": 306,
+       "height": "standing"
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        -15.49,
+        -25.9
+       ],
+       "facing": 321,
+       "height": "standing",
+       "note": "Amos's face in the low sun as he gives his ten summers"
+      },
+      {
+       "t": 8.0,
+       "pos": [
+        -15.53,
+        -26.4
+       ],
+       "facing": 354,
+       "height": "standing",
+       "note": "both profiles as Asher grins and tosses a forkful high"
+      },
+      {
+       "t": 10.4,
+       "pos": [
+        -15.48,
+        -26.62
+       ],
+       "facing": 12,
+       "height": "standing",
+       "note": "the forkful flies away gold down the valley"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W10",
+     "setup": "S10",
+     "frames": 243,
+     "speaker": "AMOS",
+     "line": "A son receives his portion when he bears his father to the tomb. <pause> Not before.",
+     "line_at": 1.0,
+     "wps": 2.4,
+     "does": "Amos tells his brother what a portion means in their time, and Asher's grin goes",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -15.48,
+        -26.62
+       ],
+       "facing": 12,
+       "height": "standing"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        -15.36,
+        -26.86
+       ],
+       "facing": 11,
+       "height": "standing",
+       "note": "close on both profiles as Amos lays down the law of the portion"
+      },
+      {
+       "t": 9.6,
+       "pos": [
+        -15.18,
+        -27.11
+       ],
+       "facing": 45,
+       "height": "standing",
+       "note": "onto Asher's face as the grin goes"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W11",
+     "setup": "S11",
+     "frames": 226,
+     "speaker": "AMOS",
+     "line": "He fed half this valley through the bad year. <inhale> They will say his son buried him alive.",
+     "line_at": 0.8,
+     "wps": 2.5,
+     "does": "Amos looks out over the valley his father fed and back at his brother",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -15.18,
+        -27.11
+       ],
+       "facing": 45,
+       "height": "standing"
+      },
+      {
+       "t": 3.4,
+       "pos": [
+        -14.98,
+        -27.32
+       ],
+       "facing": 6,
+       "height": "standing",
+       "note": "Amos turns to look out over the valley his father fed"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        -14.74,
+        -27.48
+       ],
+       "facing": 64,
+       "height": "standing",
+       "note": "his eyes come back to his brother, Asher's face beyond his shoulder"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W12",
+     "setup": "S12",
+     "frames": 413,
+     "speaker": "ASHER",
+     "line": "He went out in the dark for one ewe and came back singing. <pause> Every head on this hill is counted. <pause> Mine too. <inhale> I want a will of mine own. <pause> Under this roof, I have none.",
+     "line_at": 1.0,
+     "wps": 2.7,
+     "does": "Asher looks out at the valley and says what he wants at last, with a glance up the terrace to his father's roof",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -14.74,
+        -27.48
+       ],
+       "facing": 64,
+       "height": "standing"
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        -14.58,
+        -27.54
+       ],
+       "facing": 70,
+       "height": "standing",
+       "note": "past Amos's shoulder onto Asher as he looks out at the valley"
+      },
+      {
+       "t": 11.0,
+       "pos": [
+        -14.44,
+        -27.56
+       ],
+       "facing": 75,
+       "height": "standing",
+       "note": "in close as Asher says what he wants at last"
+      },
+      {
+       "t": 15.4,
+       "pos": [
+        -14.31,
+        -27.57
+       ],
+       "facing": 79,
+       "height": "standing",
+       "note": "his glance up the terrace to his father's roof"
+      },
+      {
+       "t": 17.0,
+       "pos": [
+        -13.95,
+        -27.55
+       ],
+       "facing": 82,
+       "height": "standing",
+       "note": "into Amos's sweat-dark back until the wool fills the lens"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the sweat-dark undyed wool of Amos's back",
+      "slides": "left"
+     }
+    },
+    {
+     "id": "W13",
+     "setup": "S13",
+     "frames": 294,
+     "speaker": "AMOS",
+     "line": "Then you wish him dead. <pause> Tell me I lie. <pause> Brother. <inhale> Tell me.",
+     "line_at": 1.6,
+     "wps": 2.2,
+     "does": "Amos steps in close and asks his brother to deny it, and Asher keeps his eyes on the valley in silence",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -13.55,
+        -27.15
+       ],
+       "facing": 118,
+       "height": "standing",
+       "note": "Amos's back slides away to the left"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        -13.44,
+        -26.5
+       ],
+       "facing": 164,
+       "height": "standing",
+       "note": "in the lane by the heap, both profiles dark against the low sun as Amos steps in"
+      },
+      {
+       "t": 5.2,
+       "pos": [
+        -13.31,
+        -25.63
+       ],
+       "facing": 240,
+       "height": "standing",
+       "note": "round Asher's shoulder onto Amos's face"
+      },
+      {
+       "t": 8.4,
+       "pos": [
+        -13.52,
+        -25.47
+       ],
+       "facing": 252,
+       "height": "standing"
+      },
+      {
+       "t": 11.6,
+       "pos": [
+        -13.77,
+        -25.37
+       ],
+       "facing": 263,
+       "height": "standing",
+       "note": "a slow drift on Amos's face, Asher's head turned away to the valley"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W14",
+     "setup": "S14",
+     "frames": 379,
+     "speaker": "AMOS",
+     "line": "Ask him with your own mouth. <pause> I will speak no word for you.",
+     "line_at": 9.2,
+     "wps": 2.4,
+     "does": "Amos turns back to the wind and throws his forkful high, the chaff goes away down the valley, and he gives his last word with his eyes on it",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -13.77,
+        -25.37
+       ],
+       "facing": 263,
+       "height": "standing"
+      },
+      {
+       "t": 2.8,
+       "pos": [
+        -13.58,
+        -25.26
+       ],
+       "facing": 300,
+       "height": "standing",
+       "note": "Amos turns back to the wind at the heap and throws his forkful high"
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        -13.05,
+        -24.84
+       ],
+       "facing": 318,
+       "height": "standing",
+       "note": "the chaff goes away gold down the valley"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        -12.25,
+        -24.7
+       ],
+       "facing": 228,
+       "height": "standing",
+       "note": "round the heap's north end, his next forkful rising against the low sun"
+      },
+      {
+       "t": 7.8,
+       "pos": [
+        -11.93,
+        -25.3
+       ],
+       "facing": 210,
+       "height": "standing"
+      },
+      {
+       "t": 8.6,
+       "pos": [
+        -11.8,
+        -25.94
+       ],
+       "facing": 192,
+       "height": "standing",
+       "note": "behind the heap, the gold chaff streaming at the lens"
+      },
+      {
+       "t": 9.5,
+       "pos": [
+        -11.86,
+        -26.64
+       ],
+       "facing": 168,
+       "height": "standing"
+      },
+      {
+       "t": 10.4,
+       "pos": [
+        -12.14,
+        -27.25
+       ],
+       "facing": 145,
+       "height": "standing",
+       "note": "round to the brothers' faces"
+      },
+      {
+       "t": 14.6,
+       "pos": [
+        -12.83,
+        -27.74
+       ],
+       "facing": 123,
+       "height": "standing",
+       "note": "both faces turned our way, their eyes past the lens on the valley, the chaff crossing between"
+      }
+     ],
+     "out": {
+      "kind": "end"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The words, round them close",
+     "extent": [
+      -16.25,
+      -11.95,
+      -27.95,
+      -24.85
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "The floor is Scene 2's, 9 m across on the terrace's south edge; the brothers winnow with the wind at their backs, the heap just downwind of them, so the grain falls back on the heap and the chaff blows away east over it and down the valley.",
+  "Asher comes up to him from the farm by the floor track, takes the second fork from the rim stones and works at Amos's left, so in the argument he faces south to the valley and Amos faces north to the house.",
+  "The signature move is the whole scene as one designed take circling the brothers counter-clockwise, more than three turns, the toss-together circle outermost (W06) and the words on tighter arcs; when Amos turns back to the wind the camera turns back too (W14).",
+  "Faces are played from the sun side, Amos's from the north-west, Asher's from the south-west, both profiles from the west; every pass behind the heap looks into the low sun with the gold chaff crossing the lens.",
+  "Two of the hardest words are played against the low sun on purpose, the first words of W13 in the lane by the heap and the first words of W14 behind it.",
+  "Amos turns back to the wind as he does at work, with the wind behind him at the heap, and throws his forkful down the valley the way his brother will go.",
+  "The joins hide in the floor's own material, a whip on a gust of chaff (W01-W02), Amos's last forkful drifting into the lens (W07-W08) and Amos's sweat-dark back (W12-W13); the other ten continue.",
+  "Asher's invitation in W08 plays on Amos's face as he listens; Asher's three speeches share W12 as in voice test V2, and Amos's accusation and Asher's silence share W13 as in V3.",
+  "The other floors lie across the valley about 1.1 km south (eliab_valley farm_across_west and farm_across_east), seen past Amos in W01."
+ ]
+}

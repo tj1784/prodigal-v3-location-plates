@@ -1,0 +1,97 @@
+{
+ "scene": "1",
+ "title": "Orbit spots, Grok test",
+ "subtitle": "Where each Scene 1 test picture stands and looks · late afternoon, sun from 135° · empty place",
+ "plans": [
+  {
+   "title": "The hillside: where each picture stands",
+   "heading": "EXT. HILLSIDE ABOVE THE LAKE - LATE AFTERNOON",
+   "place_ref": [
+    "hillside"
+   ],
+   "light": {
+    "kind": "sun",
+    "from_deg": 135,
+    "label": "late afternoon, low through haze"
+   },
+   "people": [],
+   "windows": [],
+   "cameras": [
+    {
+     "shot": "1",
+     "what": "Gate plate: outside the gate, looking in",
+     "pos": [
+      33,
+      0
+     ],
+     "facing_deg": 180,
+     "height": "standing",
+     "wedge_m": 38
+    },
+    {
+     "shot": "3",
+     "what": "Turned right: the wall to the lake, the grove",
+     "pos": [
+      33.2,
+      0.2
+     ],
+     "facing_deg": 90,
+     "height": "standing",
+     "wedge_m": 16
+    },
+    {
+     "shot": "R",
+     "what": "Board reverse: into the grove",
+     "pos": [
+      33.2,
+      -0.2
+     ],
+     "facing_deg": 0,
+     "height": "standing",
+     "wedge_m": 12
+    },
+    {
+     "shot": "L",
+     "what": "Board turned left: the leaf, the wall uphill",
+     "pos": [
+      32.8,
+      0
+     ],
+     "facing_deg": 270,
+     "height": "standing",
+     "wedge_m": 12
+    },
+    {
+     "shot": "2",
+     "what": "Olive view: uphill inside the wall",
+     "pos": [
+      -2,
+      -11
+     ],
+     "facing_deg": 60,
+     "height": "standing",
+     "wedge_m": 38
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The gate stand point",
+     "extent": [
+      24,
+      38,
+      -6,
+      6
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "1, the gate plate (image_gen, 3:2): stands 6 m outside the gateway at (33, 0), faces 180°; the gate, the olive and ledge 33 m beyond, the lake on the RIGHT; sun ahead-right.",
+  "2, the olive view (image_edit from 1): stands uphill inside the wall at (-2, -11), faces 60°; the olive and ledge on the left, the gate 31 m off on the right, the lake beyond; sun from the left.",
+  "3, turned right (image_edit from 1): the same spot as 1, faces 90°; the wall running down to the lake on the left, the grove on the right; sun ahead-left.",
+  "The board's reverse (R) faces 0° into the grove, lit from behind; turned left (L) faces 270°, the open leaf close on the right, the wall climbing the hill.",
+  "Grid: +x toward the gate (screen right), +y downhill to the lake (screen top); the seat and ledge at (0, 0), the gate at (27, 0); metres, not compass."
+ ]
+}

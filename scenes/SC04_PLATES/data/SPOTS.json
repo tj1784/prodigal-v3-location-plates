@@ -1,0 +1,94 @@
+[
+ {
+  "scene": "4",
+  "plan": 0,
+  "plan_title": "Eliab's house at supper",
+  "heading": "INT. ELIAB'S HOUSE - DUSK",
+  "place": "eliab_house:int",
+  "hour": "dusk",
+  "light": {
+   "kind": "lamp",
+   "label": "one clay lamp on the table and the last grey light in through the open east door"
+  },
+  "pos": [
+   -35.8,
+   -1.8
+  ],
+  "facing": 90,
+  "setup": "S03",
+  "keys": 80,
+  "used_by": [
+   "4"
+  ],
+  "id": "sc04_A_eliabs_house_at_supper",
+  "dir": "orbits/sc04/A_eliabs_house_at_supper",
+  "from": "sc02_A_the_house_before_dawn",
+  "digest": {
+   "front": {
+    "heading_deg": 90,
+    "sees": [
+     "Water jar (prop), 2 m, right",
+     "Oil jars (prop), 2 m, left",
+     "Hearth (FRONT) (slab), 2 m, centre",
+     "Eliab's house (eliab_house) (building), 3 m, right",
+     "Storage jars (LEFT) (prop), 3 m, left",
+     "Lamp niche (prop), 3 m, left",
+     "Eaves (area), 3 m, right",
+     "Yard (area), 3 m, right",
+     "Yard wall, about 1.7 m (wall), 4 m, right",
+     "The fold (area), 14 m, right"
+    ]
+   },
+   "right": {
+    "heading_deg": 0,
+    "sees": [
+     "Gate lamp, 34 m east (track), 1 m, right",
+     "Water jar (prop), 2 m, left",
+     "Doorway (RIGHT) (door), 2 m, centre",
+     "door (door), 2 m, centre",
+     "Eliab's house (eliab_house) (building), 2 m, right",
+     "Eaves (area), 2 m, centre",
+     "Yard (area), 2 m, centre",
+     "The fold (area), 12 m, left",
+     "Fold gate, barred (gate), 19 m, left",
+     "Yard wall, about 1.7 m (wall), 20 m, left",
+     "Calf pen (wall), 28 m, left",
+     "Ox byre (building), 29 m, left",
+     "Cistern (prop), 30 m, right",
+     "Threshing floor (slab), 33 m, right"
+    ]
+   },
+   "behind": {
+    "heading_deg": 270,
+    "sees": [
+     "Stools (prop), 1 m, centre",
+     "Hand mill (prop), 2 m, right",
+     "Asher's mat (prop), 2 m, left",
+     "Sleeping bench (BEHIND) (slab), 2 m, right",
+     "Eliab's house (eliab_house) (building), 3 m, left",
+     "Yard (area), 3 m, left",
+     "Peg, sling (prop), 3 m, left",
+     "Eaves (area), 3 m, left",
+     "Ovens (prop), 9 m, left",
+     "tree (tree), 25 m, right",
+     "Terrace edge (wall), 31 m, centre",
+     "Threshing floor (slab), 33 m, left",
+     "Floor track (track), 34 m, left",
+     "Path down to the far field (SW) (track), 35 m, left"
+    ]
+   },
+   "left": {
+    "heading_deg": 180,
+    "sees": [
+     "Gate lamp, 34 m east (track), 1 m, left",
+     "Oil jars (prop), 2 m, right",
+     "Hand mill (prop), 2 m, left",
+     "Eliab's house (eliab_house) (building), 2 m, left",
+     "tree (tree), 19 m, right",
+     "tree (tree), 25 m, left",
+     "Terrace edge (wall), 36 m, left"
+    ]
+   }
+  }
+ }
+]

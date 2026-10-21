@@ -1,0 +1,93 @@
+[
+ {
+  "scene": "11",
+  "plan": 0,
+  "plan_title": "The hillside at dusk",
+  "heading": "EXT. HILLSIDE ABOVE THE LAKE - DUSK",
+  "place": "hillside:ext",
+  "hour": "dusk",
+  "light": {
+   "kind": "dusk",
+   "from_deg": 140,
+   "label": "afterglow over the far shore, lower and redder; the fire and hand lamps light the faces"
+  },
+  "pos": [
+   27.3,
+   -0.15
+  ],
+  "facing": 178,
+  "setup": "S05",
+  "keys": 35,
+  "used_by": [
+   "11"
+  ],
+  "id": "sc11_A_the_hillside_at_dusk",
+  "dir": "orbits/sc11/A_the_hillside_at_dusk",
+  "from": "sc04a_A_the_hillside_at_sunset",
+  "digest": {
+   "front": {
+    "heading_deg": 178,
+    "sees": [
+     "Open gate (gate), 0 m, right",
+     "Low dry-stone fieldstone wall (wall), 21 m, right",
+     "Small fire (fire), 24 m, centre",
+     "Limestone ledge (slab), 27 m, centre",
+     "The old olive (canopy), 30 m, centre",
+     "Lake · downhill (+y) (water), 39 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "Small fire: ahead, the view backlit, 24 m",
+     "6 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 88,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 2 m, centre",
+     "Open gate (gate), 2 m, centre",
+     "Loose stone (prop), 3 m, centre",
+     "tree (tree), 9 m, right",
+     "tree (tree), 12 m, right",
+     "tree (tree), 18 m, right",
+     "Lake · downhill (+y) (water), 31 m, centre"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "Small fire: to the left, 24 m",
+     "6 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 358,
+    "sees": [
+     "tree (tree), 7 m, left",
+     "tree (tree), 8 m, centre",
+     "tree (tree), 12 m, left",
+     "tree (tree), 13 m, left",
+     "tree (tree), 13 m, right",
+     "tree (tree), 18 m, left"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "Small fire: behind the camera, the view lit from the front, 24 m",
+     "6 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 268,
+    "sees": [
+     "Low dry-stone fieldstone wall (wall), 1 m, centre",
+     "Open gate (gate), 1 m, centre",
+     "tree (tree), 7 m, left",
+     "tree (tree), 12 m, left"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "Small fire: to the right, 24 m",
+     "6 more small lamps or fires around the place"
+    ]
+   }
+  }
+ }
+]

@@ -1,0 +1,166 @@
+[
+ {
+  "scene": "6B",
+  "plan": 0,
+  "plan_title": "The gate at dawn",
+  "heading": "EXT. ELIAB'S FARM - GATE - DAWN",
+  "place": "eliab_farm:ext",
+  "hour": "dawn",
+  "light": {
+   "kind": "dawn",
+   "from_deg": 5,
+   "label": "first light low from the east straight down the road, mist lying in the valley"
+  },
+  "pos": [
+   -0.45,
+   -1.85
+  ],
+  "facing": 96,
+  "setup": "S03",
+  "keys": 35,
+  "used_by": [
+   "6B"
+  ],
+  "id": "sc06b_A_the_gate_at_dawn",
+  "dir": "orbits/sc06b/A_the_gate_at_dawn",
+  "from": "sc02_E_the_gate_at_dusk",
+  "digest": {
+   "front": {
+    "heading_deg": 96,
+    "sees": [
+     "Yard (area), 0 m, right",
+     "First light through the gateway (area), 1 m, centre",
+     "The one gate (gate), 2 m, right",
+     "Yard wall, about 1.7 m (wall), 2 m, right",
+     "Stone bench (slab), 4 m, right",
+     "Calf pen (wall), 8 m, left",
+     "Ox byre (building), 11 m, centre",
+     "Old fig (tree), 12 m, right",
+     "The fold (area), 13 m, left",
+     "Hill track to the pasture (track), 67 m, right"
+    ],
+    "sun": "to the right"
+   },
+   "right": {
+    "heading_deg": 6,
+    "sees": [
+     "The one gate (gate), 0 m, centre",
+     "First light through the gateway (area), 1 m, centre",
+     "Road east, down to the village gate (track), 1 m, centre",
+     "Floor track (track), 8 m, right",
+     "Hill track to the pasture (track), 10 m, right",
+     "Old fig (tree), 12 m, left",
+     "Footpath from the village (track), 46 m, right"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "behind": {
+    "heading_deg": 276,
+    "sees": [
+     "Yard (area), 1 m, centre",
+     "First light through the gateway (area), 1 m, right",
+     "The one gate (gate), 2 m, centre",
+     "Trough (prop), 4 m, left",
+     "Floor track (track), 8 m, left",
+     "Cistern (prop), 10 m, right",
+     "Threshing floor (slab), 28 m, right",
+     "Footpath from the village (track), 28 m, right",
+     "Terrace edge (wall), 31 m, centre",
+     "Path down to the far field (SW) (track), 37 m, right"
+    ],
+    "sun": "to the left"
+   },
+   "left": {
+    "heading_deg": 186,
+    "sees": [
+     "First light through the gateway (area), 2 m, right",
+     "Cistern (prop), 10 m, left",
+     "Calf pen (wall), 10 m, right",
+     "The fold (area), 12 m, right",
+     "Fold gate, barred (gate), 16 m, right",
+     "Yard (area), 16 m, left",
+     "Yard wall, about 1.7 m (wall), 22 m, right",
+     "Ovens (prop), 31 m, centre",
+     "Eaves (area), 32 m, centre",
+     "door (door), 34 m, centre",
+     "Eliab's house (eliab_house) (building), 34 m, centre",
+     "Path down to the far field (SW) (track), 37 m, left",
+     "Terrace edge (wall), 38 m, left",
+     "tree (tree), 53 m, right"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   }
+  }
+ },
+ {
+  "scene": "6B",
+  "plan": 1,
+  "plan_title": "The road at the bend",
+  "heading": "EXT. THE ROAD - THE BEND - MORNING",
+  "place": "eliab_valley:ext",
+  "hour": "morning",
+  "light": {
+   "kind": "sun",
+   "from_deg": 350,
+   "label": "low morning sun in the east, a little south of where it rose, haze over the valley"
+  },
+  "pos": [
+   1040.99,
+   -581.2
+  ],
+  "facing": 57,
+  "setup": "S11",
+  "keys": 26,
+  "used_by": [
+   "6B"
+  ],
+  "id": "sc06b_B_the_road_at_the_bend",
+  "dir": "orbits/sc06b/B_the_road_at_the_bend",
+  "from": "sc02_F_the_valley_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 57,
+    "sees": [
+     "Road east to Jericho (track), 1 m, left",
+     "The last spur of the hill (area), 4 m, left"
+    ],
+    "sun": "ahead on the right"
+   },
+   "right": {
+    "heading_deg": 327,
+    "sees": [
+     "Road east to Jericho (track), 3 m, left"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "behind": {
+    "heading_deg": 237,
+    "sees": [
+     "building (building), 465 m, centre",
+     "building (building), 903 m, right"
+    ],
+    "sun": "behind on the left"
+   },
+   "left": {
+    "heading_deg": 147,
+    "sees": [
+     "Road east to Jericho (track), 2 m, right",
+     "The last spur of the hill (area), 4 m, right",
+     "Boulders at the spur's foot (prop), 6 m, right",
+     "Thorn gully (the ewe, Sc 2) (area), 449 m, right",
+     "building (building), 494 m, right",
+     "Village (area), 510 m, left",
+     "Well (prop), 585 m, centre",
+     "Village gate (elders' bench) (gate), 741 m, left",
+     "building (building), 999 m, right",
+     "Hill pasture (the flock) (area), 1020 m, centre",
+     "Hill track (track), 1140 m, centre",
+     "Path to the far field (track), 1194 m, centre",
+     "Far field (Sc 15) (area), 1211 m, centre",
+     "Other farms on the next terraces (building), 1577 m, centre"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   }
+  }
+ }
+]
