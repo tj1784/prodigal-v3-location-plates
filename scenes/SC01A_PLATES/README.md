@@ -77,7 +77,7 @@ The digest lists fourteen landmarks a view. On the southward plates the dry wadi
 
 ## The locked design
 
-One place, the foreign farm on the road west, first century AD, at hard white noon. The screenplay's hour is this same white noon from the beating under the wall, up the road, and down to the thorns.
+One place, the foreign farm on the road west, first century AD, at hard white noon. The road under the wall, the top of the slope and the thorn scrub below it are all seen at this same white noon.
 
 - The road is stony earth, 3.8 metres wide, running east-west.
 - A shallow dry ditch, about 1.15 metres wide, lies on the road's north side.
