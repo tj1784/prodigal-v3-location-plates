@@ -1794,7 +1794,8 @@
   "keys": 25,
   "used_by": [
    "5",
-   "10"
+   "10",
+   "15"
   ],
   "id": "sc05_A_the_gate_at_night",
   "dir": "orbits/sc05/A_the_gate_at_night",
@@ -5380,6 +5381,407 @@
      "Yard fire, the dance ring: behind the camera, the view lit from the front, 6 m",
      "The calf on the spit: behind on the left, 10 m",
      "Torch at the eaves: behind the camera, the view lit from the front, 3 m",
+     "2 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "15",
+  "plan": 0,
+  "plan_title": "The far field by moonlight",
+  "heading": "EXT. THE FIELD - NIGHT",
+  "place": "eliab_valley:ext",
+  "hour": "night",
+  "light": {
+   "kind": "moon",
+   "from_deg": 335,
+   "label": "a low moon over the valley, east-south-east; Dan's torch"
+  },
+  "pos": [
+   -117.55,
+   -97.7
+  ],
+  "facing": 40,
+  "setup": "S02",
+  "keys": 15,
+  "used_by": [
+   "15"
+  ],
+  "id": "sc15_A_the_far_field_by_moonlight",
+  "dir": "orbits/sc15/A_the_far_field_by_moonlight",
+  "from": "sc02_F_the_valley_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 40,
+    "sees": [
+     "Ploughed today (area), 1 m, right",
+     "Yoke (prop), 3 m, left",
+     "Path to the far field (track), 8 m, centre",
+     "Terrace wall, the path drops over it (wall), 12 m, left",
+     "Far field (Sc 15) (area), 32 m, left",
+     "Road east to Jericho (track), 152 m, centre",
+     "Hill track (track), 158 m, centre",
+     "Hill pasture (the flock) (area), 202 m, centre",
+     "building (building), 491 m, centre",
+     "Thorn gully (the ewe, Sc 2) (area), 827 m, right",
+     "building (building), 880 m, right"
+    ],
+    "sun": "ahead on the right"
+   },
+   "right": {
+    "heading_deg": 310,
+    "sees": [
+     "Ploughed today (area), 2 m, left",
+     "Lone terebinth (tree), 11 m, left",
+     "Far field (Sc 15) (area), 26 m, right",
+     "Road east to Jericho (track), 258 m, left",
+     "Village (area), 504 m, left",
+     "Village gate (elders' bench) (gate), 514 m, left",
+     "Well (prop), 670 m, left",
+     "Thorn gully (the ewe, Sc 2) (area), 827 m, left",
+     "building (building), 880 m, left",
+     "building (building), 1033 m, right",
+     "building (building), 1309 m, centre"
+    ],
+    "sun": "ahead, the view backlit"
+   },
+   "behind": {
+    "heading_deg": 220,
+    "sees": [
+     "Ploughed today (area), 7 m, right",
+     "The last furrow, the plough in it (track), 12 m, right",
+     "Far field (Sc 15) (area), 26 m, left"
+    ],
+    "sun": "behind on the left"
+   },
+   "left": {
+    "heading_deg": 130,
+    "sees": [
+     "Ploughed today (area), 1 m, right",
+     "The last furrow, the plough in it (track), 3 m, right",
+     "Terrace wall, the path drops over it (wall), 12 m, right",
+     "Far field (Sc 15) (area), 32 m, right",
+     "Other farms on the next terraces (building), 322 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front"
+   }
+  }
+ },
+ {
+  "scene": "15",
+  "plan": 2,
+  "plan_title": "The house, the feast",
+  "heading": "INT. ELIAB'S HOUSE - CONTINUOUS",
+  "place": "eliab_house:int",
+  "hour": "the hearth roaring",
+  "light": {
+   "kind": "fire",
+   "label": "the hearth roaring, a clay lamp in the niche, the torch at the eaves and the yard fire beyond the door"
+  },
+  "pos": [
+   -35.8,
+   -1.8
+  ],
+  "facing": 90,
+  "setup": "S09",
+  "keys": 14,
+  "used_by": [
+   "15"
+  ],
+  "id": "sc15_B_the_house_the_feast",
+  "dir": "orbits/sc15/B_the_house_the_feast",
+  "from": "sc02_A_the_house_before_dawn",
+  "digest": {
+   "front": {
+    "heading_deg": 90,
+    "sees": [
+     "Water jar (prop), 2 m, right",
+     "Oil jars (prop), 2 m, left",
+     "Hearth (FRONT) (slab), 2 m, centre",
+     "Storage jars (LEFT) (prop), 3 m, left",
+     "Lamp niche (prop), 3 m, left"
+    ],
+    "flame": [
+     "Torch at the eaves: ahead on the right, 3 m",
+     "2 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 0,
+    "sees": [
+     "Water jar (prop), 2 m, left",
+     "Doorway (RIGHT) (door), 2 m, centre",
+     "Torch at the eaves (lamp), 3 m, left"
+    ],
+    "flame": [
+     "Torch at the eaves: ahead, the view backlit, 3 m",
+     "2 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 270,
+    "sees": [
+     "Amos's place, set (prop), 0 m, right",
+     "Stools (prop), 1 m, centre",
+     "Hand mill (prop), 2 m, right",
+     "Asher's mat (prop), 2 m, left",
+     "Sleeping bench (BEHIND) (slab), 2 m, right",
+     "Peg, sling (prop), 3 m, left"
+    ],
+    "flame": [
+     "Torch at the eaves: behind on the left, 3 m",
+     "2 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 180,
+    "sees": [
+     "Oil jars (prop), 2 m, right",
+     "Hand mill (prop), 2 m, left"
+    ],
+    "flame": [
+     "Torch at the eaves: behind the camera, the view lit from the front, 3 m",
+     "2 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "15",
+  "plan": 3,
+  "plan_title": "The father comes out",
+  "heading": "EXT. ELIAB'S FARM - GATE - CONTINUOUS",
+  "place": "eliab_farm:ext",
+  "hour": "the low moon behind the son; the gate lamp",
+  "light": {
+   "kind": "moon",
+   "from_deg": 335,
+   "label": "the low moon behind the son; the gate lamp, the yard fire and the lit door behind the father"
+  },
+  "pos": [
+   -31.7,
+   -1.45
+  ],
+  "facing": 188,
+  "setup": "S18",
+  "keys": 8,
+  "used_by": [
+   "15"
+  ],
+  "id": "sc15_C_the_father_comes_out",
+  "dir": "orbits/sc15/C_the_father_comes_out",
+  "from": "sc13_D_the_courtyard_at_night",
+  "digest": {
+   "front": {
+    "heading_deg": 188,
+    "sees": [
+     "Eaves (area), 1 m, left",
+     "Torch at the eaves (lamp), 2 m, right",
+     "Yard (area), 2 m, centre",
+     "Doorway (RIGHT) (door), 2 m, centre",
+     "door (door), 2 m, centre",
+     "Eliab's house (eliab_house) (building), 2 m, right",
+     "Water jar (prop), 3 m, right",
+     "Asher's mat (prop), 4 m, left",
+     "Table · orbit centre (prop), 4 m, centre",
+     "Peg, sling (prop), 4 m, left",
+     "Stools (prop), 4 m, centre",
+     "Hearth (FRONT) (slab), 4 m, right",
+     "Oil jars (prop), 5 m, right",
+     "Sleeping bench (BEHIND) (slab), 5 m, left"
+    ],
+    "sun": "behind on the left",
+    "flame": [
+     "Gate lamp, its light about 4 m: behind the camera, the view lit from the front, 32 m",
+     "Yard fire, the dance ring: behind on the left, 3 m",
+     "The calf on the spit: behind on the left, 7 m",
+     "Torch at the eaves: ahead on the right, 2 m",
+     "2 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 98,
+    "sees": [
+     "Eaves (area), 1 m, left",
+     "Eliab's house (eliab_house) (building), 3 m, left",
+     "Yard (area), 3 m, left",
+     "Yard wall, about 1.7 m (wall), 4 m, left",
+     "The fold (area), 10 m, right"
+    ],
+    "sun": "behind on the right",
+    "flame": [
+     "Gate lamp, its light about 4 m: to the right, 32 m",
+     "Yard fire, the dance ring: behind on the right, 3 m",
+     "The calf on the spit: behind the camera, the view lit from the front, 7 m",
+     "Torch at the eaves: ahead on the left, 2 m",
+     "2 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 8,
+    "sees": [
+     "Yard fire, the dance ring (fire), 3 m, right",
+     "The fold (area), 8 m, left",
+     "Fold gate, barred (gate), 15 m, centre",
+     "Yard (area), 18 m, left",
+     "Yard wall, about 1.7 m (wall), 18 m, left",
+     "Calf pen (wall), 24 m, centre",
+     "Ox byre (building), 25 m, left",
+     "Cistern (prop), 26 m, right",
+     "Floor track (track), 32 m, right",
+     "The one gate (gate), 32 m, centre",
+     "Gate lamp, its light about 4 m (lamp), 32 m, centre",
+     "Road east, down to the village gate (track), 32 m, centre",
+     "Stone bench (slab), 33 m, centre",
+     "Trough (prop), 33 m, right"
+    ],
+    "sun": "ahead on the right",
+    "flame": [
+     "Gate lamp, its light about 4 m: ahead, the view backlit, 32 m",
+     "Yard fire, the dance ring: ahead on the right, 3 m",
+     "The calf on the spit: ahead on the right, 7 m",
+     "Torch at the eaves: behind on the left, 2 m",
+     "2 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 278,
+    "sees": [
+     "Eaves (area), 2 m, right",
+     "Yard fire, the dance ring (fire), 3 m, left",
+     "Yard (area), 3 m, right",
+     "Eliab's house (eliab_house) (building), 4 m, right",
+     "The calf on the spit (fire), 7 m, left",
+     "Ovens (prop), 7 m, centre",
+     "Threshing floor (slab), 31 m, left",
+     "Floor track (track), 31 m, left",
+     "Terrace edge (wall), 32 m, centre",
+     "Path down to the far field (SW) (track), 34 m, left",
+     "Footpath from the village (track), 38 m, left"
+    ],
+    "sun": "ahead on the left",
+    "flame": [
+     "Gate lamp, its light about 4 m: to the left, 32 m",
+     "Yard fire, the dance ring: ahead on the left, 3 m",
+     "The calf on the spit: ahead, the view backlit, 7 m",
+     "Torch at the eaves: behind on the right, 2 m",
+     "2 more small lamps or fires around the place"
+    ]
+   }
+  }
+ },
+ {
+  "scene": "15",
+  "plan": 3,
+  "plan_title": "The father comes out",
+  "heading": "EXT. ELIAB'S FARM - GATE - CONTINUOUS",
+  "place": "eliab_farm:ext",
+  "hour": "the low moon behind the son; the gate lamp",
+  "light": {
+   "kind": "moon",
+   "from_deg": 335,
+   "label": "the low moon behind the son; the gate lamp, the yard fire and the lit door behind the father"
+  },
+  "pos": [
+   2.15,
+   -1.4
+  ],
+  "facing": 256,
+  "setup": "S17",
+  "keys": 42,
+  "used_by": [
+   "15"
+  ],
+  "id": "sc15_D_the_father_comes_out",
+  "dir": "orbits/sc15/D_the_father_comes_out",
+  "from": "sc08_F_the_gate_by_day",
+  "digest": {
+   "front": {
+    "heading_deg": 256,
+    "sees": [
+     "Road east, down to the village gate (track), 1 m, right",
+     "Eliab stops, inside the light (slab), 1 m, right",
+     "Yard (area), 3 m, right",
+     "The one gate (gate), 3 m, right",
+     "Trough (prop), 4 m, centre",
+     "Floor track (track), 7 m, left",
+     "Cistern (prop), 12 m, right",
+     "Footpath from the village (track), 29 m, centre",
+     "Threshing floor (slab), 30 m, right",
+     "Terrace edge (wall), 31 m, left",
+     "Path down to the far field (SW) (track), 39 m, right"
+    ],
+    "sun": "to the left",
+    "flame": [
+     "Gate lamp, its light about 4 m: behind on the right, 3 m",
+     "Yard fire, the dance ring: ahead on the right, 32 m",
+     "The calf on the spit: ahead on the right, 31 m",
+     "Torch at the eaves: to the right, 36 m",
+     "2 more small lamps or fires around the place"
+    ]
+   },
+   "right": {
+    "heading_deg": 166,
+    "sees": [
+     "Road east, down to the village gate (track), 2 m, left",
+     "The one gate (gate), 2 m, left",
+     "Yard (area), 3 m, left",
+     "Gate lamp, its light about 4 m (lamp), 3 m, right",
+     "Yard wall, about 1.7 m (wall), 3 m, right",
+     "Stone bench (slab), 4 m, right",
+     "Calf pen (wall), 9 m, right",
+     "Ox byre (building), 11 m, right",
+     "The fold (area), 14 m, centre",
+     "Fold gate, barred (gate), 18 m, centre",
+     "The calf on the spit (fire), 31 m, left",
+     "Yard fire, the dance ring (fire), 32 m, left",
+     "Ovens (prop), 34 m, left",
+     "Eaves (area), 35 m, left"
+    ],
+    "sun": "behind the camera, the view lit from the front",
+    "flame": [
+     "Gate lamp, its light about 4 m: ahead, the view backlit, 3 m",
+     "Yard fire, the dance ring: ahead, the view backlit, 32 m",
+     "The calf on the spit: ahead, the view backlit, 31 m",
+     "Torch at the eaves: ahead, the view backlit, 36 m",
+     "2 more small lamps or fires around the place"
+    ]
+   },
+   "behind": {
+    "heading_deg": 76,
+    "sees": [
+     "Yard wall, about 1.7 m (wall), 4 m, left",
+     "Stone bench (slab), 4 m, left",
+     "Yard (area), 5 m, left",
+     "Calf pen (wall), 10 m, left",
+     "Old fig (tree), 10 m, centre",
+     "Ox byre (building), 11 m, left",
+     "Hill track to the pasture (track), 13 m, right"
+    ],
+    "sun": "to the right",
+    "flame": [
+     "Gate lamp, its light about 4 m: ahead on the left, 3 m",
+     "Yard fire, the dance ring: behind on the left, 32 m",
+     "The calf on the spit: behind on the left, 31 m",
+     "Torch at the eaves: to the left, 36 m",
+     "2 more small lamps or fires around the place"
+    ]
+   },
+   "left": {
+    "heading_deg": 346,
+    "sees": [
+     "Road east, down to the village gate (track), 1 m, right",
+     "Floor track (track), 6 m, centre",
+     "Hill track to the pasture (track), 7 m, centre",
+     "Footpath from the village (track), 36 m, right"
+    ],
+    "sun": "ahead, the view backlit",
+    "flame": [
+     "Gate lamp, its light about 4 m: behind the camera, the view lit from the front, 3 m",
+     "Yard fire, the dance ring: behind the camera, the view lit from the front, 32 m",
+     "The calf on the spit: behind the camera, the view lit from the front, 31 m",
+     "Torch at the eaves: behind the camera, the view lit from the front, 36 m",
      "2 more small lamps or fires around the place"
     ]
    }

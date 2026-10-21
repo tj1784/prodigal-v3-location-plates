@@ -1,0 +1,3352 @@
+{
+ "scene": "15",
+ "title": "The elder son",
+ "subtitle": "EXT. THE FIELD - NIGHT to EXT. ELIAB'S FARM - GATE - CONTINUOUS · the far field by moonlight, the edge of the lamp's light, the feast, the father comes out to his elder son",
+ "plans": [
+  {
+   "title": "The far field by moonlight",
+   "heading": "EXT. THE FIELD - NIGHT",
+   "place_ref": [
+    "eliab_valley"
+   ],
+   "extent": [
+    -162,
+    -14,
+    -132,
+    -26
+   ],
+   "grid": "+x east · +y north · metres · origin the lamp niche in the north gatepost (0, 0) · one frame for eliab_valley, eliab_farm and eliab_house · the far field about 150 m south-west of the gate, the farm just above the frame",
+   "light": {
+    "kind": "moon",
+    "from_deg": 335,
+    "label": "a low moon over the valley, east-south-east; Dan's torch"
+   },
+   "place": [
+    {
+     "kind": "area",
+     "fill": "earth",
+     "polygon": [
+      [
+       -150,
+       -95.9
+      ],
+      [
+       -116.8,
+       -96.4
+      ],
+      [
+       -110,
+       -116
+      ],
+      [
+       -147,
+       -123
+      ]
+     ],
+     "label": "Ploughed today",
+     "label_at": [
+      -136,
+      -111
+     ]
+    },
+    {
+     "kind": "track",
+     "width_m": 0.5,
+     "points": [
+      [
+       -149,
+       -95.4
+      ],
+      [
+       -118.4,
+       -95.2
+      ]
+     ],
+     "label": "The last furrow, the plough in it",
+     "label_at": [
+      -140,
+      -93.4
+     ]
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -120.4,
+      -95.2
+     ],
+     "size": [
+      2.0,
+      0.35
+     ],
+     "shape": "rect"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -116.75,
+      -95.2
+     ],
+     "size": [
+      0.22,
+      1.9
+     ],
+     "shape": "rect",
+     "label": "Yoke"
+    },
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       -150,
+       -89
+      ],
+      [
+       -125,
+       -86.6
+      ],
+      [
+       -101,
+       -84.2
+      ],
+      [
+       -82,
+       -82.2
+      ]
+     ],
+     "label": "Terrace wall, the path drops over it"
+    },
+    {
+     "kind": "track",
+     "width_m": 1.0,
+     "points": [
+      [
+       -112,
+       -92
+      ],
+      [
+       -115.2,
+       -95.0
+      ]
+     ]
+    },
+    {
+     "kind": "tree",
+     "pos": [
+      -107.5,
+      -101.5
+     ],
+     "r": 2.8,
+     "label": "Lone terebinth"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -101,
+      -82.6
+     ],
+     "label": "Dan's torch first shows here"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -30,
+      -29.5
+     ],
+     "label": "Up the hill, the farm and the feast"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Amos",
+     "pos": [
+      -116.4,
+      -96.65
+     ],
+     "facing_deg": 90,
+     "named": true,
+     "note": "unyoking at the end of the last furrow"
+    },
+    {
+     "n": 2,
+     "name": "Dan",
+     "pos": [
+      -46.0,
+      -48.6
+     ],
+     "facing_deg": 209,
+     "named": true,
+     "note": "running down from the farm with a torch"
+    },
+    {
+     "n": 3,
+     "name": "ox",
+     "pos": [
+      -117.4,
+      -94.6
+     ],
+     "facing_deg": 0,
+     "animal": true
+    },
+    {
+     "n": 4,
+     "name": "ox",
+     "pos": [
+      -117.4,
+      -95.8
+     ],
+     "facing_deg": 0,
+     "animal": true
+    }
+   ],
+   "paths": [
+    {
+     "who": 2,
+     "points": [
+      [
+       -46.0,
+       -48.6
+      ],
+      [
+       -70,
+       -62
+      ],
+      [
+       -95,
+       -80
+      ],
+      [
+       -101,
+       -84.2
+      ],
+      [
+       -112,
+       -92
+      ],
+      [
+       -115.2,
+       -95.0
+      ]
+     ],
+     "note": "down the path from the farm with the torch, showing at the terrace wall 20 m above the team"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S01",
+     "what": "Low in the furrow, the yoked oxen against the moon",
+     "pos": [
+      -123.0,
+      -97.0
+     ],
+     "facing_deg": 15,
+     "height": "low",
+     "wedge_m": 6
+    },
+    {
+     "shot": "S02",
+     "what": "Over Amos's shoulder, the torch coming down the path",
+     "pos": [
+      -117.55,
+      -97.7
+     ],
+     "facing_deg": 40,
+     "height": "standing",
+     "wedge_m": 8
+    },
+    {
+     "shot": "S03",
+     "what": "Dan breathless in his own torchlight",
+     "pos": [
+      -114.5,
+      -97.2
+     ],
+     "facing_deg": 118,
+     "height": "standing",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S04",
+     "what": "Amos very still with the yoke in his hands",
+     "pos": [
+      -114.45,
+      -97.0
+     ],
+     "facing_deg": 165,
+     "height": "standing",
+     "wedge_m": 2.5
+    }
+   ],
+   "windows": [
+    {
+     "id": "W01",
+     "setup": "S01",
+     "frames": 345,
+     "speaker": null,
+     "does": "Amos lifts the yoke off the oxen by moonlight at the end of the last furrow, stops with it in his hands as the music drifts down the hill, and a torch shows at the terrace wall above",
+     "reached": [
+      1,
+      3,
+      4,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -123.0,
+        -97.0
+       ],
+       "facing": 15,
+       "height": "low",
+       "note": "low in the furrow, the yoked oxen dark against the low moon, their breath steaming"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        -119.8,
+        -96.75
+       ],
+       "facing": 20,
+       "height": "knee",
+       "note": "along the furrow past the plough, rising as the clods give way to the oxen's legs"
+      },
+      {
+       "t": 9.6,
+       "pos": [
+        -117.6,
+        -97.3
+       ],
+       "facing": 55,
+       "height": "standing",
+       "note": "beside the near ox's flank as Amos lifts the yoke off their necks"
+      },
+      {
+       "t": 12.0,
+       "pos": [
+        -117.45,
+        -97.4
+       ],
+       "facing": 50,
+       "height": "standing",
+       "note": "the music drifts down the hill and he stops with the yoke in his hands"
+      },
+      {
+       "t": 14.2,
+       "pos": [
+        -117.35,
+        -97.5
+       ],
+       "facing": 42,
+       "height": "standing",
+       "note": "with his look up the hill, the farm lit high above and a torch at the terrace wall"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W02",
+     "setup": "S02",
+     "frames": 226,
+     "speaker": "AMOS",
+     "line": "Dan. <pause> What is this?",
+     "line_at": 4.8,
+     "does": "Dan comes running down the path with the torch, and Amos calls to him as he reaches the headland",
+     "reached": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -117.35,
+        -97.5
+       ],
+       "facing": 42,
+       "height": "standing"
+      },
+      {
+       "t": 3.4,
+       "pos": [
+        -117.55,
+        -97.7
+       ],
+       "facing": 40,
+       "height": "standing",
+       "note": "over Amos's shoulder as the torch comes down the path at a run"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        -115.4,
+        -97.75
+       ],
+       "facing": 110,
+       "height": "standing",
+       "note": "round his right side to his face as Dan runs into his own torchlight"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        -115.25,
+        -97.65
+       ],
+       "facing": 112,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W03",
+     "setup": "S03",
+     "frames": 277,
+     "speaker": "DAN",
+     "line": "Your brother is come; <inhale> and your father has killed the fatted calf, <inhale> because he has him back safe and sound.",
+     "line_at": 1.0,
+     "wps": 2.4,
+     "does": "Dan gives the news between hard breaths with the torch held high, the music going on up the hill",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -115.25,
+        -97.65
+       ],
+       "facing": 112,
+       "height": "standing"
+      },
+      {
+       "t": 2.8,
+       "pos": [
+        -114.5,
+        -97.2
+       ],
+       "facing": 118,
+       "height": "standing",
+       "note": "Dan's face in his own torchlight, sweat and dust, his chest heaving"
+      },
+      {
+       "t": 8.0,
+       "pos": [
+        -114.35,
+        -97.0
+       ],
+       "facing": 124,
+       "height": "standing"
+      },
+      {
+       "t": 11.2,
+       "pos": [
+        -114.45,
+        -97.0
+       ],
+       "facing": 165,
+       "height": "standing",
+       "note": "turning to Amos as the words land"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W04",
+     "setup": "S04",
+     "frames": 175,
+     "speaker": null,
+     "does": "Amos stands very still with the yoke in his hands while the camera comes in to his face",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -114.45,
+        -97.0
+       ],
+       "facing": 165,
+       "height": "standing",
+       "note": "torchlight on one cheek and the cold moon on the other"
+      },
+      {
+       "t": 6.8,
+       "pos": [
+        -115.4,
+        -97.0
+       ],
+       "facing": 160,
+       "height": "standing",
+       "note": "a slow step in to his face, the music going on up the hill"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "At the yoke",
+     "extent": [
+      -124.5,
+      -110.5,
+      -100.5,
+      -91.5
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The gate at night",
+   "heading": "EXT. ELIAB'S FARM - GATE - NIGHT",
+   "place_ref": [
+    "eliab_farm",
+    "eliab_house"
+   ],
+   "extent": [
+    -38.5,
+    12.0,
+    -14.5,
+    20.0
+   ],
+   "grid": "+x east · +y north · metres · origin the lamp niche in the north gatepost (0, 0) · one frame for eliab_valley, eliab_farm and eliab_house",
+   "light": {
+    "kind": "moon",
+    "from_deg": 335,
+    "label": "the low moon behind Amos; the gate lamp, the yard fire and the lit door ahead of him"
+   },
+   "place": [
+    {
+     "kind": "lamp",
+     "pos": [
+      0,
+      0
+     ],
+     "glow_m": 4.0,
+     "label": "Gate lamp, its light about 4 m"
+    },
+    {
+     "kind": "fire",
+     "pos": [
+      -29.5,
+      -2.9
+     ],
+     "r": 0.55,
+     "glow_m": 3.4,
+     "label": "Yard fire, the dance ring"
+    },
+    {
+     "kind": "fire",
+     "pos": [
+      -27.8,
+      -7.4
+     ],
+     "r": 0.5,
+     "glow_m": 2.4,
+     "label": "The calf on the spit"
+    },
+    {
+     "kind": "fire",
+     "pos": [
+      -35.8,
+      0.25
+     ],
+     "r": 0.28,
+     "glow_m": 1.7
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      -36.85,
+      0.72
+     ],
+     "glow_m": 0.9
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      -33.35,
+      -0.75
+     ],
+     "glow_m": 1.6,
+     "label": "Torch at the eaves"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -35.98,
+      -2.15
+     ],
+     "size": [
+      0.2,
+      0.2
+     ],
+     "shape": "ellipse"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      7.0,
+      -7.6
+     ],
+     "label": "The cold night, the road down to the valley"
+    },
+    {
+     "kind": "track",
+     "width_m": 0.8,
+     "points": [
+      [
+       3.6,
+       -2.45
+      ],
+      [
+       -36.5,
+       -1.55
+      ]
+     ],
+     "label": "Amos's sightline through the door",
+     "label_at": [
+      -14,
+      -0.4
+     ]
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      3.6,
+      -2.45
+     ],
+     "size": [
+      0.6,
+      0.6
+     ],
+     "shape": "ellipse",
+     "label": "Amos stops here"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Amos",
+     "pos": [
+      4.83,
+      -11.0
+     ],
+     "facing_deg": 72,
+     "named": true,
+     "shade": true,
+     "note": "up from the far field, the yoke left behind"
+    },
+    {
+     "n": 2,
+     "name": "Dan",
+     "pos": [
+      5.45,
+      -10.0
+     ],
+     "facing_deg": 72,
+     "named": true,
+     "note": "the torch"
+    },
+    {
+     "n": 3,
+     "name": "Eliab",
+     "pos": [
+      -35.2,
+      -0.55
+     ],
+     "facing_deg": 300,
+     "named": true,
+     "note": "dancing before the hearth"
+    },
+    {
+     "n": 4,
+     "name": "Asher",
+     "pos": [
+      -36.5,
+      -1.45
+     ],
+     "facing_deg": 0,
+     "named": true,
+     "note": "the robe"
+    },
+    {
+     "n": 5,
+     "name": "Micah",
+     "pos": [
+      -35.8,
+      -2.8
+     ],
+     "facing_deg": 45,
+     "named": true
+    },
+    {
+     "n": 6,
+     "name": "Asher's dog",
+     "pos": [
+      -36.08,
+      -1.55
+     ],
+     "facing_deg": 20,
+     "animal": true
+    },
+    {
+     "n": 7,
+     "name": "old neighbour",
+     "pos": [
+      -35.8,
+      -0.8
+     ],
+     "facing_deg": 320,
+     "note": "on the north stool"
+    },
+    {
+     "n": 8,
+     "name": "woman clapping",
+     "pos": [
+      -36.6,
+      -0.35
+     ],
+     "facing_deg": 330,
+     "note": "by the storage jars"
+    },
+    {
+     "n": 9,
+     "name": "drummer",
+     "pos": [
+      -36.85,
+      -3.95
+     ],
+     "facing_deg": 65,
+     "note": "on the sleeping bench",
+     "group": "music"
+    },
+    {
+     "n": 10,
+     "name": "piper",
+     "pos": [
+      -36.2,
+      -3.95
+     ],
+     "facing_deg": 80,
+     "note": "on the sleeping bench",
+     "group": "music"
+    },
+    {
+     "n": 11,
+     "name": "dancer",
+     "pos": [
+      -34.6,
+      -0.15
+     ],
+     "facing_deg": 230,
+     "group": "room dance"
+    },
+    {
+     "n": 12,
+     "name": "dancer",
+     "pos": [
+      -34.45,
+      -0.95
+     ],
+     "facing_deg": 250,
+     "note": "in the line just inside the door",
+     "group": "room dance"
+    },
+    {
+     "n": 13,
+     "name": "dancer",
+     "pos": [
+      -35.15,
+      -2.55
+     ],
+     "facing_deg": 95,
+     "group": "room dance"
+    },
+    {
+     "n": 14,
+     "name": "dancer",
+     "pos": [
+      -34.95,
+      -2.95
+     ],
+     "facing_deg": 115,
+     "group": "room dance"
+    },
+    {
+     "n": 15,
+     "name": "child",
+     "pos": [
+      -35.35,
+      -3.45
+     ],
+     "facing_deg": 45
+    },
+    {
+     "n": 16,
+     "name": "dancer",
+     "pos": [
+      -34.7,
+      -3.7
+     ],
+     "facing_deg": 135,
+     "note": "stamping on Asher's mat",
+     "group": "room dance"
+    },
+    {
+     "n": 17,
+     "name": "woman with the bread",
+     "pos": [
+      -31.6,
+      -4.6
+     ],
+     "facing_deg": 115
+    },
+    {
+     "n": 18,
+     "name": "hired man",
+     "pos": [
+      -27.2,
+      -6.9
+     ],
+     "facing_deg": 200,
+     "note": "turning the calf on the spit",
+     "group": "spit"
+    },
+    {
+     "n": 19,
+     "name": "hired man",
+     "pos": [
+      -28.3,
+      -8.0
+     ],
+     "facing_deg": 60,
+     "note": "feeding the spit fire",
+     "group": "spit"
+    },
+    {
+     "n": 20,
+     "name": "dancer",
+     "pos": [
+      -27.45,
+      -2.45
+     ],
+     "facing_deg": 165,
+     "group": "yard ring"
+    },
+    {
+     "n": 21,
+     "name": "dancer",
+     "pos": [
+      -28.3,
+      -1.2
+     ],
+     "facing_deg": 240,
+     "group": "yard ring"
+    },
+    {
+     "n": 22,
+     "name": "dancer",
+     "pos": [
+      -29.9,
+      -0.85
+     ],
+     "facing_deg": 285,
+     "group": "yard ring"
+    },
+    {
+     "n": 23,
+     "name": "dancer",
+     "pos": [
+      -31.25,
+      -1.9
+     ],
+     "facing_deg": 335,
+     "group": "yard ring"
+    },
+    {
+     "n": 24,
+     "name": "dancer",
+     "pos": [
+      -31.45,
+      -3.55
+     ],
+     "facing_deg": 20,
+     "group": "yard ring"
+    },
+    {
+     "n": 25,
+     "name": "dancer",
+     "pos": [
+      -30.35,
+      -4.75
+     ],
+     "facing_deg": 70,
+     "group": "yard ring"
+    },
+    {
+     "n": 26,
+     "name": "dancer",
+     "pos": [
+      -28.7,
+      -4.85
+     ],
+     "facing_deg": 110,
+     "group": "yard ring"
+    },
+    {
+     "n": 27,
+     "name": "dancer",
+     "pos": [
+      -27.6,
+      -3.95
+     ],
+     "facing_deg": 150,
+     "group": "yard ring"
+    },
+    {
+     "n": 28,
+     "name": "neighbour clapping",
+     "pos": [
+      -26.4,
+      -1.5
+     ],
+     "facing_deg": 215,
+     "group": "yard ring"
+    },
+    {
+     "n": 29,
+     "name": "child",
+     "pos": [
+      -28.5,
+      -0.1
+     ],
+     "facing_deg": 250,
+     "group": "yard ring"
+    },
+    {
+     "n": 30,
+     "name": "neighbour with a lamp",
+     "pos": [
+      -26.2,
+      -3.3
+     ],
+     "facing_deg": 175
+    },
+    {
+     "n": 31,
+     "name": "woman clapping",
+     "pos": [
+      -32.2,
+      -0.25
+     ],
+     "facing_deg": 300
+    },
+    {
+     "n": 32,
+     "name": "old woman",
+     "pos": [
+      -33.15,
+      -3.35
+     ],
+     "facing_deg": 55,
+     "note": "under the eaves"
+    },
+    {
+     "n": 33,
+     "name": "hired man",
+     "pos": [
+      -32.65,
+      -4.4
+     ],
+     "facing_deg": 85,
+     "note": "drinking under the eaves"
+    },
+    {
+     "n": 34,
+     "name": "dancer",
+     "pos": [
+      -32.0,
+      -2.3
+     ],
+     "facing_deg": 330,
+     "note": "the line spilling out to the yard fire"
+    },
+    {
+     "n": 35,
+     "name": "dancer",
+     "pos": [
+      -32.95,
+      -0.75
+     ],
+     "facing_deg": 350
+    }
+   ],
+   "paths": [
+    {
+     "who": 1,
+     "points": [
+      [
+       4.83,
+       -11.0
+      ],
+      [
+       5.6,
+       -9.5
+      ],
+      [
+       7.6,
+       -3.6
+      ],
+      [
+       5.6,
+       -2.85
+      ],
+      [
+       3.6,
+       -2.45
+      ]
+     ],
+     "note": "up the floor track and along the road to the edge of the lamp's light, where he stops"
+    },
+    {
+     "who": 2,
+     "points": [
+      [
+       5.45,
+       -10.0
+      ],
+      [
+       6.0,
+       -8.4
+      ],
+      [
+       7.3,
+       -4.1
+      ],
+      [
+       5.0,
+       -2.75
+      ],
+      [
+       1.9,
+       -2.35
+      ],
+      [
+       0.0,
+       -1.85
+      ],
+      [
+       -12.0,
+       -1.6
+      ],
+      [
+       -24.0,
+       -1.2
+      ],
+      [
+       -27.4,
+       -0.5
+      ],
+      [
+       -28.4,
+       -0.65
+      ],
+      [
+       -29.2,
+       -0.45
+      ],
+      [
+       -30.6,
+       -0.3
+      ],
+      [
+       -32.4,
+       -1.0
+      ],
+      [
+       -33.25,
+       -1.85
+      ]
+     ],
+     "note": "ahead of Amos into the light, looks back at him, then runs in across the yard past the dance ring to the door"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S05",
+     "what": "Amos at the edge of the lamp's light, the road down behind him",
+     "pos": [
+      2.15,
+      -3.2
+     ],
+     "facing_deg": 28,
+     "height": "standing",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S06",
+     "what": "Over his shoulder through the gateway to the far lit door",
+     "pos": [
+      4.4,
+      -2.85
+     ],
+     "facing_deg": 174,
+     "height": "standing",
+     "wedge_m": 12
+    }
+   ],
+   "windows": [
+    {
+     "id": "W05",
+     "setup": "S05",
+     "frames": 294,
+     "speaker": null,
+     "does": "Amos climbs the floor track behind Dan's torch and stops at the edge of the gate lamp's light, while Dan goes on into the light and looks back at him",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        4.1,
+        -13.3
+       ],
+       "facing": 62,
+       "height": "standing",
+       "note": "behind Amos on the floor track, Dan's torch ahead and the gate lamp small above"
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        5.2,
+        -8.9
+       ],
+       "facing": 62,
+       "height": "standing",
+       "note": "climbing behind him, the music louder from the farm"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        6.85,
+        -4.55
+       ],
+       "facing": 104,
+       "height": "standing",
+       "note": "onto the road below the gate as he turns toward the lamp"
+      },
+      {
+       "t": 10.0,
+       "pos": [
+        2.2,
+        -3.25
+       ],
+       "facing": 28,
+       "height": "standing",
+       "note": "past his left side into the light and round to face him as he stops"
+      },
+      {
+       "t": 12.0,
+       "pos": [
+        2.15,
+        -3.2
+       ],
+       "facing": 28,
+       "height": "standing",
+       "note": "Amos at the edge of the lamp's light, the road falling away behind him into the night"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W06",
+     "setup": "S06",
+     "frames": 277,
+     "speaker": null,
+     "does": "The camera goes round behind Amos to look through the gateway across the dark yard to the dancing round the yard fire and the lit door with the robe at the table, Dan's torch runs in across the yard, and the camera comes back to Amos's face as he stays where he stands",
+     "reached": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        2.15,
+        -3.2
+       ],
+       "facing": 28,
+       "height": "standing"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        3.5,
+        -3.45
+       ],
+       "facing": 88,
+       "height": "standing",
+       "note": "round his left side as he looks through the gateway"
+      },
+      {
+       "t": 3.2,
+       "pos": [
+        4.4,
+        -2.85
+       ],
+       "facing": 174,
+       "height": "standing",
+       "note": "behind his shoulder, through the gateway across the dark yard to the dancers round the yard fire and the lit door, the robe at the table inside"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        4.35,
+        -2.7
+       ],
+       "facing": 176,
+       "height": "standing",
+       "note": "Dan's torch running away across the yard past the dancers to the door"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        3.95,
+        -1.55
+       ],
+       "facing": 245,
+       "height": "standing",
+       "note": "round his right shoulder"
+      },
+      {
+       "t": 11.2,
+       "pos": [
+        2.4,
+        -1.85
+       ],
+       "facing": 340,
+       "height": "standing",
+       "note": "back to his face, the low moon over the valley behind him, and he stays where he stands"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The edge of the light",
+     "extent": [
+      -0.8,
+      7.2,
+      -5.2,
+      0.8
+     ]
+    },
+    {
+     "key": "B",
+     "title": "Through the door",
+     "extent": [
+      -37.4,
+      -29.6,
+      -3.9,
+      0.9
+     ]
+    }
+   ],
+   "number_people": false
+  },
+  {
+   "title": "The house, the feast",
+   "heading": "INT. ELIAB'S HOUSE - CONTINUOUS",
+   "place_ref": [
+    "eliab_house"
+   ],
+   "extent": [
+    -39,
+    -31,
+    -6,
+    2.5
+   ],
+   "grid": "+x east · +y north · metres · origin the lamp niche in the north gatepost (0, 0) · one frame for eliab_valley, eliab_farm and eliab_house",
+   "light": {
+    "kind": "fire",
+    "label": "the hearth roaring, a clay lamp in the niche, the torch at the eaves and the yard fire beyond the door"
+   },
+   "place": [
+    {
+     "kind": "fire",
+     "pos": [
+      -35.8,
+      0.25
+     ],
+     "r": 0.28,
+     "glow_m": 1.7
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      -36.85,
+      0.72
+     ],
+     "glow_m": 0.9
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      -33.35,
+      -0.75
+     ],
+     "glow_m": 1.6,
+     "label": "Torch at the eaves",
+     "label_at": [
+      -33.0,
+      -0.55
+     ]
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -35.68,
+      -1.85
+     ],
+     "size": [
+      0.3,
+      0.5
+     ],
+     "shape": "ellipse",
+     "label": "Bread stacked high"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -35.98,
+      -2.15
+     ],
+     "size": [
+      0.2,
+      0.2
+     ],
+     "shape": "ellipse",
+     "label": "Amos's place, set"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -31.9,
+      1.6
+     ],
+     "label": "Gate lamp 35 m east →"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Dan",
+     "pos": [
+      -33.25,
+      -1.85
+     ],
+     "facing_deg": 180,
+     "named": true,
+     "note": "in from the gate with the news"
+    },
+    {
+     "n": 2,
+     "name": "Eliab",
+     "pos": [
+      -35.2,
+      -0.55
+     ],
+     "facing_deg": 300,
+     "named": true,
+     "note": "dancing before the hearth"
+    },
+    {
+     "n": 3,
+     "name": "Asher",
+     "pos": [
+      -36.5,
+      -1.45
+     ],
+     "facing_deg": 0,
+     "named": true,
+     "note": "the robe, his bread untouched"
+    },
+    {
+     "n": 4,
+     "name": "Micah",
+     "pos": [
+      -35.8,
+      -2.8
+     ],
+     "facing_deg": 45,
+     "named": true
+    },
+    {
+     "n": 5,
+     "name": "Asher's dog",
+     "pos": [
+      -36.08,
+      -1.55
+     ],
+     "facing_deg": 20,
+     "animal": true,
+     "note": "across his feet under the table"
+    },
+    {
+     "n": 6,
+     "name": "old neighbour",
+     "pos": [
+      -35.8,
+      -0.8
+     ],
+     "facing_deg": 320,
+     "note": "on the north stool"
+    },
+    {
+     "n": 7,
+     "name": "woman clapping",
+     "pos": [
+      -36.6,
+      -0.35
+     ],
+     "facing_deg": 330,
+     "note": "by the storage jars"
+    },
+    {
+     "n": 8,
+     "name": "drummer",
+     "pos": [
+      -36.85,
+      -3.95
+     ],
+     "facing_deg": 65,
+     "note": "on the sleeping bench",
+     "group": "music"
+    },
+    {
+     "n": 9,
+     "name": "piper",
+     "pos": [
+      -36.2,
+      -3.95
+     ],
+     "facing_deg": 80,
+     "note": "on the sleeping bench",
+     "group": "music"
+    },
+    {
+     "n": 10,
+     "name": "dancer",
+     "pos": [
+      -34.6,
+      -0.15
+     ],
+     "facing_deg": 230,
+     "group": "room dance"
+    },
+    {
+     "n": 11,
+     "name": "dancer",
+     "pos": [
+      -34.45,
+      -0.95
+     ],
+     "facing_deg": 250,
+     "note": "in the line just inside the door",
+     "group": "room dance"
+    },
+    {
+     "n": 12,
+     "name": "dancer",
+     "pos": [
+      -35.15,
+      -2.55
+     ],
+     "facing_deg": 95,
+     "group": "room dance"
+    },
+    {
+     "n": 13,
+     "name": "dancer",
+     "pos": [
+      -34.95,
+      -2.95
+     ],
+     "facing_deg": 115,
+     "group": "room dance"
+    },
+    {
+     "n": 14,
+     "name": "child",
+     "pos": [
+      -35.35,
+      -3.45
+     ],
+     "facing_deg": 45
+    },
+    {
+     "n": 15,
+     "name": "dancer",
+     "pos": [
+      -34.7,
+      -3.7
+     ],
+     "facing_deg": 135,
+     "note": "stamping on Asher's mat",
+     "group": "room dance"
+    },
+    {
+     "n": 16,
+     "name": "woman with the bread",
+     "pos": [
+      -31.6,
+      -4.6
+     ],
+     "facing_deg": 115
+    },
+    {
+     "n": 17,
+     "name": "dancer",
+     "pos": [
+      -31.25,
+      -1.9
+     ],
+     "facing_deg": 335,
+     "group": "yard ring"
+    },
+    {
+     "n": 18,
+     "name": "dancer",
+     "pos": [
+      -31.45,
+      -3.55
+     ],
+     "facing_deg": 20,
+     "group": "yard ring"
+    },
+    {
+     "n": 19,
+     "name": "woman clapping",
+     "pos": [
+      -32.2,
+      -0.25
+     ],
+     "facing_deg": 300
+    },
+    {
+     "n": 20,
+     "name": "old woman",
+     "pos": [
+      -33.15,
+      -3.35
+     ],
+     "facing_deg": 55,
+     "note": "under the eaves"
+    },
+    {
+     "n": 21,
+     "name": "hired man",
+     "pos": [
+      -32.65,
+      -4.4
+     ],
+     "facing_deg": 85,
+     "note": "drinking under the eaves"
+    },
+    {
+     "n": 22,
+     "name": "dancer",
+     "pos": [
+      -32.0,
+      -2.3
+     ],
+     "facing_deg": 330,
+     "note": "the line spilling out to the yard fire"
+    },
+    {
+     "n": 23,
+     "name": "dancer",
+     "pos": [
+      -32.95,
+      -0.75
+     ],
+     "facing_deg": 350
+    }
+   ],
+   "paths": [
+    {
+     "who": 1,
+     "points": [
+      [
+       -33.25,
+       -1.85
+      ],
+      [
+       -34.0,
+       -1.85
+      ],
+      [
+       -34.5,
+       -1.6
+      ],
+      [
+       -34.85,
+       -0.95
+      ]
+     ],
+     "note": "pushes in through the dancers to Eliab before the hearth"
+    },
+    {
+     "who": 2,
+     "points": [
+      [
+       -35.2,
+       -0.55
+      ],
+      [
+       -34.7,
+       -1.15
+      ],
+      [
+       -34.25,
+       -1.65
+      ],
+      [
+       -33.95,
+       -1.8
+      ],
+      [
+       -33.45,
+       -1.82
+      ]
+     ],
+     "note": "goes out through the dancers to his elder son"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S07",
+     "what": "Dan at his master's ear before the hearth",
+     "pos": [
+      -34.35,
+      -1.6
+     ],
+     "facing_deg": 128,
+     "height": "standing",
+     "wedge_m": 2
+    },
+    {
+     "shot": "S08",
+     "what": "Asher at the table, the dog across his feet",
+     "pos": [
+      -34.75,
+      -2.45
+     ],
+     "facing_deg": 155,
+     "height": "seated",
+     "wedge_m": 2
+    },
+    {
+     "shot": "S09",
+     "what": "Eliab's back filling the doorway",
+     "pos": [
+      -34.5,
+      -2.05
+     ],
+     "facing_deg": 20,
+     "height": "standing",
+     "wedge_m": 1.2
+    }
+   ],
+   "windows": [
+    {
+     "id": "W07",
+     "setup": "S07",
+     "frames": 209,
+     "speaker": "DAN",
+     "line": "He will not come in.",
+     "line_at": 4.6,
+     "does": "Dan pushes in through the dancers to Eliab dancing before the hearth and speaks close to his ear over the drum and pipe",
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -32.45,
+        -2.15
+       ],
+       "facing": 165,
+       "height": "standing",
+       "note": "behind Dan at the threshold as he hands off the torch, the dust and firelight of the room beyond him"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        -33.85,
+        -2.0
+       ],
+       "facing": 165,
+       "height": "standing",
+       "note": "through the doorway behind him into the drum and pipe"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        -34.35,
+        -1.6
+       ],
+       "facing": 128,
+       "height": "standing",
+       "note": "behind his shoulder as he reaches his master before the hearth and speaks close to his ear"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        -34.4,
+        -1.65
+       ],
+       "facing": 122,
+       "height": "standing",
+       "note": "Eliab's face as the words land"
+      },
+      {
+       "t": 8.4,
+       "pos": [
+        -34.45,
+        -1.75
+       ],
+       "facing": 135,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W08",
+     "setup": "S08",
+     "frames": 158,
+     "speaker": "ASHER",
+     "line": "Let me go out to him.",
+     "line_at": 3.2,
+     "does": "Asher rises from his stool in the robe and asks his father to let him go out to his brother",
+     "reached": [
+      2,
+      3,
+      4,
+      5
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -34.45,
+        -1.75
+       ],
+       "facing": 135,
+       "height": "standing"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        -34.75,
+        -2.45
+       ],
+       "facing": 155,
+       "height": "seated",
+       "note": "down along the table to Asher on his stool, the dog across his feet, his eyes on his father"
+      },
+      {
+       "t": 3.0,
+       "pos": [
+        -34.8,
+        -2.4
+       ],
+       "facing": 150,
+       "height": "standing",
+       "note": "rising with him as he stands in the robe"
+      },
+      {
+       "t": 6.3,
+       "pos": [
+        -34.75,
+        -2.3
+       ],
+       "facing": 140,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W09",
+     "setup": "S09",
+     "frames": 192,
+     "speaker": "ELIAB",
+     "line": "Stay. <pause> I will bring your brother in.",
+     "line_at": 1.0,
+     "does": "Eliab raises a hand to keep his younger son at the table, then goes out through the dancers to the door",
+     "reached": [
+      2,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -34.75,
+        -2.3
+       ],
+       "facing": 140,
+       "height": "standing"
+      },
+      {
+       "t": 1.2,
+       "pos": [
+        -34.7,
+        -2.25
+       ],
+       "facing": 105,
+       "height": "standing",
+       "note": "to the father's face as he turns from the hearth with a hand raised to his younger son"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        -34.65,
+        -2.2
+       ],
+       "facing": 100,
+       "height": "standing"
+      },
+      {
+       "t": 6.2,
+       "pos": [
+        -34.6,
+        -2.15
+       ],
+       "facing": 85,
+       "height": "standing",
+       "note": "turning with him as he goes through the dancers to the door"
+      },
+      {
+       "t": 7.6,
+       "pos": [
+        -34.5,
+        -2.05
+       ],
+       "facing": 20,
+       "height": "standing",
+       "note": "his back filling the doorway"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the dark wool of Eliab's mantle filling the doorway",
+      "slides": "right"
+     }
+    }
+   ],
+   "number_people": false
+  },
+  {
+   "title": "The father comes out",
+   "heading": "EXT. ELIAB'S FARM - GATE - CONTINUOUS",
+   "place_ref": [
+    "eliab_farm",
+    "eliab_house"
+   ],
+   "extent": [
+    -38.5,
+    7.5,
+    -9.0,
+    20.0
+   ],
+   "grid": "+x east · +y north · metres · origin the lamp niche in the north gatepost (0, 0) · one frame for eliab_valley, eliab_farm and eliab_house",
+   "light": {
+    "kind": "moon",
+    "from_deg": 335,
+    "label": "the low moon behind the son; the gate lamp, the yard fire and the lit door behind the father"
+   },
+   "place": [
+    {
+     "kind": "lamp",
+     "pos": [
+      0,
+      0
+     ],
+     "glow_m": 4.0,
+     "label": "Gate lamp, its light about 4 m"
+    },
+    {
+     "kind": "fire",
+     "pos": [
+      -29.5,
+      -2.9
+     ],
+     "r": 0.55,
+     "glow_m": 3.4,
+     "label": "Yard fire, the dance ring"
+    },
+    {
+     "kind": "fire",
+     "pos": [
+      -27.8,
+      -7.4
+     ],
+     "r": 0.5,
+     "glow_m": 2.4,
+     "label": "The calf on the spit"
+    },
+    {
+     "kind": "fire",
+     "pos": [
+      -35.8,
+      0.25
+     ],
+     "r": 0.28,
+     "glow_m": 1.7
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      -36.85,
+      0.72
+     ],
+     "glow_m": 0.9
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      -33.35,
+      -0.75
+     ],
+     "glow_m": 1.6,
+     "label": "Torch at the eaves"
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -35.98,
+      -2.15
+     ],
+     "size": [
+      0.2,
+      0.2
+     ],
+     "shape": "ellipse"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      7.0,
+      -7.6
+     ],
+     "label": "The cold night, the road down to the valley"
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      1.6,
+      -2.0
+     ],
+     "size": [
+      0.6,
+      0.6
+     ],
+     "shape": "ellipse",
+     "label": "Eliab stops, inside the light"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Eliab",
+     "pos": [
+      -33.45,
+      -1.82
+     ],
+     "facing_deg": 5,
+     "named": true,
+     "note": "out of the door to his elder son"
+    },
+    {
+     "n": 2,
+     "name": "Amos",
+     "pos": [
+      3.6,
+      -2.45
+     ],
+     "facing_deg": 167,
+     "named": true,
+     "shade": true,
+     "note": "at the edge of the lamp's light"
+    },
+    {
+     "n": 3,
+     "name": "Asher",
+     "pos": [
+      -36.5,
+      -1.45
+     ],
+     "facing_deg": 0,
+     "named": true,
+     "note": "the robe"
+    },
+    {
+     "n": 4,
+     "name": "Micah",
+     "pos": [
+      -35.8,
+      -2.8
+     ],
+     "facing_deg": 45,
+     "named": true
+    },
+    {
+     "n": 5,
+     "name": "Dan",
+     "pos": [
+      -35.15,
+      0.05
+     ],
+     "facing_deg": 300,
+     "named": true
+    },
+    {
+     "n": 6,
+     "name": "Asher's dog",
+     "pos": [
+      -36.08,
+      -1.55
+     ],
+     "facing_deg": 20,
+     "animal": true
+    },
+    {
+     "n": 7,
+     "name": "old neighbour",
+     "pos": [
+      -35.8,
+      -0.8
+     ],
+     "facing_deg": 320,
+     "note": "on the north stool"
+    },
+    {
+     "n": 8,
+     "name": "woman clapping",
+     "pos": [
+      -36.6,
+      -0.35
+     ],
+     "facing_deg": 330,
+     "note": "by the storage jars"
+    },
+    {
+     "n": 9,
+     "name": "drummer",
+     "pos": [
+      -36.85,
+      -3.95
+     ],
+     "facing_deg": 65,
+     "note": "on the sleeping bench",
+     "group": "music"
+    },
+    {
+     "n": 10,
+     "name": "piper",
+     "pos": [
+      -36.2,
+      -3.95
+     ],
+     "facing_deg": 80,
+     "note": "on the sleeping bench",
+     "group": "music"
+    },
+    {
+     "n": 11,
+     "name": "dancer",
+     "pos": [
+      -34.6,
+      -0.15
+     ],
+     "facing_deg": 230,
+     "group": "room dance"
+    },
+    {
+     "n": 12,
+     "name": "dancer",
+     "pos": [
+      -34.45,
+      -0.95
+     ],
+     "facing_deg": 250,
+     "note": "in the line just inside the door",
+     "group": "room dance"
+    },
+    {
+     "n": 13,
+     "name": "dancer",
+     "pos": [
+      -35.15,
+      -2.55
+     ],
+     "facing_deg": 95,
+     "group": "room dance"
+    },
+    {
+     "n": 14,
+     "name": "dancer",
+     "pos": [
+      -34.95,
+      -2.95
+     ],
+     "facing_deg": 115,
+     "group": "room dance"
+    },
+    {
+     "n": 15,
+     "name": "child",
+     "pos": [
+      -35.35,
+      -3.45
+     ],
+     "facing_deg": 45
+    },
+    {
+     "n": 16,
+     "name": "dancer",
+     "pos": [
+      -34.7,
+      -3.7
+     ],
+     "facing_deg": 135,
+     "note": "stamping on Asher's mat",
+     "group": "room dance"
+    },
+    {
+     "n": 17,
+     "name": "woman with the bread",
+     "pos": [
+      -31.6,
+      -4.6
+     ],
+     "facing_deg": 115
+    },
+    {
+     "n": 18,
+     "name": "hired man",
+     "pos": [
+      -27.2,
+      -6.9
+     ],
+     "facing_deg": 200,
+     "note": "turning the calf on the spit",
+     "group": "spit"
+    },
+    {
+     "n": 19,
+     "name": "hired man",
+     "pos": [
+      -28.3,
+      -8.0
+     ],
+     "facing_deg": 60,
+     "note": "feeding the spit fire",
+     "group": "spit"
+    },
+    {
+     "n": 20,
+     "name": "dancer",
+     "pos": [
+      -27.45,
+      -2.45
+     ],
+     "facing_deg": 165,
+     "group": "yard ring"
+    },
+    {
+     "n": 21,
+     "name": "dancer",
+     "pos": [
+      -28.3,
+      -1.2
+     ],
+     "facing_deg": 240,
+     "group": "yard ring"
+    },
+    {
+     "n": 22,
+     "name": "dancer",
+     "pos": [
+      -29.9,
+      -0.85
+     ],
+     "facing_deg": 285,
+     "group": "yard ring"
+    },
+    {
+     "n": 23,
+     "name": "dancer",
+     "pos": [
+      -31.25,
+      -1.9
+     ],
+     "facing_deg": 335,
+     "group": "yard ring"
+    },
+    {
+     "n": 24,
+     "name": "dancer",
+     "pos": [
+      -31.45,
+      -3.55
+     ],
+     "facing_deg": 20,
+     "group": "yard ring"
+    },
+    {
+     "n": 25,
+     "name": "dancer",
+     "pos": [
+      -30.35,
+      -4.75
+     ],
+     "facing_deg": 70,
+     "group": "yard ring"
+    },
+    {
+     "n": 26,
+     "name": "dancer",
+     "pos": [
+      -28.7,
+      -4.85
+     ],
+     "facing_deg": 110,
+     "group": "yard ring"
+    },
+    {
+     "n": 27,
+     "name": "dancer",
+     "pos": [
+      -27.6,
+      -3.95
+     ],
+     "facing_deg": 150,
+     "group": "yard ring"
+    },
+    {
+     "n": 28,
+     "name": "neighbour clapping",
+     "pos": [
+      -26.4,
+      -1.5
+     ],
+     "facing_deg": 215,
+     "group": "yard ring"
+    },
+    {
+     "n": 29,
+     "name": "child",
+     "pos": [
+      -28.5,
+      -0.1
+     ],
+     "facing_deg": 250,
+     "group": "yard ring"
+    },
+    {
+     "n": 30,
+     "name": "neighbour with a lamp",
+     "pos": [
+      -26.2,
+      -3.3
+     ],
+     "facing_deg": 175
+    },
+    {
+     "n": 31,
+     "name": "woman clapping",
+     "pos": [
+      -32.2,
+      -0.25
+     ],
+     "facing_deg": 300
+    },
+    {
+     "n": 32,
+     "name": "old woman",
+     "pos": [
+      -33.15,
+      -3.35
+     ],
+     "facing_deg": 55,
+     "note": "under the eaves"
+    },
+    {
+     "n": 33,
+     "name": "hired man",
+     "pos": [
+      -32.65,
+      -4.4
+     ],
+     "facing_deg": 85,
+     "note": "drinking under the eaves"
+    },
+    {
+     "n": 34,
+     "name": "dancer",
+     "pos": [
+      -32.0,
+      -2.3
+     ],
+     "facing_deg": 330,
+     "note": "the line spilling out to the yard fire"
+    },
+    {
+     "n": 35,
+     "name": "dancer",
+     "pos": [
+      -32.95,
+      -0.75
+     ],
+     "facing_deg": 350
+    }
+   ],
+   "paths": [
+    {
+     "who": 1,
+     "points": [
+      [
+       -33.45,
+       -1.82
+      ],
+      [
+       -32.4,
+       -1.0
+      ],
+      [
+       -30.6,
+       -0.3
+      ],
+      [
+       -29.2,
+       -0.45
+      ],
+      [
+       -28.4,
+       -0.65
+      ],
+      [
+       -27.4,
+       -0.5
+      ],
+      [
+       -24.0,
+       -1.4
+      ],
+      [
+       -10.0,
+       -1.9
+      ],
+      [
+       0.0,
+       -1.9
+      ],
+      [
+       1.6,
+       -2.0
+      ]
+     ],
+     "note": "out through the dancers round the yard fire and across the dark yard, stopping 2 m from his son inside the light"
+    },
+    {
+     "who": 2,
+     "points": [
+      [
+       3.6,
+       -2.45
+      ],
+      [
+       2.35,
+       -2.2
+      ],
+      [
+       3.3,
+       -2.4
+      ]
+     ],
+     "note": "a step in at his father on the fatted calf, then back to the edge of the light when he pulls his hand free"
+    },
+    {
+     "who": 3,
+     "points": [
+      [
+       -36.5,
+       -1.45
+      ],
+      [
+       -36.35,
+       -0.9
+      ],
+      [
+       -36.1,
+       -0.4
+      ],
+      [
+       -35.7,
+       -0.3
+      ],
+      [
+       -35.1,
+       -0.75
+      ],
+      [
+       -34.55,
+       -1.35
+      ],
+      [
+       -33.95,
+       -1.9
+      ]
+     ],
+     "note": "round the north end of the table after his father to the doorway, where he stays"
+    },
+    {
+     "who": 5,
+     "points": [
+      [
+       -35.15,
+       0.05
+      ],
+      [
+       -35.0,
+       -0.5
+      ],
+      [
+       -34.75,
+       -1.25
+      ],
+      [
+       -34.5,
+       -1.55
+      ]
+     ],
+     "note": "to the door behind Asher when the music stops"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S10",
+     "what": "Stopped in the gateway as the father walks on into the light",
+     "pos": [
+      -0.2,
+      -0.85
+     ],
+     "facing_deg": 332,
+     "height": "standing",
+     "wedge_m": 5
+    },
+    {
+     "shot": "S11",
+     "what": "Over Amos's shoulder onto the father, the yard fire and the lit door behind him",
+     "pos": [
+      4.35,
+      -2.0
+     ],
+     "facing_deg": 180,
+     "height": "standing",
+     "wedge_m": 6
+    },
+    {
+     "shot": "S12",
+     "what": "Over the father's shoulder onto the son, the road and the low moon behind him",
+     "pos": [
+      0.9,
+      -1.45
+     ],
+     "facing_deg": 340,
+     "height": "standing",
+     "wedge_m": 5
+    },
+    {
+     "shot": "S13",
+     "what": "The father's face from the lamp side of the pair",
+     "pos": [
+      2.6,
+      -1.1
+     ],
+     "facing_deg": 225,
+     "height": "standing",
+     "wedge_m": 2
+    },
+    {
+     "shot": "S14",
+     "what": "Close on Amos, the moon low over the valley behind him",
+     "pos": [
+      2.75,
+      -1.7
+     ],
+     "facing_deg": 318,
+     "height": "standing",
+     "wedge_m": 2
+    },
+    {
+     "shot": "S15",
+     "what": "Along his pointing arm past the father down the yard to the far doorway",
+     "pos": [
+      3.15,
+      -1.8
+     ],
+     "facing_deg": 188,
+     "height": "standing",
+     "wedge_m": 8
+    },
+    {
+     "shot": "S16",
+     "what": "Asher in the doorway in the robe, the household behind him",
+     "pos": [
+      -32.3,
+      -2.55
+     ],
+     "facing_deg": 160,
+     "height": "standing",
+     "wedge_m": 2.5
+    },
+    {
+     "shot": "S17",
+     "what": "Down to the hands, the father taking his son's hand in both of his",
+     "pos": [
+      2.15,
+      -1.4
+     ],
+     "facing_deg": 256,
+     "height": "knee",
+     "wedge_m": 1.5
+    },
+    {
+     "shot": "S18",
+     "what": "Asher holding out the sling in the warm doorway",
+     "pos": [
+      -31.7,
+      -1.45
+     ],
+     "facing_deg": 188,
+     "height": "standing",
+     "wedge_m": 2.5
+    }
+   ],
+   "windows": [
+    {
+     "id": "W10",
+     "setup": "S10",
+     "frames": 430,
+     "speaker": null,
+     "does": "Eliab comes out of the house through the dancers round the yard fire and across the dark yard to his elder son, warm light behind the father and the cold night behind the son",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -34.05,
+        -1.9
+       ],
+       "facing": 5,
+       "height": "standing",
+       "note": "the mantle slides off his back and the yard opens, the dancers round the yard fire and the gate lamp small far ahead"
+      },
+      {
+       "t": 3.0,
+       "pos": [
+        -30.1,
+        -0.35
+       ],
+       "facing": 355,
+       "height": "standing",
+       "note": "after him through the dancers circling the yard fire"
+      },
+      {
+       "t": 8.0,
+       "pos": [
+        -20.0,
+        -1.55
+       ],
+       "facing": 358,
+       "height": "standing",
+       "note": "across the dark yard two paces behind him, the gate lamp growing and Amos at the edge of its light"
+      },
+      {
+       "t": 14.0,
+       "pos": [
+        -7.8,
+        -1.95
+       ],
+       "facing": 0,
+       "height": "standing",
+       "note": "the music falling behind, his breath and his steps on the beaten earth"
+      },
+      {
+       "t": 17.5,
+       "pos": [
+        -0.2,
+        -0.85
+       ],
+       "facing": 332,
+       "height": "standing",
+       "note": "stopping in the gateway beside the lamp as he walks on into the light to his son"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W11",
+     "setup": "S11",
+     "frames": 175,
+     "speaker": "ELIAB",
+     "line": "Come in, son. <pause> Your place is set beside mine.",
+     "line_at": 2.4,
+     "wps": 2.6,
+     "does": "Eliab speaks gently to his son from inside the light",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -0.2,
+        -0.85
+       ],
+       "facing": 332,
+       "height": "standing"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        2.45,
+        -0.95
+       ],
+       "facing": 270,
+       "height": "standing",
+       "note": "out of the gateway round the lamp side of them, father and son in profile"
+      },
+      {
+       "t": 4.2,
+       "pos": [
+        4.35,
+        -2.0
+       ],
+       "facing": 180,
+       "height": "standing",
+       "note": "over Amos's shoulder onto his father's face, the gateway, the yard fire and the lit door behind him"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        4.4,
+        -2.05
+       ],
+       "facing": 181,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W12",
+     "setup": "S12",
+     "frames": 226,
+     "speaker": "AMOS",
+     "line": "You stood at the gate for him. <pause> You made Nahum pay him full weight for our grandfather's vines.",
+     "line_at": 1.2,
+     "does": "Amos answers with his own account, the gate and the vines",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        4.4,
+        -2.05
+       ],
+       "facing": 181,
+       "height": "standing"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        2.6,
+        -1.1
+       ],
+       "facing": 305,
+       "height": "standing",
+       "note": "round the lamp side to Amos's face as he answers"
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        0.9,
+        -1.45
+       ],
+       "facing": 340,
+       "height": "standing",
+       "note": "over his father's shoulder onto the son, the road falling away behind him and the low moon over the valley"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        0.85,
+        -1.5
+       ],
+       "facing": 342,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W13",
+     "setup": "S12",
+     "frames": 158,
+     "speaker": "AMOS",
+     "line": "Is the ring on his hand?",
+     "line_at": 3.7,
+     "does": "Amos's eyes go to his father's bare finger, and he asks about the ring",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.85,
+        -1.5
+       ],
+       "facing": 342,
+       "height": "standing"
+      },
+      {
+       "t": 2.0,
+       "pos": [
+        1.0,
+        -1.6
+       ],
+       "facing": 355,
+       "height": "knee",
+       "note": "down past the father's side to his hand, the bare finger and the pale band where the signet was, his son's eyes on it"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        0.95,
+        -1.5
+       ],
+       "facing": 342,
+       "height": "standing",
+       "note": "up to the son's face"
+      },
+      {
+       "t": 6.3,
+       "pos": [
+        0.9,
+        -1.45
+       ],
+       "facing": 340,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W14",
+     "setup": "S13",
+     "frames": 107,
+     "speaker": "ELIAB",
+     "line": "It is.",
+     "line_at": 1.9,
+     "wps": 2.0,
+     "does": "Eliab answers plainly with his eyes on his son",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.9,
+        -1.45
+       ],
+       "facing": 340,
+       "height": "standing"
+      },
+      {
+       "t": 1.6,
+       "pos": [
+        2.6,
+        -1.1
+       ],
+       "facing": 225,
+       "height": "standing",
+       "note": "round the lamp side to the father's face"
+      },
+      {
+       "t": 4.2,
+       "pos": [
+        2.65,
+        -1.05
+       ],
+       "facing": 224,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W15",
+     "setup": "S14",
+     "frames": 413,
+     "speaker": "AMOS",
+     "line": "Many years have I laboured in your service, Father, and never once have I turned from your word. <inhale> Yet not one kid of the flock was ever given me, that I might make merry with my friends.",
+     "line_at": 1.0,
+     "does": "Amos pours out the long years of service and the kid for his friends, and behind them in the house the music falters and stops and faces turn toward the door",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        2.65,
+        -1.05
+       ],
+       "facing": 224,
+       "height": "standing"
+      },
+      {
+       "t": 2.0,
+       "pos": [
+        2.55,
+        -1.2
+       ],
+       "facing": 300,
+       "height": "standing",
+       "note": "onto the son's face as it all comes out, low and hard"
+      },
+      {
+       "t": 10.0,
+       "pos": [
+        2.75,
+        -1.7
+       ],
+       "facing": 318,
+       "height": "standing",
+       "note": "in close on his face, the low moon over the valley behind him"
+      },
+      {
+       "t": 14.8,
+       "pos": [
+        2.8,
+        -1.75
+       ],
+       "facing": 320,
+       "height": "standing"
+      },
+      {
+       "t": 17.0,
+       "pos": [
+        2.7,
+        -1.6
+       ],
+       "facing": 300,
+       "height": "standing",
+       "note": "the music falters and stops behind them, and his eyes go past his father to the house"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W16",
+     "setup": "S15",
+     "frames": 175,
+     "speaker": "AMOS",
+     "line": "But now this son of yours is come, who has wasted your substance among harlots,",
+     "line_at": 1.0,
+     "does": "Amos points past his father at the far doorway, and the camera follows his arm down the yard to the robe in the lit door",
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        2.7,
+        -1.6
+       ],
+       "facing": 300,
+       "height": "standing"
+      },
+      {
+       "t": 2.0,
+       "pos": [
+        2.85,
+        -1.75
+       ],
+       "facing": 312,
+       "height": "standing",
+       "note": "his face as his arm comes up toward the house"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        3.15,
+        -1.8
+       ],
+       "facing": 188,
+       "height": "standing",
+       "note": "along his pointing arm past his father's shoulder down the yard to the lit doorway, the robe in it and the faces turned"
+      },
+      {
+       "t": 6.7,
+       "pos": [
+        3.2,
+        -1.85
+       ],
+       "facing": 184,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    },
+    {
+     "id": "W17",
+     "setup": "S16",
+     "frames": 56,
+     "speaker": null,
+     "does": "In the doorway Asher flinches at the word and stays where he is, the household's faces turned to the door behind him",
+     "reached": [
+      3,
+      4,
+      5
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -32.3,
+        -2.55
+       ],
+       "facing": 160,
+       "height": "standing",
+       "note": "close on Asher in the doorway as the word lands, the robe, the faces behind him turned to the door"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        -32.55,
+        -2.45
+       ],
+       "facing": 162,
+       "height": "standing",
+       "note": "half a step in to his face as he stays where he is, the yard silent"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    },
+    {
+     "id": "W18",
+     "setup": "S17",
+     "frames": 175,
+     "speaker": "AMOS",
+     "line": "and for him you have slain the fatted calf!",
+     "line_at": 0.5,
+     "does": "Amos comes at his father with the last of it, and Eliab holds his ground and takes his son's hand in both of his",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        3.0,
+        -1.35
+       ],
+       "facing": 295,
+       "height": "standing",
+       "note": "close on Amos's face as he comes at his father"
+      },
+      {
+       "t": 3.4,
+       "pos": [
+        2.7,
+        -1.25
+       ],
+       "facing": 245,
+       "height": "standing",
+       "note": "with him as he comes in close, his father holding his ground in the lamplight"
+      },
+      {
+       "t": 6.8,
+       "pos": [
+        2.15,
+        -1.4
+       ],
+       "facing": 256,
+       "height": "knee",
+       "note": "down to their hands as the father takes his son's hand in both of his"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W19",
+     "setup": null,
+     "frames": 345,
+     "speaker": "ELIAB",
+     "line": "Son, you are ever with me, and all that is mine is yours. <pause> Yet it was fitting that we should make merry and be glad.",
+     "line_at": 1.4,
+     "wps": 2.4,
+     "does": "Eliab answers his son softly with the son's hand held in both of his, and Amos pulls his hand free and steps back to the edge of the light",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        2.15,
+        -1.4
+       ],
+       "facing": 256,
+       "height": "knee"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        2.6,
+        -1.2
+       ],
+       "facing": 220,
+       "height": "standing",
+       "note": "up from the held hands to the father's face, close"
+      },
+      {
+       "t": 8.0,
+       "pos": [
+        2.75,
+        -1.3
+       ],
+       "facing": 226,
+       "height": "standing"
+      },
+      {
+       "t": 12.6,
+       "pos": [
+        2.85,
+        -1.45
+       ],
+       "facing": 236,
+       "height": "standing"
+      },
+      {
+       "t": 14.0,
+       "pos": [
+        2.9,
+        -1.5
+       ],
+       "facing": 262,
+       "height": "standing",
+       "note": "the son pulls his hand free and steps back to the edge of the light"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     }
+    },
+    {
+     "id": "W20",
+     "setup": "S13",
+     "frames": 226,
+     "speaker": "ELIAB",
+     "line": "For this brother of yours was dead, and lives again. <pause> He was lost, and is found.",
+     "line_at": 0.9,
+     "wps": 2.4,
+     "does": "Eliab speaks of the brother with his hands open between them, and the camera turns past him down the yard toward the doorway",
+     "reached": [
+      1,
+      2,
+      3
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        2.9,
+        -1.5
+       ],
+       "facing": 262,
+       "height": "standing"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        2.6,
+        -1.1
+       ],
+       "facing": 225,
+       "height": "standing",
+       "note": "onto the father's face, his hands open between them"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        2.5,
+        -1.1
+       ],
+       "facing": 224,
+       "height": "standing"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        2.95,
+        -1.65
+       ],
+       "facing": 186,
+       "height": "standing",
+       "note": "turning past his shoulder down the yard toward the doorway, where the brother stands"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    },
+    {
+     "id": "W21",
+     "setup": "S18",
+     "frames": 175,
+     "speaker": null,
+     "does": "In the doorway Asher holds out the sling his brother made him",
+     "reached": [
+      3,
+      4,
+      5
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -31.7,
+        -1.45
+       ],
+       "facing": 188,
+       "height": "standing",
+       "note": "Asher in the warm doorway, the household close behind him"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        -32.4,
+        -1.6
+       ],
+       "facing": 190,
+       "height": "standing",
+       "note": "he holds out in both hands the sling his brother plaited for him"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        -32.85,
+        -1.7
+       ],
+       "facing": 191,
+       "height": "standing",
+       "note": "in toward the sling, the cord hanging from his hands and his wet eyes on his brother far across the yard"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     }
+    },
+    {
+     "id": "W22",
+     "setup": "S12",
+     "frames": 226,
+     "speaker": null,
+     "does": "Amos looks at the sling across the yard, his jaw sets and he stays where he stands, and Eliab's hands stay open between them",
+     "reached": [
+      1,
+      2
+     ],
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        0.9,
+        -1.45
+       ],
+       "facing": 340,
+       "height": "standing",
+       "note": "over the father's shoulder onto Amos as he looks down the yard at the sling held out in the doorway"
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        1.2,
+        -1.55
+       ],
+       "facing": 338,
+       "height": "standing",
+       "note": "his jaw sets"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        1.15,
+        -1.7
+       ],
+       "facing": 336,
+       "height": "standing",
+       "note": "he stays where he stands at the edge of the light"
+      },
+      {
+       "t": 9.2,
+       "pos": [
+        1.1,
+        -1.85
+       ],
+       "facing": 340,
+       "height": "knee",
+       "note": "down behind the father's open hands, the son beyond them at the edge of the light and the night behind him"
+      }
+     ],
+     "out": {
+      "kind": "end"
+     }
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The gate, the edge of the light",
+     "extent": [
+      -0.9,
+      5.1,
+      -3.3,
+      0.4
+     ]
+    },
+    {
+     "key": "B",
+     "title": "The doorway",
+     "extent": [
+      -36.9,
+      -29.6,
+      -3.7,
+      0.9
+     ]
+    }
+   ],
+   "join_bows": [
+    {
+     "from": "W16",
+     "to": "W17",
+     "bow": 0.12
+    },
+    {
+     "from": "W17",
+     "to": "W18",
+     "bow": 0.12
+    },
+    {
+     "from": "W20",
+     "to": "W21",
+     "bow": 0.24
+    },
+    {
+     "from": "W21",
+     "to": "W22",
+     "bow": 0.24
+    }
+   ],
+   "number_people": false
+  }
+ ],
+ "notes": [
+  "The far field lies on the lower terraces about 150 m south-west of the gate, and the path from the threshing floor drops over a terrace wall 20 m above the team, where Dan's torch first shows.",
+  "The moon stands low in the east-south-east (from 335°), so every view of Amos has the road and the moonlit valley behind him and every view of Eliab has the gate lamp, the yard fire and the lit doorway behind him.",
+  "The gate lamp's light reaches about 4 m down the road; Amos stops at its edge 4.3 m from the niche, and his father comes to stand 2 m from him, inside it.",
+  "The doorway is 35 m west of the gate on the gateway's axis, so from the edge of the light Amos sees the dancers round the yard fire and, framed in the door, the robe on the north-west stool.",
+  "The house picks up Scene 14 as staged there (Asher on the north-west stool, Amos's place set on the south-west stool, Micah and an old neighbour on the end stools, drum and pipe on the sleeping bench), with Eliab dancing before the hearth, where Dan finds him.",
+  "The mantle stitch W09 to W10 carries the camera after Eliab out of the door, through the dance ring and across the dark yard, and it stops in the gateway as he walks on into the light, where it stopped in Scene 2 while his lamp went down into the valley.",
+  "At the gate the camera keeps to the lamp side of father and son, moving between Amos's shoulder (on the father) and the father's shoulder (on the son).",
+  "The spacing stays uneven: the father walks 35 m to stand 2 m from his son, Amos comes in once on the fatted calf and pulls free back to the edge of the light, and the father holds his ground.",
+  "Asher keeps his father's Stay by coming only as far as the doorway; the flinch and the sling are cuts along the 35 m axis, each after the camera has turned down the yard past the father."
+ ]
+}
