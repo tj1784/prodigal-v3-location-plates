@@ -7,8 +7,7 @@
 | scene | state |
 |---|---|
 | 0, 1, 3, 4, 5 | Already generated on Grok web from an earlier version of the prompts. Sol is redrawing the rejected images. The prompts here are the rewritten ones, kept for any regeneration. |
-| 1A, 2, 4A, 6A, 6B, 7, 8, 9, 10, 11, 12, 13, 14, 16 | Ready to generate. |
-| 15 | Map, screenplay and data are in; its 24 prompts are being written and will be added. |
+| 1A, 2, 4A, 6A, 6B, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 | Ready to generate. |
 
 `scenes/README.md` lists every scene's folder, spots and prompt count, and which earlier scene's plates it draws on.
 

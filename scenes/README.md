@@ -25,4 +25,5 @@
 | 12 | SC12_PLATES/ | 7 | 42 | sc00, sc01a, sc06b |
 | 13 | SC13_PLATES/ | 4 | 24 | sc02, sc06a, sc06b, sc08 |
 | 14 | SC14_PLATES/ | 1 | 6 | sc02 |
+| 15 | SC15_PLATES/ | 4 | 24 | sc02, sc08, sc13 |
 | 16 | SC16_PLATES/ | 1 | 6 | sc01 |
