@@ -1,0 +1,3273 @@
+{
+ "scene": "13",
+ "title": "The father runs",
+ "subtitle": "EXT. ELIAB'S FARM - GATE - DUSK · EXT. THE ROAD - DUSK · EXT. ELIAB'S FARM - COURTYARD - NIGHT · the lamp lit, the far figure, the run past the village, the faceless runner and the face, the robe, the ring and Miriam's basin",
+ "plans": [
+  {
+   "title": "Eliab's gate at dusk",
+   "heading": "EXT. ELIAB'S FARM - GATE - DUSK",
+   "place_ref": [
+    "eliab_farm"
+   ],
+   "extent": [
+    -32,
+    50,
+    -26,
+    22
+   ],
+   "light": {
+    "kind": "dusk",
+    "from_deg": 180,
+    "label": "the low sun over the house roof, gold dust in the gateway, then the new flame"
+   },
+   "place": [
+    {
+     "kind": "lamp",
+     "pos": [
+      0,
+      0
+     ],
+     "glow_m": 1.6,
+     "label": "Gate lamp, lit in W02"
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      -0.95,
+      0.05
+     ],
+     "size": [
+      0.3,
+      0.3
+     ],
+     "shape": "ellipse",
+     "label": "Eliab strikes the light"
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      0.1,
+      -1.0
+     ],
+     "size": [
+      0.3,
+      0.3
+     ],
+     "shape": "ellipse",
+     "label": "Sees him, drops the flint"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      45,
+      -24.6
+     ],
+     "label": "Asher far down the road, about 1.1 km →"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Eliab",
+     "pos": [
+      -6.4,
+      -3.4
+     ],
+     "facing_deg": 60,
+     "named": true,
+     "note": "rust-red mantle, flint and striker at his belt"
+    },
+    {
+     "n": 2,
+     "name": "Micah",
+     "pos": [
+      -12.0,
+      -1.0
+     ],
+     "facing_deg": 0,
+     "named": true,
+     "note": "the old steward, the store keys at his belt"
+    },
+    {
+     "n": 3,
+     "name": "Dan",
+     "pos": [
+      -16.5,
+      2.9
+     ],
+     "facing_deg": 90,
+     "named": true,
+     "note": "barring the fold for the night"
+    },
+    {
+     "n": 4,
+     "name": "Shallum",
+     "pos": [
+      1.7,
+      -0.55
+     ],
+     "facing_deg": 180,
+     "named": true,
+     "note": "the foreman, leading the oxen in"
+    },
+    {
+     "n": 5,
+     "name": "Miriam",
+     "pos": [
+      -28.4,
+      -8.0
+     ],
+     "facing_deg": 30,
+     "named": true,
+     "note": "at the ovens with the evening bread"
+    },
+    {
+     "n": 6,
+     "name": "ox",
+     "pos": [
+      1.9,
+      -1.3
+     ],
+     "facing_deg": 180,
+     "animal": true,
+     "note": "the yoked pair in from the fields"
+    },
+    {
+     "n": 7,
+     "name": "ox",
+     "pos": [
+      1.9,
+      -2.5
+     ],
+     "facing_deg": 180,
+     "animal": true
+    },
+    {
+     "n": 8,
+     "name": "hired man",
+     "pos": [
+      5.6,
+      -3.6
+     ],
+     "facing_deg": 170,
+     "group": "hired men",
+     "note": "a fork on his shoulder"
+    },
+    {
+     "n": 9,
+     "name": "hired man",
+     "pos": [
+      7.3,
+      -2.3
+     ],
+     "facing_deg": 175,
+     "group": "hired men"
+    },
+    {
+     "n": 10,
+     "name": "hired man",
+     "pos": [
+      8.7,
+      -4.2
+     ],
+     "facing_deg": 165,
+     "group": "hired men"
+    },
+    {
+     "n": 11,
+     "name": "hired man",
+     "pos": [
+      10.4,
+      -3.1
+     ],
+     "facing_deg": 170,
+     "group": "hired men"
+    },
+    {
+     "n": 12,
+     "name": "hired man",
+     "pos": [
+      11.8,
+      -4.5
+     ],
+     "facing_deg": 165,
+     "group": "hired men"
+    },
+    {
+     "n": 13,
+     "name": "Asher's dog",
+     "pos": [
+      1.4,
+      0.4
+     ],
+     "facing_deg": 335,
+     "animal": true,
+     "note": "lies by the north post facing the road"
+    }
+   ],
+   "paths": [
+    {
+     "who": 6,
+     "points": [
+      [
+       1.9,
+       -1.9
+      ],
+      [
+       -1.3,
+       -1.6
+      ],
+      [
+       -1.6,
+       2.6
+      ],
+      [
+       -1.6,
+       8.2
+      ],
+      [
+       -2.7,
+       10.9
+      ]
+     ],
+     "note": "W01 the yoked oxen in through the gate and along the wall to the byre, Shallum at their heads"
+    },
+    {
+     "who": 9,
+     "points": [
+      [
+       7.3,
+       -2.3
+      ],
+      [
+       1.0,
+       -1.6
+      ],
+      [
+       -6.0,
+       -1.0
+      ],
+      [
+       -18.0,
+       -3.6
+      ],
+      [
+       -27.0,
+       -7.0
+      ]
+     ],
+     "note": "W01 the hired men in from the fields with their forks, sent on to the ovens"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       -6.4,
+       -3.4
+      ],
+      [
+       -3.6,
+       -1.5
+      ],
+      [
+       -0.95,
+       0.05
+      ]
+     ],
+     "note": "W01 to W02 from the lane to the yard face of the niche"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       -0.95,
+       0.05
+      ],
+      [
+       0.1,
+       -1.0
+      ]
+     ],
+     "note": "W02 into the gateway to look down the road"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       0.1,
+       -1.0
+      ],
+      [
+       2.3,
+       -2.3
+      ],
+      [
+       8.0,
+       -3.0
+      ],
+      [
+       18.0,
+       -6.5
+      ],
+      [
+       30.0,
+       -12.0
+      ],
+      [
+       44.0,
+       -20.0
+      ],
+      [
+       50.0,
+       -23.9
+      ]
+     ],
+     "note": "W03 out of his own gate and down the long road at a run, his mantle hitched in his fist, the dog bounding at his heels"
+    },
+    {
+     "who": 3,
+     "points": [
+      [
+       -4.5,
+       -2.4
+      ],
+      [
+       0.4,
+       -2.4
+      ],
+      [
+       8.0,
+       -3.5
+      ],
+      [
+       18.0,
+       -7.0
+      ],
+      [
+       30.0,
+       -12.5
+      ],
+      [
+       44.0,
+       -20.5
+      ]
+     ],
+     "note": "W03 the servants stare from the lane, then follow him out and down the road, Dan first"
+    },
+    {
+     "who": 3,
+     "points": [
+      [
+       -16.5,
+       2.9
+      ],
+      [
+       -12.6,
+       0.4
+      ],
+      [
+       -9.5,
+       -1.0
+      ]
+     ],
+     "note": "W01 to W02 Dan from the barred fold toward the gate"
+    },
+    {
+     "who": 2,
+     "points": [
+      [
+       -12.0,
+       -1.0
+      ],
+      [
+       -4.5,
+       -2.4
+      ]
+     ],
+     "note": "W01 to W02 Micah down the lane toward his master"
+    },
+    {
+     "who": 5,
+     "points": [
+      [
+       -28.4,
+       -8.0
+      ],
+      [
+       -20.0,
+       -5.4
+      ],
+      [
+       -12.5,
+       -3.2
+      ]
+     ],
+     "note": "W01 to W02 Miriam up the yard from the ovens with the bread"
+    },
+    {
+     "who": 4,
+     "points": [
+      [
+       -2.7,
+       10.9
+      ],
+      [
+       -2.2,
+       3.4
+      ],
+      [
+       -7.5,
+       -0.2
+      ]
+     ],
+     "note": "W02 Shallum back out of the byre into the lane"
+    },
+    {
+     "who": 13,
+     "points": [
+      [
+       1.4,
+       0.4
+      ],
+      [
+       2.7,
+       -1.3
+      ],
+      [
+       8.3,
+       -2.5
+      ],
+      [
+       18.2,
+       -6.0
+      ],
+      [
+       30.2,
+       -11.5
+      ],
+      [
+       44.2,
+       -19.5
+      ]
+     ],
+     "note": "W03 the dog leaps up from the post and bounds at his heels"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S01",
+     "what": "Low behind the oxen in the gateway",
+     "pos": [
+      3.4,
+      -2.9
+     ],
+     "facing_deg": 172,
+     "height": "low",
+     "wedge_m": 8
+    },
+    {
+     "shot": "S02",
+     "what": "Over his shoulder, the far figure",
+     "pos": [
+      -0.6,
+      -0.95
+     ],
+     "facing_deg": 328,
+     "height": "standing",
+     "wedge_m": 30
+    },
+    {
+     "shot": "S03",
+     "what": "Running behind him down the long road",
+     "pos": [
+      28.2,
+      -11.5
+     ],
+     "facing_deg": 334,
+     "height": "standing",
+     "wedge_m": 22
+    }
+   ],
+   "windows": [
+    {
+     "id": "W01",
+     "setup": "S01",
+     "frames": 311,
+     "speaker": null,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        3.4,
+        -2.9
+       ],
+       "facing": 172,
+       "height": "low",
+       "note": "low on the road behind the yoked oxen, the yard and the low sun beyond the gateway"
+      },
+      {
+       "t": 3.0,
+       "pos": [
+        1.0,
+        -2.5
+       ],
+       "facing": 175,
+       "height": "knee",
+       "note": "rising with the oxen through the gateway into gold dust and oven smoke"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        -2.4,
+        -2.6
+       ],
+       "facing": 190,
+       "height": "standing",
+       "note": "into the yard, Eliab dark against the low sun ahead"
+      },
+      {
+       "t": 8.0,
+       "pos": [
+        -7.6,
+        -2.0
+       ],
+       "facing": 311,
+       "height": "standing",
+       "note": "past his shoulder and round to his face in the last sun"
+      },
+      {
+       "t": 10.4,
+       "pos": [
+        -7.45,
+        -2.25
+       ],
+       "facing": 325,
+       "height": "standing",
+       "note": "his raised hand sending the oxen to the byre and the hired men to the ovens"
+      },
+      {
+       "t": 12.95,
+       "pos": [
+        -5.3,
+        -2.6
+       ],
+       "facing": 32,
+       "height": "standing",
+       "note": "after him across the lane toward the niche in the north gatepost"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "Hired men and the yoked oxen come in through the gate in gold dust while Eliab gives the evening orders across the yard with his raised hand, oven smoke drifting across the low sun"
+    },
+    {
+     "id": "W02",
+     "setup": "S02",
+     "frames": 277,
+     "speaker": null,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -5.3,
+        -2.6
+       ],
+       "facing": 32,
+       "height": "standing"
+      },
+      {
+       "t": 2.4,
+       "pos": [
+        -1.65,
+        -0.45
+       ],
+       "facing": 14,
+       "height": "standing",
+       "note": "behind his right shoulder at the niche as he strikes the flint on the striker"
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        -1.5,
+        -0.5
+       ],
+       "facing": 18,
+       "height": "standing",
+       "note": "close on the spark in the tinder, his breath on it, the wick taking the flame, his old hand cupping it"
+      },
+      {
+       "t": 7.2,
+       "pos": [
+        -0.7,
+        -0.9
+       ],
+       "facing": 330,
+       "height": "standing",
+       "note": "behind his shoulder as he steps into the gateway and looks down the road"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        -0.6,
+        -0.95
+       ],
+       "facing": 328,
+       "height": "standing",
+       "note": "far down the road below the village a figure, barefoot and limping"
+      },
+      {
+       "t": 10.3,
+       "pos": [
+        0.05,
+        -2.05
+       ],
+       "facing": 87,
+       "height": "standing",
+       "note": "round his right side through the gateway"
+      },
+      {
+       "t": 11.54,
+       "pos": [
+        1.25,
+        -2.25
+       ],
+       "facing": 145,
+       "height": "standing",
+       "note": "to his face, the new flame burning in the niche at his shoulder"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "Eliab strikes a light at the niche and cups the new flame against the wind, then steps into the gateway to look down the road and finds a figure far below, barefoot and limping, walking the way only one person walks"
+    },
+    {
+     "id": "W03",
+     "setup": "S03",
+     "frames": 379,
+     "speaker": "JESUS",
+     "line": "But when he was yet a great way off, <pause> his father saw him, and had compassion, <inhale> and ran, and fell on his neck, and kissed him.",
+     "line_at": 1.8,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        1.25,
+        -2.25
+       ],
+       "facing": 145,
+       "height": "standing"
+      },
+      {
+       "t": 1.0,
+       "pos": [
+        1.3,
+        -2.35
+       ],
+       "facing": 147,
+       "height": "standing",
+       "note": "the flint falls from his fingers and he hitches his mantle in his fist, the servants staring in the yard behind him"
+      },
+      {
+       "t": 2.0,
+       "pos": [
+        1.35,
+        -2.45
+       ],
+       "facing": 45,
+       "height": "standing",
+       "note": "he runs at the lens and past it, his eyes on the road, the camera turning after him"
+      },
+      {
+       "t": 2.8,
+       "pos": [
+        2.0,
+        -2.7
+       ],
+       "facing": 338,
+       "height": "standing",
+       "note": "after him, the dog bounding at his heels",
+       "run": true
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        7.0,
+        -3.4
+       ],
+       "facing": 340,
+       "height": "standing",
+       "note": "running behind him out along the road, the bench and the trough falling away",
+       "run": true
+      },
+      {
+       "t": 8.0,
+       "pos": [
+        17.2,
+        -6.6
+       ],
+       "facing": 337,
+       "height": "standing",
+       "run": true
+      },
+      {
+       "t": 11.0,
+       "pos": [
+        28.2,
+        -11.5
+       ],
+       "facing": 334,
+       "height": "standing",
+       "note": "the long road dropping toward the village below, his long shadow running ahead of him",
+       "run": true
+      },
+      {
+       "t": 14.0,
+       "pos": [
+        38.6,
+        -16.9
+       ],
+       "facing": 331,
+       "height": "standing",
+       "run": true
+      },
+      {
+       "t": 15.6,
+       "pos": [
+        43.9,
+        -20.0
+       ],
+       "facing": 330,
+       "height": "standing",
+       "note": "down onto the hill path behind him, the valley opening gold below",
+       "run": true
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     },
+     "does": "Eliab drops the flint and runs out of his own gate and down the long road, his mantle hitched in his fist and the dog bounding at his heels, while his servants stare and then follow"
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The orders in the gateway",
+     "extent": [
+      -8.2,
+      4.2,
+      -4.6,
+      1.4
+     ]
+    },
+    {
+     "key": "B",
+     "title": "The niche, the flint, the turn",
+     "extent": [
+      -2.4,
+      2.1,
+      -2.9,
+      0.9
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The run past the village gate",
+   "heading": "EXT. ELIAB'S FARM - GATE - DUSK",
+   "place_ref": [
+    "village_gate"
+   ],
+   "extent": [
+    -67,
+    28,
+    -10,
+    50
+   ],
+   "light": {
+    "kind": "dusk",
+    "from_deg": 180,
+    "label": "the low sun in the west, the arch's face and the rising elders in its last light"
+   },
+   "place": [
+    {
+     "kind": "label",
+     "pos": [
+      -56.0,
+      30.0
+     ],
+     "label": "Micah and Miriam further back"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      17.5,
+      27.5
+     ],
+     "label": "On to the meeting, about 360 m →"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      -14.6,
+      9.3
+     ],
+     "label": "W04 stops here and turns with him"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Eliab",
+     "pos": [
+      -37.68,
+      26.44
+     ],
+     "facing_deg": 323,
+     "named": true,
+     "note": "running, his mantle hitched in his fist"
+    },
+    {
+     "n": 2,
+     "name": "Asher's dog",
+     "pos": [
+      -36.44,
+      26.25
+     ],
+     "facing_deg": 323,
+     "animal": true,
+     "note": "bounding at his heels"
+    },
+    {
+     "n": 3,
+     "name": "Elder 1",
+     "pos": [
+      0.14,
+      -3.68
+     ],
+     "facing_deg": 125,
+     "named": true,
+     "group": "bench",
+     "note": "staff, rises as he runs past"
+    },
+    {
+     "n": 4,
+     "name": "Elder 2",
+     "pos": [
+      0.6,
+      -3.22
+     ],
+     "facing_deg": 131,
+     "named": true,
+     "group": "bench",
+     "note": "the scribe, rises"
+    },
+    {
+     "n": 5,
+     "name": "Elder 3",
+     "pos": [
+      1.06,
+      -2.76
+     ],
+     "facing_deg": 141,
+     "named": true,
+     "group": "bench",
+     "note": "rises"
+    },
+    {
+     "n": 6,
+     "name": "Dan",
+     "pos": [
+      -61.5,
+      44.68
+     ],
+     "facing_deg": 323,
+     "named": true,
+     "note": "running after his master"
+    },
+    {
+     "n": 7,
+     "name": "Shallum",
+     "pos": [
+      -63.34,
+      45.23
+     ],
+     "facing_deg": 323,
+     "named": true,
+     "note": "running after his master"
+    },
+    {
+     "n": 8,
+     "name": "villager",
+     "pos": [
+      -6.4,
+      -0.9
+     ],
+     "facing_deg": 135,
+     "group": "square"
+    },
+    {
+     "n": 9,
+     "name": "village man",
+     "pos": [
+      -5.4,
+      -2.2
+     ],
+     "facing_deg": 120,
+     "group": "square"
+    },
+    {
+     "n": 10,
+     "name": "woman with a water jar",
+     "pos": [
+      -4.0,
+      2.6
+     ],
+     "facing_deg": 150,
+     "group": "square"
+    },
+    {
+     "n": 11,
+     "name": "boy",
+     "pos": [
+      -2.4,
+      5.4
+     ],
+     "facing_deg": 160,
+     "group": "square"
+    },
+    {
+     "n": 12,
+     "name": "child on the wall",
+     "pos": [
+      -4.53,
+      -4.95
+     ],
+     "facing_deg": 95,
+     "group": "wall SW"
+    },
+    {
+     "n": 13,
+     "name": "child on the wall",
+     "pos": [
+      -5.73,
+      -6.15
+     ],
+     "facing_deg": 100,
+     "group": "wall SW"
+    },
+    {
+     "n": 14,
+     "name": "child on the wall",
+     "pos": [
+      4.45,
+      4.03
+     ],
+     "facing_deg": 150,
+     "group": "wall NE"
+    },
+    {
+     "n": 15,
+     "name": "child on the wall",
+     "pos": [
+      5.73,
+      5.3
+     ],
+     "facing_deg": 145,
+     "group": "wall NE"
+    },
+    {
+     "n": 16,
+     "name": "child on the wall",
+     "pos": [
+      7.0,
+      6.58
+     ],
+     "facing_deg": 140,
+     "group": "wall NE"
+    },
+    {
+     "n": 17,
+     "name": "child on the wall",
+     "pos": [
+      9.2,
+      8.8
+     ],
+     "facing_deg": 130,
+     "group": "wall NE"
+    },
+    {
+     "n": 18,
+     "name": "village woman",
+     "pos": [
+      6.8,
+      12.2
+     ],
+     "facing_deg": 140,
+     "group": "roadside"
+    },
+    {
+     "n": 19,
+     "name": "old woman",
+     "pos": [
+      8.5,
+      13.3
+     ],
+     "facing_deg": 135,
+     "group": "roadside"
+    },
+    {
+     "n": 20,
+     "name": "village man",
+     "pos": [
+      11.4,
+      16.4
+     ],
+     "facing_deg": 130,
+     "group": "roadside"
+    },
+    {
+     "n": 21,
+     "name": "man with a donkey",
+     "pos": [
+      4.4,
+      14.6
+     ],
+     "facing_deg": 200,
+     "group": "roadside",
+     "note": "stopped on his way home"
+    },
+    {
+     "n": 22,
+     "name": "donkey",
+     "pos": [
+      4.9,
+      13.5
+     ],
+     "facing_deg": 200,
+     "animal": true
+    }
+   ],
+   "paths": [
+    {
+     "who": 1,
+     "points": [
+      [
+       -37.68,
+       26.44
+      ],
+      [
+       -33.38,
+       23.19
+      ],
+      [
+       -25.39,
+       17.04
+      ],
+      [
+       -18.81,
+       12.3
+      ],
+      [
+       -13.86,
+       8.77
+      ],
+      [
+       -10.6,
+       7.4
+      ],
+      [
+       -7.6,
+       8.3
+      ],
+      [
+       -4.74,
+       10.39
+      ],
+      [
+       -0.07,
+       14.21
+      ],
+      [
+       5.73,
+       18.31
+      ],
+      [
+       12.02,
+       21.21
+      ],
+      [
+       18.6,
+       22.42
+      ],
+      [
+       24.4,
+       22.27
+      ],
+      [
+       29.0,
+       22.2
+      ]
+     ],
+     "note": "W04 down the last of the hill path, round the corner at its foot and on along the road east toward the meeting"
+    },
+    {
+     "who": 6,
+     "points": [
+      [
+       -61.5,
+       44.68
+      ],
+      [
+       -55.86,
+       40.31
+      ],
+      [
+       -49.43,
+       35.43
+      ],
+      [
+       -41.44,
+       29.27
+      ],
+      [
+       -33.38,
+       23.19
+      ],
+      [
+       -25.39,
+       17.04
+      ],
+      [
+       -18.81,
+       12.3
+      ],
+      [
+       -13.86,
+       8.77
+      ],
+      [
+       -10.6,
+       7.4
+      ],
+      [
+       -7.6,
+       8.3
+      ],
+      [
+       -4.74,
+       10.39
+      ],
+      [
+       -0.07,
+       14.21
+      ],
+      [
+       5.73,
+       18.31
+      ],
+      [
+       12.02,
+       21.21
+      ],
+      [
+       18.6,
+       22.42
+      ],
+      [
+       24.4,
+       22.27
+      ]
+     ],
+     "note": "W04 Dan and Shallum come down after him and run past the stopped camera onto the road east"
+    },
+    {
+     "who": 2,
+     "points": [
+      [
+       -36.44,
+       26.25
+      ],
+      [
+       -33.02,
+       23.67
+      ],
+      [
+       -25.03,
+       17.52
+      ],
+      [
+       -18.45,
+       12.78
+      ],
+      [
+       -13.5,
+       9.25
+      ],
+      [
+       -10.24,
+       7.88
+      ],
+      [
+       -7.24,
+       8.78
+      ],
+      [
+       -4.38,
+       10.87
+      ],
+      [
+       0.29,
+       14.69
+      ],
+      [
+       6.09,
+       18.79
+      ],
+      [
+       12.38,
+       21.69
+      ],
+      [
+       18.96,
+       22.9
+      ],
+      [
+       24.76,
+       22.75
+      ]
+     ],
+     "note": "W04 the dog bounding at his heels"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S04",
+     "what": "Behind him down the path, the elders rising",
+     "pos": [
+      -25.04,
+      16.79
+     ],
+     "facing_deg": 326,
+     "height": "standing",
+     "wedge_m": 30
+    }
+   ],
+   "windows": [
+    {
+     "id": "W04",
+     "setup": "S04",
+     "frames": 430,
+     "speaker": null,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -42.86,
+        30.37
+       ],
+       "facing": 323,
+       "height": "standing",
+       "note": "running behind him down the hill path, the arch and the gate square below"
+      },
+      {
+       "t": 2.8,
+       "pos": [
+        -33.93,
+        23.61
+       ],
+       "facing": 322,
+       "height": "standing",
+       "note": "the village gate ahead in the low sun, the elders on the bench inside the arch",
+       "run": true
+      },
+      {
+       "t": 5.6,
+       "pos": [
+        -25.04,
+        16.79
+       ],
+       "facing": 326,
+       "height": "standing",
+       "note": "the three elders get to their feet as he comes down on them",
+       "run": true
+      },
+      {
+       "t": 8.0,
+       "pos": [
+        -17.25,
+        11.19
+       ],
+       "facing": 329,
+       "height": "standing",
+       "note": "he swings left at the foot of the path below the standing elders",
+       "run": true
+      },
+      {
+       "t": 9.6,
+       "pos": [
+        -14.64,
+        9.33
+       ],
+       "facing": 1,
+       "height": "standing",
+       "note": "the camera stops at the foot of the path and turns with him along the road east"
+      },
+      {
+       "t": 13.4,
+       "pos": [
+        -14.57,
+        9.38
+       ],
+       "facing": 24,
+       "height": "standing",
+       "note": "the whole village watching him from the wall tops and the roadside"
+      },
+      {
+       "t": 17.6,
+       "pos": [
+        -14.48,
+        9.43
+       ],
+       "facing": 19,
+       "height": "standing",
+       "note": "Dan and Shallum run past the lens after him, the old man small on the long road"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     },
+     "does": "The old man runs down the last of the hill path past the village gate, where the elders on the bench get to their feet, and on along the road east with the whole village watching and his servants running after him"
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "The arch and the elders' bench",
+     "extent": [
+      -7.5,
+      6.5,
+      -7.0,
+      2.0
+     ]
+    },
+    {
+     "key": "B",
+     "title": "Down the hill path to its foot",
+     "extent": [
+      -27.0,
+      -3.0,
+      3.0,
+      19.0
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The road at dusk",
+   "heading": "EXT. THE ROAD - DUSK",
+   "place_ref": [
+    "eliab_valley"
+   ],
+   "extent": [
+    560,
+    720,
+    -445,
+    -330
+   ],
+   "light": {
+    "kind": "dusk",
+    "from_deg": 180,
+    "label": "the low sun white in the haze straight up the road behind the runner"
+   },
+   "place": [
+    {
+     "kind": "area",
+     "fill": "field",
+     "polygon": [
+      [
+       554.8,
+       -337.39
+      ],
+      [
+       601.75,
+       -369.08
+      ],
+      [
+       723.72,
+       -433.61
+      ],
+      [
+       725,
+       -322
+      ],
+      [
+       550,
+       -322
+      ]
+     ],
+     "label": "Stubble, uphill",
+     "label_at": [
+      674.96,
+      -386.83
+     ]
+    },
+    {
+     "kind": "area",
+     "fill": "field",
+     "polygon": [
+      [
+       551.45,
+       -342.36
+      ],
+      [
+       598.94,
+       -374.38
+      ],
+      [
+       720.93,
+       -438.92
+      ],
+      [
+       725,
+       -450
+      ],
+      [
+       550,
+       -450
+      ]
+     ],
+     "label": "Stubble, falling to the wadi",
+     "label_at": [
+      632.94,
+      -423.41
+     ]
+    },
+    {
+     "kind": "wall",
+     "width_m": 0.6,
+     "points": [
+      [
+       554.69,
+       -337.56
+      ],
+      [
+       601.65,
+       -369.26
+      ],
+      [
+       723.62,
+       -433.79
+      ]
+     ],
+     "label": "Field wall"
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      702.68,
+      -425.28
+     ],
+     "size": [
+      0.4,
+      0.4
+     ],
+     "shape": "ellipse",
+     "label": "Asher stops dead"
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      702.13,
+      -425.28
+     ],
+     "size": [
+      0.4,
+      0.4
+     ],
+     "shape": "ellipse",
+     "label": "The embrace"
+    },
+    {
+     "kind": "slab",
+     "pos": [
+      701.0,
+      -424.95
+     ],
+     "size": [
+      0.3,
+      0.3
+     ],
+     "shape": "ellipse",
+     "label": "Each servant takes his order here"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      605.09,
+      -390.54
+     ],
+     "label": "Up the road to the village gate, about 390 m"
+    },
+    {
+     "kind": "label",
+     "pos": [
+      709.98,
+      -440.41
+     ],
+     "label": "On to the bend, about 375 m"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      708.43,
+      -428.3
+     ],
+     "facing_deg": 152,
+     "named": true,
+     "note": "barefoot, the grey rag, the split brow, the swollen hand, the sling round his fist"
+    },
+    {
+     "n": 2,
+     "name": "Eliab",
+     "pos": [
+      642.48,
+      -396.21
+     ],
+     "facing_deg": 332,
+     "named": true,
+     "note": "running down the road, his mantle hitched in his fist"
+    },
+    {
+     "n": 3,
+     "name": "Asher's dog",
+     "pos": [
+      644.32,
+      -395.94
+     ],
+     "facing_deg": 332,
+     "animal": true,
+     "note": "bounding at his heels"
+    },
+    {
+     "n": 4,
+     "name": "Dan",
+     "pos": [
+      601.41,
+      -371.84
+     ],
+     "facing_deg": 332,
+     "named": true,
+     "note": "running behind his master"
+    },
+    {
+     "n": 5,
+     "name": "Shallum",
+     "pos": [
+      593.95,
+      -368.76
+     ],
+     "facing_deg": 332,
+     "named": true
+    },
+    {
+     "n": 6,
+     "name": "Micah",
+     "pos": [
+      582.91,
+      -360.1
+     ],
+     "facing_deg": 332,
+     "named": true,
+     "note": "old, running hard"
+    },
+    {
+     "n": 7,
+     "name": "Miriam",
+     "pos": [
+      572.51,
+      -354.05
+     ],
+     "facing_deg": 332,
+     "named": true
+    }
+   ],
+   "paths": [
+    {
+     "who": 2,
+     "points": [
+      [
+       642.48,
+       -396.21
+      ],
+      [
+       663.95,
+       -407.59
+      ],
+      [
+       690.46,
+       -421.64
+      ],
+      [
+       697.27,
+       -425.25
+      ],
+      [
+       702.13,
+       -425.28
+      ]
+     ],
+     "note": "W05 to W07 down the road's south side, then his last strides straight out of the sun to his son"
+    },
+    {
+     "who": 1,
+     "points": [
+      [
+       708.43,
+       -428.3
+      ],
+      [
+       702.68,
+       -425.28
+      ]
+     ],
+     "note": "W05 to W06 up the road's north side until he stops dead"
+    },
+    {
+     "who": 6,
+     "points": [
+      [
+       572.91,
+       -353.47
+      ],
+      [
+       600.25,
+       -371.91
+      ],
+      [
+       646.99,
+       -396.9
+      ],
+      [
+       692.79,
+       -421.52
+      ],
+      [
+       701.0,
+       -424.95
+      ]
+     ],
+     "note": "W05 to W10 the servants run down the road behind him, Dan and Shallum ahead, and gather before him to take their orders"
+    },
+    {
+     "who": 6,
+     "points": [
+      [
+       701.0,
+       -424.95
+      ],
+      [
+       691.59,
+       -419.52
+      ],
+      [
+       647.41,
+       -396.11
+      ],
+      [
+       601.51,
+       -371.67
+      ],
+      [
+       570.15,
+       -350.4
+      ]
+     ],
+     "note": "W10 to W12 Micah, then Dan, then Shallum run back up the road to the farm, each from the same spot"
+    },
+    {
+     "who": 7,
+     "points": [
+      [
+       691.45,
+       -419.79
+      ],
+      [
+       701.2,
+       -424.35
+      ],
+      [
+       702.1,
+       -424.4
+      ],
+      [
+       702.83,
+       -424.73
+      ]
+     ],
+     "note": "W12 Miriam comes last and goes round to Asher's side"
+    },
+    {
+     "who": 3,
+     "points": [
+      [
+       644.32,
+       -395.94
+      ],
+      [
+       690.98,
+       -420.67
+      ],
+      [
+       697.26,
+       -423.77
+      ],
+      [
+       701.93,
+       -424.48
+      ]
+     ],
+     "note": "W05 to W07 the dog bounds ahead of him, then circles father and son, whining"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S05",
+     "what": "Asher's face in the low sun",
+     "pos": [
+      706.99,
+      -427.71
+     ],
+     "facing_deg": 338,
+     "height": "standing",
+     "wedge_m": 3
+    },
+    {
+     "shot": "S06",
+     "what": "Asher's view, the black shape in the sun",
+     "pos": [
+      702.74,
+      -425.64
+     ],
+     "facing_deg": 163,
+     "height": "standing",
+     "wedge_m": 45
+    },
+    {
+     "shot": "S07",
+     "what": "At Asher's shoulder, the face out of the light",
+     "pos": [
+      702.6,
+      -425.72
+     ],
+     "facing_deg": 178,
+     "height": "standing",
+     "wedge_m": 2
+    },
+    {
+     "shot": "S08",
+     "what": "Over the father's shoulder on the split brow",
+     "pos": [
+      701.5,
+      -425.62
+     ],
+     "facing_deg": 16,
+     "height": "standing",
+     "wedge_m": 1.5
+    },
+    {
+     "shot": "S09",
+     "what": "The son's face in his father's hands",
+     "pos": [
+      701.75,
+      -426.55
+     ],
+     "facing_deg": 54,
+     "height": "standing",
+     "wedge_m": 1.5
+    },
+    {
+     "shot": "S10",
+     "what": "The servants out of the sun, the signet",
+     "pos": [
+      702.7,
+      -427.1
+     ],
+     "facing_deg": 132,
+     "height": "standing",
+     "wedge_m": 12
+    }
+   ],
+   "windows": [
+    {
+     "id": "W05",
+     "setup": "S05",
+     "frames": 158,
+     "speaker": null,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        706.99,
+        -427.71
+       ],
+       "facing": 338,
+       "height": "standing",
+       "note": "backing up the road before his face, the low sun full on the split brow"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        705.15,
+        -426.74
+       ],
+       "facing": 338,
+       "height": "standing",
+       "note": "he looks up the road past the lens into the sun"
+      },
+      {
+       "t": 3.6,
+       "pos": [
+        704.49,
+        -426.45
+       ],
+       "facing": 340,
+       "height": "standing"
+      },
+      {
+       "t": 4.25,
+       "pos": [
+        704.17,
+        -427.1
+       ],
+       "facing": 20,
+       "height": "standing",
+       "note": "round his left side as he walks on, his eyes on the road ahead"
+      },
+      {
+       "t": 4.9,
+       "pos": [
+        704.33,
+        -427.44
+       ],
+       "facing": 95,
+       "height": "standing"
+      },
+      {
+       "t": 5.7,
+       "pos": [
+        704.23,
+        -426.82
+       ],
+       "facing": 128,
+       "height": "standing"
+      },
+      {
+       "t": 6.58,
+       "pos": [
+        703.73,
+        -426.17
+       ],
+       "facing": 158,
+       "height": "standing",
+       "note": "at his left shoulder, far up the road a man running toward him, black against the low sun"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "Asher limps up the road with the low sun full on his face, looks up it, and sees a man running toward him far off, black against the sun"
+    },
+    {
+     "id": "W06",
+     "setup": "S06",
+     "frames": 260,
+     "speaker": null,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        703.73,
+        -426.17
+       ],
+       "facing": 158,
+       "height": "standing"
+      },
+      {
+       "t": 1.3,
+       "pos": [
+        702.76,
+        -425.66
+       ],
+       "facing": 160,
+       "height": "standing",
+       "note": "one more limping step and he stops dead"
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        702.74,
+        -425.64
+       ],
+       "facing": 163,
+       "height": "standing",
+       "note": "the shape comes on, black and faceless against the white sun, a dog bounding before it"
+      },
+      {
+       "t": 8.6,
+       "pos": [
+        702.72,
+        -425.62
+       ],
+       "facing": 170,
+       "height": "standing",
+       "note": "close now, the heavy uneven stride of an old man"
+      },
+      {
+       "t": 10.83,
+       "pos": [
+        702.7,
+        -425.6
+       ],
+       "facing": 178,
+       "height": "standing",
+       "note": "it crosses the sun and the white flare fills the frame"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the low sun's white flare filling the lens as the runner crosses it",
+      "slides": "back"
+     },
+     "does": "Asher stops dead and the shape comes on, black and faceless against the low sun, until it reaches him and the sun flares white across the frame"
+    },
+    {
+     "id": "W07",
+     "setup": "S07",
+     "frames": 294,
+     "speaker": null,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        702.6,
+        -425.72
+       ],
+       "facing": 178,
+       "height": "standing",
+       "note": "the flare slides off the old face coming out of the light, wet with tears"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        702.62,
+        -425.75
+       ],
+       "facing": 176,
+       "height": "standing",
+       "note": "he falls on his son's neck and kisses him, the grey head close in the lens"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        702.25,
+        -426.3
+       ],
+       "facing": 70,
+       "height": "standing",
+       "note": "round the son's left side as the grip finds the cracked ribs and he gasps"
+      },
+      {
+       "t": 8.0,
+       "pos": [
+        702.3,
+        -426.42
+       ],
+       "facing": 78,
+       "height": "standing",
+       "note": "the son standing stiff in his arms"
+      },
+      {
+       "t": 10.6,
+       "pos": [
+        702.33,
+        -426.5
+       ],
+       "facing": 86,
+       "height": "standing",
+       "note": "his arms come up slowly round his father"
+      },
+      {
+       "t": 12.25,
+       "pos": [
+        702.35,
+        -426.55
+       ],
+       "facing": 90,
+       "height": "standing",
+       "note": "the embrace complete, both faces and the old hands in the low sun"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "The face comes out of the light, old and wet with tears, and Eliab falls on his son's neck and kisses him, the grip finds the cracked ribs and Asher gasps and stands stiff, and then his arms come up round his father"
+    },
+    {
+     "id": "W08",
+     "setup": "S08",
+     "frames": 192,
+     "speaker": "ELIAB",
+     "line": "Asher.",
+     "line_at": 6.4,
+     "wps": 1.5,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        702.35,
+        -426.55
+       ],
+       "facing": 90,
+       "height": "standing"
+      },
+      {
+       "t": 2.2,
+       "pos": [
+        701.5,
+        -425.62
+       ],
+       "facing": 16,
+       "height": "standing",
+       "note": "behind the father's right shoulder as he draws back and takes his son's face in his hands"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        701.6,
+        -425.58
+       ],
+       "facing": 14,
+       "height": "standing",
+       "note": "on the split brow between his thumbs, the blood dried black in it"
+      },
+      {
+       "t": 6.2,
+       "pos": [
+        702.25,
+        -425.98
+       ],
+       "facing": 113,
+       "height": "standing",
+       "note": "round to the father's wet face as he says his son's name"
+      },
+      {
+       "t": 8.0,
+       "pos": [
+        702.3,
+        -426.03
+       ],
+       "facing": 116,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "Eliab takes his son's face in his hands, sees the split brow with the blood dried black in it, and says his name"
+    },
+    {
+     "id": "W09",
+     "setup": "S09",
+     "frames": 294,
+     "speaker": "ASHER",
+     "line": "Father, I have sinned against heaven, and in your sight, <inhale> and I am no longer worthy to be called your son.",
+     "line_at": 1.2,
+     "wps": 2.4,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        702.3,
+        -426.03
+       ],
+       "facing": 116,
+       "height": "standing"
+      },
+      {
+       "t": 1.4,
+       "pos": [
+        701.75,
+        -426.55
+       ],
+       "facing": 54,
+       "height": "standing",
+       "note": "out to the son's face between his father's hands as he speaks"
+      },
+      {
+       "t": 6.0,
+       "pos": [
+        701.8,
+        -426.45
+       ],
+       "facing": 55,
+       "height": "standing",
+       "note": "a slow half pace in"
+      },
+      {
+       "t": 10.6,
+       "pos": [
+        701.85,
+        -426.38
+       ],
+       "facing": 57,
+       "height": "standing",
+       "note": "his breath drawn for the rest of it"
+      },
+      {
+       "t": 12.25,
+       "pos": [
+        701.82,
+        -426.42
+       ],
+       "facing": 140,
+       "height": "standing",
+       "note": "the father turns his head to the servants running down the road behind him"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "Asher says the words he rehearsed with his face between his father's hands, and as he draws breath for the rest his father turns to the servants running down the road"
+    },
+    {
+     "id": "W10",
+     "setup": "S10",
+     "frames": 209,
+     "speaker": "ELIAB",
+     "line": "Bring out the best robe, and put it on him;",
+     "line_at": 1.0,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        701.82,
+        -426.42
+       ],
+       "facing": 140,
+       "height": "standing"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        702.7,
+        -427.1
+       ],
+       "facing": 132,
+       "height": "standing",
+       "note": "a step back to the servants coming down out of the low sun, black against it, Micah at their head"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        702.5,
+        -426.8
+       ],
+       "facing": 128,
+       "height": "standing",
+       "note": "Micah turns back at a run and the father twists the signet off his own finger"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        701.95,
+        -426.05
+       ],
+       "facing": 117,
+       "height": "standing",
+       "note": "the ring pressed into Micah's palm as he goes, close in the lens"
+      },
+      {
+       "t": 8.7,
+       "pos": [
+        701.85,
+        -426.1
+       ],
+       "facing": 145,
+       "height": "standing",
+       "note": "Micah running back up the road into the sun with the ring in his fist"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "Eliab sends Micah for the best robe, and as Micah turns back at a run Eliab twists the signet off his own finger and presses it into his palm"
+    },
+    {
+     "id": "W11",
+     "setup": null,
+     "frames": 158,
+     "speaker": "ELIAB",
+     "line": "and put a ring on his hand, and shoes on his feet.",
+     "line_at": 0.6,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        701.85,
+        -426.1
+       ],
+       "facing": 145,
+       "height": "standing"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        701.55,
+        -426.35
+       ],
+       "facing": 100,
+       "height": "standing",
+       "note": "a step back as the father gives Dan the second order"
+      },
+      {
+       "t": 5.0,
+       "pos": [
+        701.35,
+        -426.55
+       ],
+       "facing": 140,
+       "height": "standing",
+       "note": "Dan runs back up the road after Micah"
+      },
+      {
+       "t": 6.58,
+       "pos": [
+        701.25,
+        -426.65
+       ],
+       "facing": 150,
+       "height": "standing"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "Eliab gives the order for the ring and the shoes, and Dan runs back up the road"
+    },
+    {
+     "id": "W12",
+     "setup": null,
+     "frames": 209,
+     "speaker": "ELIAB",
+     "line": "And bring the fatted calf, and kill it; and let us eat, and make merry.",
+     "line_at": 1.6,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        701.25,
+        -426.65
+       ],
+       "facing": 150,
+       "height": "standing"
+      },
+      {
+       "t": 2.8,
+       "pos": [
+        700.8,
+        -425.75
+       ],
+       "facing": 22,
+       "height": "standing",
+       "note": "round in front of the father, his face lit by the low sun as he calls for the calf and the feast"
+      },
+      {
+       "t": 5.4,
+       "pos": [
+        700.7,
+        -425.82
+       ],
+       "facing": 20,
+       "height": "standing"
+      },
+      {
+       "t": 8.7,
+       "pos": [
+        700.6,
+        -425.9
+       ],
+       "facing": 17,
+       "height": "standing",
+       "note": "Shallum turns and runs back up the road, and Miriam comes round to the son's side"
+      }
+     ],
+     "out": {
+      "kind": "cut"
+     },
+     "does": "Eliab calls for the fatted calf and the feast with his face in the low sun, and Shallum runs while Miriam comes to Asher's side"
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "Asher's walk and his view",
+     "extent": [
+      702.2,
+      708.6,
+      -428.7,
+      -424.9
+     ]
+    },
+    {
+     "key": "B",
+     "title": "The embrace, the name, the orders",
+     "extent": [
+      699.6,
+      704.4,
+      -427.4,
+      -424.3
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The courtyard at night",
+   "heading": "EXT. ELIAB'S FARM - COURTYARD - NIGHT",
+   "place_ref": [
+    "eliab_farm"
+   ],
+   "extent": [
+    -38,
+    20,
+    -14,
+    10
+   ],
+   "light": {
+    "kind": "fire",
+    "label": "night; the new-lit yard fire and torches, the gate lamp across the yard, lamps coming up the hill"
+   },
+   "place": [
+    {
+     "kind": "fire",
+     "pos": [
+      -29.5,
+      -2.9
+     ],
+     "r": 0.55,
+     "glow_m": 3.4,
+     "label": "Yard fire, new-lit"
+    },
+    {
+     "kind": "fire",
+     "pos": [
+      -27.8,
+      -7.4
+     ],
+     "r": 0.35,
+     "glow_m": 1.6,
+     "label": "Spit fire laid"
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      -33.35,
+      -0.75
+     ],
+     "glow_m": 1.6,
+     "label": "Torch at the eaves"
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      0,
+      0
+     ],
+     "glow_m": 3.0,
+     "label": "Gate lamp burning"
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      -23.75,
+      -1.05
+     ],
+     "glow_m": 1.4
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      -28.65,
+      -5.35
+     ],
+     "glow_m": 1.4
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      -23.05,
+      -5.05
+     ],
+     "glow_m": 1.4
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      9.85,
+      -3.45
+     ],
+     "glow_m": 0.9,
+     "label": "Neighbours' lamps up the hill"
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      14.45,
+      -5.15
+     ],
+     "glow_m": 0.9
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      3.65,
+      -2.35
+     ],
+     "glow_m": 0.9
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      -0.95,
+      -1.95
+     ],
+     "glow_m": 0.9
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      -12.25,
+      -2.05
+     ],
+     "glow_m": 0.9
+    },
+    {
+     "kind": "lamp",
+     "pos": [
+      -15.55,
+      -1.15
+     ],
+     "glow_m": 0.9
+    },
+    {
+     "kind": "prop",
+     "pos": [
+      -26.02,
+      -3.62
+     ],
+     "size": [
+      0.42,
+      0.42
+     ],
+     "shape": "ellipse",
+     "label": "Miriam's basin"
+    }
+   ],
+   "people": [
+    {
+     "n": 1,
+     "name": "Asher",
+     "pos": [
+      -26.4,
+      -3.6
+     ],
+     "facing_deg": 0,
+     "named": true,
+     "note": "on a stool, in his rags"
+    },
+    {
+     "n": 2,
+     "name": "Eliab",
+     "pos": [
+      -26.25,
+      -2.75
+     ],
+     "facing_deg": 280,
+     "named": true,
+     "note": "a hand on his shoulder"
+    },
+    {
+     "n": 3,
+     "name": "Micah",
+     "pos": [
+      -27.25,
+      -3.45
+     ],
+     "facing_deg": 10,
+     "named": true,
+     "note": "the best robe"
+    },
+    {
+     "n": 4,
+     "name": "Miriam",
+     "pos": [
+      -29.4,
+      -7.9
+     ],
+     "facing_deg": 55,
+     "named": true,
+     "note": "the basin of warm water"
+    },
+    {
+     "n": 5,
+     "name": "Dan",
+     "pos": [
+      -24.7,
+      -2.3
+     ],
+     "facing_deg": 210,
+     "named": true,
+     "note": "the sandals"
+    },
+    {
+     "n": 6,
+     "name": "Shallum",
+     "pos": [
+      -5.1,
+      5.0
+     ],
+     "facing_deg": 205,
+     "named": true,
+     "note": "leads the red calf out of its pen"
+    },
+    {
+     "n": 7,
+     "name": "the red calf",
+     "pos": [
+      -5.7,
+      5.9
+     ],
+     "facing_deg": 205,
+     "animal": true,
+     "note": "on a rope"
+    },
+    {
+     "n": 8,
+     "name": "Asher's dog",
+     "pos": [
+      -25.95,
+      -3.05
+     ],
+     "facing_deg": 200,
+     "animal": true,
+     "note": "lies against his legs"
+    },
+    {
+     "n": 9,
+     "name": "hired man",
+     "pos": [
+      -24.0,
+      -1.3
+     ],
+     "facing_deg": 215,
+     "group": "household",
+     "note": "a torch"
+    },
+    {
+     "n": 10,
+     "name": "hired man",
+     "pos": [
+      -28.9,
+      -5.6
+     ],
+     "facing_deg": 40,
+     "group": "household",
+     "note": "a torch"
+    },
+    {
+     "n": 11,
+     "name": "hired man",
+     "pos": [
+      -23.3,
+      -5.3
+     ],
+     "facing_deg": 150,
+     "group": "household",
+     "note": "a torch"
+    },
+    {
+     "n": 12,
+     "name": "household woman",
+     "pos": [
+      -24.1,
+      -4.1
+     ],
+     "facing_deg": 185,
+     "group": "household"
+    },
+    {
+     "n": 13,
+     "name": "household woman",
+     "pos": [
+      -25.0,
+      -5.4
+     ],
+     "facing_deg": 120,
+     "group": "household"
+    },
+    {
+     "n": 14,
+     "name": "piper",
+     "pos": [
+      -22.4,
+      -2.5
+     ],
+     "facing_deg": 195,
+     "group": "gathering",
+     "note": "a hired man, a reed pipe at his belt"
+    },
+    {
+     "n": 15,
+     "name": "drummer",
+     "pos": [
+      -22.8,
+      -4.5
+     ],
+     "facing_deg": 165,
+     "group": "gathering",
+     "note": "a neighbour, a frame drum under his arm"
+    },
+    {
+     "n": 16,
+     "name": "neighbour",
+     "pos": [
+      -21.7,
+      -3.4
+     ],
+     "facing_deg": 180,
+     "group": "gathering"
+    },
+    {
+     "n": 17,
+     "name": "old neighbour woman",
+     "pos": [
+      -22.0,
+      -1.2
+     ],
+     "facing_deg": 205,
+     "group": "gathering"
+    },
+    {
+     "n": 18,
+     "name": "child",
+     "pos": [
+      -23.5,
+      -0.5
+     ],
+     "facing_deg": 220,
+     "group": "gathering"
+    },
+    {
+     "n": 19,
+     "name": "child",
+     "pos": [
+      -21.2,
+      -5.0
+     ],
+     "facing_deg": 160,
+     "group": "gathering"
+    },
+    {
+     "n": 20,
+     "name": "neighbour with a lamp",
+     "pos": [
+      -12.5,
+      -2.3
+     ],
+     "facing_deg": 180,
+     "note": "crossing the yard"
+    },
+    {
+     "n": 21,
+     "name": "neighbour with a lamp",
+     "pos": [
+      -15.8,
+      -1.4
+     ],
+     "facing_deg": 182
+    },
+    {
+     "n": 22,
+     "name": "neighbour with a lamp",
+     "pos": [
+      -1.2,
+      -2.2
+     ],
+     "facing_deg": 180,
+     "note": "in through the gate"
+    },
+    {
+     "n": 23,
+     "name": "neighbour with a lamp",
+     "pos": [
+      3.4,
+      -2.6
+     ],
+     "facing_deg": 172,
+     "note": "up the road from the village"
+    },
+    {
+     "n": 24,
+     "name": "neighbour with a lamp",
+     "pos": [
+      9.6,
+      -3.7
+     ],
+     "facing_deg": 165
+    },
+    {
+     "n": 25,
+     "name": "neighbour with a lamp",
+     "pos": [
+      14.2,
+      -5.4
+     ],
+     "facing_deg": 160
+    }
+   ],
+   "paths": [
+    {
+     "who": 4,
+     "points": [
+      [
+       -29.4,
+       -7.9
+      ],
+      [
+       -27.0,
+       -5.8
+      ],
+      [
+       -25.65,
+       -3.6
+      ]
+     ],
+     "note": "W13 to W15 with the basin of warm water from the ovens to kneel at his feet"
+    },
+    {
+     "who": 3,
+     "points": [
+      [
+       -27.25,
+       -3.45
+      ],
+      [
+       -26.3,
+       -4.35
+      ],
+      [
+       -26.9,
+       -4.6
+      ]
+     ],
+     "note": "W14 round to his right hand with the ring, then a step back"
+    },
+    {
+     "who": 5,
+     "points": [
+      [
+       -24.7,
+       -2.3
+      ],
+      [
+       -25.55,
+       -4.15
+      ]
+     ],
+     "note": "W16 kneels with the sandals"
+    },
+    {
+     "who": 2,
+     "points": [
+      [
+       -26.25,
+       -2.75
+      ],
+      [
+       -25.95,
+       -2.55
+      ]
+     ],
+     "note": "W16 turns to the whole yard"
+    },
+    {
+     "who": 25,
+     "points": [
+      [
+       14.2,
+       -5.4
+      ],
+      [
+       8.0,
+       -3.0
+      ],
+      [
+       0.5,
+       -1.9
+      ],
+      [
+       -10.0,
+       -2.2
+      ],
+      [
+       -20.4,
+       -2.9
+      ]
+     ],
+     "note": "W13 to W17 neighbours come up the hill with lamps and in through the gate"
+    },
+    {
+     "who": 6,
+     "points": [
+      [
+       -5.6,
+       5.4
+      ],
+      [
+       -8.2,
+       1.0
+      ],
+      [
+       -17.0,
+       -4.8
+      ],
+      [
+       -26.6,
+       -7.6
+      ]
+     ],
+     "note": "W13 to W17 Shallum leads the red calf from its pen toward the spit fire"
+    },
+    {
+     "who": 16,
+     "points": [
+      [
+       -27.43,
+       -3.65
+      ],
+      [
+       -27.43,
+       -2.15
+      ],
+      [
+       -28.4,
+       -0.99
+      ],
+      [
+       -29.88,
+       -0.73
+      ],
+      [
+       -31.19,
+       -1.49
+      ],
+      [
+       -31.7,
+       -2.9
+      ],
+      [
+       -31.19,
+       -4.31
+      ],
+      [
+       -29.88,
+       -5.07
+      ]
+     ],
+     "note": "W17 everyone joins in, and the dance ring forms round the yard fire beside the son in the robe"
+    }
+   ],
+   "cameras": [
+    {
+     "shot": "S11",
+     "what": "A torch close, the household round the stool",
+     "pos": [
+      -31.2,
+      -6.1
+     ],
+     "facing_deg": 28,
+     "height": "knee",
+     "wedge_m": 6
+    },
+    {
+     "shot": "S12",
+     "what": "The ring over the swollen knuckles",
+     "pos": [
+      -25.8,
+      -4.05
+     ],
+     "facing_deg": 165,
+     "height": "seated",
+     "wedge_m": 1.2
+    },
+    {
+     "shot": "S13",
+     "what": "Miriam's basin, the water going dark",
+     "pos": [
+      -26.05,
+      -4.45
+     ],
+     "facing_deg": 80,
+     "height": "low",
+     "wedge_m": 1.2
+    },
+    {
+     "shot": "S14",
+     "what": "The father to the whole yard",
+     "pos": [
+      -23.9,
+      -3.05
+     ],
+     "facing_deg": 167,
+     "height": "standing",
+     "wedge_m": 4
+    },
+    {
+     "shot": "S15",
+     "what": "The drum, the pipe, then everyone",
+     "pos": [
+      -21.5,
+      -2.05
+     ],
+     "facing_deg": 198,
+     "height": "standing",
+     "wedge_m": 7
+    }
+   ],
+   "windows": [
+    {
+     "id": "W13",
+     "setup": "S11",
+     "frames": 260,
+     "speaker": null,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -31.2,
+        -6.1
+       ],
+       "facing": 28,
+       "height": "knee",
+       "note": "low by the ovens, a torch passing close in the lens"
+      },
+      {
+       "t": 3.0,
+       "pos": [
+        -30.0,
+        -5.4
+       ],
+       "facing": 30,
+       "height": "standing",
+       "note": "rising past the torch onto the household round the stool and lamps coming in through the far gate"
+      },
+      {
+       "t": 6.4,
+       "pos": [
+        -28.0,
+        -4.5
+       ],
+       "facing": 35,
+       "height": "standing",
+       "note": "in among them behind the son's shoulder as Micah lifts the best robe"
+      },
+      {
+       "t": 9.0,
+       "pos": [
+        -27.35,
+        -4.05
+       ],
+       "facing": 40,
+       "height": "standing",
+       "note": "the robe coming down over his head"
+      },
+      {
+       "t": 10.83,
+       "pos": [
+        -26.95,
+        -3.82
+       ],
+       "facing": 42,
+       "height": "standing",
+       "note": "the pale wool fills the lens"
+      }
+     ],
+     "out": {
+      "kind": "occluder",
+      "what": "the pale wool of the best robe coming down over his head",
+      "slides": "back"
+     },
+     "does": "Torches and the household gather round Asher on a stool by the new fire, neighbours' lamps come up the hill and in through the gate, and Micah pulls the best robe down over his head"
+    },
+    {
+     "id": "W14",
+     "setup": "S12",
+     "frames": 192,
+     "speaker": null,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -25.3,
+        -4.25
+       ],
+       "facing": 152,
+       "height": "standing",
+       "note": "the wool falls away and his face comes up in the robe, the sleeve hanging long over his hand"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        -25.55,
+        -4.15
+       ],
+       "facing": 158,
+       "height": "standing",
+       "note": "Micah takes the hand that took the bread"
+      },
+      {
+       "t": 4.8,
+       "pos": [
+        -25.8,
+        -4.05
+       ],
+       "facing": 165,
+       "height": "seated",
+       "note": "down to the swollen knuckles as Micah works the ring over them"
+      },
+      {
+       "t": 8.0,
+       "pos": [
+        -25.9,
+        -3.98
+       ],
+       "facing": 170,
+       "height": "seated",
+       "note": "the ring on the hand that took the bread"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "The robe hangs long in the sleeve, and Micah works the ring over the swollen knuckles of the hand that took the bread"
+    },
+    {
+     "id": "W15",
+     "setup": "S13",
+     "frames": 260,
+     "speaker": "MIRIAM",
+     "line": "You are late, Asher.",
+     "line_at": 7.4,
+     "wps": 2.0,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -25.9,
+        -3.98
+       ],
+       "facing": 170,
+       "height": "seated"
+      },
+      {
+       "t": 2.0,
+       "pos": [
+        -26.1,
+        -4.5
+       ],
+       "facing": 70,
+       "height": "knee",
+       "note": "down at his feet as Miriam kneels with the basin and takes his cut feet in her hands"
+      },
+      {
+       "t": 4.6,
+       "pos": [
+        -26.05,
+        -4.45
+       ],
+       "facing": 80,
+       "height": "low",
+       "note": "the warm water going dark round his feet"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        -26.25,
+        -4.6
+       ],
+       "facing": 58,
+       "height": "knee",
+       "note": "up to her face wet with tears"
+      },
+      {
+       "t": 10.83,
+       "pos": [
+        -26.3,
+        -4.65
+       ],
+       "facing": 52,
+       "height": "knee"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "Miriam kneels with a basin of warm water and takes his cut, filthy feet in her hands, the water goes dark, and she speaks to him through tears"
+    },
+    {
+     "id": "W16",
+     "setup": "S14",
+     "frames": 311,
+     "speaker": "ELIAB",
+     "line": "For this my son was dead, and lives again; <pause> he was lost, and is found.",
+     "line_at": 4.8,
+     "wps": 2.4,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -26.3,
+        -4.65
+       ],
+       "facing": 52,
+       "height": "knee"
+      },
+      {
+       "t": 2.6,
+       "pos": [
+        -26.05,
+        -4.75
+       ],
+       "facing": 62,
+       "height": "knee",
+       "note": "Dan kneels with the sandals and ties them on the washed feet"
+      },
+      {
+       "t": 4.4,
+       "pos": [
+        -24.6,
+        -3.9
+       ],
+       "facing": 150,
+       "height": "standing",
+       "note": "rising and stepping back as the father turns to the whole yard"
+      },
+      {
+       "t": 7.0,
+       "pos": [
+        -23.9,
+        -3.05
+       ],
+       "facing": 167,
+       "height": "standing",
+       "note": "his face to the torches and the lamps of the whole yard"
+      },
+      {
+       "t": 12.95,
+       "pos": [
+        -23.6,
+        -2.95
+       ],
+       "facing": 169,
+       "height": "standing",
+       "note": "a slow step back among the listeners"
+      }
+     ],
+     "out": {
+      "kind": "continue"
+     },
+     "does": "Dan kneels with the sandals, and Eliab turns to the whole yard and speaks"
+    },
+    {
+     "id": "W17",
+     "setup": "S15",
+     "frames": 209,
+     "speaker": null,
+     "keys": [
+      {
+       "t": 0.0,
+       "pos": [
+        -23.6,
+        -2.95
+       ],
+       "facing": 169,
+       "height": "standing"
+      },
+      {
+       "t": 2.0,
+       "pos": [
+        -23.3,
+        -3.45
+       ],
+       "facing": 295,
+       "height": "standing",
+       "note": "the drum starts under a neighbour's hand"
+      },
+      {
+       "t": 4.0,
+       "pos": [
+        -23.15,
+        -3.2
+       ],
+       "facing": 43,
+       "height": "standing",
+       "note": "then the pipe"
+      },
+      {
+       "t": 8.7,
+       "pos": [
+        -21.5,
+        -2.05
+       ],
+       "facing": 198,
+       "height": "standing",
+       "note": "then everyone, the yard breaking into the dance round the fire beside the son in the robe"
+      }
+     ],
+     "out": {
+      "kind": "end"
+     },
+     "does": "The drum starts, then the pipe, then everyone, and the yard begins to dance round the fire beside the son in the robe"
+    }
+   ],
+   "insets": [
+    {
+     "key": "A",
+     "title": "Round the stool",
+     "extent": [
+      -28.4,
+      -23.0,
+      -5.4,
+      -1.8
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "The farm, the road and the courtyard sit on Scene 2's frame, +x east and +y north in metres from the lamp niche; the run past the village gate sits on Scene 6A's village_gate frame, whose arch and elders' bench replace eliab_valley's drawing of them.",
+  "The low sun stands at 180° through the whole dusk, between Scene 12's 175° and the farm's 195°, so Eliab runs east with it at his back and comes at his son out of it.",
+  "Eliab lights the lamp from the yard face of the niche with flint and striker as in Scene 6B, then steps into the gateway, where the figure shows about 1.1 km down the road below the village.",
+  "The evening orders go across the yard by hand and nod, because the screenplay writes them as action; every spoken word in the scene is the screenplay's own.",
+  "W01 to W03 is one take that ends at a run behind him down the road under the teacher's voice; W04 follows him down the hill path past the rising elders and stops at its foot by choice while he runs on.",
+  "The road comes into the meeting point from 152°, so the runner comes on in the glare just right of the sun and swings straight out of it for his last five metres, where the flare stitch falls, W06 with references off and W07 with Eliab's on.",
+  "W07 receives the meeting at Asher's left shoulder and turns round them until his arms come up, so the embrace completes inside one window; the name, the confession and the three orders continue in place within two metres.",
+  "Micah takes the signet as he turns back, Dan and Shallum run back up the road one order apart, and Miriam stays at Asher's side; the cut to night folds the walk home.",
+  "The courtyard plays at the new-lit yard fire before the house door, Scene 14's dance ring, with the gate lamp and the neighbours' lamps far across the yard; the robe's wool is its one stitch.",
+  "Amos is away at the far field for the whole scene, as Scene 15 has him; people stand at each plan's start, so slabs and path ends mark where Asher stops dead and where the embrace lands."
+ ]
+}

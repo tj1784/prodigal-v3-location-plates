@@ -1,0 +1,925 @@
+{
+ "id": "eliab_valley",
+ "title": "Eliab's valley",
+ "scenes": [
+  "2",
+  "6B",
+  "8",
+  "13",
+  "15"
+ ],
+ "grid": "+x east · +y north · metres · origin the lamp niche in the north gatepost (0, 0) · one frame for eliab_valley, eliab_farm and eliab_house · not to scale beyond about 2 km",
+ "extent": [
+  -700,
+  1900,
+  -1450,
+  420
+ ],
+ "anchors": {
+  "gate_lamp": [
+   0,
+   0
+  ],
+  "gateway": [
+   0,
+   -1.8
+  ],
+  "bench": [
+   0.65,
+   1.95
+  ],
+  "trough": [
+   0.9,
+   -5.6
+  ],
+  "fold": [
+   -18,
+   8.6
+  ],
+  "fold_gate": [
+   -16.5,
+   3.5
+  ],
+  "calf_pen": [
+   -6.2,
+   7.1
+  ],
+  "byre": [
+   -5.75,
+   11.3
+  ],
+  "cistern": [
+   -6.5,
+   -9.5
+  ],
+  "yard_centre": [
+   -17,
+   -1.8
+  ],
+  "eaves_mat": [
+   -33.15,
+   0.25
+  ],
+  "ovens": [
+   -29.6,
+   -9.0
+  ],
+  "threshing_floor": [
+   -14,
+   -26.5
+  ],
+  "floor_track_top": [
+   7.6,
+   -3.6
+  ],
+  "hill_track_foot": [
+   9,
+   -3.2
+  ],
+  "footpath_top": [
+   -6.6,
+   -29.4
+  ],
+  "far_field_path_top": [
+   -20,
+   -33
+  ],
+  "house_door": [
+   -34.0,
+   -1.8
+  ],
+  "orbit_centre": [
+   -35.8,
+   -1.8
+  ],
+  "asher_mat": [
+   -34.83,
+   -3.525
+  ],
+  "hearth": [
+   -35.8,
+   0.25
+  ],
+  "table": [
+   -35.8,
+   -1.8
+  ],
+  "hill_path_mid": [
+   160,
+   -105
+  ],
+  "village_gate": [
+   345,
+   -325
+  ],
+  "well": [
+   495,
+   -370
+  ],
+  "village_fire": [
+   495,
+   -370
+  ],
+  "elders_bench": [
+   349,
+   -333
+  ],
+  "meeting_point": [
+   700,
+   -425
+  ],
+  "bend": [
+   1040,
+   -580
+  ],
+  "road_mile_end": [
+   1400,
+   -630
+  ],
+  "far_field": [
+   -118,
+   -95
+  ],
+  "hill_pasture": [
+   170,
+   170
+  ],
+  "ewe_thorns": [
+   738,
+   -203
+  ],
+  "lamp_seen_from_fire": [
+   790,
+   -215
+  ],
+  "wadi": [
+   500,
+   -780
+  ],
+  "farm_west": [
+   -430,
+   50
+  ],
+  "farm_east": [
+   330,
+   150
+  ],
+  "farm_below_road": [
+   780,
+   -140
+  ],
+  "farm_across_west": [
+   260,
+   -1080
+  ],
+  "farm_across_east": [
+   840,
+   -1020
+  ]
+ },
+ "light": "The valley runs west to east toward Jericho; the sun rises over its east end and sets behind the farm's hills; the evening wind blows from the west, down the valley.",
+ "notes": [
+  "The farm is on a terrace on the valley's north side; the hill pasture where the flock grazes rises north and north-east of it.",
+  "The road leaves the farm gate east, bends south-east down the hill (the hill path) and reaches the village gate after about 500 m, passes it along the village's north wall, and winds east down the valley past the meeting point and the bend toward Jericho; about a mile of it is in view from the farm gate.",
+  "The village lies below the farm to the south-east, 450 to 650 m from the gate; its gate with the elders' bench faces north-west up the hill path; the well and its fire ground are at its north-east edge under the slope.",
+  "Father and son meet (Sc 13) on the road about 240 m below the village gate (meeting_point); the bend (Sc 6B) is about 1.2 km out along the road, and beyond it the road runs straight and open east.",
+  "The far field (Sc 15) lies on the lower terraces about 110 m south-west of the house, reached by a path from the threshing floor, in earshot of the music.",
+  "The valley floor and its dry wadi lie about 800 m south of the farm; the far hills rise beyond it about 1.3 km out; the valley is about 2 km across and is not to scale beyond that.",
+  "Other farms sit on the next terraces west and east along the north slope and on the south slope across the valley.",
+  "The evening wind blows from the west, down the valley.",
+  "Eliab's search for the ewe (Sc 2) goes out by the road, across the valley floor east of the village, up and along the slope above it to the thorn gully, and home up the hill path."
+ ],
+ "eliab_search_sc02": [
+  [
+   0,
+   0
+  ],
+  [
+   18,
+   -6.5
+  ],
+  [
+   44,
+   -20
+  ],
+  [
+   90,
+   -48
+  ],
+  [
+   230,
+   -120
+  ],
+  [
+   420,
+   -230
+  ],
+  [
+   620,
+   -330
+  ],
+  [
+   700,
+   -520
+  ],
+  [
+   800,
+   -700
+  ],
+  [
+   950,
+   -760
+  ],
+  [
+   980,
+   -480
+  ],
+  [
+   900,
+   -300
+  ],
+  [
+   790,
+   -215
+  ],
+  [
+   738,
+   -203
+  ],
+  [
+   560,
+   -240
+  ],
+  [
+   300,
+   -250
+  ],
+  [
+   235,
+   -185
+  ],
+  [
+   160,
+   -105
+  ],
+  [
+   90,
+   -48
+  ],
+  [
+   44,
+   -20
+  ],
+  [
+   0,
+   0
+  ]
+ ],
+ "source": "staging/sc02/build_places.py (Scene 2, 21 Oct)",
+ "place": [
+  {
+   "kind": "area",
+   "fill": "grass",
+   "polygon": [
+    [
+     30,
+     40
+    ],
+    [
+     140,
+     60
+    ],
+    [
+     300,
+     120
+    ],
+    [
+     330,
+     260
+    ],
+    [
+     150,
+     300
+    ],
+    [
+     20,
+     220
+    ]
+   ],
+   "label": "Hill pasture (the flock)"
+  },
+  {
+   "kind": "contour",
+   "points": [
+    [
+     -700,
+     300
+    ],
+    [
+     -300,
+     290
+    ],
+    [
+     0,
+     270
+    ],
+    [
+     400,
+     220
+    ],
+    [
+     900,
+     120
+    ],
+    [
+     1400,
+     30
+    ],
+    [
+     1900,
+     -40
+    ]
+   ],
+   "label": "North ridge"
+  },
+  {
+   "kind": "contour",
+   "points": [
+    [
+     -700,
+     120
+    ],
+    [
+     -300,
+     110
+    ],
+    [
+     -80,
+     70
+    ],
+    [
+     200,
+     10
+    ],
+    [
+     500,
+     -60
+    ],
+    [
+     900,
+     -150
+    ],
+    [
+     1400,
+     -230
+    ],
+    [
+     1900,
+     -300
+    ]
+   ]
+  },
+  {
+   "kind": "contour",
+   "points": [
+    [
+     -700,
+     -200
+    ],
+    [
+     -300,
+     -230
+    ],
+    [
+     100,
+     -280
+    ],
+    [
+     280,
+     -360
+    ],
+    [
+     600,
+     -540
+    ],
+    [
+     1000,
+     -650
+    ],
+    [
+     1400,
+     -700
+    ],
+    [
+     1900,
+     -750
+    ]
+   ],
+   "label": "Terraces · downhill (−y)"
+  },
+  {
+   "kind": "contour",
+   "points": [
+    [
+     -700,
+     -760
+    ],
+    [
+     -300,
+     -790
+    ],
+    [
+     100,
+     -800
+    ],
+    [
+     500,
+     -780
+    ],
+    [
+     900,
+     -810
+    ],
+    [
+     1300,
+     -840
+    ],
+    [
+     1900,
+     -880
+    ]
+   ],
+   "label": "Dry wadi, the valley floor"
+  },
+  {
+   "kind": "contour",
+   "points": [
+    [
+     -700,
+     -1000
+    ],
+    [
+     -200,
+     -1040
+    ],
+    [
+     400,
+     -1010
+    ],
+    [
+     1000,
+     -1050
+    ],
+    [
+     1900,
+     -1110
+    ]
+   ]
+  },
+  {
+   "kind": "contour",
+   "points": [
+    [
+     -700,
+     -1250
+    ],
+    [
+     -100,
+     -1290
+    ],
+    [
+     600,
+     -1260
+    ],
+    [
+     1300,
+     -1300
+    ],
+    [
+     1900,
+     -1340
+    ]
+   ],
+   "label": "Far hills (south)"
+  },
+  {
+   "kind": "track",
+   "width_m": 4,
+   "points": [
+    [
+     0.5,
+     -1.8
+    ],
+    [
+     8,
+     -3.0
+    ],
+    [
+     18,
+     -6.5
+    ],
+    [
+     30,
+     -12
+    ],
+    [
+     44,
+     -20
+    ],
+    [
+     90,
+     -48
+    ],
+    [
+     160,
+     -105
+    ],
+    [
+     235,
+     -185
+    ],
+    [
+     300,
+     -265
+    ],
+    [
+     345,
+     -325
+    ],
+    [
+     420,
+     -296
+    ],
+    [
+     520,
+     -318
+    ],
+    [
+     600,
+     -372
+    ],
+    [
+     700,
+     -425
+    ],
+    [
+     820,
+     -488
+    ],
+    [
+     930,
+     -545
+    ],
+    [
+     1040,
+     -580
+    ],
+    [
+     1400,
+     -630
+    ],
+    [
+     1900,
+     -690
+    ]
+   ],
+   "label": "Road east to Jericho",
+   "label_at": [
+    860,
+    -500
+   ]
+  },
+  {
+   "kind": "track",
+   "width_m": 1.5,
+   "points": [
+    [
+     -20,
+     -33
+    ],
+    [
+     -45,
+     -48
+    ],
+    [
+     -70,
+     -62
+    ],
+    [
+     -95,
+     -80
+    ],
+    [
+     -112,
+     -92
+    ]
+   ],
+   "label": "Path to the far field",
+   "label_at": [
+    -40,
+    -70
+   ]
+  },
+  {
+   "kind": "track",
+   "width_m": 1.5,
+   "points": [
+    [
+     9,
+     -3.2
+    ],
+    [
+     19,
+     11
+    ],
+    [
+     37,
+     33
+    ],
+    [
+     80,
+     70
+    ],
+    [
+     150,
+     130
+    ]
+   ],
+   "label": "Hill track",
+   "label_at": [
+    70,
+    95
+   ]
+  },
+  {
+   "kind": "label",
+   "pos": [
+    -20,
+    10
+   ],
+   "label": "Eliab's farm (eliab_farm)"
+  },
+  {
+   "kind": "label",
+   "pos": [
+    190,
+    -110
+   ],
+   "label": "Hill path"
+  },
+  {
+   "kind": "area",
+   "fill": "stone",
+   "polygon": [
+    [
+     330,
+     -330
+    ],
+    [
+     420,
+     -300
+    ],
+    [
+     500,
+     -330
+    ],
+    [
+     520,
+     -370
+    ],
+    [
+     560,
+     -410
+    ],
+    [
+     540,
+     -480
+    ],
+    [
+     430,
+     -510
+    ],
+    [
+     350,
+     -470
+    ],
+    [
+     320,
+     -400
+    ]
+   ],
+   "label": "Village",
+   "label_at": [
+    440,
+    -455
+   ]
+  },
+  {
+   "kind": "gate",
+   "a": [
+    343.6,
+    -325.5
+   ],
+   "b": [
+    346.4,
+    -324.5
+   ],
+   "post_m": 1.2,
+   "label": "Village gate (elders' bench)"
+  },
+  {
+   "kind": "prop",
+   "pos": [
+    495,
+    -370
+   ],
+   "size": [
+    6,
+    6
+   ],
+   "shape": "ellipse",
+   "label": "Well"
+  },
+  {
+   "kind": "area",
+   "fill": "field",
+   "polygon": [
+    [
+     -160,
+     -70
+    ],
+    [
+     -85,
+     -62
+    ],
+    [
+     -78,
+     -118
+    ],
+    [
+     -150,
+     -128
+    ]
+   ],
+   "label": "Far field (Sc 15)"
+  },
+  {
+   "kind": "area",
+   "fill": "scree",
+   "polygon": [
+    [
+     705,
+     -185
+    ],
+    [
+     765,
+     -178
+    ],
+    [
+     772,
+     -222
+    ],
+    [
+     715,
+     -228
+    ]
+   ],
+   "label": "Thorn gully (the ewe, Sc 2)"
+  },
+  {
+   "kind": "label",
+   "pos": [
+    700,
+    -425
+   ],
+   "label": "Meeting point (Sc 13)"
+  },
+  {
+   "kind": "label",
+   "pos": [
+    1040,
+    -580
+   ],
+   "label": "The bend (Sc 6B)"
+  },
+  {
+   "kind": "label",
+   "pos": [
+    1250,
+    -560
+   ],
+   "label": "About a mile of road in view from the gate"
+  },
+  {
+   "kind": "building",
+   "wall_m": 2,
+   "polygon": [
+    [
+     -450.0,
+     63.0
+    ],
+    [
+     -410.0,
+     63.0
+    ],
+    [
+     -410.0,
+     37.0
+    ],
+    [
+     -450.0,
+     37.0
+    ]
+   ],
+   "label": "Other farms on the next terraces"
+  },
+  {
+   "kind": "building",
+   "wall_m": 2,
+   "polygon": [
+    [
+     313.0,
+     162.0
+    ],
+    [
+     347.0,
+     162.0
+    ],
+    [
+     347.0,
+     138.0
+    ],
+    [
+     313.0,
+     138.0
+    ]
+   ]
+  },
+  {
+   "kind": "building",
+   "wall_m": 2,
+   "polygon": [
+    [
+     762.0,
+     -129.0
+    ],
+    [
+     798.0,
+     -129.0
+    ],
+    [
+     798.0,
+     -151.0
+    ],
+    [
+     762.0,
+     -151.0
+    ]
+   ]
+  },
+  {
+   "kind": "building",
+   "wall_m": 2,
+   "polygon": [
+    [
+     240.0,
+     -1067.0
+    ],
+    [
+     280.0,
+     -1067.0
+    ],
+    [
+     280.0,
+     -1093.0
+    ],
+    [
+     240.0,
+     -1093.0
+    ]
+   ]
+  },
+  {
+   "kind": "building",
+   "wall_m": 2,
+   "polygon": [
+    [
+     823.0,
+     -1008.0
+    ],
+    [
+     857.0,
+     -1008.0
+    ],
+    [
+     857.0,
+     -1032.0
+    ],
+    [
+     823.0,
+     -1032.0
+    ]
+   ]
+  }
+ ]
+}
