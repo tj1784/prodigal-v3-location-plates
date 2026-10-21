@@ -38,7 +38,7 @@ Grid for both places: +x east, +y north, metres. Origin is the lamp niche in the
 | 05 low | (2.2, -1.8) | 180, west | Road 1 m left; gate 2 m centre; wall 3 m right; cistern 12 m left; fold 14 m right; fold gate 18 m right; ovens 33 m centre; eaves 35 m centre; house and door 36 m centre | Behind the camera, front-lit |
 | 06 macro | (0.95, 0.05) | 180, west | Gate 1 m centre; first-light patch 1 m left; yard wall 1 m right. The post's east face fills the frame | Behind the camera, grazing |
 
-The digest lists at most fourteen landmarks. From (8, -1.8) facing west the house doorway is on the gate axis about 42 m ahead at centre, past that cap, so 01 names it from the place lock. The jenny at (0.5, -2.6) is about 8 m away, just left of centre. The farm dog at (0.85, -0.95) is about 7 m away, just right of centre. From the low lens those two sit about 2 m away, jenny left and dog right. The lens at 05 is a hand's breadth, about 12 cm, above the threshold.
+The digest lists at most fourteen landmarks. From (8, -1.8) facing west the house doorway is on the gate axis about 42 m ahead at centre, past that cap, so 01 names it from the place lock. The farm dog at (0.85, -0.95) is about 7 m away, just right of centre; from the low lens it lies about 2 m away on the right. The lens at 05 is a hand's breadth, about 12 cm, above the threshold.
 
 ### Spot B, `sc06b_B_the_road_at_the_bend`
 
@@ -59,13 +59,13 @@ The low lens is a hand's breadth above the roadside dust. The bend anchor is (10
 
 **The gate.** One yard, 34 m east to west and 30 m north to south, inside a dry-stone fieldstone wall about 1.7 m high. The east wall has one gateway: a 2.7 m opening between posts 0.9 m square under a timber lintel. The olive-wood leaf hangs on the south post and stands open into the yard. The lamp niche is a small arch through the north post. At this dawn the clay lamp in it is cold. The stone bench runs along the outer wall north of the north post. The trough stands outside, south of the south post. The house doorway is on the gateway's axis, 34 m west of the gate. The fold, calf pen and ox byre are on the yard's north side. The fold gate is barred. The cistern, ovens and threshing floor lie to the south. The old fig and the hill track are outside, north-east of the gate.
 
-**At this hour, the gate.** A grey jenny stands in the gateway's south half with two leather bags, the silver sewn into the seams. The farm dog lies at the north post. The farm flock is in the chest-high fold. Oven smoke rises straight in the still air. Mist lies in the valley to the east. The millstones are inside the house; the plates show the house, and the stones stay indoors. People are left out of every prompt.
+**At this hour, the gate.** The farm dog lies at the north post. The loaded jenny travels with the cast, so the plates leave her out. The farm flock is in the chest-high fold. Oven smoke rises straight in the still air. Mist lies in the valley to the east. The millstones are inside the house; the plates show the house, and the stones stay indoors. People are left out of every prompt.
 
 **The bend.** The road east to Jericho rounds the last spur of the hill at (1040, -580) and then runs straight and open toward the east. Boulders sit at the spur's foot. The slope falls south to the valley floor. Morning haze lies over the valley. Dust in the ruts comes from the morning passage along the road. The cloak and the jenny travel with the cast and are not fixtures of the bend, so these plates leave them out.
 
 ## Earlier plates
 
-- 01 redraws `sc02_E_the_gate_at_dusk`, file `sc02 25_E_plate`. Same gateway, same road stand, dusk changed to dawn. The cold lamp, the loaded jenny, the dog, the flock, the oven smoke and the mist belong to this dawn.
+- 01 redraws `sc02_E_the_gate_at_dusk`, file `sc02 25_E_plate`. Same gateway, same road stand, dusk changed to dawn. The cold lamp, the dog, the flock, the oven smoke and the mist belong to this dawn.
 - 07 redraws `sc02_F_the_valley_at_night`, file `sc02 31_F_plate`. Same valley. The hour changes from deep night to morning, and the stand moves from the high hillside at (-40, 80) to the bend.
 
 Scene 6B's dusk return at the gate is the same place and the same hour as `sc02_E_the_gate_at_dusk`, which `used_by` already lists for 6B, 2 and 8. It is not a third spot in this folder. That earlier field describes a cold wick. The screenplay at this dusk lights the niche. See REPORT.md.

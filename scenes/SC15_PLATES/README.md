@@ -6,11 +6,11 @@ The Prodigal Son v3, 21 October AD 2026. Words only. Nothing in this set is owne
 
 | # | prompt | tool | attach | what |
 |---|---|---|---|---|
-| 01 | prompts/01_A_plate.txt | image_edit 3:2 | sc02 31_F_plate | Far field by moonlight, oxen and yoke on the left |
+| 01 | prompts/01_A_plate.txt | image_edit 3:2 | sc02 31_F_plate | Far field by moonlight, the yoke on the left |
 | 02 | prompts/02_A_right.txt | image_edit 3:2 | 01 | West-northwest: terebinth left, village far left |
 | 03 | prompts/03_A_reverse.txt | image_edit 3:2 | 01 | Southwest: last furrow and the plough on the right |
-| 04 | prompts/04_A_left.txt | image_edit 3:2 | 01 | Southeast: oxen and plough on the right, other farms left |
-| 05 | prompts/05_A_low_corner.txt | image_edit 3:2 | 01 | Low in the furrow, oxen against the moon |
+| 04 | prompts/04_A_left.txt | image_edit 3:2 | 01 | Southeast: the plough on the right, other farms left |
+| 05 | prompts/05_A_low_corner.txt | image_edit 3:2 | 01 | Low in the furrow, the yoke against the moon |
 | 06 | prompts/06_A_macro.txt | image_edit 3:2 | 01 | Worn wooden yoke |
 | 07 | prompts/07_B_plate.txt | image_edit 3:2 | sc02 01_A_plate | The feast room, facing the hearth |
 | 08 | prompts/08_B_right.txt | image_edit 3:2 | 07 | East through the doorway, torch ahead |
@@ -41,11 +41,11 @@ Grid: +x east, +y north, metres. Origin is the lamp niche in the north gatepost.
 
 | file | position | faces | landmark sides | light |
 |---|---|---|---|---|
-| 01 | (-117.55, -97.7) | 40, northeast | Clods RIGHT 1 m; yoke LEFT 3 m; oxen LEFT 2 m and 3 m; path CENTRE 8 m; terrace wall LEFT 12 m; wider field LEFT 32 m; road, hill track, pasture, a roof CENTRE 152–491 m; thorn gully RIGHT 827 m | Moon ahead on the right. Oxen and yoke backlit |
-| 02 | same | 310, west-northwest | Clods LEFT 2 m; terebinth LEFT 11 m; field RIGHT 26 m; road, village, gate, well LEFT 258–670 m | Moon ahead, the view backlit. Oxen outside, behind left |
-| 03 | same | 220, southwest | Clods RIGHT 7 m; furrow and plough RIGHT 12 m; field LEFT 26 m | Moon behind on the left. Oxen outside, behind right |
-| 04 | same | 130, southeast | Clods RIGHT 1 m; furrow and plough RIGHT 3 m; oxen RIGHT 2 m and 3 m; wall RIGHT 12 m; other farms LEFT 322 m | Moon behind the camera, front-lit |
-| 05 | (-123.0, -97.0), lens about 0.10 m | 15, east-northeast | Furrow and plough LEFT 2 m; oxen CENTRE 6 m; yoke CENTRE 7 m; wall LEFT 12 m; terebinth RIGHT 16 m; village and well far RIGHT | Moon ahead on the right. Oxen backlit |
+| 01 | (-117.55, -97.7) | 40, northeast | Clods RIGHT 1 m; yoke LEFT 3 m; path CENTRE 8 m; terrace wall LEFT 12 m; wider field LEFT 32 m; road, hill track, pasture, a roof CENTRE 152–491 m; thorn gully RIGHT 827 m | Moon ahead on the right. The yoke backlit |
+| 02 | same | 310, west-northwest | Clods LEFT 2 m; terebinth LEFT 11 m; field RIGHT 26 m; road, village, gate, well LEFT 258–670 m | Moon ahead, the view backlit. The yoke outside, behind left |
+| 03 | same | 220, southwest | Clods RIGHT 7 m; furrow and plough RIGHT 12 m; field LEFT 26 m | Moon behind on the left. The yoke outside, behind right |
+| 04 | same | 130, southeast | Clods RIGHT 1 m; furrow and plough RIGHT 3 m; wall RIGHT 12 m; other farms LEFT 322 m | Moon behind the camera, front-lit |
+| 05 | (-123.0, -97.0), lens about 0.10 m | 15, east-northeast | Furrow and plough LEFT 2 m; yoke CENTRE 7 m; wall LEFT 12 m; terebinth RIGHT 16 m; village and well far RIGHT | Moon ahead on the right. The yoke and plough backlit |
 | 06 | (-116.75, -95.7), on the yoke | 90, north | Yoke fills the frame, CENTRE; one ox LEFT about 1 m; wall CENTRE 10 m; road and pasture RIGHT | Moon behind on the right |
 | 07 | (-35.8, -1.8), above the table | 90, north | Hearth CENTRE 2 m; niche and jars LEFT; water jar RIGHT 2 m; bread under the lens; set place behind | Hearth ahead, the interior light. Niche in the arch. Torch just outside RIGHT |
 | 08 | same | 0, east | Door CENTRE 2 m; jar LEFT 2 m; torch LEFT 3 m | Torch ahead, the opening backlit. Hearth off the left edge |
@@ -68,11 +68,11 @@ Grid: +x east, +y north, metres. Origin is the lamp niche in the north gatepost.
 
 The digest lists angle and the nearest sampled distance, capped at fourteen landmarks. On the house turns the west and south walls stay solid, and the east doorway is the one opening. From the door spots, interior objects are seen through that opening. The two unlabeled flames in the house and yard digests are the hearth at (-35.8, 0.25) and the niche lamp at (-36.85, 0.72). Their sides use the same angle rule as the digest. For moon spots, `--digest` prints the moon line; the stored digest on each spot carries the flame lines for the plate stand, and the moved stands were measured with that same rule.
 
-The oxen are staging animals at (-117.4, -94.6) and (-117.4, -95.8). The digest reads place landmarks, so their sides were measured with the same rule and written only on the turns that face them.
+The oxen belong to the scene's action, so the plates leave them out; the yoke and the plough stay where they lie.
 
 ## The locked design
 
-- **The far field:** ground ploughed today, the last furrow with a wooden plough and an iron share, a heavy wooden yoke, a pair of oxen at the head of the furrow, a path that drops over a dry-stone terrace wall, one terebinth on the headland. Beyond: the road east, the hill track, the hill pasture, other farms, the village, its gate and well, the thorn gully. The flock is up at the fold this night, so the pasture is named as ground.
+- **The far field:** ground ploughed today, the last furrow with a wooden plough and an iron share, a heavy wooden yoke, a path that drops over a dry-stone terrace wall, one terebinth on the headland. Beyond: the road east, the hill track, the hill pasture, other farms, the village, its gate and well, the thorn gully. The flock is up at the fold this night, so the pasture is named as ground.
 - **The room:** Eliab's one room, exactly 7 by 4 paces, 5.25 by 3.0 metres. Mud brick, patchy lime plaster, soot-dark beams. Middle of the table (-35.8, -1.8).
 - **FRONT, north:** hearth ring, clay pot, arched lamp niche on the left of that wall.
 - **RIGHT, east:** open timber doorway, leaf folded in on the north jamb, clay water jar beside it.
@@ -89,7 +89,7 @@ Bible section 4 and design note sections 2c and 2d. One natural source at this h
 
 | spot | drawn from | what changes |
 |---|---|---|
-| A | sc02 `31_F_plate`, the valley at night, stand (-40, 80) facing 318° | Stand moves down into the far field. The earlier lamp crossing the valley gives way to the low moon, the ploughing, the yoke and the oxen |
+| A | sc02 `31_F_plate`, the valley at night, stand (-40, 80) facing 318° | Stand moves down into the far field. The earlier lamp crossing the valley gives way to the low moon, the ploughing and the yoke |
 | B | sc02 `01_A_plate`, the house before dawn, stand (-35.8, -1.8) facing 90° | Stand stays. Before dawn becomes the feast night, hearth high, bread stacked, the place set |
 | C | sc13 `19_D_plate`, the courtyard at night, stand (-25.8, -4.05) facing 165° | Stand moves to the packed earth just outside the doorway and turns to look in. The yard fire is already burning |
 | D | sc08 `31_F_plate`, the gate by day, stand (2.3, -1.65) facing 194° | Hour becomes night, the lamp lit. The stand turns from looking in to looking across the south side of the gateway, trough ahead |
