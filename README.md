@@ -74,6 +74,7 @@ These are the mistakes that sent images back in the first runs:
   - `maps/`: the scene's staging map;
   - `text/`: the scene's screenplay, the bible's look section and the design note's world and look;
   - `data/`: the staging spec, the spots and the shared places it uses.
+  - Scene 1A's folder carries only the place: the prompts, the spots, the farm's layout and the look. Its staging map, screenplay section and staged action are left out, because Grok refused the package with them.
 - `requirements/`:
   - the locked screenplay;
   - the full cinema bible (`REVENANT_CINEMATOGRAPHY_BIBLE.md`);
